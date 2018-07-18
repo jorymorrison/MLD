@@ -1,7 +1,7 @@
 import json
 import glob, os
 from textblob import TextBlob
-#from watson_developer_cloud import ToneAnalyzerV3
+from watson_developer_cloud import ToneAnalyzerV3
 
 def fileContents(name):
     return open(name, "r").read()
@@ -22,32 +22,30 @@ def termFrequency(document):
 
     return temp
 
-keyfound = False
-while keyfound == False:
-    try:
-        keyfound = True
-        keys = [os.environ["WATSON_USER"], os.environ["WATSON_PASS"]]
-        print(keys)
-    except KeyError as er:
-        keyfound = False
-        print("An IBM Watson key is required.")
-        os.environ["WATSON_USER"] = raw_input("username: ")
-        os.environ["WATSON_PASS"] = raw_input("password: ")
+try:
+    keys = [os.environ["WATSON_USER"], os.environ["WATSON_PASS"]]
+    print(keys)
+except KeyError as er:
+    print("Missing evironment variables:\nWATSON_USER\nWATSON_PASS\n\nSet them using values of your Watson API username and password.")
+    exit()
 
 
+try:
+    tone_analyzer = ToneAnalyzerV3(
+        version='2017-09-21',
+        username='',
+        password=''
+    )
+except OSError as er:
+    print("git gud")
 
-'''tone_analyzer = ToneAnalyzerV3(
-    version = '2017-09-21',
-    username = '',
-    password = ''
-)'''
 
 
 filefound = False
 while filefound == False:
     try:
         filefound = True
-        filename = raw_input("Enter a file name and extension: ")
+        filename = input("Enter a file name and extension: ")
         doc = fileContents(filename)
     except IOError as er:
         filefound = False
@@ -64,7 +62,7 @@ print(TextBlob(doc).sentiment)
 
 corpus = []
 
-os.chdir("/Users/Dylan/Desktop/MITRE Corpus")
+os.chdir("corpus")
 for file in glob.glob("*.txt"):
     temp = open(file, "r")
     corpus.append(temp.read())
