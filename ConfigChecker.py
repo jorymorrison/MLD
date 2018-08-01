@@ -1,24 +1,24 @@
 from pathlib import Path
 import json
 import glob, os
-home = str(Path.home())
 
 try:
-    file = open (home + "\\config.txt", "r")
+    file = open ("config.conf", "r")
 
 except IOError as er:
-    print("Missing file path:\n" + home + "\\config.txt\n")
+    print("Missing file path:\n" + "config.conf\n")
     try:
         keys = [os.environ["WATSON_USER"], os.environ["WATSON_PASS"]]
         print(keys)
     except KeyError as er:
         print(
-            "Missing evironment variables:\nWATSON_USER\nWATSON_PASS\n")
-        SetRunRequest = input ("Please run a set-up command to set your Watson Username and Password."
-                               "\nUse:"
-                               "\ntemp setup config OR temp setup envar")
+            "Missing environment variables:\nWATSON_USER\nWATSON_PASS\n")
+        RunRequest = input ("Please run a set-up command to set your Watson Username and Password."
+                               "\nUse one of the following"
+                               "\ntemp setup config\ntemp setup envar\n")
 
-        if SetRunRequest == "y" or SetRunRequest == "Y":
-            RunRequest = True
+        if RunRequest == "temp setup config":
+            file = open("config.conf", "w")
+            file.write("watson_user=\nwatson_pass=")
         else:
             print("Exiting Program...")
