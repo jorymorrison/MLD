@@ -1,45 +1,41 @@
 import json
+import math
 import glob, os
 from textblob import TextBlob
-from watson_developer_cloud import ToneAnalyzerV3
+from watson_developer_cloud import ToneAnalyzerV3, WatsonException, WatsonApiException
+
 
 def fileContents(name):
     return open(name, "r").read()
 
 
-def termFrequency(document):
-    temp = {}
-    tfb = len(TextBlob(document).words)
+def tf(word, blob):
+    return blob.words.count(word) / len(blob.words)
 
-    for word in TextBlob(document).words:
-        if len(temp) != 0 and word in temp:
-            temp[word] += 1;
-        else:
-            temp[word] = 1;
 
-    for term in temp:
-        temp[term] = float(temp[term]) / float(tfb)
+def n_containing(word, bloblist):
+    return sum(1 for blob in bloblist if word in blob.words)
 
-    return temp
+
+def idf(word, bloblist):
+    return math.log(len(bloblist) / (1 + n_containing(word, bloblist)))
+
+
+def tfidf(word, blob, bloblist):
+    return tf(word, blob) * idf(word, bloblist)
 
 try:
     keys = [os.environ["WATSON_USER"], os.environ["WATSON_PASS"]]
-    print(keys)
 except KeyError as er:
     print("Missing evironment variables:\nWATSON_USER\nWATSON_PASS\n\nSet them using values of your Watson API username and password.")
     exit()
 
 
-try:
-    tone_analyzer = ToneAnalyzerV3(
-        version='2017-09-21',
-        username='',
-        password=''
-    )
-except OSError as er:
-    print("git gud")
-
-
+tone_analyzer = ToneAnalyzerV3(
+   version='2017-09-21',
+   username=keys[0],
+   password=keys[1]
+)
 
 filefound = False
 while filefound == False:
@@ -49,50 +45,37 @@ while filefound == False:
         doc = fileContents(filename)
     except IOError as er:
         filefound = False
-        print(er.strerror + "'. Check for correct spelling and/or location.")
-
+        print(er.strerror + ". Check for correct spelling and/or location.")
 
 print(TextBlob(doc).sentiment)
 
+try:
+    content_type = 'application/json'
+    print(json.dumps(tone_analyzer.tone({"text": doc}, content_type), indent=4))
+except WatsonApiException as er:
+    print("Your Watson API keys are invalid")
+    exit()
 
-#content_type = 'application/json'
-#print(tone_analyzer.tone({"text": doc}, content_type))
 
 #LexSig#
 
 corpus = []
 
+invaldocs = 0
+
 os.chdir("corpus")
 for file in glob.glob("*.txt"):
-    temp = open(file, "r")
-    corpus.append(temp.read())
+    try:
+        temp = open(file, "r")
+        corpus.append(TextBlob(temp.read()))
+    except UnicodeDecodeError as er:
+        invaldocs += 1
+if invaldocs > 0:
+    print("{} invalid documents in corpus.".format(invaldocs))
 
-termfreq = termFrequency(doc)
-
-tfidf = {}
-
-'''for term in termfreq.keys():
-    idfb = 0
-    for document in corpus:
-        print(document[290:300])
-        for word in TextBlob(document).words:
-            if word == term:
-                idfb += 1
-                break
-
-    tfidf[term] = float(termfreq[term])/(float(len(corpus))/float(idfb))
-
-print(tfidf)'''
-
-
-
-
-
-
-
-
-
-
-
-
-
+doc = TextBlob(doc)
+print("Top words in document")
+scores = {word: tfidf(word, doc, corpus) for word in doc.words}
+sorted_words = sorted(scores.items(), key=lambda x: x[1], reverse=True)
+for word, score in sorted_words[:5]:
+    print("\t{} - TF-IDF: {}".format(word, round(score, 5)))
