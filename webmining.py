@@ -31,36 +31,13 @@ print(text)'''
 
 
 g = Goose()
-g.config.known_context_patterns = {'attr': 'class', 'value': 'l-container'}
-del g.config.known_context_patterns[1:]
-print(g.config.known_context_patterns)
+# g.config.known_context_patterns = {'attr': 'class', 'value': 'l-container'}
 article = g.extract(url=url)
 # article.strict = False
-titleforsave = (article.title)
-print(article.cleaned_text)
+titletext = (article.title)
+bodytext = article.cleaned_text
+bodytext = bodytext.replace('"', "'")
+# print(bodytext)
 
-
-
-
-
-
-
-'''def cleanhtml(raw_html):
-  beginning = re.compile('\A.*?<p class="zn-body__paragraph speakable">')
-  cleanbeg = re.sub(beginning, '', raw_html)
-
-  end = re.compile('zn-body__footer.*?\Z')
-  cleanend = re.sub (end, '', cleanbeg)
-
-  print(cleanend)
-
-  #cleanr = re.compile('<.*?>')
-  # cleanspan = re.compile('<span.*?</span>')
-  #vcleanrelated = re.sub(cleanspan, '', raw_html)
-  # cleantext = re.sub(cleanr, '', article)
-  # cleantext = cleantext.replace(' , ', '')
-  # print(cleantext)
-
-cleanhtml(rep)
-
-print(article)'''
+serialized = '{\n   "article": {\n   "title": "' + titletext + '",\n   "body": "' + bodytext + '"\n  }\n}'
+print(serialized)
