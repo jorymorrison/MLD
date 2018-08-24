@@ -1,0 +1,36 @@
+Status Code: 200{
+   "article": {
+   "title": "Trump prods Sessions to probe corruption on the 'other side,' as feud flares",
+   "body": "President Trump renewed pressure Friday on Jeff Sessions to investigate the actions of his adversaries – what he called “corruption” on the “other side” – after the attorney general warned the president that his department would not be “improperly influenced” by politics.
+
+In an extraordinary new clash between the president and the nation’s top law enforcement official, whom Trump appointed and who was one of the president’s earliest and most enthusiastic 2016 supporters, Sessions had issued the warning a day earlier after Trump alleged in a “Fox & Friends” interview that his AG never “took control” of the DOJ.
+
+“I took control of the Department of Justice the day I was sworn in,” Sessions fired back.
+
+In a set of Friday morning tweets, Trump cited that statement as a jumping off point for what he wants Sessions to pursue next:
+
+“Jeff, this is GREAT, what everyone wants, so look into all of the corruption on the 'other side' including deleted Emails, Comey lies & leaks, Mueller conflicts, McCabe, Strzok, Page, Ohr … FISA abuse, Christopher Steele & his phony and corrupt Dossier, the Clinton Foundation, illegal surveillance of Trump Campaign, Russian collusion by Dems - and so much more. Open up the papers & documents without redaction? Come on Jeff, you can do it, the country is waiting!”
+
+The list referred to a batch of controversies Trump and his allies have long cited as a partisan counterweight to allegations of Russia collusion and obstruction of justice, at the heart of Special Counsel Robert Mueller’s probe. Trump was citing a slew of fired and former FBI officials – ex-director James Comey, anti-Trump agents Peter Strzok and Lisa Page, ex-deputy Andrew McCabe – and sitting DOJ official Bruce Ohr whose wife worked for the company behind the salacious anti-Trump dossier. The tweets also referred to the surveillance efforts against his campaign associates and Hillary Clinton’s email and foundation controversies.
+
+Democrats have long accused Republicans of trying to distract from the Mueller probe by focusing on such matters, but Trump and his allies argue there’s never been a full accounting for how political actions may have factored into the start of the Russia probe.
+
+Meanwhile, the Trump-Sessions feud has instantly renewed speculation over how long Sessions can hold on in his current position.
+
+Sen. Lindsey Graham, R-S.C., said Thursday that despite Sessions’ accomplishments, he believes it “very likely” Trump will appoint a new attorney general, perhaps after the midterms.
+
+Trump upped the pressure on Sessions even more Friday when he cited the jail sentence given Thursday to leaker Reality Winner.
+
+“Ex-NSA contractor to spend 63 months in jail over ‘classified’ information. Gee, this is ‘small potatoes’ compared to what Hillary Clinton did! So unfair Jeff, Double Standard,” he tweeted.
+
+The tweets followed Sessions statement Thursday in which he staunchly defended his actions in office:
+
+“I took control of the Department of Justice the day I was sworn in, which is why we have had unprecedented success at effectuating the President’s agenda—one that protects the safety and security rights of the American people, reduces violent crime, enforces our immigration laws, promotes economic growth, and advances religious liberty.”
+
+He went on to say, “While I am Attorney General, the actions of the Department of Justice will not be improperly influenced by political considerations.”
+
+The president for months has railed against Sessions over his recusal from the Russia probe. Sessions recused himself in 2017, due to his involvement with the Trump campaign, per Justice Department regulations.
+
+Rod Rosenstein, his deputy, was then named to oversee the investigation. He appointed Mueller as special counsel."
+  }
+}
