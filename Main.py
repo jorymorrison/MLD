@@ -51,7 +51,7 @@ try:
         except KeyError as er:
             sys.stdout.write(bcolors.WARNING + "\rFailed to find environmental variables.\n")
             sys.stdout.flush()
-            sys.stdout.write(bcolors.FAIL + "Please access the config or evironment variables:\nWATSON_USER\nWATSON_PASS\n\nSet them using values of your Watson API username and password.\nExiting program...")
+            sys.stdout.write(bcolors.FAIL + "Please access the config or evironment variables:\nWATSON_USER\nWATSON_PASS\n\nSet them using values of your Watson API username and password.\nExiting program...\n" + bcolors.ENDC)
             sys.stdout.flush()
             exit()
     else:
@@ -77,7 +77,7 @@ except IOError as er:
         file = open("config.conf", "w")
         file.write("watson_user=\nwatson_pass=")
         sys.stdout.write(bcolors.ENDC + "\rSuccessfully generated configurtion file 'config.conf'.\n")
-        sys.stdout.write(bcolors.FAIL + "Please access the config or evironment variables:\nWATSON_USER\nWATSON_PASS\n\nSet them using values of your Watson API username and password.\nExiting program...")
+        sys.stdout.write(bcolors.FAIL + "Please access the config or evironment variables:\nWATSON_USER\nWATSON_PASS\n\nSet them using values of your Watson API username and password.\nExiting program...\n" + bcolors.ENDC)
         sys.stdout.flush()
         exit()
 
@@ -97,12 +97,12 @@ try:
 # error thrown if the status code is bad
 except urllib.error.HTTPError as e:
      sys.stdout.write(bcolors.ENDC + '\rSuccessfully retrieved status code: ' + e.getcode() + "\n")
-     sys.stdout.write(bcolors.FAIL + 'Failed to retrieve representation.\nExiting program...')
+     sys.stdout.write(bcolors.FAIL + 'Failed to retrieve representation.\nExiting program...\n' + bcolors.ENDC)
      exit()
 
 # error thrown if the URL is bad
 except (urllib.error.URLError, ValueError):
-     sys.stdout.write(bcolors.FAIL + '\rFailed to retrieve status code.\nExiting program...')
+     sys.stdout.write(bcolors.FAIL + '\rFailed to retrieve status code.\nExiting program...\n' + bcolors.txt)
      exit()
 
 scode = str(page.getcode())
@@ -209,6 +209,6 @@ output += "\n\t\t\t}\n\t\t]\n\t}\n}"
 sys.stdout.write("\rSuccessfully calculated lexical signature.\n")
 
 results.write(output)
-sys.stdout.write("Successfully wrote output to results file.\nExiting program...")
+sys.stdout.write("Successfully wrote output to results file.\nExiting program...\n" + bcolors.ENDC)
 exit()
 
