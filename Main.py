@@ -153,7 +153,7 @@ sys.stdout.write("Retrieving document tone...")
 sys.stdout.flush()
 try:
     content_type = 'application/json'
-    logOutput += json.dumps(tone_analyzer.tone({"text": doc}, content_type, False), indent=4)[1:-2] + ",\n"
+    logOutput = json.dumps(tone_analyzer.tone({"text": doc}, content_type, False), indent=4)[1:-2] + ",\n"
 except WatsonApiException as er:
     sys.stderr.write("\rFailed to retrieve document tone.\n Status code " + str(er.code) + ": " + er.message)
     exit()
