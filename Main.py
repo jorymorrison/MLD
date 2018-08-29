@@ -76,7 +76,7 @@ except IOError as er:
         sys.stdout.flush()
         file = open("config.conf", "w")
         file.write("watson_user=\nwatson_pass=")
-        sys.stdout.write(bcolors.ENDC + "\rSuccessfully generated configurtion file 'config.conf'.\n")
+        sys.stdout.write(bcolors.ENDC + "\rSuccessfully generated configuration file 'config.conf'.\n")
         sys.stdout.write(bcolors.FAIL + "Please access the config or evironment variables:\nWATSON_USER\nWATSON_PASS\n\nSet them using values of your Watson API username and password.\nExiting program...\n" + bcolors.ENDC)
         sys.stdout.flush()
         exit()
