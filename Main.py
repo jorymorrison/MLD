@@ -122,7 +122,7 @@ doc = bodytext
 # print(bodytext)
 
 sys.stdout.write(bcolors.ENDC + "Creating results file...")
-path = os.path.split(os.path.abspath(__file__))[0] + "\\" + titletext + '-' + datetime.datetime.now() + ".txt"
+path = os.path.split(os.path.abspath(__file__))[0] + "\\" + titletext + '-' + str(datetime.datetime.now()) + ".txt"
 results = open(path, 'a+')
 
 sys.stdout.write(bcolors.ENDC + '\nSuccessfully created results file at: ' + path + "\n")
