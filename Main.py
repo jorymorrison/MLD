@@ -1,4 +1,5 @@
 import json, sys, math, glob, os, datetime
+import urllib
 from textblob import TextBlob
 from goose3 import Goose
 from goose3.configuration import Configuration
