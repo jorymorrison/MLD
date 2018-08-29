@@ -4,6 +4,9 @@ from textblob import TextBlob
 from goose3 import Goose
 from goose3.configuration import Configuration
 from watson_developer_cloud import ToneAnalyzerV3, WatsonApiException
+import nltk
+
+nltk.download('punkt')
 
 class bcolors:
     WARNING = '\033[93m'
