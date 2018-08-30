@@ -1,6 +1,6 @@
 # MLD Article Analysis
 
-MLD is a command line based application that uses natural language processing (NLP) techniques to analyze the tone, sentiment, and lexical signature of a news article of a user-inputted URL.
+MLD, pronounced Mold, is a command line based application that uses natural language processing (NLP) techniques to analyze the tone, sentiment, and lexical signature of a news article of a user-inputted URL.
 
 This project uses the [IBM Watson Tone Analyzer API](https://www.ibm.com/watson/services/tone-analyzer/), which requires an IMB Creative Cloud account.
 
