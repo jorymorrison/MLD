@@ -67,3 +67,6 @@ For in depth documentation on the IBM Watson Tonal Analyzer go to: https://conso
 Lexical signature is represented by the top 5 words in a document according to Term Frequency / Inverse Document Frequency (TF-IDF). 
 For in depth documentation of how TF-IDF is calculated go to: https://http//www.tfidf.com
 Output is formatted in key-value pairs of a word and its TF-IDF score.
+
+test
+
