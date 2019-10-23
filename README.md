@@ -1,6 +1,15 @@
 # MLD Article Analysis
 
-MLD, pronounced Mold, is a command line based application that uses natural language processing (NLP) techniques to analyze the tone, sentiment, and lexical signature of a news article of a user-inputted URL.
+MLD, pronounced Mold, is a command line based application that uses natural language processing (NLP) techniques to analyze the tone, sentiment, and lexical signature of a news article of a user-inputted URL. 
+
+# Disclaimer 
+The project is developed and maintained by students as part of Jory Morrison's mentorship program for secondary education students. There is no affiliation, endorsement, ownership, or sponsorship with or by any commercial or non-commercial entity. Ownership of this repository should not be construed as contribution or creation of intellectual property; please reference commit history for attribution of intellectual property origin.
+
+# License
+[Apache 2.0 License](https://choosealicense.com/licenses/apache-2.0/) applies
+
+# Notes
+As of September 2019 this project is being actively maintained. It is currently in a non-functioning state due to changes in the Watson SDK. Please reference [issues](https://github.com/jorymorrison/MLD/issues)
 
 This project uses the [IBM Watson Tone Analyzer API](https://www.ibm.com/watson/services/tone-analyzer/), which requires an IMB Creative Cloud account.
 
@@ -51,8 +60,6 @@ To access the Watson API Keys, log into your IBM Creative Cloud Account and loca
 $ export WATSON_USER="username"
 $ export WATSON_PASS="password"
 ```
-
-
 
 # Output Synopsis
 ### Sentiment:
