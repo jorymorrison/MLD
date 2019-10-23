@@ -1,4 +1,4 @@
-import json, sys, math, glob, os, datetime
+import json, sys, math, glob, os, datetime, platform
 import urllib
 from textblob import TextBlob
 from goose3 import Goose
@@ -125,7 +125,10 @@ doc = bodytext
 # print(bodytext)
 
 sys.stdout.write(bcolors.ENDC + "Creating results file...")
-path = os.path.split(os.path.abspath(__file__))[0] + "\\" + titletext + '-' + str(datetime.datetime.now()) + ".txt"
+if platform.system() == "windows":
+    path = os.path.split(os.path.abspath(__file__))[0] + "\\" + titletext + '-' + str(datetime.datetime.now()) + ".txt"
+else:
+    path = os.path.split(os.path.abspath(__file__))[0] + "/" + titletext + '-' + str(datetime.datetime.now()) + ".txt"
 results = open(path, 'a+')
 
 sys.stdout.write(bcolors.ENDC + '\nSuccessfully created results file at: ' + path + "\n")
