@@ -87,6 +87,7 @@ except IOError as er:
 
 tone_analyzer = ToneAnalyzerV3(
    version='2017-09-21',
+   url='https://gateway.watsonplatform.net/tone-analyzer/api',
    username=keys[0],
    password=keys[1]
 )
@@ -125,10 +126,10 @@ doc = bodytext
 # print(bodytext)
 
 sys.stdout.write(bcolors.ENDC + "Creating results file...")
-if platform.system() == "windows":
-    path = os.path.split(os.path.abspath(__file__))[0] + "\\" + titletext + '-' + str(datetime.datetime.now()) + ".txt"
+if platform.system() == "Windows":
+    path = os.path.split(os.path.abspath(__file__))[0] + "\\outputs\\" + titletext + '-' + str(datetime.datetime.now()) + ".txt"
 else:
-    path = os.path.split(os.path.abspath(__file__))[0] + "/" + titletext + '-' + str(datetime.datetime.now()) + ".txt"
+    path = os.path.split(os.path.abspath(__file__))[0] + "/outputs/" + titletext + '-' + str(datetime.datetime.now()) + ".txt"
 results = open(path, 'a+')
 
 sys.stdout.write(bcolors.ENDC + '\nSuccessfully created results file at: ' + path + "\n")
