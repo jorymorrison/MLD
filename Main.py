@@ -121,24 +121,25 @@ article = g.extract(url=url)
 # article.strict = False
 titletext = (article.title)
 bodytext = article.cleaned_text
+#print(bodytext)
 bodytext = bodytext.replace('"', "'")
+bodytext = bodytext.replace('\n', '   ')
 doc = bodytext
-# print(bodytext)
 
 sys.stdout.write(bcolors.ENDC + "Creating results file...")
 if platform.system() == "Windows":
-    path = os.path.split(os.path.abspath(__file__))[0] + "\\outputs\\" + titletext + '-' + str(datetime.datetime.now()) + ".txt"
+    path = os.path.split(os.path.abspath(__file__))[0] + "\\outputs\\" + titletext + '-' + str(datetime.datetime.now()) + ".json"
 else:
-    path = os.path.split(os.path.abspath(__file__))[0] + "/outputs/" + titletext + '-' + str(datetime.datetime.now()) + ".txt"
+    path = os.path.split(os.path.abspath(__file__))[0] + "/outputs/" + titletext + '-' + str(datetime.datetime.now()) + ".json"
 results = open(path, 'a+')
 
 sys.stdout.write(bcolors.ENDC + '\nSuccessfully created results file at: ' + path + "\n")
 
-results.write('Status Code: ' + scode)
+#results.write('Status Code: ' + scode)
 
-sys.stdout.write('Successfully wrote retrieval status to results file.\n')
+#sys.stdout.write('Successfully wrote retrieval status to results file.\n')
 
-serialized = '{\n   "article": {\n   "title": "' + titletext + '",\n   "body": "' + bodytext + '"\n  }\n}'
+serialized = '{\n   "article": {\n   "title": "' + titletext + '",\n   "body": "' + bodytext + '"\n   },'
 
 results.write(serialized)
 
@@ -146,7 +147,7 @@ sys.stdout.write('Successfully wrote retrieval to results file.\n')
 
 sys.stdout.write("Retrieving document senitment... 0%")
 sys.stdout.flush()
-output = '{\n\t"document_sentiment": {'
+output = '\t"document_sentiment": {'
 output += '\n\t\t"polarity": {},'.format(TextBlob(doc).polarity)
 sys.stdout.write("\rRetrieving document senitment... 50%")
 sys.stdout.flush()
