@@ -125,12 +125,12 @@ bodytext = article.cleaned_text
 bodytext = bodytext.replace('"', "'")
 bodytext = bodytext.replace('\n', '   ')
 doc = bodytext
-
+date = str(datetime.datetime.now())
 sys.stdout.write(bcolors.ENDC + "Creating results file...")
 if platform.system() == "Windows":
-    path = os.path.split(os.path.abspath(__file__))[0] + "\\outputs\\" + titletext + '-' + str(datetime.datetime.now()) + ".json"
+    path = os.path.split(os.path.abspath(__file__))[0] + "\\outputs\\" + titletext + '-' + date + ".json"
 else:
-    path = os.path.split(os.path.abspath(__file__))[0] + "/outputs/" + titletext + '-' + str(datetime.datetime.now()) + ".json"
+    path = os.path.split(os.path.abspath(__file__))[0] + "/outputs/" + titletext + '-' + date + ".json"
 results = open(path, 'a+')
 
 sys.stdout.write(bcolors.ENDC + '\nSuccessfully created results file at: ' + path + "\n")
@@ -139,7 +139,7 @@ sys.stdout.write(bcolors.ENDC + '\nSuccessfully created results file at: ' + pat
 
 #sys.stdout.write('Successfully wrote retrieval status to results file.\n')
 
-serialized = '{\n   "article": {\n   "title": "' + titletext + '",\n   "body": "' + bodytext + '"\n   },'
+serialized = '{\n   "article": {\n   "title": "' + titletext + '",\n   "time": "' + date + '",\n   "url": "' + url + '",\n   "body": "' + bodytext + '"\n   },'
 
 results.write(serialized)
 
