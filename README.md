@@ -57,8 +57,8 @@ The first time this program runs, the program will search for Watson API keys. I
 
 To access the Watson API Keys, log into your IBM Creative Cloud Account and locate the [Tone Analyzer](https://console.bluemix.net/catalog/services/tone-analyzer?hideTours=true&cm_mmc=-_-Watson+Core_Watson+Core+-+Platform-_-WW_WW-_-wdc-ref&cm_mmca1=000000OF&cm_mmca2=10000409) page. Click *Create,* and a username and password will be generated for you. Copy these and set them in the application by either editing the ` config.conf ` file, or by setting environmental variables:
 ```
-$ export WATSON_USER="username"
-$ export WATSON_PASS="password"
+$ export WATSON_USER="apikey"
+$ export WATSON_PASS=<apikey-url>
 ```
 
 # Output Synopsis
