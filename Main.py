@@ -28,6 +28,15 @@ def idf(word, bloblist):
 def tfidf(word, blob, bloblist):
     return tf(word, blob) * idf(word, bloblist)
 
+def jsonOut(title, body, url, date, sentiment="error", signature="error", tone="error"):
+
+	
+	article= {'title' : title, 'date' : date, 'url' : url, 'body' : body}
+	final={'article' : article, 'sentiment' : sentiment, 'signature' : signature, 'tone' : tone}
+	output=json.dumps(final, indent=4, sort_keys=True)
+
+	sys.stdout.write(bcolors.ENDC + '\nSuccessfully created results file at: ' + path + "\n")
+	results.write(output)
 try:
     sys.stdout.write(bcolors.ENDC + "Searching for configuration file 'config.conf'...")
     sys.stdout.flush()
@@ -84,6 +93,10 @@ except IOError as er:
         sys.stdout.write(bcolors.FAIL + "Please access the config or evironment variables:\nWATSON_USER\nWATSON_PASS\n\nSet them using values of your Watson API username and password.\nExiting program...\n" + bcolors.ENDC)
         sys.stdout.flush()
         exit()
+#
+#
+#
+
 
 tone_analyzer = ToneAnalyzerV3(
    version='2017-09-21',
@@ -115,6 +128,10 @@ scode = str(page.getcode())
 sys.stdout.write(bcolors.ENDC + 'Successfully retrieved status code: ' + scode + "\n")
 sys.stdout.write(bcolors.ENDC + 'Successfully retrieved representation.\n')
 
+#
+#
+#
+
 g = Goose()
 # g.config.known_context_patterns = {'attr': 'class', 'value': 'l-container'}
 article = g.extract(url=url)
@@ -124,41 +141,52 @@ bodytext = article.cleaned_text
 #print(bodytext)
 bodytext = bodytext.replace('"', "'")
 bodytext = bodytext.replace('\n', '   ')
-doc = bodytext
-date = str(datetime.datetime.now())
+doc = bodytext #input one
+date = str(datetime.datetime.now()) #input two
+
 sys.stdout.write(bcolors.ENDC + "Creating results file...")
 if platform.system() == "Windows":
-    path = os.path.split(os.path.abspath(__file__))[0] + "\\outputs\\" + titletext + '-' + date + ".json"
+	path = os.path.split(os.path.abspath(__file__))[0] + "\\outputs\\" + titletext + '-' + date + ".json"
 else:
-    path = os.path.split(os.path.abspath(__file__))[0] + "/outputs/" + titletext + '-' + date + ".json"
+    	path = os.path.split(os.path.abspath(__file__))[0] + "/outputs/" + titletext + '-' + date + ".json"
 results = open(path, 'a+')
-
-sys.stdout.write(bcolors.ENDC + '\nSuccessfully created results file at: ' + path + "\n")
 
 #results.write('Status Code: ' + scode)
 
 #sys.stdout.write('Successfully wrote retrieval status to results file.\n')
 
-serialized = '{\n   "article": {\n   "title": "' + titletext + '",\n   "time": "' + date + '",\n   "url": "' + url + '",\n   "body": "' + bodytext + '"\n   },'
+#serialized = '{\n   "article": {\n   "title": "' + titletext + '",\n   "time": "' + date + '",\n   "url": "' + url + '",\n   },'
 
-results.write(serialized)
+#results.write(serialized)
 
-sys.stdout.write('Successfully wrote retrieval to results file.\n')
+#sys.stdout.write('Successfully wrote retrieval to results file.\n')
 
-sys.stdout.write("Retrieving document senitment... 0%")
-sys.stdout.flush()
-output = '\t"document_sentiment": {'
-output += '\n\t\t"polarity": {},'.format(TextBlob(doc).polarity)
-sys.stdout.write("\rRetrieving document senitment... 50%")
-sys.stdout.flush()
-output += '\n\t\t"subjectivity": {}'.format(TextBlob(doc).subjectivity)
-sys.stdout.write("\rRetrieving document senitment... 100%")
-sys.stdout.flush()
-output += '\n\t},\n'
-sys.stdout.write("\rSuccessfully retrieved document sentiment.\n")
+#sys.stdout.write("Retrieving document senitment... 0%")
+#sys.stdout.flush()
+sentiment=[]
+#output = '\t"document_sentiment": {'
+sentiment.append('"polarity": {},'.format(TextBlob(doc).polarity))
+#print(TextBlob(doc).polarity)
+#output += '\n\t\t"polarity": {},'.format(TextBlob(doc).polarity)
+#sys.stdout.write("\rRetrieving document senitment... 50%")
+#sys.stdout.flush()
+#output += '\n\t\t"subjectivity": {}'.format(TextBlob(doc).subjectivity)
+sentiment.append('"subjectivity": {}'.format(TextBlob(doc).subjectivity))
+#print(TextBlob(doc).subjectivity)
+#sys.stdout.write("\rRetrieving document senitment... 100%")
+#sys.stdout.flush()
+#output += '\n\t},\n'
+#sys.stdout.write("\rSuccessfully retrieved document sentiment.\n")
 
-sys.stdout.write("Retrieving document tone...")
-sys.stdout.flush()
+#sys.stdout.write("Retrieving document tone...")
+#sys.stdout.flush()
+
+
+#
+#
+#
+
+
 try:
     content_type = 'application/json'
     logOutput = json.dumps(tone_analyzer.tone({"text": doc}, content_type, False), indent=4)[1:-2] + ",\n"
@@ -195,7 +223,7 @@ doc = TextBlob(doc)
 percent += 12.5
 sys.stdout.write("\rCalculating lexical signature... %d%%" % percent)
 sys.stdout.flush()
-output += '\n\t"lexical_signature": {\n\t\t"tf-idf": [\n\t\t\t{'
+#output += '\n\t"lexical_signature": {\n\t\t"tf-idf": [\n\t\t\t{'
 scores = {word: tfidf(word, doc, corpus) for word in doc.words}
 percent += 12.5
 sys.stdout.write("\rCalculating lexical signature... %d%%" % percent)
@@ -205,19 +233,20 @@ percent += 12.5
 sys.stdout.write("\rCalculating lexical signature... %d%%" % percent)
 sys.stdout.flush()
 comma = 0
+signature=[]
 for word, score in sorted_words[:5]:
     comma+=1;
-    out = '\n\t\t\t\t"{}": {}'
+    out = '"{}": {}'
     if comma < 5:
         out += ","
-    output += out.format(word, round(score, 5))
+    signature.append(out.format(word, round(score, 5)))
     percent += 12.5
     sys.stdout.write("\rCalculating lexical signature... %d%%" % percent)
     sys.stdout.flush()
-output += "\n\t\t\t}\n\t\t]\n\t}\n}"
+#output += "\n\t\t\t}\n\t\t]\n\t}\n}"
 sys.stdout.write("\rSuccessfully calculated lexical signature.\n")
-
-results.write(output)
-sys.stdout.write("Successfully wrote output to results file.\nExiting program...\n" + bcolors.ENDC)
-exit()
+jsonOut(titletext, bodytext, url, date, sentiment, signature)
+#results.write(output)
+#sys.stdout.write("Successfully wrote output to results file.\nExiting program...\n" + bcolors.ENDC)
+#exit()
 
