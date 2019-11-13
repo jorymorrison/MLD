@@ -62,6 +62,34 @@ $ export WATSON_PASS=<apikey-url>
 ```
 
 # Output Synopsis
+### Json Schema:
+{
+    "article": {
+        "body": <body-text>,
+		"date": <date>,
+        "title": <title>,
+        "url": <url>
+    },
+    "sentiment": {
+        "polarity": <value 0-1>,
+        "subjectivity": <value 0-1>
+    },
+    "signature": {
+        <most frequent>: <value 0-1>,
+        <most frequent>: <value 0-1>,
+        <most frequent>: <value 0-1>,
+        <most frequent>: <value 0-1>,
+        <most frequent>: <value 0-1>
+    },
+    "tone": {
+		<tone>: <value 0-1>,
+		<tone>: <value 0-1>,
+		<tone>: <value 0-1>,
+		<tone>: <value 0-1>,
+		<tone>: <value 0-1>,
+		<tone>: <value 0-1>
+	}
+}
 ### Sentiment:
 **Polarity:** Scale -1 - 1 (-1 being very negative, 0 being neutral, 1 being very positive)
 **Subjectivity:** Scale 0 - 1 (0 is very objective, 1 is very subjective)
