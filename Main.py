@@ -30,7 +30,6 @@ def tfidf(word, blob, bloblist):
 
 def jsonOut(title, body, url, date, sentiment="error", signature="error", tone="error"):
 
-	
 	article= {'title' : title, 'date' : date, 'url' : url, 'body' : body}
 	final={'article' : article, 'sentiment' : sentiment, 'signature' : signature, 'tone' : tone}
 	output=json.dumps(final, indent=4, sort_keys=True)
@@ -163,15 +162,17 @@ results = open(path, 'a+')
 
 #sys.stdout.write("Retrieving document senitment... 0%")
 #sys.stdout.flush()
-sentiment=[]
+sentiment={}
 #output = '\t"document_sentiment": {'
-sentiment.append('"polarity": {},'.format(TextBlob(doc).polarity))
+#sentiment.append('"polarity": {},'.format(TextBlob(doc).polarity))
+sentiment.update({'polarity' : TextBlob(doc).polarity})
 #print(TextBlob(doc).polarity)
 #output += '\n\t\t"polarity": {},'.format(TextBlob(doc).polarity)
 #sys.stdout.write("\rRetrieving document senitment... 50%")
 #sys.stdout.flush()
 #output += '\n\t\t"subjectivity": {}'.format(TextBlob(doc).subjectivity)
-sentiment.append('"subjectivity": {}'.format(TextBlob(doc).subjectivity))
+#sentiment.append('"subjectivity": {}'.format(TextBlob(doc).subjectivity))
+sentiment.update({'subjectivity' : TextBlob(doc).subjectivity})
 #print(TextBlob(doc).subjectivity)
 #sys.stdout.write("\rRetrieving document senitment... 100%")
 #sys.stdout.flush()
@@ -233,13 +234,14 @@ percent += 12.5
 sys.stdout.write("\rCalculating lexical signature... %d%%" % percent)
 sys.stdout.flush()
 comma = 0
-signature=[]
+signature={}
 for word, score in sorted_words[:5]:
     comma+=1;
     out = '"{}": {}'
     if comma < 5:
         out += ","
-    signature.append(out.format(word, round(score, 5)))
+    signature.update({word : score})
+    #signature.append(out.format(word, round(score, 5)))
     percent += 12.5
     sys.stdout.write("\rCalculating lexical signature... %d%%" % percent)
     sys.stdout.flush()
@@ -248,5 +250,4 @@ sys.stdout.write("\rSuccessfully calculated lexical signature.\n")
 jsonOut(titletext, bodytext, url, date, sentiment, signature)
 #results.write(output)
 #sys.stdout.write("Successfully wrote output to results file.\nExiting program...\n" + bcolors.ENDC)
-#exit()
-
+exit()
