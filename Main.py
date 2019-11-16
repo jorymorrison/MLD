@@ -196,6 +196,9 @@ except WatsonApiException as er:
     exit()
 sys.stdout.write("\rSuccessfully retrieved document tone.\n")
 
+#print(logOutput)
+#print("test")
+#print(tone_analyzer.tone({"text": doc}, content_type, True))
 #LexSig#
 
 corpus = []
@@ -247,7 +250,7 @@ for word, score in sorted_words[:5]:
     sys.stdout.flush()
 #output += "\n\t\t\t}\n\t\t]\n\t}\n}"
 sys.stdout.write("\rSuccessfully calculated lexical signature.\n")
-jsonOut(titletext, bodytext, url, date, sentiment, signature)
+jsonOut(titletext, bodytext, url, date, sentiment, signature, logOutput)
 #results.write(output)
 #sys.stdout.write("Successfully wrote output to results file.\nExiting program...\n" + bcolors.ENDC)
 exit()
