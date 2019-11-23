@@ -28,7 +28,7 @@ def idf(word, bloblist):
 def tfidf(word, blob, bloblist):
     return tf(word, blob) * idf(word, bloblist)
 
-def jsonOut(title, body, url, date, sentiment="error", signature="error", tone="error"):
+def jsonOut(title, body, url, date, sentiment="error", signature="error", tone=['error']):
 
 	article= {'title' : title, 'date' : date, 'url' : url, 'body' : body}
 	final={'article' : article, 'sentiment' : sentiment, 'signature' : signature, 'tone' : tone}
@@ -190,12 +190,16 @@ sentiment.update({'subjectivity' : TextBlob(doc).subjectivity})
 
 try:
     content_type = 'application/json'
-    logOutput = json.dumps(tone_analyzer.tone({"text": doc}, content_type, False), indent=4)[1:-2] + ",\n"
+    #logOutput = json.dumps(tone_analyzer.tone({"text": doc}, content_type, False), indent=4)[1:-2] + ",\n"
+    logOutput = tone_analyzer.tone({"text": doc}, content_type, False)['document_tone']['tones']
 except WatsonApiException as er:
     sys.stderr.write("\rFailed to retrieve document tone.\n Status code " + str(er.code) + ": " + er.message)
     exit()
 sys.stdout.write("\rSuccessfully retrieved document tone.\n")
 
+#print(logOutput)
+#print("test")
+#print(tone_analyzer.tone({"text": doc}, content_type, False)['document_tone']['tones'])
 #LexSig#
 
 corpus = []
@@ -247,7 +251,7 @@ for word, score in sorted_words[:5]:
     sys.stdout.flush()
 #output += "\n\t\t\t}\n\t\t]\n\t}\n}"
 sys.stdout.write("\rSuccessfully calculated lexical signature.\n")
-jsonOut(titletext, bodytext, url, date, sentiment, signature)
+jsonOut(titletext, bodytext, url, date, sentiment, signature, logOutput)
 #results.write(output)
 #sys.stdout.write("Successfully wrote output to results file.\nExiting program...\n" + bcolors.ENDC)
 exit()
