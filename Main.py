@@ -104,7 +104,8 @@ tone_analyzer = ToneAnalyzerV3(
    password=keys[1]
 )
 
-url = input('Enter the URL of a news article:')
+url = sys.argv[1]
+#url = input('Enter the URL of a news article:')
 url = url.replace(' ','')
 
 try:
@@ -191,7 +192,7 @@ sentiment.update({'subjectivity' : TextBlob(doc).subjectivity})
 try:
     content_type = 'application/json'
     #logOutput = json.dumps(tone_analyzer.tone({"text": doc}, content_type, False), indent=4)[1:-2] + ",\n"
-    logOutput = tone_analyzer.tone({"text": doc}, content_type, False)['document_tone']['tones']
+    logOutput = tone_analyzer.tone({"text": doc}, content_type, True)['document_tone']['tones']
 except WatsonApiException as er:
     sys.stderr.write("\rFailed to retrieve document tone.\n Status code " + str(er.code) + ": " + er.message)
     exit()
