@@ -1,4 +1,4 @@
-import json, sys, math, glob, os, datetime, platform
+import json, sys, math, glob, os, datetime, platform, argparse
 import urllib
 from textblob import TextBlob
 from goose3 import Goose
@@ -7,6 +7,10 @@ from watson_developer_cloud import ToneAnalyzerV3, WatsonApiException
 import nltk
 
 nltk.download('punkt')
+
+parser = argparse.ArgumentParser()
+parser.add_argument("url")
+args = parser.parse_args()
 
 class bcolors:
     WARNING = '\033[93m'
@@ -104,7 +108,7 @@ tone_analyzer = ToneAnalyzerV3(
    password=keys[1]
 )
 
-url = sys.argv[1]
+url = args.url
 #url = input('Enter the URL of a news article:')
 url = url.replace(' ','')
 
