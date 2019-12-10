@@ -1,8 +1,9 @@
 #!/bin/bash
-depth=2
-input="/home/matthew/MLD/urls.txt"
+start=$1
+depth=$2
+input="$HOME/MLD/urls.txt"
 regex='*\/[0-9]{4}\/[0-9]{2}\/[0-9]{2}\/[a-z/-]+.html'
-echo 'https://www.cnn.com/' > urls.txt
+echo $1 > urls.txt
 echo "filler" > scan.txt
 echo "" > temp.txt
 COUNTER=0
