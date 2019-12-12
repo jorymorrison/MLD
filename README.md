@@ -63,6 +63,7 @@ $ export WATSON_PASS=<apikey-url>
 
 # Output Synopsis
 ### Json Schema:
+```
 {
     "article": {
         "body": <body-text>,
@@ -90,8 +91,11 @@ $ export WATSON_PASS=<apikey-url>
 		<tone>: <value 0-1>
 	}
 }
+```
+
 ### Sentiment:
 **Polarity:** Scale -1 - 1 (-1 being very negative, 0 being neutral, 1 being very positive)
+
 **Subjectivity:** Scale 0 - 1 (0 is very objective, 1 is very subjective)
 
 ### Tone:
