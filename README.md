@@ -9,7 +9,7 @@ The project is developed and maintained by students as part of Jory Morrison's m
 [Apache 2.0 License](https://choosealicense.com/licenses/apache-2.0/) applies
 
 # Notes
-As of September 2019 this project is being actively maintained. It is currently in a non-functioning state due to changes in the Watson SDK. Please reference [issues](https://github.com/jorymorrison/MLD/issues)
+As of September 2019 this project is being actively maintained. It is currently in a limited-functioning state due to changes in the Watson SDK. Please reference [issues](https://github.com/jorymorrison/MLD/issues)
 
 This project uses the [IBM Watson Tone Analyzer API](https://www.ibm.com/watson/services/tone-analyzer/), which requires an IMB Creative Cloud account.
 
@@ -35,7 +35,7 @@ $ pip install -r requirements.txt
 Once a URL to a news article is inputted, the program will process the article's text and output the sentiment in terms of polarity and subjectivity, the tone, and five key words that make up the article's lexical signature.
 
 ```
-Enter the URL of a news article:https://abcnews.go.com/Politics/john-mccain-memorials-start-longtime-senators-body-lying/story?id=57472926
+Enter the URL of a news article as the first argument when calling in command line:https://abcnews.go.com/Politics/john-mccain-memorials-start-longtime-senators-body-lying/story?id=57472926
 Retrieving satus code...Successfully retrieved status code: 200
 Successfully retrieved representation.
 Creating results file...
