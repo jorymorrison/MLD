@@ -1,0 +1,30 @@
+Nearly 20 groups of Amazon shareholders are pressuring the tech company to stop selling facial recognition technology to law enforcement.
+In a letter delivered to CEO Jeff Bezos late Friday, the shareholders, many of whom are advocates of socially responsible investing, say they're concerned about the privacy threat of government surveillance from the tool.
+
+Amazon's technology, called Rekognition and introduced in 2016, detects objects and faces in images and videos. Customers, which include law enforcement in Orlando, Florida and Washington County, Oregon, can upload face databases to automatically identify individuals.
+
+In one case, the Washington County sheriff's office identified persons of interest, including a shoplifter caught on a hardware store's cameras. The store camera's image was automatically compared with thousands of photos of individuals processed while entering jail. This speeds up a process that used to rely on manual labor and the memory of police officers to identify people.
+
+The shareholders, which include the Social Equity Group and Northwest Coalition for Responsible Investment, are joining groups such as the ACLU in efforts to stop the company from selling the service - pointing out the risks of mass surveillance.
+
+They warn about potential civil and human rights violations, and how Amazon's involvement could have a negative impact on the company's stock. The shareholders point to the recent scrutiny of Facebook (FB) over privacy and data as a cautionary tale.
+
+"We are concerned the technology would be used to unfairly and disproportionately target and surveil people of color, immigrants, and civil society organizations," the shareholders write. "We are concerned sales may be expanded to foreign governments, including authoritarian regimes."
+
+In a blog post earlier this month, Matt Wood, a general manager of artificial intelligence at Amazon Web Services, said Amazon's policy prohibits the use of its service for activities that are illegal, violate the rights of others, or may be harmful."We believe it is the wrong approach to impose a ban on promising new technologies because they might be used by bad actors for nefarious purposes in the future. The world would be a very different place if we had restricted people from buying computers because it was possible to use that computer to do harm," Wood wrote.
+
+In April, Amazon (AMZN) announced Rekognition is now up to 25% more accurate than previous versions in picking out faces. But it's unclear exactly how accurate the system is.
+
+"Currently, there are no best practices for accuracy for facial recognition, which should be quite troubling to everyone," University of District Columbia law professor Andrew Guthrie Ferguson, author of "The Rise of Big Data Policing," told CNNMoney.
+
+"Accuracy is a hard issue to benchmark," he said. "As a society, are we okay with a 50% false positive rate, or a 20% false positive rate, when it comes to stops, arrests, or police investigation? The answer to the accuracy question will determine who gets handcuffed and who does not."
+
+The accuracy of facial recognition technologies varies, with women and people of color being identified with less accuracy, according to MIT research.
+
+"It's been like pulling teeth to get information from governments or Amazon about what they're doing to ensure this product does not harm people living in communities across America," said ACLU attorney Matt Cagle. "We know very little about how accurate or how useful Amazon's system really is."
+
+On Monday afternoon, the ACLU and nearly 70 groups are sending a letter to Bezos, alongside the one from shareholders, arguing Amazon should not provide surveillance systems such as facial recognition technology to the government. Last month, the ACLU and 40 other activist groups and entities sent another letter to Bezos, stating the technology "is primed for abuse in the hands of governments" and should be no longer be sold.
+
+According to experts, regulations have not kept up with the rapid advances in facial recognition technology, which relies on artificial intelligence.
+
+"The implications of Amazon Rekognition and all new facial recognition technologies is nothing less than a rebalancing of power between citizens and the police," Ferguson said. "The ability to identify, track, and monitor everyone throughout the city is something that we read about in science fiction."
