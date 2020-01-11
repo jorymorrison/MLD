@@ -1,0 +1,13 @@
+ version: 2
+ jobs:
+   build:
+     docker:
+       - image: python:latest
+     steps:
+       - checkout
+       - run: python3 -m pip install --user --upgrade twine
+       - run: python3 -m pip install --user --upgrade setuptools wheel
+       - run: python3 setup.py sdist bdist_wheel
+       - run: python3 -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
+       - run: MZorumski
+       - run: $PYPI_PASS
