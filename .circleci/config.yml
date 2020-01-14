@@ -1,9 +1,64 @@
- version: 2
- jobs:
-   build:
-     docker:
-       - image: python:latest
-     steps:
-       - checkout
-       - run: echo "A first hello"
-       - run: echo "Hello Matt"
+version: 2
+workflows:
+  build_and_deploy:
+    jobs:
+      - build:
+          filters:
+            tags:
+              only: /.*/
+      - test-python-install:
+          version: "3.4"
+          requires:
+            - build
+      - test-python-install:
+          version: "3.5"
+          requires:
+            - build
+      - test-python-install:
+          version: "3.6"
+          requires:
+            - build
+      - test-python-install:
+          version: "3.7"
+          requires:
+            - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            tags:
+              only: /[0-9]+(\.[0-9]+)*/
+            branches:
+              ignore: /.*/
+jobs:
+  build:
+    docker:
+      - image: circleci/python:3.6
+    steps:
+      - checkout
+      - run: 
+	name: install required
+	command:
+	  python3 -m pip install --user --upgrade twine
+	  python3 -m pip install --user --upgrade setuptools wheel
+  deploy:
+    docker:
+      - image: circleci/python:3.6
+    steps:
+      - checkout
+      - run:
+          name: init .pypirc
+          command: |
+            echo -e "[pypi]" >> ~/.pypirc
+            echo -e "username = MZorumski" >> ~/.pypirc
+            echo -e "password = $PYPI_PASSWORD" >> ~/.pypirc
+      - run:
+          name: create packages
+          command: |
+            python3 setup.py sdist bdist_wheel
+      - run:
+          name: upload to pypi
+          command: |
+            . venv/bin/activate
+            twine upload dist/*
+
