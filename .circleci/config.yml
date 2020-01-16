@@ -5,5 +5,5 @@
        - image: python:latest
      steps:
        - checkout
-       - run: echo "A first hello"
-       - run: echo "Hello Matt"
+       - run: python3 -v
+       - run: echo "test"
