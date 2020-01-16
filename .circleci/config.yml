@@ -31,7 +31,7 @@ jobs:
     docker:
       - image: circleci/python:3.6
     steps:
-      - checkout
+      - run: checkout
       - run: 
         name: install required
         command: |
