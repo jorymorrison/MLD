@@ -1,21 +1,4 @@
 version: 2.1
-workflows:
-  build_and_deploy:
-    jobs:
-      - test-python-install:
-          version: "3.4"
-      - test-python-install:
-          version: "3.5"
-      - test-python-install:
-          version: "3.6"
-      - test-python-install:
-          version: "3.7"
-      - deploy:
-          filters:
-            tags:
-              only: /[0-9]+(\.[0-9]+)*/
-            branches:
-              ignore: /.*/
 jobs:
   build:
     docker:
