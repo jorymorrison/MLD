@@ -6,6 +6,7 @@ jobs:
     steps:
       - run: python3 -m pip install --user --upgrade twine
       - run: python3 -m pip install --user --upgrade setuptools wheel
+      - run: cd ../
       - run: ls
       - run: python3 setup.py sdist bdist_wheel
       - run: python3 -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
