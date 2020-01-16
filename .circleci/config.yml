@@ -41,7 +41,6 @@ jobs:
     docker:
       - image: circleci/python:3.6
     steps:
-      - checkout
       - run:
           name: init .pypirc
           command: |
