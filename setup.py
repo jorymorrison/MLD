@@ -1,11 +1,16 @@
 import setuptools
+import sys
+import os 
+
+tag=os.getenv('CIRCLE_TAG')
+VERSION=tag
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
     name="MLDToolkit", 
-    version="0.0.8",
+    version=VERSION,
     author="Matthew Zorumski", 
     author_email="mattzor@cox.net",
     description="A text analysis tool.",
