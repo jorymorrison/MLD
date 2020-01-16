@@ -7,7 +7,7 @@ jobs:
       - run: python3 -m pip install --user --upgrade twine
       - run: python3 -m pip install --user --upgrade setuptools wheel
       - run: cd ../
-      - run: ls
+      - run: cd benv/bin/activate
       - run: python3 setup.py sdist bdist_wheel
       - run: python3 -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
   deploy:
