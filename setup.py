@@ -3,7 +3,7 @@ import sys
 import os 
 
 tag=os.getenv('CIRCLE_TAG')
-VERSION=tag
+VERSION=0.5.0
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
