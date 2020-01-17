@@ -1,17 +1,20 @@
 version: 2.1
 jobs:
   build:
+    working_directory: ~/MLD
     docker:
       - image: circleci/python:3.6
     steps:
-      #- run: python3 -m pip install --user --upgrade twine
-      #- run: python3 -m pip install --user --upgrade setuptools wheel
-      - run: git clone https://github.com/jorymorrison/MLD.git
-      - run: ls
-      - run: cd MLD && ls
-      - run: git branch
-      - run: git checkout Module
-      - run: git pull
+      - run:
+        command: |
+        
+          #python3 -m pip install --user --upgrade twine
+          #python3 -m pip install --user --upgrade setuptools wheel
+          git clone https://github.com/jorymorrison/MLD.git
+          ls
+          git branch
+          git checkout Module
+          git pull
       - run: python3 setup.py sdist bdist_wheel
       - run: python3 -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
       - run: echo -e MZorumski
