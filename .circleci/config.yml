@@ -16,7 +16,7 @@ jobs:
           git checkout Module
           git pull
           python3 setup.py sdist bdist_wheel
-          python3 -m twine upload --repository-url https://pypi.python.org/pypi/ dist/*
+          python3 -m twine upload --repository-url https://upload.pypi.org/ dist/*
 workflows:
   version: 2
   my-workflow:
