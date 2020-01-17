@@ -1,15 +1,5 @@
 version: 2.1
 jobs:
-  make_pypirc:
-    docker:
-      - image: circleci/python:3.6
-    steps:
-      - run:
-          name: init .pypirc
-          command: |
-            echo -e "[pypi]" >> ~/.pypirc
-            echo -e "username = jorymorrison" >> ~/.pypirc
-            echo -e "password = $PYPI_PASS" >> ~/.pypircjobs:
   build:
     docker:
       - image: circleci/python:3.6
@@ -22,7 +12,7 @@ jobs:
           pwd
           echo -e "[pypi]" >> ~/.pypirc
           echo -e "username = jorymorrison" >> ~/.pypirc
-          echo -e "password = $PYPI_PASS" >> ~/.pypircjobs:
+          echo -e "password = $PYPI_PASS" >> ~/.pypirc
           pwd
           cat ~/.pypirc
           cd MLD
