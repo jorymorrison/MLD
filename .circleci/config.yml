@@ -1,6 +1,6 @@
 version: 2.1
 jobs:
-  - build:
+  build:
     context: mld-central
     docker:
       - image: circleci/python:3.6
