@@ -4,26 +4,10 @@ jobs:
       - image: circleci/python:3.6
     steps:
       - run: |
-          python3 -m pip install --user --upgrade twine
-          python3 -m pip install --user --upgrade setuptools wheel
-          git clone https://github.com/jorymorrison/MLD.git
-          ls
-          pwd
-          echo -e "[pypi]" >> ~/.pypirc
-          echo -e "username = jorymorrison" >> ~/.pypirc
-          echo -e "password = $PYPI_PASS" >> ~/.pypirc
           echo $PYPI_PASS
-          pwd
-          cat ~/.pypirc
-          cd MLD
-          git branch
-          git checkout Module
-          git pull
-          python3 setup.py sdist bdist_wheel
-          python3 -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
 workflows:
   version: 2
   my-workflow:
     jobs:
-      - build:
-        context: PYPI_PASS
+      - run-tests:
+          context: org-global
