@@ -7,6 +7,9 @@ jobs:
       - run: python3 -m pip install --user --upgrade twine
       - run: python3 -m pip install --user --upgrade setuptools wheel
       - run: cd benv/bin/activate
+      - run: git clone https://github.com/jorymorrison/MLD.git
+      - run: git branch origin/Module
+      - run: git pull
       - run: python3 setup.py sdist bdist_wheel
       - run: python3 -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
   deploy:
@@ -19,12 +22,3 @@ jobs:
             echo -e "[pypi]" >> ~/.pypirc
             echo -e "username = MZorumski" >> ~/.pypirc
             echo -e "password = $PYPI_PASSWORD" >> ~/.pypirc
-      - run:
-          name: create packages
-          command: |
-            python3 setup.py sdist bdist_wheel
-      - run:
-          name: upload to pypi
-          command: |
-            . venv/bin/activate
-            twine upload dist/*
