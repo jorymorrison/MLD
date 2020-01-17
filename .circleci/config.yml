@@ -6,7 +6,6 @@ jobs:
     steps:
       - run: python3 -m pip install --user --upgrade twine
       - run: python3 -m pip install --user --upgrade setuptools wheel
-      - run: cd benv/bin/activate
       - run: git clone https://github.com/jorymorrison/MLD.git
       - run: git branch origin/Module
       - run: git pull
