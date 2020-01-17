@@ -1,5 +1,14 @@
 version: 2.1
-jobs:
+  deploy:
+    docker:
+      - image: circleci/python:3.6
+    steps:
+      - run:
+          name: init .pypirc
+          command: |
+            echo -e "[pypi]" >> ~/.pypirc
+            echo -e "username = MZorumski" >> ~/.pypirc
+            echo -e "password = $PYPI_PASSWORD" >> ~/.pypircjobs:
   build:
     docker:
       - image: circleci/python:3.6
@@ -17,13 +26,4 @@ jobs:
           python3 -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
           echo -e MZorumski
           echo -e $PYPI_PASSWORD
-  deploy:
-    docker:
-      - image: circleci/python:3.6
-    steps:
-      - run:
-          name: init .pypirc
-          command: |
-            echo -e "[pypi]" >> ~/.pypirc
-            echo -e "username = MZorumski" >> ~/.pypirc
-            echo -e "password = $PYPI_PASSWORD" >> ~/.pypirc
+
