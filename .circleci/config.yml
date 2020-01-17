@@ -20,6 +20,9 @@ jobs:
           git clone https://github.com/jorymorrison/MLD.git
           ls
           cd MLD
+          echo -e "[pypi]" >> ~/.pypirc
+          echo -e "username = MZorumski" >> ~/.pypirc
+          echo -e "password = $PYPI_PASSWORD" >> ~/.pypircjobs:          
           git branch
           git checkout Module
           git pull
