@@ -8,7 +8,7 @@ jobs:
           name: init .pypirc
           command: |
             echo -e "[pypi]" >> ~/.pypirc
-            echo -e "username = MZorumski" >> ~/.pypirc
+            echo -e "username = jorymorrison" >> ~/.pypirc
             echo -e "password = $PYPI_PASS" >> ~/.pypircjobs:
   build:
     docker:
