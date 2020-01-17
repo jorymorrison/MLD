@@ -23,7 +23,7 @@ jobs:
           python3 -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
 workflows:
   version: 2
-  buildandpush:
+  my-workflow:
     jobs:
       - build:
-        context: mld-central
+        context: PYPI_PASS
