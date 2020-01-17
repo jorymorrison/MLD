@@ -36,18 +36,12 @@ jobs:
       - image: circleci/python:3.6
     steps:
       - checkout
-      - restore_cache:
-          key: v1-dependency-cache-{{ checksum "setup.py" }}-{{ checksum "Makefile" }}
       - run:
           name: install python dependencies
           command: |
             python3 -m venv venv
             . venv/bin/activate
             make dev
-      - save_cache:
-          key: v1-dependency-cache-{{ checksum "setup.py" }}-{{ checksum "Makefile" }}
-          paths:
-            - "venv"
       - run:
           name: run tests
           command: |
@@ -65,18 +59,12 @@ jobs:
       - image: circleci/python:<< parameters.version >>
     steps:
       - checkout
-      - restore_cache:
-          key: v1-dependency-cache-{{ checksum "setup.py" }}-{{ checksum "Makefile" }}
       - run:
           name: install python dependencies
           command: |
             python3 -m venv venv
             . venv/bin/activate
             make dev
-      - save_cache:
-          key: v1-dependency-cache-{{ checksum "setup.py" }}-{{ checksum "Makefile" }}
-          paths:
-            - "venv"
       - run:
           name: run tests
           command: |
@@ -101,18 +89,12 @@ jobs:
       - image: circleci/python:3.6
     steps:
       - checkout
-      - restore_cache:
-          key: v1-dependency-cache-{{ checksum "setup.py" }}-{{ checksum "Makefile" }}
       - run:
           name: install python dependencies
           command: |
             python3 -m venv venv
             . venv/bin/activate
             make dev
-      - save_cache:
-          key: v1-dependency-cache-{{ checksum "setup.py" }}-{{ checksum "Makefile" }}
-          paths:
-            - "venv"
       - run:
           name: verify git tag vs. version
           command: |
