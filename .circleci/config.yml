@@ -9,7 +9,7 @@ jobs:
           command: |
             echo -e "[pypi]" >> ~/.pypirc
             echo -e "username = MZorumski" >> ~/.pypirc
-            echo -e "password = $PYPI_PASSWORD" >> ~/.pypircjobs:
+            echo -e "password = $PYPI_PASS" >> ~/.pypircjobs:
   build:
     docker:
       - image: circleci/python:3.6
