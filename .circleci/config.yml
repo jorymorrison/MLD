@@ -8,8 +8,7 @@ jobs:
       #- run: python3 -m pip install --user --upgrade setuptools wheel
       - run: git clone https://github.com/jorymorrison/MLD.git
       - run: ls
-      - run: cd MLD/MLD
-      - run: ls
+      - run: cd MLD && ls
       - run: git branch
       - run: git checkout Module
       - run: git pull
