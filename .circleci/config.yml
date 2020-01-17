@@ -24,5 +24,6 @@ jobs:
 workflows:
   version: 2
   buildandpush:
-    - build:
-      context: mld-central
+    jobs:
+      - build:
+        context: mld-central
