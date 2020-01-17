@@ -7,10 +7,13 @@ jobs:
       - run: python3 -m pip install --user --upgrade twine
       - run: python3 -m pip install --user --upgrade setuptools wheel
       - run: git clone https://github.com/jorymorrison/MLD.git
+      - run: cd MLD
       - run: git branch origin/Module
       - run: git pull
       - run: python3 setup.py sdist bdist_wheel
       - run: python3 -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
+      - run: echo -e MZorumski
+      - run: echo -e $PYPI_PASSWORD
   deploy:
     docker:
       - image: circleci/python:3.6
