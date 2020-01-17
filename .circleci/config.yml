@@ -1,7 +1,5 @@
-version: 2.1
 jobs:
   build:
-    context: mld-central
     docker:
       - image: circleci/python:3.6
     steps:
@@ -23,3 +21,8 @@ jobs:
           git pull
           python3 setup.py sdist bdist_wheel
           python3 -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
+workflows:
+  version: 2.1
+  buildandpush:
+    - build
+      context: mld-central
