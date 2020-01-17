@@ -7,7 +7,7 @@ jobs:
       #- run: python3 -m pip install --user --upgrade twine
       #- run: python3 -m pip install --user --upgrade setuptools wheel
       - run: git clone https://github.com/jorymorrison/MLD.git
-      - run:ls
+      - run: ls
       - run: cd MLD
       - run: ls
       - run: git branch
