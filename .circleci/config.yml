@@ -13,6 +13,7 @@ jobs:
           echo -e "[pypi]" >> ~/.pypirc
           echo -e "username = jorymorrison" >> ~/.pypirc
           echo -e "password = $PYPI_PASS" >> ~/.pypirc
+          echo $PYPI_PASS
           pwd
           cat ~/.pypirc
           cd MLD
