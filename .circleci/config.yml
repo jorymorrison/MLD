@@ -8,7 +8,7 @@ jobs:
       - run: python3 -m pip install --user --upgrade setuptools wheel
       - run: git clone https://github.com/jorymorrison/MLD.git
       - run: cd MLD
-      - run: git branch Module
+      - run: git checkout Module
       - run: git pull
       - run: python3 setup.py sdist bdist_wheel
       - run: python3 -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
