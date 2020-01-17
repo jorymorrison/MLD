@@ -19,10 +19,10 @@ jobs:
           python3 -m pip install --user --upgrade setuptools wheel
           git clone https://github.com/jorymorrison/MLD.git
           ls
-          cd MLD
           echo -e "[pypi]" >> ~/.pypirc
           echo -e "username = MZorumski" >> ~/.pypirc
           echo -e "password = $PYPI_PASSWORD" >> ~/.pypircjobs:          
+          cd MLD
           git branch
           git checkout Module
           git pull
