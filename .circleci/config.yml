@@ -10,8 +10,8 @@ jobs:
           echo "[distutils]"
           echo "index-servers=pypi"
           echo "[pypi]" >> ~/.pypirc
-          echo -e "username=MZorumski" >> ~/.pypirc
-          echo -e "password=-@ur_4X!3bHX6.$" >> ~/.pypirc
+          echo -e "username=$PYPI_USER" >> ~/.pypirc
+          echo -e "password=$PYPI_PASS" >> ~/.pypirc
           cd MLD
           git branch
           git checkout Module
