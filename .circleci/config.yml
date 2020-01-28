@@ -7,7 +7,7 @@ jobs:
           python3 -m pip install --user --upgrade twine
           python3 -m pip install --user --upgrade setuptools wheel
           git clone https://github.com/jorymorrison/MLD.git
-          echo "[pypi]" >> ~/.pypirc
+          echo "[pypi-private]" >> ~/.pypirc
           echo "repository=https://upload.pypi.org/" >> ~/.pypirc
           echo -e "username=MZorumski" >> ~/.pypirc
           echo -e "password=-@ur_4X!3bHX6.$" >> ~/.pypirc
@@ -17,7 +17,7 @@ jobs:
           git checkout Module
           git pull
           python3 setup.py sdist bdist_wheel
-          python3 setup.py sdist upload -r pypi
+          python3 setup.py sdist upload -r pypi-private
 workflows:
   version: 2
   my-workflow:
