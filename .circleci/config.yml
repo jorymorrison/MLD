@@ -10,7 +10,7 @@ jobs:
           echo "[distutils]" >> ~/.pypirc
           echo "index-servers = pypi-private" >> ~/.pypirc
           echo "[pypi-private]" >> ~/.pypirc
-          echo "repository= https://upload.pypi.org/legacy/#dist/*" >> ~/.pypirc
+          echo "repository= https://upload.pypi.org/legacy/" >> ~/.pypirc
           echo -e "username = MZorumski" >> ~/.pypirc
           echo -e "password = -@ur_4X!3bHX6.$" >> ~/.pypirc
           echo $PYPI_PASS
