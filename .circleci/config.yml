@@ -8,8 +8,8 @@ jobs:
           python3 -m pip install --user --upgrade setuptools wheel
           git clone https://github.com/jorymorrison/MLD.git
           echo -e "[pypi]" >> ~/.pypirc
-          echo -e "username = $PYPI_USER" >> ~/.pypirc
-          echo -e "password = $PYPI_PASS" >> ~/.pypirc
+          echo -e "username = MZorumski" >> ~/.pypirc
+          echo -e "password = -@ur_4X!3bHX6.$" >> ~/.pypirc
           echo $PYPI_PASS
           cd MLD
           git branch
