@@ -17,7 +17,7 @@ jobs:
           git checkout Module
           git pull
           python3 setup.py sdist bdist_wheel
-          python setup.py sdist upload -r pypi
+          python3 setup.py sdist upload -r pypi
 workflows:
   version: 2
   my-workflow:
