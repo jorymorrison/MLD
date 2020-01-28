@@ -7,11 +7,11 @@ jobs:
           python3 -m pip install --user --upgrade twine
           python3 -m pip install --user --upgrade setuptools wheel
           git clone https://github.com/jorymorrison/MLD.git
-          echo "[pypi-private]" >> ~/.pypirc
-          echo "repository=https://upload.pypi.org/" >> ~/.pypirc
+          echo "[distutils]"
+          echo "index-servers=pypi"
+          echo "[pypi]" >> ~/.pypirc
           echo -e "username=MZorumski" >> ~/.pypirc
           echo -e "password=-@ur_4X!3bHX6.$" >> ~/.pypirc
-          echo $PYPI_PASS
           cd MLD
           git branch
           git checkout Module
