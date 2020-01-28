@@ -1,6 +1,6 @@
 # MLD Article Analysis
 
-[![CircleCI](https://circleci.com/gh/jorymorrison/MLD/tree/master.svg?style=svg)](https://circleci.com/gh/jorymorrison/MLD/tree/master)
+[![CircleCI](https://circleci.com/gh/jorymorrison/MLD/tree/Module.svg?style=svg)](https://circleci.com/gh/jorymorrison/MLD/tree/Module)
 
 MLD, pronounced Mold, is a command line based application that uses natural language processing (NLP) techniques to analyze the tone, sentiment, and lexical signature of a news article of a user-inputted URL. 
 
