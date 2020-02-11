@@ -15,9 +15,15 @@ for w in range(len(contents)):
         elif contents[x]['article']['title']==contents[w]['article']['title']:
             continue
         else:
-            test=[]
-            for y in range(len(contents[w]['tone'])):
-                for z in range(len(contents[x]['tone'])):
+            count = 0
+            for p in range(5):
+                for q in range(p,5,1):
+                    if contents[x]['lexical_signature'].keys()[p]==contents[w]['lexical_signature'].keys()[p]:
+                        count+=1
+            if count>=4:
+                test=[]
+                for y in range(len(contents[w]['tone'])):
+                    for z in range(len(contents[x]['tone'])):
                         if contents[w]['tone'][y]['tone_id']==contents[x]['tone'][z]['tone_id']:
-                                outputs.append(chisquare([contents[w]['tone'][y]['score'], contents[x]['tone'][z]['score']]))
+                            outputs.append(chisquare([contents[w]['tone'][y]['score'], contents[x]['tone'][z]['score']]))
 print(outputs)
