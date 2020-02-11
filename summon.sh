@@ -34,8 +34,8 @@ while [  $COUNTER -lt $depth ]; do
 done
 sort urls.txt | uniq -u > sorted.txt
 
-#while read a
-#do
-#	echo $a
-#	python3 MLD.py $a
-#done < sorted.txt
+while read a
+do
+	echo $a
+	python3 MLD.py $a
+done < sorted.txt

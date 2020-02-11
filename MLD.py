@@ -1,4 +1,4 @@
-import json, sys, math, glob, os, datetime, platform, argparse
+import json, sys, math, glob, os, datetime, platform, argparse, re
 import urllib
 from textblob import TextBlob
 from goose3 import Goose
@@ -29,8 +29,8 @@ def fileContents(name):
     return open(name, "r").read()
 
 def astrip(doc):
-  re.sub('(\s+)(a|an|and|the|of|to|in|is|you|that|it|he|was|for|on|are|as|with|his|they|i|at|be|this|have|from|or|one|had|by|word|but|not|what|all|were|we|when|your|can|said|there|use|each|which|she|do|how|their|if)(\s+)', '\1\3', doc)
-  #currently doing top 50 words used in english language according to 'https://www.empire-skola.sk/data/USR_042_IMAGES/The_100_Most_Common_Written_Words_in_English.pdf'
+    re.sub('(\s+)(a|an|and|the|of|to|in|is|you|that|it|he|was|for|on|are|as|with|his|they|i|at|be|this|have|from|or|one|had|by|word|but|not|what|all|were|we|when|your|can|said|there|use|each|which|she|do|how|their|if)(\s+)', '\1\3', doc)
+    #currently doing top 50 words used in english language according to 'https://www.empire-skola.sk/data/USR_042_IMAGES/The_100_Most_Common_Written_Words_in_English.pdf'
 def tf(word, blob):
     return blob.words.count(word) / len(blob.words)
 
@@ -119,13 +119,14 @@ tone_analyzer = ToneAnalyzerV3(
    password=keys[1]
 )
 
-url = args.url
-#url = input('Enter the URL of a news article:')
-url = url.replace(' ','')
+
 
 try:
-     sys.stdout.write("Retrieving satus code...")
-     page = urllib.request.urlopen(url, data=None)
+    url = args.url
+    #url = input('Enter the URL of a news article:')
+    url = url.replace(' ','')
+    sys.stdout.write("Retrieving satus code...")
+    page = urllib.request.urlopen(url, data=None)
 
 # error thrown if the status code is bad
 except urllib.error.HTTPError as e:
@@ -135,8 +136,13 @@ except urllib.error.HTTPError as e:
 
 # error thrown if the URL is bad
 except (urllib.error.URLError, ValueError):
-     sys.stdout.write(bcolors.FAIL + '\rFailed to retrieve status code.\nExiting program...\n' + bcolors.txt)
+     sys.stdout.write(bcolors.FAIL + '\rFailed to retrieve status code.\nExiting program...\n')
      exit()
+
+except ():
+    sys.stdout.write('Unkown Error.\nExiting program...\n')
+    exit()
+
 
 scode = str(page.getcode())
 
