@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "'Today, I signed into law the Alabama Human Life Protection Act, a bill that was approved by overwhelming majorities in both chambers of the Legislature,' said Ivey, a Republican, in a statement. 'To the bill's many supporters, this legislation stands as a powerful testament to Alabamians' deeply held belief that every life is precious and that every life is a sacred gift from God.'      'No matter one's personal view on abortion, we can all recognize that, at least for the short term, this bill may similarly be unenforceable,' Ivey wrote. 'As citizens of this great country, we must always respect the authority of the U.S. Supreme Court even when we disagree with their decisions. Many Americans, myself included, disagreed when Roe v. Wade was handed down in 1973. The sponsors of this bill believe that it is time, once again, for the U.S. Supreme Court to revisit this important matter, and they believe this act may bring about the best opportunity for this to occur.'",
+        "date": "2020-02-11 15:29:42.596526",
+        "title": "Alabama governor signs nation's most restrictive anti-abortion bill into law",
+        "url": "https://www.cnn.com/2019/05/15/politics/alabama-governor-signs-bill/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.2696296296296296,
+        "subjectivity": 0.5492592592592592
+    },
+    "signature": {
+        "Act": 0.02145819723626413,
+        "Ivey": 0.02145819723626413,
+        "Life": 0.0321872958543962,
+        "bill": 0.04291639447252826,
+        "life": 0.0321872958543962
+    },
+    "tone": [
+        {
+            "score": 0.577192,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Bloomberg, who Forbes estimates is worth more than $44 billion, spent his own money on his three successful bids for mayor. The billionaire is now considering running for the 2020 Democratic presidential nomination and has said he intends to decide whether to run in 'another month or so.'      On Friday, while traveling to Austin, Texas, for a philanthropic trip, Bloomberg told reporters that if he did run, he would do so by spending his own money.      'In terms of running for office, I ran three times. I used only my own money, so I didn't have to ask anybody what they wanted in return for a contribution,' he said, referring to a practice that would appear to run afoul of federal bribery law . 'The public liked that every time they elected me. And, if I ran again, I would do the same thing.'      Bloomberg added, 'I think not having to adjust what you say and what you work on based on who financed your campaign is one of the things that the public really likes and it's the right direction to go. I understand not everybody can be self-funded, but those that can I think should.'      Bloomberg's plan to bet on himself in 2020 does not sit well with some in the Democratic Party, namely those aligned with Sen. Elizabeth Warren of Massachusetts, who has urged Democrats to reject candidates who use super PACs or self-fund their campaigns. 'I think this is a moment for all of the Democratic candidates as they come into the race to say: In a Democratic primary, we are going to link arms and we're going to grass-roots funding. No to the billionaires,' Warren said on MSNBC's 'The Rachel Maddow Show' earlier this month. She added, 'No to the billionaires, whether they are self-funding or whether they're funding PACs. We are the Democratic Party, and that is the party of the people. That's how we not only win elections, that's how we build movements that make real change.' That call was quickly echoed by the Progressive Change Campaign Committee, a liberal group aligned with Warren's 2020 run. The Warren call was seen as a direct shot at Bloomberg and billionaire Tom Steyer, who announced this week that he would not seek the presidency after flirting with a run for months. The attacks on Bloomberg have not stopped with Warren. Sen. Bernie Sanders, a Vermont independent who is also considering a 2020 run, has routinely hit the 'billionaire class' and made attacks like that a central part of his 2016 campaign against Hillary Clinton. And Connie Schultz, wife of Democratic senator and possible 2020 candidate Sherrod Brown of Ohio, jokingly tweeted last month about men who try to 'buy' the presidency. 'I want a man who wants to buy himself a presidency, I've thought precisely never,' she wrote. Bloomberg spent well over $100 million on Democratic causes in 2018, money that Republicans operatives believe helped Democrats take back the House of Representatives in November's elections. Should Bloomberg decide to run, the price tag for a full presidential campaign will likely top what he spent just two years earlier.",
+        "date": "2020-02-11 15:26:39.383412",
+        "title": "Mike Bloomberg would self-fund potential 2020 campaign, setting up clash with other Democrats",
+        "url": "https://www.cnn.com/2019/01/11/politics/bloomberg-self-fund-campaign/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.20435374149659863,
+        "subjectivity": 0.4800680272108845
+    },
+    "signature": {
+        "2020": 0.016808250180375753,
+        "Bloomberg": 0.0268932002886012,
+        "Democratic": 0.02353155025252605,
+        "That": 0.016906028794145007,
+        "run": 0.014428303978755663
+    },
+    "tone": [
+        {
+            "score": 0.515748,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.503337,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.596122,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

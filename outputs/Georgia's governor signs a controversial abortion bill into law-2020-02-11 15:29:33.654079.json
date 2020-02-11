@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Atlanta (CNN) Georgia Gov. Brian Kemp on Tuesday signed a bill that would ban abortions if a fetal heartbeat can be detected -- a law that the American Civil Liberties Union says it will challenge in court.      Currently in Georgia, women are allowed to undergo abortion procedures up to their 20th week of pregnancy. Starting on January 1, the bill Kemp signed generally would ban abortions after a fetal heartbeat is detected, which can be as early as six weeks into a pregnancy -- when many women don't yet know they're pregnant.      '(The bill) is very simple but also very powerful: a declaration that all life has value, that all life matters, and that all life is worthy of protection,' Kemp, flanked by supporters of the bill, said Tuesday morning before signing the legislation at the state Capitol.      'I realize that some may challenge it in a court of law. But our job is to do what is right, not what is easy. We are called to be strong and courageous, and we will not back down. We will always continue to fight for life.'      The legislation says that 'no abortion is authorized or shall be performed if the unborn child has been determined to have a human heartbeat.' It includes some exceptions, including if the pregnancy risks the life or poses substantial and irreversible physical harm to the pregnant woman.      Proponents, such as the Republican author, state Rep. Ed Setzler, say abortion is a 'barbaric procedure' and that many other options exist for women, including adoption and the 'morning after' pill.      Critics, including the ACLU, say Georgia's legislation 'would ban safe, legal abortion and criminalize the most intimate decision women and couples make.'      Outside the Capitol, dozens protested the legislation Tuesday morning -- including four women dressed in red cloaks in the style of 'The Handmaid's Tale.' Those four stood in silent protest, holding signs with various messages, including 'Trust Women.'      Another protester, Gloria Tatum, held a sign reading, 'Say no to Republican and anti-woman sexist laws.'      Tatum said that if supporters of bills such as this have their way, Roe v. Wade will be overturned and access to abortion will be gone.      Women are not going to take it, she said.      'They will get a revolution in this country like they've never seen before, because we are not going back,' said Tatum, 76, of Decatur, Georgia.      ACLU and Planned Parenthood say legislation will be challenged      Andrea Young, the executive director of the ACLU of Georgia, told CNN the organization is in the process of preparing a court challenge to the bill. She said the ACLU believes it's a clear violation of Roe v. Wade.      'Today's women can only thrive in a state that protects their most basic rights -- the right to choose when and whether to start a family. Georgia can't afford to go backward on women's health and rights,' Young said in a written statement Tuesday. 'We will act to block this assault on women's health, rights and self-determination.'      Staci Fox, CEO of Planned Parenthood Southeast, said she had a few messages.      To Georgia's governor, she said, 'We will see you in court.'      To the lawmakers who supported the bill, she said, 'We are coming for their seats.'      An anti-abortion group says it withdrew support of the law over exceptions      One anti-abortion group told CNN on Monday it no longer supports the so-called heartbeat bill because it does not go far enough.      Genevieve Wilson, executive director of Georgia Right to Life, said the group 'believes in promoting social justice for all preborn children, without exception.'      The bill includes some exceptions for situations of medical futility or where the mother's health is at risk as well as in cases of rape or incest before the 20-week mark, if an official police report has been filed.      Wilson said those exceptions are 'discriminatory and wrong' and create 'a two-tiered framework for determining which children in the womb are allowed to live and which are not.'      She said the group supported the bill until the exceptions were added during the legislative process.      But many times such bills are held up in committees, rejected in legislative votes, vetoed by governors and struck down in courts. No state has been able to put a so-called heartbeat bill into lasting practice.      Actress Alyssa Milano has staunchly opposed the bill and had urged the film and TV industry, which shoots many projects in Georgia, to get out of the state if it becomes law. She used a hashtag on Twitter that says #HB481IsBad ForBusiness.      'There are over 20 productions shooting in GA & the state just voted to strip women of their bodily autonomy,' she said in a March tweet. 'Hollywood! We should stop feeding GA economy.'      The Writers Guild of America East and West also condemned HB481, saying it 'would make Georgia an inhospitable place for those in the film and television industry.'      'It is entirely possible that many of those in our industry will either want to leave the state or decide not to bring productions there,' the Writers Guild said.",
+        "date": "2020-02-11 15:29:33.654079",
+        "title": "Georgia's governor signs a controversial abortion bill into law",
+        "url": "https://www.cnn.com/2019/05/07/health/georgia-abortion-bill/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.1356677746856318,
+        "subjectivity": 0.41399518140589564
+    },
+    "signature": {
+        "Georgia": 0.020931769500327744,
+        "To": 0.03080221370097504,
+        "Women": 0.023024946450360517,
+        "bill": 0.023024946450360517,
+        "women": 0.01411768127961356
+    },
+    "tone": [
+        {
+            "score": 0.540872,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.636439,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

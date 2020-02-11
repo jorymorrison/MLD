@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Here's a look at the life of Great Britain's Prince Philip, husband of Queen Elizabeth II.      Birth name: Prince Philip of Greece and Denmark      His full title is HRH The Prince Philip, Duke of Edinburgh, Earl of Merioneth and Baron Greenwich, Knight of the Garter, Knight of the Thistle, Order of Merit, Knight Grand Cross of the Order of the British Empire, Companion of the Order of Australia, Companion of The Queen's Service Order, Privy Counsellor.      His ancestry is not Greek by blood, but English, Russian, German/Prussian and Danish.      Philip is the youngest of five children and the only son.      Is a third cousin of his wife, the Queen, and like her, he is a great-great-grandchild of Queen Victoria. He is also Queen Victoria's oldest living great-great-grandchild.      His interests are painting, environmental conservation, horses, flying and sailing. He has written books on birds, the environment, carriage driving and other subjects.      After earning his RAF wings in 1953, Philip logged more than 5,900 hours in 59 different types of aircraft over the next 44 years.      1922 - The overthrow of his brother, King Constantine I of Greece, causes Prince Andrew, Princess Alice and their five children to leave Greece and settle in Paris.      1930 - After his parents' separation in 1930, Philip is sent to England and raised there by his maternal grandmother and uncle.      1940 - Serves as a midshipman, his first posting, on the HMS Ramillies of the Mediterranean Fleet.      1942 - Becomes a sub-lieutenant in the British Royal Navy.      February 1947 - Becomes a naturalized British citizen and a commoner, using the surname Mountbatten, an English translation of his mother's maiden name. Prior to taking the British oath of citizenship, being sixth in line to the throne of Greece, he renounces all claims to titles in both Greece and Denmark.      November 19, 1947 - Is invested as a Knight of the Order of the Garter and is given the titles of Duke of Edinburgh, Earl of Merioneth and Baron Greenwich.      1948 - Is appointed as a personal aide-de-camp to his father-in-law, King George VI.      1953 - Is appointed admiral of the fleet, field marshal of the Army and marshal of the Royal Air Force. Is designated regent presumptive by an act of parliament. In the event of the Queen's death or incapacitation, Philip would rule as regent for Prince Charles.      1956-1970 - Serves as president of the Royal Yachting Association.      1957 - By Queen's decree, is 'granted style and titular dignity of a Prince of the United Kingdom.' He is invested as a Grand Master and First or Principal Knight of the Order of the British Empire. This decree restores his birth title of prince.      1961-1981 - First president of the World Wildlife Fund - UK.      June 1968 - Is awarded the Order of the Merit by the Queen, an honor bestowed to those of, 'great achievement in the fields of the arts, learning, literature and science,' and is restricted to 24 members.      1975-1980 - Serves as president of the Royal Yachting Association for the second time.      June 10, 2011 - His 90th birthday makes him the oldest-serving royal consort.      June 7-17, 2013 - Is a patient in London Clinic, admitted for abdominal pain, he has exploratory surgery the following day and is released following his recuperation.",
+        "date": "2020-02-11 15:17:32.204232",
+        "title": "Prince Philip Fast Facts",
+        "url": "https://www.cnn.com/2013/01/24/world/europe/prince-philip-fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.13916666666666666,
+        "subjectivity": 0.27083333333333326
+    },
+    "signature": {
+        "His": 0.0464530232762829,
+        "Is": 0.05972531564093517,
+        "Philip": 0.02322651163814145,
+        "Prince": 0.02322651163814145,
+        "Queen": 0.02654458472930452
+    },
+    "tone": [
+        {
+            "score": 0.621906,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.515042,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

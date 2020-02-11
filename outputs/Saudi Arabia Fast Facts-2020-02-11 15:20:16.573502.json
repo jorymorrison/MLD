@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) Here's a look at Saudi Arabia, a large, oil-rich Middle Eastern country bordering Yemen, Oman, the United Arab Emirates, Qatar, Kuwait, Iraq, Jordan, the Red Sea and the Persian Gulf. Saudi Arabia is home to Islam's holiest cities, Mecca and Medina.      Area: 2,149,690 sq km, about one-fifth the size of the United States      More than 30% of Saudi Arabia's population is made up of foreign workers.      Religion -       The Wahhabi, or Salafi, branch of Sunni Islam has been closely tied to the Saud family since the 18th century. When the Saud family established the modern country of Saudi Arabia in the 1930s, the Wahhabi interpretation of Islam become the country's official state-sponsored religion.      Saudi Arabia bans public worship by non-Muslims and severely restricts public displays of religion by non-Wahhabi sect Muslims, including Shiites.      September 23, 1932 - Abd-al-Aziz Bin-Abd-al-Rahman Bin-Faysal Bin-Turki Bin-Abdallah Bin-Muhammad Al Saud, also known as Ibn Saud, establishes the kingdom of Saudi Arabia, 30 years after Saud's family returned to the Arabian Peninsula from exile.      1939 - Saudi Arabia declares its neutrality at the outbreak of World War II and maintains it for most of the war.      1944 - California-Arabian Standard Oil changes its name to Arabian American Oil (Aramco).      1950 - Aramco begins sharing 50% of its income with the government of Saudi Arabia.      1953 - Ibn Saud dies and is succeeded by his son Saud Ibn Abd al-Aziz.      November 1964 - King Saud is deposed and replaced by his half-brother Faisal.      March 25, 1975 - King Faisal is murdered by a nephew. His half-brother Khalid succeeds him.      May 1981 - Saudi Arabia, Bahrain, Kuwait, Oman, Qatar and the United Arab Emirates establish the Gulf Cooperation Council (GCC).      June 13, 1982 - King Khalid dies and is succeeded by his half-brother Crown Prince Fahd.      February 27-March 1991 - US and coalition forces defeat Iraq and liberate Kuwait.      June 25, 1996 - A group of terrorists attack the US Air Force housing complex known as Khobar Towers in Dhahran. Nineteen service members are killed.      May 12, 2003 - Assailants set off car bombs at three housing compounds in Riyadh, Saudi Arabia. Approximately 23 people are killed, including nine Americans.      April 29, 2015 - King Salman, in a surprise power-shifting move, appoints Interior Minister Mohammed bin Nayef as crown prince, replacing his half-brother Prince Muqrin as his successor, and Defense Minister Mohammed bin Salman, his son, as deputy crown prince.      November 4, 2017 - The official Saudi news agency reports that the country's military intercepted a Yemen-borne ballistic missile north of the capital city of Riyadh, that was targeting King Khalid International Airport.      November 7, 2017 - The Saudi Arabian Monetary Authority (SAMA) confirms that it has frozen the personal bank accounts of the royal family members and senior officials after the arrests related to the government's anti-corruption sweep.      February 23, 2019 - Saudi Arabia appoints its first female ambassador, naming Princess Reema bint Bandar Al Saud as ambassador to the United States.",
+        "date": "2020-02-11 15:20:16.573502",
+        "title": "Saudi Arabia Fast Facts",
+        "url": "https://www.cnn.com/2015/04/01/middleeast/saudi-arabia-fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.047240259740259756,
+        "subjectivity": 0.1994047619047619
+    },
+    "signature": {
+        "Arabia": 0.04055422666977079,
+        "His": 0.025807235153490503,
+        "King": 0.01843373939535036,
+        "Saud": 0.033180730911630645,
+        "Saudi": 0.047927722427910935
+    },
+    "tone": [
+        {
+            "score": 0.515553,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.622035,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

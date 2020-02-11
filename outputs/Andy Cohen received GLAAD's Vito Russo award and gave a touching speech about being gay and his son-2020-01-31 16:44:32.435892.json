@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "(CNN) After 21-year-old Andy Cohen came out as gay during his time as a CBS intern, he never looked back.      Nearly 30 years later, the Emmy-Award winning host and producer was honored with the Vito Russo Award at the 30th Annual GLAAD Media Awards Saturday night.      'I am very honored and humbled to receive this award,' Cohen said. '(Russo)... saw how gay visibility could change minds and open hearts.'      Russo, an LGBT activist, film historian and author, help found GLAAD and pushed for the inclusion of LGBTQ performers and stories in the entertainment industry.      It was shortly before Russo passed away in 1990 that Cohen got to hear him in an interview, while he was interning at CBS.      'Hardly anyone seemed to be openly gay in the newsroom,' he said. 'Seeing Vito Russo that morning and the bigotry of some of my coworkers, it changed me. A month later I came out at work, I was just an intern but I made it clear to everyone that I was a super gay intern,' he said.      'No hate, no bias, no bigotry' in son's eyes      Cohen says he's thankful 'to be gay today,' but 'the fight is not over.'      'It's a fight I'm committed to even more so now that I'm a father,' he said.      In February, Cohen introduced his baby son, Benjamin, to the world in a Instagram post, saying he was 'in love,' 'speechless,' and 'eternally grateful to an incredible surrogate.'      On Saturday, Cohen remembered back to the time his son was born, saying 'I looked into his eyes and I saw that there was no hate, no bias, no bigotry, just love.      'That's how we come into this world and that is how we hopefully one day we will all live in it.'",
+        "date": "2020-01-31 16:44:32.435892",
+        "title": "Andy Cohen received GLAAD's Vito Russo award and gave a touching speech about being gay and his son",
+        "url": "https://www.cnn.com/2019/05/06/entertainment/andy-cohen-glaad-awards/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.2650568181818182,
+        "subjectivity": 0.48576388888888883
+    },
+    "signature": {
+        "Cohen": 0.03571613559923033,
+        "Russo": 0.029763446332691946,
+        "bigotry": 0.017858067799615164,
+        "gay": 0.029763446332691946,
+        "intern": 0.017858067799615164
+    },
+    "tone": [
+        {
+            "score": 0.619282,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.547338,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.522584,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

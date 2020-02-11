@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Credico's attorney, Martin Stolar, said he was still unsure how his client planned to respond.      'I'm mulling it over,' Credico said.      Roger Stone claimed Credico, a radio host and comedian, was his back channel to WikiLeaks founder Julian Assange during the 2016 campaign. Credico has denied the claim.      The Senate subpoena calls for Credico to testify before the committee on October 5.      The committee is also calling on Credico to hand over a variety of documents, including any of his communications regarding a number of people and entities, including DCLeaks, Guccifer 2.0, Roger Stone, Julian Assange and Henry Greenberg. The Senate is also seeking any communication related to 'derogatory information' about Hillary Clinton or communications about Russian attempts to meddled in the 2016 election. The subpoena also calls on Credico to turn over any documents he has handed over to special counsel Robert Mueller or the FBI. During the 2016 presidential campaign, Stone appeared to predict that WikiLeaks would soon release damaging information about Clinton. He said it would be Clinton campaign chairman John Podesta's 'time in the barrel' ahead of WikiLeaks' release of Podesta's emails. Stone has denied having any prior knowledge of the Podesta email release and said he was referring to his own research into Podesta. Credico has testified before Mueller's grand jury, but has managed to rebuff efforts to testify on Capitol Hill. When Credico was subpoenaed last year by the House Intelligence Committee, he said he would assert his Fifth Amendment right against self-incrimination and would only testify if the panel offered him immunity. The House Intelligence Committee wrapped up its Russia investigation earlier this year.",
+        "date": "2020-02-11 15:25:37.096800",
+        "title": "Senate Intel subpoenas Randy Credico, who Roger Stone claims was Wikileaks' back channel",
+        "url": "https://www.cnn.com/2018/09/25/politics/randy-credico-subpoena/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.15844155844155844,
+        "subjectivity": 0.4612554112554113
+    },
+    "signature": {
+        "Committee": 0.02596752853953703,
+        "Credico": 0.058426939213958314,
+        "Podesta": 0.02596752853953703,
+        "Stone": 0.02596752853953703,
+        "committee": 0.02596752853953703
+    },
+    "tone": [
+        {
+            "score": 0.727201,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.609453,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

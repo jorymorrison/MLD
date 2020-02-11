@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Two coronavirus patients in suburban Chicago were discharged Thursday night from a hospital and are in isolation at their home, AMITA Health St. Alexius Medical Center spokesman Timothy Nelson told CNN.      The husband and wife, both in their 60s, returned home under guidance from the US Centers for Disease Control and Prevention and the Illinois Department of Public Health, according to the hospital.      'With it being an uncomfortable situation, the care and the services we've received have been great. Everyone's been very kind and very respectful,' the patients said in a statement provided by the hospital. 'This has been the best healthcare experience we've ever had, but we're definitely looking forward to getting home and getting life back to normal.'",
+        "date": "2020-02-11 15:40:29.522441",
+        "title": "Both Illinois coronavirus patients discharged from hospital",
+        "url": "https://www.cnn.com/2020/02/07/us/illinois-coronavirus-patients-discharge/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.23166666666666666,
+        "subjectivity": 0.4397222222222223
+    },
+    "signature": {
+        "'ve": 0.017719553043034027,
+        "Health": 0.028899346277871853,
+        "home": 0.04334901941680778,
+        "hospital": 0.04334901941680778,
+        "patients": 0.028899346277871853
+    },
+    "tone": [
+        {
+            "score": 0.745606,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.791351,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+        }
+    ]
+}

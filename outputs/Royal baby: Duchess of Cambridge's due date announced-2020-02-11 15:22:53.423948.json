@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "'The Duke and Duchess of Cambridge are delighted to confirm they are expecting a baby in April 2018,' Kensington Palace's official Twitter feed posted on Tuesday.      Kate's pregnancy was announced by the palace last month.      At the time, she was said to be suffering from hyperemesis gravidarum , severe levels of nausea and vomiting, a more serious health risk than the morning sickness many women suffer during early pregnancy.      The duchess was affected by the same condition during her two previous pregnancies.",
+        "date": "2020-02-11 15:22:53.423948",
+        "title": "Royal baby: Duchess of Cambridge's due date announced",
+        "url": "https://www.cnn.com/2017/10/17/europe/royal-baby-april/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.1625,
+        "subjectivity": 0.37812499999999993
+    },
+    "signature": {
+        "Duchess": 0.04317492696935073,
+        "Palace": 0.04317492696935073,
+        "duchess": 0.04317492696935073,
+        "palace": 0.04317492696935073,
+        "pregnancy": 0.04317492696935073
+    },
+    "tone": [
+        {
+            "score": 0.518142,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

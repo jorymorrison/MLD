@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Washington (CNN) House Minority Leader Nancy Pelosi spoke for a little more than eight hours to oppose the budget deal to lift spending caps and avert a government shutdown -- because the plan does not address immigration issues.      The House Historian's office told CNN that Pelosi's speech is the longest on record on the House floor, according to their records.      Pelosi started speaking shortly after 10 a.m. ET, and wrapped the speech a little after 6:10 p.m. ET.      'I have had the privilege of reading the testimony from Dreamers, I still have more,' she said, receiving applause in the chamber. 'I thank all of you.'      A source close to the California Democrat told CNN she thought of the idea overnight to speak for hours on the House floor. The source said she was wearing four-inch-heels while delivering the speech and only sipped water.      The budget deal, which was proposed by Senate leaders on Wednesday, will require Democratic support to pass the House, so the House Democratic leader's comments make the plan's future unclear.      Pelosi said she opposed that the spending deal because it doesn't include a permanent solution for undocumented immigrants affected by the Deferred Action for Childhood Arrivals program. Pelosi has been sharing statements from DACA recipients about themselves and their successes in the US.      'We have to be strong as a country ... to respect the aspirations of people who are our future,' Pelosi said on the House floor. 'The young people are our future and these dreamers are part of that. They've been enriched ... by the greatness of our country.'      She continued: 'Our plea to the speaker is for us, for ourselves, to honor the values of our founders.'      House Democrats will likely spend the next 24 hours pushing to get a commitment from House Speaker Paul Ryan on floor consideration of DACA bills.      At this point, Ryan has not signaled he is considering giving that to House Democrats. However, this could change pending whether the Democratic caucus is unified enough to keep him short of the 216 votes he needs, but that's not expected to be the case at this point.      A source told CNN that Pelosi and Senate Minority Leader Chuck Schumer worked on the spending deal for weeks -- and didn't include any other House Democrats in negotiations -- and then she turned around and rejected it.      House Speaker Paul Ryan's spokesperson said Ryan has 'repeatedly stated' he supports an immigration reform bill including DACA.      'Speaker Ryan has already repeatedly stated we intend to do a DACA and immigration reform bill -- one that the President supports,' AshLee Strong said in a statement.      Pelosi's spokesperson Drew Hammill responded to Strong, saying, 'Speaker Ryan needs to make a real commitment to act and stop hiding behind the President. It's time to get the job done.'      White House Press Secretary Sarah Huckabee Sanders said Pelosi 'should not hold our military hostage over a separate issue.      'We've laid out what we would like to see in immigration legislation and I think it's something Nancy Pelosi should support and hopefully she'll come on board,' she said during the White House briefing Wednesday. 'We can get this budget deal done and then we can focus on getting this immigration deal done.'      The National Republican Congressional Committee, the group that works to increase the Republican majority in the House, tweeted to Pelosi, writing, 'Dear @NancyPelosi Every minute you're in front of the cameras, you make our job easier. Best, @NRCC'      Before Pelosi's speech Wednesday, the longest floor remarks from a leader came from then-House GOP Leader John Boehner in 2009 speaking against the Democrats' cap and trade legislation.      Boehner's roughly one hour speech was dubbed a 'fila-Boehner.' Boehner took to the floor to make a political point because as the minority leader he had little power to hold up the legislation he opposed.      There are no filibusters under House rules, but top leaders are allowed unlimited 'leader time' and it's not uncommon for Pelosi to be yielded 'one minute' but take more than 20 minutes.",
+        "date": "2020-02-11 15:23:12.384121",
+        "title": "Pelosi marathon speech on DACA sets record",
+        "url": "https://www.cnn.com/2018/02/07/politics/nancy-pelosi-house-democrats-spending-deal-congress-shutdown/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.095703125,
+        "subjectivity": 0.4171875
+    },
+    "signature": {
+        "House": 0.04166882486576872,
+        "Leader": 0.01562580932466327,
+        "Pelosi": 0.033855920203437084,
+        "Ryan": 0.01562580932466327,
+        "floor": 0.01562580932466327
+    },
+    "tone": [
+        {
+            "score": 0.5621,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.727153,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

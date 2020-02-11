@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Ohio Gov. Mike DeWine signed into law on Thursday the state's so-called heartbeat bill, which bans abortions after a fetal heartbeat is detected -- as early as six weeks into a pregnancy, before many women even know that they are pregnant.      'The signing of this bill today is consistent with that respect for life and the imperative to protect those who cannot protect themselves,' DeWine said at the bill signing ceremony.      The state's Senate and House both passed Senate Bill 23 on Wednesday.      In a statement, DeWine's office said the bill -- also known as the Human Rights and Heartbeat Protection Act -- will go into effect 90 days after it's filed by the secretary of state.      The bill's signing was celebrated by some of its supporters, like Ohio Attorney General Dave Yost, who said, 'Sometimes, the evolution of the law requires bold steps.'      'In the last 46 years, the practice of medicine has changed. Science has changed. Even the point of viability has changed. Only the law has lagged behind,' he said. 'This law provides a stable, objective standard to guide the courts.' Courts say anti-abortion 'heartbeat bills' are unconstitutional. So why do they keep coming? But the bill's critics promised it wouldn't go into effect without a fight. The American Civil Liberties Union, for instance, tweeted , 'We'll see you in court.' Such laws have previously been declared unconstitutional . In Iowa, a judge struck down that state's 'heartbeat' act in January after it was signed into law last year. North Dakota was the first state to enact such legislation in 2013, but it was also struck down by the courts. Ohio's bill is not the first of its kind in that state. Similar legislation was vetoed by former Gov. John Kasich before he left office. He's now a CNN contributor. Similar legislation awaits the signature of Georgia Gov. Brian Kemp after it was passed late last month. Kemp is expected to sign the bill. The bills in Georgia and Ohio are just two of a number of similar bills that have been introduced in state legislatures across the country this year. Mississippi Gov. Phil Bryant signed a 'heartbeat bill' in March",
+        "date": "2020-02-11 15:28:48.046402",
+        "title": "Ohio governor signs bill that bans abortions as early as 6 weeks into a pregnancy",
+        "url": "https://www.cnn.com/2019/04/11/us/heartbeat-bill-ohio-georgia/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.056093189964157686,
+        "subjectivity": 0.35734767025089603
+    },
+    "signature": {
+        "Bill": 0.04829540348323599,
+        "Gov": 0.019318161393294394,
+        "Ohio": 0.019318161393294394,
+        "bill": 0.04829540348323599,
+        "state": 0.0207285337484549
+    },
+    "tone": [
+        {
+            "score": 0.516262,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.745104,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

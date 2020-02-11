@@ -1,0 +1,41 @@
+{
+    "article": {
+        "body": "Some 3,000 of the world's richest and most powerful people are crowding into the small Swiss mountain town for this week's World Economic Forum.      The American president, who was the star guest at last year's forum, canceled his return trip earlier this month but wished organizers well.      'I am respectfully canceling my very important trip to Davos, Switzerland for the World Economic Forum. My warmest regards and apologies to the @WEF!' he wrote on Twitter.      Yet Trump's decision to remain at home with the rest of the US delegation reflects the world in a state of crisis. British Prime Minister Theresa May called off her visit after suffering a stinging defeat on Brexit. French President Emmanuel Macron, who is struggling to stop street protests, is also skipping the forum. Neither Chinese President Xi Jinping, who is grappling with a slowing economy , nor Indian Prime Minister Narendra Modi, who is fighting for a second term, will be making an appearance. Zimbabwean President Emmerson Mnangagwa canceled his visit to Davos on Sunday after violent protests erupted at home. Mnangagwa said his finance minister would represent Zimbabwe. Central bankers lack the weapons to fight the next big recession This being Davos, other national leaders are ready to step into the limelight. Japanese Prime Minister Shinzo Abe is making the trip, and so are Jair Bolsonaro of Brazil and Angela Merkel of Germany. They will have plenty of challenges to discuss. Climate change is wreaking havoc, the global economy is slowing sharply, and central banks may not be in position to respond effectively if there's a big recession. What happens in the mountains Each edition of Davos has a theme. This year, organizers have chosen: 'Globalization 4.0: Shaping a Global Architecture in the Age of the Fourth Industrial Revolution.' Hundreds of panel discussions and sessions provide the framework for the conference. Attendees can chose between sessions such as 'Managing a Global Garbage Crisis,' 'Making Digital Globalization Inclusive' and 'Globalization: Retreat or Reinvention?' Climate is the biggest risk to business (and the world) This year, there is a heavy emphasis on the dangers of climate change. The challenges posed by technological changes and rising populism are also prominent themes. The panels sometimes feel like a sideshow for Davos men (just 22% of participants are women, an increase of 1 percentage point from last year). The conversations of real interest often result from chance encounters or behind closed doors over exclusive dinners. This is high-altitude networking, and it's not cheap. It cost companies over $60,000 to buy a basic membership of the World Economic Forum in 2017, and premier corporate partnerships top out at 10 times that. Membership means a CEO can attend Davos, but they still have to buy a ticket.",
+        "date": "2020-02-11 15:26:46.067961",
+        "title": "Davos no-shows reflect the world in a state of crisis",
+        "url": "https://www.cnn.com/2019/01/19/business/davos-world-economic-forum/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.05404761904761906,
+        "subjectivity": 0.3186507936507936
+    },
+    "signature": {
+        "Davos": 0.02326960349646825,
+        "Forum": 0.01939133624705687,
+        "Minister": 0.015513068997645497,
+        "President": 0.015513068997645497,
+        "forum": 0.01939133624705687
+    },
+    "tone": [
+        {
+            "score": 0.50291,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.567438,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.534767,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        },
+        {
+            "score": 0.509545,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

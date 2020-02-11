@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "(CNN) Setting up a showdown with California, the Trump administration on Thursday announced a plan to revoke a signature Obama-era environmental regulation.      The administration wants to freeze a rule mandating that automakers work to make cars substantially more fuel efficient. It called its plan a '50-state fuel economy and tailpipe carbon dioxide emissions standard for passenger cars and light trucks.'      The administration also proposed a withdrawal of California's Clean Air Act preemption waiver. California and about a dozen states that follow its rules account for about a third of all the passenger vehicles sold in the United States.      'For Trump to now destroy a law first enacted at the request of Ronald Reagan five decades ago is a betrayal and an assault on the health of Americans everywhere,' said Brown, in a statement. 'California will fight this stupidity in every conceivable way possible.'      Thirteen states, plus Washington, DC, have adopted California's standards. Colorado announced plans to become the fourteenth.      California has, for decades, had a waiver allowing it to set its own emissions standards because the state had distinct air quality issues. In 2007, a federal court allowed California to regulate greenhouse gas emissions, in particular carbon dioxide.      The only way to lower CO2 emissions from cars is to reduce the actual amount of fuel burned -- it cannot be easily filtered out or reduced like other pollutants. That created a potentially difficult situation for the auto industry: States would have, in effect, different fuel economy standards.      The Obama administration's answer was a unified fuel economy and emissions regimen worked out among the California regulators, the EPA, which regulates emissions, and NHTSA, which regulates fuel economy.      The attorneys general of 20 states, including California, pledged to sue the Trump administration. They called the plan illegal, saying it would force motorists to pay more for gas and create more air pollution.      On Thursday, government officials said they would like to work with California to create a mutually agreed-upon regulation. California Attorney General Xavier Becerra said he was 'ready and willing' to meet but that he did not believe previous conversations had been productive.      'So far we have not had a receptive audience in the Trump Administration,' he said.      The Corporate Average Fuel Economy standards require automakers' cars to average about 50 miles per gallon by 2025. The standards, enacted in 2012, get stricter every year leading up to 2025. The Trump administration's proposal would cut off the average CAFE increases in 2020, when automakers will have to produce cars that get an average of 43.7 miles per gallon under CAFE rules. (CAFE fuel economy is different from the more realistic fuel economy numbers seen on car window stickers.)      'It's still a very aggressive program. We have been steadily increasing the standards... for almost a decade,' said EPA Assistant Administrator Bill Wehrum on a call with reporters Thursday.      The Environmental Protection Agency and Department of Transportation cited safety as one reason for the changes. They claimed the reduced standards would make new cars more affordable. That would allow more people to buy cars with enhanced safety features, the government said. The administration said the proposed plan will prevent thousands of on-road fatalities and injuries.      If more people buy new cars, Wehrum said, it will lead to an increase in cleaner, safer cars on the road.      'We can have our cake and eat it too,' he said.      Rebecca Lindland, an industry analyst with Kelly Blue Book who was involved in an Obama-era review of the standards, said consumers do not place a high priority on fuel economy when buying a new vehicle but they do place a priority on safety. She thought it unlikely that consumers wouldn't spend money if a car was demonstrably safer. She did agree, though, that some easing of the fuel economy requirements was needed but nothing as drastic as the Trump administration's proposal.      'The uncertainty this causes didn't need to happen,' she said.      When questioned about what role increased fuel efficiency has played in the rise in vehicle prices in recent years, Heidi King, Deputy Administrator at the National Highway Traffic Safety Administration, said she didn't believe it was actually a primary factor.      'Fuel economy is an important part of the cost structure but hasn't historically been the primary driver of an increase,' she said. 'Until consumers and families are driving around in these vehicles we won't see fuel efficiency and economy gains.'      Automakers, represented by the Auto Alliance and Global Automakers, said they support 'substantive negotiations' about fuel efficiency standards.",
+        "date": "2020-02-11 15:25:05.894434",
+        "title": "Trump administration wants to lower emissions standards for cars",
+        "url": "https://www.cnn.com/2018/08/02/politics/car-fuel-efficiency/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.11254489337822676,
+        "subjectivity": 0.46627104377104367
+    },
+    "signature": {
+        "Economy": 0.025797583981032206,
+        "Fuel": 0.032833288703131895,
+        "administration": 0.02345234907366564,
+        "economy": 0.025797583981032206,
+        "fuel": 0.032833288703131895
+    },
+    "tone": [
+        {
+            "score": 0.51719,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.524485,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.778522,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

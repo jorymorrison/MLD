@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "New Delhi (CNN) The world's second-most populous country is running out of water.      About 100 million people across India are on the front lines of a nationwide water crisis. A total of 21 major cities are poised to run out of groundwater next year, according to a 2018 report by government-run think tank NITI Aayog.      Much-needed monsoon rains have only just arrived in some places, running weeks late, amid a heatwave that has killed at least 137 people this summer.      Groundwater, which has been steadily depleting for years, makes up 40% of the country's water supply. But other sources are also running dry -- almost two-thirds of India's reservoirs are running below normal water levels, the country's Central Water Commission said in June.      Prime Minister Narendra Modi recently created the Ministry of Jal Shakti (water power) to oversee water resource management, and reiterated his election campaign promise to provide piped water to every rural home by 2024.      In some places in India, disaster has already arrived. The four reservoirs that supply Chennai, India's sixth-largest city, are nearly dry.      This may be a glimpse of wider India's future as the water crisis spreads. Already, 600 million people are facing acute water shortages nationwide -- and 200,000 die each year from inadequate or unsafe water supplies, according to the NITI Aayog report.      As water runs out, the country may have to confront a series of associated problems: food insecurity, vulnerability during heatwaves, disease due to deteriorating sanitation and regional conflicts over water access.      Years of rapid urbanization with little infrastructure planning means most cities are ill equipped to handle the additional population stress.      Demand for water will reach twice the available supply by 2030, the UN report said -- placing hundreds of millions of lives in danger.      'After 1990, cities in India have grown very rapidly,' said Samrat Basak, director of the World Resource Institution India's Urban Water Program. 'But they grew without considering where the resources are coming from.'      Urban lakes and inlets have been lost to encroachment and environmental degradation, meaning cities generally don't have places to store usable rainwater.      They also have limited water conservation infrastructure -- rainwater harvesting systems, water reuse and recycling, and waste water treatment.      Taps have long run dry in cities like Bangalore and Hyderabad, meaning millions of people must rely on emergency government tanks for water. Tanker mafias have even emerged, ruling who gets water and for what price.      One apartment building in the Kilpauk neighborhood of Chennai pays almost 15,000 rupees ($216) every day for three 24,000-liter tanks -- a precious resource that is inaccessible to low-income families.      'It does not affect people the same way,' said VK Madhavan, CEO of non-profit organization WaterAid India. 'Some people can still cope, if you can still afford to pay for it.'      At least 60% of urban populations live in unauthorized settlements instead of government-designated residential areas, said Jyoti Sharma, founder and president of FORCE, an Indian NGO working on water conservation.      Without access to private tankers or rainwater harvesting systems, these low-income families are almost entirely dependent on groundwater for basic needs -- and thus are hit hardest in crises like this.      'Climate change will have devastating consequences for people in poverty,' the UN human rights report said.      'We risk a 'climate apartheid' scenario where the wealthy pay to escape overheating, hunger and conflict while the rest of the world is left to suffer.'      Cities are hurtling headfirst toward the crisis -- but will they reach Day Zero, when the taps run dry?      Perhaps not, said Madhavan. The government's Jal Shakti Ministry is a hopeful sign. 'But we're not going to survive solely on hope,' he added.      Even if the country doesn't reach Day Zero, the quality of life across India will likely worsen drastically for millions and stagnate the country's development.      In sharp contrast to the soaring ambitions Modi outlined in his election campaign, India's advancement will be at stake if its citizens are struggling to even survive.      When clean drinking water runs out, people will have no choice but to rely on unsafe water, Madhavan said. Disease and illness could run rampant, leading to more deaths and higher infant mortality.      Madhavan added that in rural areas, young girls might drop out of school in mass numbers. As the ones traditionally tasked with fetching water, they will need to help their families, and walk much longer distances to rare water access points.      And as the crisis intensifies further, there could be mass migrations to the already overpopulated and under-resourced cities.      The wealth divide may also deepen further as more people compete for fewer resources, and food and water prices go up.      In the face of desperation, civil rights, democracy and the rule of law are also at danger, the UN human rights report added. 'Human rights might not survive the coming upheaval,' it warned.      India has five years to change, experts say -- it has to act now if it wants to limit the damage of an inescapable crisis.      'It's not that we are waiting for the future in terms of water challenges,' Basak said. 'We are already there.'",
+        "date": "2020-02-11 15:30:43.211520",
+        "title": "India has just five years to solve its water crisis, experts fear",
+        "url": "https://www.cnn.com/2019/06/27/india/india-water-crisis-intl-hnk/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.033901071605989645,
+        "subjectivity": 0.4286459442197148
+    },
+    "signature": {
+        "And": 0.016906028794145007,
+        "India": 0.022891235959940307,
+        "Water": 0.056187579174398934,
+        "cities": 0.014567150156325651,
+        "water": 0.021736322735329293
+    },
+    "tone": [
+        {
+            "score": 0.578749,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.654529,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.553304,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "(CNN) Here's a look at the life of the first female chancellor of Germany, Angela Merkel .      1990 - Becomes Press Officer for Demokratischer Aufbruch (DA or Democratic Awakening).      December 1990 - Is elected to the German Bundestag.      1994 - Minister of the Environment, Nature Conservation and Nuclear Safety.      April 10, 2000 - Becomes the first female chairperson of the CDU.      October 10, 2005 - Strikes a deal with Gerhard Schroeder's Social Democrats that will make her the first female chancellor of Germany.      November 22, 2005 - Is sworn in as the first female chancellor of Germany.      April 30, 2008 - Receives the Charlemagne Prize, the 'Citizens' Prize for Services to European Unity.'      February 15, 2011 - Receives the Presidential Medal of Freedom from Obama.      October 25, 2013 - In the wake of reports that the US National Security Agency eavesdropped on her cell phone, an angry Merkel says, 'true change is necessary,' and 'spying among friends is never acceptable.'      December 9, 2015 - Is named Person of the Year by Time magazine.      April 27, 2018 - Makes her second state visit to the US since Trump has been in office.      June-July 2019 - Merkel is seen Merkel is seen shaking in public three times in less than a month. 'I am working through some things...which do not seem to be over yet, but there is progress and I have to live with it for a while,' Merkel reveals, adding, 'But I am very well and one does not have to worry.'",
+        "date": "2020-02-11 15:17:25.745690",
+        "title": "Angela Merkel Fast Facts",
+        "url": "https://www.cnn.com/2012/12/30/world/europe/angela-merkel---fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.055422647527910686,
+        "subjectivity": 0.29736842105263156
+    },
+    "signature": {
+        "Germany": 0.022211894246628783,
+        "Is": 0.05923171799101008,
+        "Merkel": 0.0370198237443813,
+        "chancellor": 0.022211894246628783,
+        "female": 0.01815888080443157
+    },
+    "tone": [
+        {
+            "score": 0.545009,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

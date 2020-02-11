@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "'If I believe health care is a right, as I do, I can no longer support an amendment that makes that right dependent on someone's ZIP code,' he said.      The Hyde Amendment is a four-decade-old ban on federal dollars being used for abortions except in cases of rape, incest or when the woman's life is in danger.      Biden's campaign on Wednesday said he still supported the Hyde Amendment -- a position that put him to the right of all other leading 2020 Democratic contenders, as well as Hillary Clinton and the party's platform in 2016.      Biden told the crowd Thursday night he had changed his mind because Republican state lawmakers have enacted 'extreme laws in clear violation of constitutional rights' protected by the Supreme Court's Roe v. Wade decision, making access to abortions more difficult for women who cannot afford the procedure or travel to obtain it.      He said he makes 'no apologies' for his previous support for the Hyde Amendment. 'But circumstances have changed. I've been working through the final details of my health care plan like others in this race and I've been struggling with the problems that Hyde now presents,' Biden said. He said he wants to achieve 'universal coverage' and 'provide for the full range of health services women need' through the continued expansion of Medicaid and offering a 'public option' that would allow people to join Medicare. 'I can't justify leaving millions of women without access to the care they need and the ability to ... exercise their constitutionally protected right,' he said. 'Folks, the times have changed. I don't think these guys are going to let up,' Biden said, referring to Republicans. Biden had faced criticism from women's health and pro-abortion rights organizations, including Planned Parenthood and NARAL Pro-Choice America. But groups that had criticized Biden on Wednesday quickly praised him after his reversal on Thursday. 'We're glad that Joe Biden listened to the voices of millions of women and further clarified his position on the Hyde Amendment. Let's be clear, the Hyde Amendment discriminates against all women but particularly poor women and women of color,' NARAL President Ilyse Hogue said in a statement. Dr. Leana Wen, the president of Planned Parenthood, tweeted: 'Happy to see Joe Biden embrace what we have long known to be true: Hyde blocks people\u2014particularly women of color and women with low incomes\u2014from accessing safe, legal abortion care.' His 2020 Democratic foes had also sharply criticized him Wednesday, when NBC News first reported that -- despite video of Biden telling an ACLU volunteer in South Carolina last month that the Hyde Amendment 'can't stay' -- his campaign said he actually supported the measure. Massachusetts Sen. Elizabeth Warren said while campaigning in Indiana that the Hyde Amendment denies abortion rights to 'people who don't have money' and that's 'just not right.' 'No woman's access to reproductive health care should be based on how much money she has. We must repeal the Hyde Amendment,' California Sen. Kamala Harris tweeted. New York Sen. Kirsten Gillibrand tweeted: 'Reproductive rights are human rights, period. They should be nonnegotiable for all Democrats.' Vermont Sen. Bernie Sanders pledged on Twitter to repeal the Hyde Amendment. 'The vice president is absolutely wrong on this one. This is going to deny necessary health care to lower-income women and disproportionately to women who live in communities of color,' former Texas Rep. Beto O'Rourke told CNN on Wednesday night. This story has been updated.",
+        "date": "2020-02-11 15:30:02.824024",
+        "title": "Biden reverses long-held position on abortion funding amid criticism",
+        "url": "https://www.cnn.com/2019/06/06/politics/biden-no-longer-supports-hyde-amendment/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.09643141945773527,
+        "subjectivity": 0.48047676008202317
+    },
+    "signature": {
+        "Amendment": 0.030524011400818653,
+        "Biden": 0.027471610260736787,
+        "Hyde": 0.03357641254090052,
+        "amendment": 0.030524011400818653,
+        "women": 0.022458854282823366
+    },
+    "tone": [
+        {
+            "score": 0.587956,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

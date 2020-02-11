@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "'We have now given him an answer. Obviously, he should take a few days to consider it, but we should get this resolved,' Giuliani said during an interview on the radio show of fellow Trump attorney Jay Sekulow.      'We do not want to run into the November elections. So back up from that, this should be over by September 1,' Giuliani said.      Sekulow confirmed in a statement that the legal team 'responded in writing to the latest proposal' from the special counsel, but declined to comment on the substance of the response.      Giuliani had previously told CNN that the team planned to send its counteroffer to special counsel Robert Mueller regarding a potential interview on Wednesday.",
+        "date": "2020-02-11 15:25:21.979634",
+        "title": "Trump's legal team responds to Mueller regarding interview",
+        "url": "https://www.cnn.com/2018/08/08/politics/donald-trump-robert-mueller-interview-rudy-giuliani/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.14476190476190476,
+        "subjectivity": 0.5009523809523809
+    },
+    "signature": {
+        "'We": 0.030892404641863016,
+        "Giuliani": 0.04633860696279452,
+        "Sekulow": 0.030892404641863016,
+        "counsel": 0.030892404641863016,
+        "interview": 0.030892404641863016
+    },
+    "tone": [
+        {
+            "score": 0.846127,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        },
+        {
+            "score": 0.543151,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+        }
+    ]
+}

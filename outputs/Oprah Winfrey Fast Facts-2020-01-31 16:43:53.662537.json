@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "(CNN) Here is a look at the life of Oprah Winfrey, who hosted the award-winning 'The Oprah Winfrey Show.'      At age 19, while still a sophomore in college, becomes the youngest and first African-American anchor for WTVF-TV in Nashville.      Stedman Graham has been her companion for more than 30 years.      After removing her name from competition in the Daytime Emmy Awards in 2000, 'The Oprah Winfrey Show' won Emmy awards in the technical categories only.      1976 - Becomes a news co-anchor at WJZ-TV in Baltimore.      January 1984 - Becomes the anchor of 'A.M. Chicago,' which airs opposite Phil Donahue.      September 1985 - The show is renamed 'The Oprah Winfrey Show.'      1985-2011 - Host of 'The Oprah Winfrey Show,' the highest-rated talk show in history.      1985 - Makes her film debut in 'The Color Purple,' for which she is nominated for a Best Supporting Actress Oscar.      November 8, 1986 - 'The Oprah Winfrey Show' goes into national syndication.      1987, 1988, 1989, 1991-1992, 1994-1996 and 1997 - Wins the Daytime Emmy Award for Best Talk Show for 'The Oprah Winfrey Show.'      1987, 1991, 1992, 1993, 1994, 1995 and 1998 - Wins the Daytime Emmy Award for Best Talk Show Host for 'The Oprah Winfrey Show.'      1988 - Forms her own production company, Harpo Inc.      1993 - Wins the Daytime Emmy Award for Outstanding Children's Special, 'ABC Afterschool Special: Shades of a Single Protein.' Oprah is also inducted into the Television Academy Hall of Fame.      1996 - Starts 'Oprah's Book Club' on her show. The book club becomes very influential in the publishing world as selected books rise to the top of bestseller lists.      1998 - Winfrey is presented with a Lifetime Achievement Award at the Daytime Emmy Awards.      1999 - Withdraws her name for consideration in the Daytime Emmy Awards.      2000 - Wins the Primetime Emmy Award for Outstanding Made for Television Movie for 'Oprah Winfrey Presents: Tuesdays with Morrie.'      April 2000 - Launches 'O, The Oprah Magazine,' and the Oxygen Network.      2002 - Accepts the Bob Hope Humanitarian Award from the National Academy of Television Arts and Sciences.      February 2003 - Becomes the first African-American woman on Forbes magazine's 'World's Richest People' list, with a net worth of about $1 billion.      September 13, 2004 - Begins a new season of her talk show by giving each member of the audience a brand-new car.      September 26, 2005 - Winfrey announces that she is investing more than $1 million to bring the musical 'The Color Purple' to Broadway in December 2005.      January 2, 2007 - The Oprah Winfrey Leadership Academy for Girls opens in Henley-on-Klip, South Africa. The school houses 152 girls from deprived backgrounds and provides them with an education. Winfrey has reportedly spent $40 million opening the school.      January 15, 2008 - Winfrey and Discovery Communications announce that beginning in 2009 the Discovery Health Channel will be renamed OWN: The Oprah Winfrey Network.      November 20, 2009 - Announces on her show that she will discontinue her talk show in 2011. She will then move to California and launch OWN.      December 5, 2010 - Winfrey is honored at the Kennedy Center as part of the 33rd annual Kennedy Center Honors gala.      November 12, 2011 - Winfrey receives an honorary Oscar, the Jean Hersholt Humanitarian Award, from the Academy of Motion Picture Arts and Sciences.      January 1, 2012 - Winfrey's new show, 'Oprah's Next Chapter,' debuts on the OWN network.      November 20, 2013 - Is awarded the Presidential Medal of Freedom by President Obama.      June 12, 2016 - Wins a Tony Award for Best Revival of a Musical for 'The Color Purple.'      January 3, 2017 - Releases a cookbook, 'Food, Health, and Happiness: 115 On-Point Recipes for Great Meals and a Better Life.'      January 10, 2020 - Withdraws as executive producer of a documentary expose concerning allegations of sexual misconduct against Russell Simmons. 'On the Record' was being produced for air on the Apple TV streaming platform as part of Winfrey's multi-year content partnership with the company.",
+        "date": "2020-01-31 16:43:53.662537",
+        "title": "Oprah Winfrey Fast Facts",
+        "url": "https://www.cnn.com/2013/08/05/us/oprah-winfrey-fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.3433856840833585,
+        "subjectivity": 0.3887496224705526
+    },
+    "signature": {
+        "'The": 0.027909026000436994,
+        "Oprah": 0.03349083120052439,
+        "Show": 0.04465444160069919,
+        "Winfrey": 0.05302714940083029,
+        "show": 0.04465444160069919
+    },
+    "tone": [
+        {
+            "score": 0.71747,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

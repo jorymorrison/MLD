@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) Former Vice President Joe Biden said in a video Wednesday he will be more 'mindful' about respecting personal space in the future.      The video comes in the wake of allegations Biden made women feel uncomfortable in their encounters.      'Social norms are changing. I understand that, and I've heard what these women are saying,' he wrote on Twitter. 'Politics to me has always been about making connections, but I will be more mindful about respecting personal space in the future. That's my responsibility and I will meet it.'      The response comes as Biden and his team gear up to announce his plans for the 2020 presidential race this month. Biden alluded to those plans in the video on Wednesday, strongly suggesting he would be launching a bid.      'Folks, in the coming month I'm expecting to be talking to you about a whole lot of issues, and I'll always be direct with you,' he said.      He continued later in the video, 'I've never thought of politics as cold and antiseptic. I've always thought it about connecting with people, as I said, shaking hands, hands on the shoulder, a hug, encouragement, and now, it's all about taking selfies together. You know, social norms have begun to change, they've shifted, and the boundaries of protecting personal space have been reset, and I get it, I get it.'      'I hear what they're saying, I understand it, and I'll be much more mindful, that's my responsibility. My responsibility, and I'll meet it,' he said.      Biden's camp dove into damage control mode Friday after Lucy Flores, a former Nevada assemblywoman, penned an essay detailing a 2014 encounter during which the former vice president made her feel 'uneasy, gross and confused' when he came up from behind her and kissed the back of her head. After a series of carefully-worded statements attributed to his spokesman, Biden on Sunday released a statement of his own addressing the allegation.      'In my many years on the campaign trail and in public life, I have offered countless handshakes, hugs, expressions of affection, support and comfort,' Biden said in a statement that was released shortly before Flores appeared in her first television interview. 'And not once -- never -- did I believe I acted inappropriately. If it is suggested I did so, I will listen respectfully. But it was never my intention.'      He added, 'I may not recall these moments the same way, and I may be surprised at what I hear. But we have arrived at an important time when women feel they can and should relate their experiences, and men should pay attention. And I will.'      But Flores also pointed out that Biden has not yet apologized for the behavior in question.      'Given the work he has done on behalf of women, Vice President Biden should be aware of how important it is to take personal responsibility for inappropriate behavior,' Flores wrote, 'and yet he hasn't apologized to the women he made uncomfortable.'      Flores tweeted out her statement about two-and-a-half hours after Biden posted his video.      When a second woman came forward on Monday claiming Biden made her feel uncomfortable at a 2009 Connecticut fundraiser, his team pointed to his response from Sunday. Biden's team again pointed to that statement when two more women told the New York Times on Tuesday that Biden made them feel uncomfortable by the way he touched them.      With two more women coming forward, Biden and his circle of advisers knew they had to address the allegations in a more direct manner than simply a statement, people familiar with the matter said, which led to Wednesday's video.      While Biden and his aides had initially hoped to avoid giving the story surrounding his conduct oxygen, they knew it had become untenable and his written statement was no longer sufficient. Some friends and former advisers appealed to him throughout the day Tuesday and Wednesday that he had to add his explanation and contrition to this.      Biden made the decision, acknowledging that he had to 'reclaim his record and explain his humanity,' one person close to the former vice president said. Biden was eager to put context around the allegations, which were beginning to cloud his likely presidential bid, another person close to Biden said.      While Biden's team says they realize it doesn't put an end to the subject, it changes the conversation and puts it in his voice. They realize he will be asked about this again and again, but now he will be less defensive.      'Any reasonable person watching this can understand him and see how human he is,' a Democratic strategist who urged Biden to speak about this said.      Two people close to Biden said his timeline for a presidential run is unlikely to change -- at least as of now.      At the end of the video released Wednesday, Biden reiterated he would be more thoughtful going forward.      'I will be more mindful and respectful of people's personal space, and that's a good thing, that's a good thing,' he said. 'I've worked my whole life to empower women. I've worked my whole life to prevent abuse, I've written, and so the idea, that I can't adjust to the fact that personal space is important, more important than it's ever been, is just not thinkable. I will. I will.'",
+        "date": "2020-02-11 15:28:39.600165",
+        "title": "Joe Biden in new video: I will be more mindful about respecting personal space in the future",
+        "url": "https://www.cnn.com/2019/04/03/politics/joe-biden-new-video-response/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.11540043290043293,
+        "subjectivity": 0.44576221397649973
+    },
+    "signature": {
+        "And": 0.023716956509225503,
+        "Biden": 0.04350850808280045,
+        "He": 0.02303933055705749,
+        "I": 0.013873530189131454,
+        "My": 0.013843616208163781
+    },
+    "tone": [
+        {
+            "score": 0.550345,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.628279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

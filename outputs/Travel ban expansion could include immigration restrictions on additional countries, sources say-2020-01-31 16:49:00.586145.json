@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "Washington (CNN) The Trump administration drafted plans to renew and expand its travel ban list to include immigration restrictions on seven additional countries, according to sources familiar with the process.      Unlike the travel restrictions currently in place, the new rules could limit certain immigrant visas from the additional countries, said a US government official -- essentially creating a partial immigration ban.      Not all of the restrictions are uniform, said the official, adding that the proposal limits some immigrant visas from one country and other visas from another.      The plans, which are still under review, are based on interagency input from the departments of Homeland Security and State, as well as the White House, according to the official. President Donald Trump will make the final decision on changes to the ban.      In an interview with the Wall Street Journal Tuesday, Trump confirmed that he is planning to add additional nations to the travel ban, but wouldn't reveal which countries would be added to the updated version.      According to the administration, the restrictions are used to encourage countries to comply with US national security requirements, such as sharing information with US agencies..      'This is the stick,' to get countries to comply, the official said regarding the new restrictions.      Another source told CNN that the administration is focused on immigrant visas because of the difficulty in removing someone from the US who holds a green card or becomes a US citizen if derogatory information surfaces after someone travels to the US.      Acting Homeland Security Secretary Chad Wolf said Friday that the US is establishing criteria that all foreign governments must satisfy to assist in vetting foreign nationals seeking to enter the United States.      'For a small number of countries that lack either the will or the capability to adhere to these criteria, travel restrictions may become necessary to mitigate threats,' he said in prepared remarks for a Homeland Security Experts Group event.      The White House did not respond to request for comment. The Department of State declined to comment.      In 2018, the Supreme Court upheld the third version of the travel ban after the previous iterations were challenged in court. The current policy restricts entry from seven countries to varying degrees: Iran, Libya, Somalia, Syria and Yemen, along with Venezuela and North Korea. Chad was removed from the list last April, after the White House said the country improved security measures.      When asked about the travel ban on Wednesday, Wolf said the administration 'continues to look at that.'      'It's under review every six months. We continue to do that. We've done that for the past three years, every six months. This is part of the process,' he added, declining to provide a timeline for an announcement.      Restrictions are imposed because a country does an inadequate job of sharing information, or otherwise poses an elevated public safety or national security risk, according to Wolf.      The goal, the official said, is to 'bring governments into compliance by using the power of access to the United States.' The travel restrictions would be tailored to the countries, if they're added, and not impose a ban on them altogether, the official noted at the time.      This story has been updated with comments from the President.",
+        "date": "2020-01-31 16:49:00.586145",
+        "title": "Travel ban expansion could include immigration restrictions on additional countries, sources say",
+        "url": "https://www.cnn.com/2020/01/20/politics/travel-ban-immigration/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.003063603063603056,
+        "subjectivity": 0.3367507492507492
+    },
+    "signature": {
+        "Restrictions": 0.02654458472930452,
+        "US": 0.02322651163814145,
+        "countries": 0.02654458472930452,
+        "official": 0.01990843854697839,
+        "travel": 0.02322651163814145
+    },
+    "tone": [
+        {
+            "score": 0.871568,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

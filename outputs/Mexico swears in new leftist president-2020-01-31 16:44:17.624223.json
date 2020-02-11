@@ -1,0 +1,20 @@
+{
+    "article": {
+        "body": "L\u00f3pez Obrador won a landslide victory in the July 1 presidential election and began his his six-year term promising to carry out a strong fight against corruption, insisting that the issue has been Mexico's worst nightmare.      'Nothing has harmed Mexico more that the dishonesty of the rulers,' he said.      During his swearing-in, L\u00f3pez Obrador reaffirmed his intentions to sell Mexico's official presidential plane and to not live in the presidential palace. He said he will receive 40% of his presidential salary. In an extraordinary move, L\u00f3pez Obrador also announced his intention to promote a recall referendum during his administration, adding the promise that he 'will never seek reelection.'      Promises also came with criticisms Saturday. L\u00f3pez Obrador criticized the neoliberal model that has governed the Mexican economy in recent decades, saying that such policy 'has been a disaster.'      L\u00f3pez Obrador also criticized his unpopular predecessor, Enrique Pe\u00f1a Nieto, for introducing 'harmful' economic strategies and announced immediate public investment to rescue state oil and electricity industries while proposing the creation of a special economic zone with lower taxes along Mexico's border with the United States. Pe\u00f1a Nieto leaves with one of the lowest approval levels of any of the presidents. The leftist leader thanked the United States for sending Vice President Mike Pence and first daughter Ivanka Trump to his inauguration, stating that since winning the presidential election, he has been treated respectfully by President Donald Trump. L\u00f3pez Obrador also thanked Canadian Prime Minister Justin Trudeau, stating he would like to reach an agreement with both Canada and the United States to tackle immigration issues. At one point, the ceremony turned disruptive after L\u00f3pez Obrador acknowledged Venezuelan President Nicol\u00e1s Maduro causing loud protests from a group of legislators holding a banner with the inscription 'Maduro, you are not welcome' while chanting 'dictator, dictator.' The feud lasted for a couple of minutes, even as L\u00f3pez Obrador continued saluting other dignitaries. CORRECTION: An earlier version of the story incorrectly described a presidential salary cut.",
+        "date": "2020-01-31 16:44:17.624223",
+        "title": "Mexico swears in new leftist president",
+        "url": "https://www.cnn.com/2018/12/01/americas/mexico-president-sworn-in/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.09193465264893838,
+        "subjectivity": 0.5228458049886621
+    },
+    "signature": {
+        "He": 0.019794816012038013,
+        "L\u00f3pez": 0.04304527253400733,
+        "Mexico": 0.021522636267003663,
+        "Obrador": 0.04304527253400733,
+        "presidential": 0.032283954400505493
+    },
+    "tone": []
+}

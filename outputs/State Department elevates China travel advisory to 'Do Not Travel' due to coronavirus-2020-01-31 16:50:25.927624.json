@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "'Do not travel to China due to novel coronavirus first identified in Wuhan, China,' the Level 4 alert states, noting that the World Health Organization declared the coronavirus a public health emergency of international concern earlier that day.      'Travelers should be prepared for travel restrictions to be put into effect with little or no advance notice. Commercial carriers have reduced or suspended routes to and from China,' the alert notes stated. 'Those currently in China should consider departing using commercial means.'      The news comes after the US Centers for Disease Control and Prevention announced on Thursday that the husband of an Illinois woman with Wuhan coronavirus is now infected with the illness -- the first confirmed case of person-to-person transmission in the United States.      The number of cases of the virus, which has killed at least 213 people , shot up to more than 8,100 in mainland China alone by Thursday evening. While the virus originated in the Chinese city of Wuhan in December, there are now more than 100 cases in 20 other countries and territories spanning Asia, North America, Europe and the Middle East. India and the Philippines were the latest countries to confirm the virus had reached their shores.      The department has increasingly looked to dissuade American travel to China in recent weeks in response to the outbreak. It raised the travel advisory on Monday from Level 2: Exercise Increased Caution to Level 3: Reconsider Travel due to the virus. Last week, the department raised the advisory to China's Hubei Province -- of which Wuhan is the provincial capital -- to Level 4.      The State Department has authorized the departure of non-emergency US government employees at its embassy in Beijing, as well as those working at consulates in Chengdu, Guangzhou, Shanghai and Shenyang as concerns over the coronavirus continued to spread, a department spokesperson said.      The decision was made 'out of an abundance of caution related to logistical disruptions stemming from restricted transportation and availability of appropriate health care related to the novel coronavirus,' the spokesperson said in the written statement. They added that consular services at both the US Embassy in Beijing as well as consulates across China will continue 'as resources allow.'      The virus' spread has placed nearly 60 million people under partial or full lockdown in Chinese cities for a week. The UK, US, Japan and several other countries are working to fly their citizens out of Wuhan, the epicenter of the novel coronavirus outbreak in Hubei province.",
+        "date": "2020-01-31 16:50:25.927624",
+        "title": "State Department elevates China travel advisory to 'Do Not Travel' due to coronavirus",
+        "url": "https://www.cnn.com/2020/01/30/politics/coronavirus-alert/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.08674242424242423,
+        "subjectivity": 0.32424242424242433
+    },
+    "signature": {
+        "China": 0.034876096724633675,
+        "Wuhan": 0.021797560452896048,
+        "coronavirus": 0.026157072543475254,
+        "travel": 0.021797560452896048,
+        "virus": 0.021797560452896048
+    },
+    "tone": [
+        {
+            "score": 0.518255,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.768508,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

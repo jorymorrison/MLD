@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "The runner-up in Mexico's presidential election said Friday he still won't accept a vote count, even after the country's electoral tribunal upheld the legality of the election and officially declared Enrique Pena Nieto as the winner.      Leftist candidate Andres Manuel Lopez Obrador has not conceded the July 1 election, citing allegations of electoral fraud by the victorious Institutional Revolutionary Party, known as the PRI.      'The elections were not clean or free or authentic. As such, I will not recognize the illegitimate power that came from vote-buying and other grave violations of the constitution and the laws,' Lopez Obrador said.      The candidate called on his followers to demonstrate in Mexico City's historical square, the Zocalo, on September 9.      Lopez Obrador narrowly lost another presidential race in 2006. Back then, he refused to recognize the new government and called his supporters into the streets. He went on a national tour, where he drummed up support, calling himself the 'legitimate president of Mexico.'      It was unclear if he would call for similar demonstrations now.      In a unanimous decision announced Thursday, the electoral tribunal ruled that the demand to invalidate the election was 'unfounded.'      The tribunal found that the leftist coalition that brought the charges didn't prove any constitutional violations and didn't show that the process wasn't free and fair.      Critics of the process said the irregularities included illegal campaign spending, secretive financing and coercion of voters.      When the allegations surfaced immediately after the vote, election officials recounted the votes in more than half of the ballot boxes individually.      Among the bigger controversies were allegations that PRI campaigners passed out hundreds of supermarket gift cards in exchange for votes.      The electoral tribunal said that the coalition could prove only that PRI officials gave the cards to supporters, and not to the general public in exchange for votes.      Pena Nieto is expected to be sworn in on December 1.",
+        "date": "2020-01-31 16:43:46.169101",
+        "title": "Tribunal rules, but Mexican presidential candidate refuses to concede",
+        "url": "https://www.cnn.com/2012/08/31/world/americas/mexico-election/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.05701581027667984,
+        "subjectivity": 0.49186429512516466
+    },
+    "signature": {
+        "He": 0.017112340944986135,
+        "Mexico": 0.016745415600262194,
+        "election": 0.027909026000436994,
+        "electoral": 0.022327220800349594,
+        "tribunal": 0.022327220800349594
+    },
+    "tone": [
+        {
+            "score": 0.514849,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.794628,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        },
+        {
+            "score": 0.59627,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

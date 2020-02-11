@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Washington (CNN) Michigan Gov. Gretchen Whitmer will seize the national spotlight Tuesday evening when she delivers one of the Democratic Party's responses to the President's State of the Union address, drawing attention to a state her party is hoping to win back from Donald Trump this November.      But with Whitmer, 48, delivering the speech from Lansing, the state's capital, Democrats appear to be signaling where their focus is as the presidential election nears.      'I'm honored to discuss the Democratic Party's vision of action for our nation from East Lansing High School, where my daughters are learning and preparing for the future,' Whitmer said in a statement on Monday. 'Democrats across the country have a plan to improve education, fix our infrastructure, expand and protect health care coverage and build an economy that works for everyone. Our nation deserve this type of leadership, and we are ready to take action to get it done.'      Asked on Tuesday morning what she would discuss during her rebuttal, Whitmer told CNN's Alisyn Camerota on 'New Day' that she is 'going to stay focused on the issues that matter to Michiganders and, I think, the American people in every state.'      'It is a wild week -- that's to be sure -- and anticipating what the President may or may not say is a challenge, but I'm going to stay focused to the issues that I ran on and I think that's what the American people want to hear about,' she added.      Democrats are now closely eying those battleground states ahead of November's election, when the party's nominee will fight to win back former reliably blue states from Trump.      'Governor Whitmer's dedication to Michiganders is a model for public servants everywhere,' he said. 'Whether it's pledging to 'Fix the Damn Roads' or investing in climate solutions, Governor Whitmer's vision for the future is exactly what this country needs, and I'm thrilled she is giving the Democratic response.'      During her race for governor, Whitmer campaigned on a simple, blunt slogan: 'Fix the damn roads.'      The slogan was more than a literal call to fill the potholes that forced Whitmer to replace two car windshields during the campaign -- and it tapped into something that party strategists said was at the core of their resurgence.      'I ran on fixing the roads ... I ran on cleaning up drinking water,' Whitmer said, referring to the crisis in Flint, Michigan, where the government's cost-cutting measures led to lead-tainted drinking water.      Former Michigan Gov. Jennifer Granholm, the most recent Democrat to hold the position before Whitmer took office, told CNN on Monday that the party was wise to select Whitmer to deliver the rebuttal.      'I don't think she'll pull any punches, which is why she was elected with the greatest number of votes ever cast for governor in Michigan,' said Granholm, who is also a CNN contributor. 'It was a brilliant choice to select her to deliver the response.'      Since taking office, Whitmer has set out to work on a number of issues in the state, including expanding affordable access to health care, investing billions of dollars in the state's infrastructure and creating a department tasked with improving the quality of drinking water in Michigan.",
+        "date": "2020-02-11 15:39:53.213384",
+        "title": "Michigan governor's response to Trump's State of the Union to highlight state Democrats want to win in 2020",
+        "url": "https://www.cnn.com/2020/02/04/politics/who-is-gretchen-whitmer-state-of-the-union-response/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.2429780564263323,
+        "subjectivity": 0.33990496093944367
+    },
+    "signature": {
+        "Michigan": 0.01631839225162163,
+        "Party": 0.019582070701945956,
+        "State": 0.019582070701945956,
+        "Whitmer": 0.03916414140389191,
+        "she": 0.014007806959338377
+    },
+    "tone": [
+        {
+            "score": 0.561276,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.501943,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

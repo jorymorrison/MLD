@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "The Mexican chain has added a second line to its stores that field only digital orders, and it's testing out 'Chipotlanes,' which let customers order online and pick up through a drive-thru lane in some stores. It offers delivery through its app and delivery platforms.      In the last three months of 2018, Chipotle's digital sales grew 66%.      'We are definitely under a digital transformation at Chipotle,' CEO Brian Niccol told CNN's Christine Romans.      Niccol became CEO about a year ago, replacing Chipotle founder and chairman Steve Ells.      Here's why labor is the Chipotle CEO's top concern Here's why labor is the Chipotle CEO's top concern also struggled to contain several norovirus incidents in its restaurants over the past few years. He was tasked with turning the company around after a difficult period. Customers were hesitant to trust the restaurant following an E. coli outbreak that made 60 Chipotle customers in 14 states ill in late 2015 and early 2016.also struggled to contain several norovirus incidents in its restaurants over the past few years. In addition to focusing on digital improvements, Niccol is highlighting the company's real ingredients and pushing out menu innovations like diet-friendly bowls. The efforts are working. The company's stock has risen about 35% over the past year, and sales are growing. In the fourth quarter of last year, comparable restaurant sales grew 6%. As far as a turnaround goes, 'we're definitely just getting started,' he said. 'There's still so much opportunity in front of us, and there's still a lot of work to be done.'",
+        "date": "2020-02-11 15:27:50.886764",
+        "title": "Chipotle CEO: We are undergoing a digital transformation",
+        "url": "https://www.cnn.com/2019/02/09/business/chipotle-digital-transformation/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.025,
+        "subjectivity": 0.2861111111111111
+    },
+    "signature": {
+        "Chipotle": 0.03981687709395678,
+        "In": 0.01351550360360548,
+        "Niccol": 0.01990843854697839,
+        "digital": 0.02654458472930452,
+        "stores": 0.01327229236465226
+    },
+    "tone": [
+        {
+            "score": 0.552166,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.566748,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

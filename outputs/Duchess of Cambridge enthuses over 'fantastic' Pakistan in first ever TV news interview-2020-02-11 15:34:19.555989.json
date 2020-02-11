@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "Kate told CNN the five-day official trip had allowed the couple to see a lot of the country.      'It was amazing seeing some of the geography yesterday, but then to see some of the community activities today has been really special,' the duchess said, Prince William standing alongside her.      The duchess spoke to CNN during an engagement in the city of Lahore Thursday where the royal couple were visiting SOS Children's Village, a charitable organization established in the late 1970s. The project provides 150 orphaned children with a home and family structure, and, according to the organization, helps kids develop into happy, confident and resilient adults.      The Duchess of Cambridge speaks exclusively to CNN on day four of the official tour of Pakistan. 'William and I really wanted to come and see an SOS Children's Village like this,' Kate continued. 'There's so many vulnerable women here but they've really used their positivity and the support that the Village here provides them ... to support and protect the next generation of children in their care and give them the best possible start to their future lives.' William and Kate were given finger puppets when they joined a musical storytelling session at the Village. Moments before, Kate impressed the gathered crowd by delivering the opening remarks of her speech in Urdu. 'You have shown us too that it is not simply a term that describes the relationship between blood relatives,' the duchess said. 'Instead it describes those special bonds we share with those who make us feel safe and supported. It is the quality of those relationships that matters.' She continued, 'Together as a village you are transforming children's lives and providing them with strong foundations to support all their families. Kate made her first speech of the tour while in Lahore on Thursday. 'Here, women who were once vulnerable, now play the most vital of roles as mothers and it is most heartening to see that you are not doing this alone.' Kate ended the address as she began, in Urdu, wishing three children a happy birthday. Catherine, Duchess of Cambridge spotlights the country's designers on five-day Pakistan tour Related: William carves his own path as monarch in waiting The couple were on the penultimate day of their tour, which saw them join a cricket match at the National Cricket Academy before visiting the Badshahi Mosque known as the most iconic Islamic site in Lahore. William and Kate also visited the historical Badshahi Mosque on Thursday. The royals also visited the Shaukat Khanum Memorial Cancer Hospital and Research Centre. The engagement was no doubt a poignant moment for the future heir to the British throne as his late mother, Diana, the Princess of Wales, previously visited the medical facility as a guest of now Prime Minister, Imran Khan. William joined a tea party with cancer patient Wafia Remain, 7, during the couple's visit to Shaukat Khanum Memorial Cancer Hospital. At the hospital, the couple visited the children's ward and spent time with patients undergoing treatment before meeting with several families.",
+        "date": "2020-02-11 15:34:19.555989",
+        "title": "Duchess of Cambridge enthuses over 'fantastic' Pakistan in first ever TV news interview",
+        "url": "https://www.cnn.com/2019/10/18/asia/duchess-of-cambridge-pakistan-tour-max-foster-gbr-intl/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.228998778998779,
+        "subjectivity": 0.456837606837607
+    },
+    "signature": {
+        "Children": 0.024306814505031752,
+        "Kate": 0.024306814505031752,
+        "William": 0.017362010360736965,
+        "children": 0.024306814505031752,
+        "duchess": 0.017362010360736965
+    },
+    "tone": [
+        {
+            "score": 0.692005,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

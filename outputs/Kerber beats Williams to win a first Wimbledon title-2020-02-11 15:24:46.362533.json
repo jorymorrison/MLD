@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Wimbledon (CNN) Serena Williams' good friend the Duchess of Sussex Meghan Markle and the Duchess of Cambridge Kate Middleton watched her in Saturday's women's final at Wimbledon.      In Williams' box were sporting royalty, golfer Tiger Woods and Formula One champion Lewis Hamilton, as well as fashion icon Anna Wintour.      The stars had certainly aligned on Centre Court to watch the American, who was one win away from tying Margaret Court for the all-time lead in grand slams and collecting a maiden major as a mum.      But Angelique Kerber's straightforward victory means the 36-year-old will have to wait a little longer to make further history.      Kerber, who had flown under the radar in this tournament due to Williams' inspirational tale and the exodus of top-10 seeds, beat the 23-time grand slam winner 6-3 6-3 in 65 minutes to make some history of her own.      Williams doesn't often lose grand slam finals -- in 30 major finals, this is only her seventh loss -- but Kerber became the first person other than the American's older sibling, Venus, to beat her more than once in a grand slam final.      The first time came at the Australian Open in 2016 before Williams turned the tables in another high-quality tussle at Wimbledon. Kerber secured slam No. 2 at the US Open the same year on her way to ascending to top spot in the rankings.      The German described her Wimbledon win as a 'dream come true.'      'I knew I had to play my best against a champion like Serena, it is always an honor to share a court with her,' Kerber, who embraced Williams at the net after her win, said on court.      'It is my second chance to play in front of you on Centre Court, I enjoyed every second of the last two weeks so thanks for all the support.'      While not away from the game due to injuries or to start a family like Williams, Kerber's form slumped badly last year.      She failed to reach a single grand slam quarterfinal and eventually cut ties with Torben Beltz, the man who had coached her to two grand slams. So this is a comeback of sorts for the 30-year-old, too.      Her Wimbledon success followed a semifinal showing in Melbourne and a quarterfinal at the French Open.      And now, Kerber is only one grand slam away \u2014 Roland Garros \u2014 from completing her collection.      On a sunny, warm day in southwest London, Williams \u2014 competing in only her fourth tournament since giving birth to Olympia last September -- didn't reach the level Wimbledon crowds are often accustomed to seeing from her.      Williams hit four aces in the entire match.      Sometimes statistics don't tell the entire story, but her unforced error count of 24 \u2014 backed by 23 winners \u2014 did.      In her semifinal win over Julia Goerges, Williams only had seven unforced errors. The tally got to seven Saturday in under five games.      Kerber, meanwhile, did what she does best, absorbing pace and forcing errors.      Her total of 11 winners and five unforced errors was the kind of high level needed to beat Williams in a grand slam final.      Kerber broke early for 2-0, was pegged back to 2-3 as Williams temporarily found her game, but a pair of double faults back-to-back from the seven-time champion allowed Kerber to reestablish a break lead for 4-3. She went on to secure the set in 31 minutes.      Williams never really recovered, despite keeping it close early in the second set.      Kerber opened up a 5-2 lead \u2014 breaking at 3-2 \u2014 but one can never count out Williams given all her famous comebacks.      When she won the first point on the Kerber serve at 5-3 it hinted at a fightback, yet on the next point, when faced with an open court, Williams sent a forehand long.      At 30-30, Kerber hit a stunning, deep forehand on the line and a point later fell to the grass when Williams erred on match point.      There was joy for Kerber. Unusually for Williams in a grand slam final, she was defeated.      'To all the moms out there, I was playing out there for you today and I tried,' Williams said on court immediately after defeat, her third in a Wimbledon final.      'Angelique played really well. I look forward to continuing to be out here and do what I do best. She's an incredible person and a really good friend so I'm really happy for her. I know she's going to enjoy it and enjoy the moment.'",
+        "date": "2020-02-11 15:24:46.362533",
+        "title": "Kerber beats Williams to win a first Wimbledon title",
+        "url": "https://www.cnn.com/2018/07/14/tennis/serena-williams-angelique-kerber-wimbledon-womens-final/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.22636107020127633,
+        "subjectivity": 0.502928325969563
+    },
+    "signature": {
+        "Her": 0.028797176636123453,
+        "Kerber": 0.032876320536294586,
+        "Williams": 0.04226955497523589,
+        "her": 0.028797176636123453,
+        "slam": 0.01878646887788262
+    },
+    "tone": [
+        {
+            "score": 0.669534,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.52868,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

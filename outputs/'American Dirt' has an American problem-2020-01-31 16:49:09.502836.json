@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Rafia Zakaria is the author of ' The Upstairs Wife: An Intimate History of Pakistan ' (Beacon 2015) and ' Veil ' (Bloomsbury 2017). She is a columnist for Dawn newspaper in Pakistan and The Baffler. The views expressed in this commentary are her own. View more opinion on CNN.      (CNN) 'This story changed the way I see what it means to be a migrant in a whole new way,' tweeted Oprah Winfrey on Tuesday about her latest book club selection, the novel 'American Dirt.' The book is about the Mexican migrant experience and was written by Jeanine Cummins, who reaped a seven-figure advance and a movie deal even before being chosen by Oprah.      Cummins, who in a 2015 essay identified as white and has Latina ancestry (one of her grandmothers is from Puerto Rico ), wrote in a note at the end of the book that she wishes 'someone slightly browner than me would write it.' The novel tells the plight of a young mother named Lydia and son Luca who make a thrilling escape from a murderous drug cartel and travel via train and on foot to finally arrive in America.      In part fueled by the book's breakout success, bitter controversy has sprung up around 'American Dirt.' An increasing number of Mexican-Americans and Latinx writers and readers have objected to what they see as Cummins' appropriation and marketing of a story that isn't hers to a mainstream (largely white) audience. Many have denounced the book or taken to social media and other platforms to appeal to readers to, as Myriam Gurba put it on Twitter, 'Read something told in our own voices.'      New York Times reviewer Parul Sehgal called the book 'enviably easy to read' and 'determinedly apolitical.' When combined with another part of Oprah's tweet announcing her pick -- 'From the first sentence, I was IN' -- this helps explain why this book is such a problem. What Sehgal and Oprah are describing is a book that is utterly absorbing to a passive reader. Typically, books that generate empathy in the absence of politics run into trouble, according to many critics, because the empathy feels empty. (Harriet Beecher Stowe's 'Uncle Tom's Cabin' stands as perhaps the best example of this phenomenon). Readers get to feel the emotional experiences of Lydia and Luca without being challenged to think about the political realities or identities that shape what it means in real life to be a migrant.      Since it's fair to say that part of the book's timeliness and success are tied to the political currency of immigration, that lack of political engagement in the story itself feels, for many, offensive. This is particularly true when the stories real-life migrants tell about their suffering have to check an increasingly narrow set of boxes to qualify them for asylum here; had Lydia only been an abused wife , beaten and broken but not a cartel target, she would not have been eligible for habitation in actual American dirt.      As may be expected in this context, stereotypes and inaccuracies flit and fly as one sifts through the pages of 'American Dirt.' There is the fetishized treatment of brownness noted in the New York Times review ( berry-brown? tan as childhood? ), tortured sentences and meaningless metaphors, all of which add up to a book that, as one review puts it , 'fails to convey any Mexican sensibility.'      Not all Latinx or Mexican writers are in agreement in condemning the book: Sandra Cisneros and Julia Alvarez have praised it, as have other prominent authors like Stephen King and Ann Patchett. Actresses Gina Rodriguez and Yalitza Aparicio have shared photos of themselves reading it, telling their social media followers to join Oprah's book club.      One might argue easily that such escape is the purview of fiction. But that position obscures that Oprah and Cummins are, in their endorsement of the book and the wish that someone less white had written it, being political by parroting exclamations and disclaimers that 'good' Americans have been prescribed when dealing with the tendentious territory of race and migration. Getting through 'American Dirt,' in all the overdone stinging suspense, means readers can imagine themselves compassionate and in possession of a scale on which to judge the actual migrants around them. In this politics of white virtue, Lydia and Luca's journey comes off as little more than a simplistic story that can render a heartrending crisis consumable and marketable.      The heart of the problem is that 'American Dirt' is not really a story of Mexican migrants at all. It is the story of American entitlement, one that never questions the brute injustice of geography of birth determining opportunities in life. 'American Dirt' is an accurate depiction of what Americans demand Mexicans and other brown people suffer to be allowed into the country.      The need for self-reproach, for self-reflection, for action, should be the point. Instead, here are migrant lives reduced to suspenseful and thrilling entertainment, marketable for their adrenaline-laced events and their ability to advertise that Americans care, even if they do nothing to allay the suffering of those on the other side of the barbed wire.",
+        "date": "2020-01-31 16:49:09.502836",
+        "title": "'American Dirt' has an American problem",
+        "url": "https://www.cnn.com/2020/01/23/opinions/american-dirt-oprah-book-controversy-zakaria/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.10553030303030302,
+        "subjectivity": 0.3876704545454545
+    },
+    "signature": {
+        "Dirt": 0.01465223865022942,
+        "IN": 0.046049892900721034,
+        "book": 0.01668453242136148,
+        "dirt": 0.01465223865022942,
+        "story": 0.012559061700196647
+    },
+    "tone": [
+        {
+            "score": 0.587112,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.552176,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

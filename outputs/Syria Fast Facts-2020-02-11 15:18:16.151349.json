@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Religion: Muslim 87%, Christian 10%, and Druze 3%, Jewish (few remaining in Damascus and Aleppo)      1920 - The League of Nations puts Syria under French control.      April 17, 1946 - Independence is declared after French troops leave the country.      1949-1958 - A series of coups leads to instability in the country.      1967 - Syria loses the Golan Heights to Israel during the Six Day War.      June 3, 2014 - President Assad is re-elected, receiving 88.7% of the vote in the country's first election since civil war broke out in 2011. The election is criticized by opposition groups and many Western countries.      October 22, 2019 - Erdogan and Russian President Vladimir Putin unveil a Erdogan and Russian President Vladimir Putin unveil a 10-point shared agenda shaping the end of Syria's civil war. Putin says Russia and Turkey agree to uphold the 'sovereignty and territorial integrity' of Syria. The formerly US-backed Kurdish fighters must withdraw from the towns of Manbij and Tal Rifaat.",
+        "date": "2020-02-11 15:18:16.151349",
+        "title": "Syria Fast Facts",
+        "url": "https://www.cnn.com/2013/06/18/world/meast/syria-fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.020833333333333332,
+        "subjectivity": 0.0861111111111111
+    },
+    "signature": {
+        "President": 0.034237442087160286,
+        "Putin": 0.034237442087160286,
+        "Syria": 0.04564992278288038,
+        "War": 0.034237442087160286,
+        "war": 0.034237442087160286
+    },
+    "tone": [
+        {
+            "score": 0.535207,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.558659,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

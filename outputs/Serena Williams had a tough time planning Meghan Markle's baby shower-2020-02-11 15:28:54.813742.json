@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "The iconic athlete talked to Business of Fashion a few days after she co-hosted a lavish shower for Meghan Markle at the Mark Hotel in New York City.      'Planning something like that takes a lot of effort,' Williams said at the time. 'I'm a perfectionist, so I'm like, 'Let's make it perfect. It's been a lot the last few days.'      The tennis phenom and the now Duchess of Sussex are close friends, having met a few years ago at a charity event.      Williams and her husband, Reddit co-founder Alexis Ohanian, attended Markle's wedding to Prince Harry last May.      Williams talked to the publication about her fashion line and said a 'boss blazer' Markle wore last October during a royal tour of Australia has become a bestseller. 'It's so fun because people are like, 'Oh my God. Like wow, the quality is crazy,'' Williams said. 'Listen, if we're giving our stuff to Meghan, it has to be the highest quality that we can get. So, that's what I tell our team internally: 'We have to make sure it's super high quality that, you know, is fit for a royal princess!''",
+        "date": "2020-02-11 15:28:54.813742",
+        "title": "Serena Williams had a tough time planning Meghan Markle's baby shower",
+        "url": "https://www.cnn.com/2019/04/24/entertainment/serena-williams-meghan-markle-shower/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.1370409982174688,
+        "subjectivity": 0.4147118241235889
+    },
+    "signature": {
+        "Like": 0.036197160994506164,
+        "Markle": 0.027147870745879623,
+        "Williams": 0.036197160994506164,
+        "quality": 0.027147870745879623,
+        "talked": 0.018098580497253082
+    },
+    "tone": [
+        {
+            "score": 0.698215,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

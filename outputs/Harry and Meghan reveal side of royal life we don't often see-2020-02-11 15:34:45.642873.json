@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "London (CNN) Every family has their ups and their downs, and Britain's royal family are no exception -- we just don't normally hear about them.      In a departure from protocol, the Duke and Duchess of Sussex gave an unfiltered perspective on their heavily dissected lives in a documentary that aired in the UK on Sunday night.      The silent strategy is one that the royal family have traditionally favored, and the Queen opts for actions over words. Senior royals have started to open up on issues they care about, however. Think Prince Charles or William on climate issues. But they rarely divulge anything about themselves.      That's what made these interviews so significant. We got to hear something of how Harry and Meghan are truly feeling and coping -- or not -- with the tabloid news cycle surrounding them. By the end of the hour one thing was clear: they are drained.      Harry and Meghan visit a township in Johannesburg hours after the duchess launched legal action against The Mail on Sunday newspaper in October.      It was most evident on Harry's face when talking to ITV reporter Tom Bradby. The strain on the duke was increasingly evident as footage of the tour in southern Africa rolled on.      'It's constant management... I thought I was out of the woods and then it all suddenly all came back,' Harry revealed. 'Part of this job and part of any job, like anybody, means putting on a brave face, and turning a cheek to a lot of this stuff.'      Reaction to the documentary has inevitably been divided. Some praised the couple for being honest while others within the British establishment were worried about the candid nature of the film. After all, the pair broke the unwritten royal rule that you do not talk about the family, as it undermines the wider institution.      Harry continued, however: 'But we are brothers. We will always be brothers.'      'We are certainly on different paths at the moment, but I will always be there for him, and as I know he will always be there for me. We don't see each other as much as we used to as we are so busy. But I love him dearly,' he said.      Harry's remarks come on the heels of widespread tabloid stories of a rift between the brothers, and some journalists believe this was confirmation of their reporting. It does appear to undermine previous denials from palace officials.      'It is clear from the documentary that they are far from happy as royals,' royal commentator Richard Fitzwilliams said in a statement.      This is unfamiliar ground given that royals don't typically take time off. The hiatus will see them take some 'family time' from around mid-November once they have completed their current run of engagements, a royal source told CNN.      The royal couple is aware that one dissenting perception of them is that they live gilded lives, in royal properties with staff at their every beck and call, and that all they do is travel the world to champion causes the family believes in. When pressed on this impression in the documentary, Meghan emphasized that 'the grass is always greener.'      'I never thought this would be easy. But I thought it would be fair and that's the part that's really hard to reconcile.'",
+        "date": "2020-02-11 15:34:45.642873",
+        "title": "Harry and Meghan reveal side of royal life we don't often see",
+        "url": "https://www.cnn.com/2019/10/21/uk/harry-meghan-documentary-analysis-gbr-intl/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.17429527836504577,
+        "subjectivity": 0.4625968992248061
+    },
+    "signature": {
+        "Harry": 0.019370372640303297,
+        "That": 0.01498696606616098,
+        "documentary": 0.012913581760202198,
+        "family": 0.016141977200252747,
+        "royal": 0.022598768080353847
+    },
+    "tone": [
+        {
+            "score": 0.604026,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.505961,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.528333,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

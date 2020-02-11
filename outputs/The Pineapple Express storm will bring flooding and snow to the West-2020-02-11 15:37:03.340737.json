@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Atmospheric rivers are narrow corridors of the upper atmosphere that transport intense moisture from a large body of water onto land.      The Pineapple Express is a specific atmospheric river that originates near Hawaii and travels across the Pacific Ocean to the western coast of North America.      Oregon and Washington will see the worst of the storm      Thursday through Saturday, heavy precipitation will move into Oregon and Washington. Coastal regions will become saturated from very heavy rain, with as much as 4-8 inches expected. The higher elevations of Oregon and California can expect heavy snow, with possible totals of 5-20 inches. Forecasts for the Cascade Mountains in Washington are even higher, with totals expected between 1-3 feet. Ice is also possible for portions of the Hood River Valley Thursday. Accumulations of up to three-tenths of an inch are possible, which could lead to dangerous driving conditions, tree damage, and power outages. Damaging winds up to 60 mph are expected along the coast, with 25-40 mph farther inland.       By the weekend, the system will move south into California, taking the heavy rain to places like San Francisco and Sacramento. The good news is that the system will weaken as it moves south. So, California will not receive as much rain as Oregon and Washington. Most locations in Northern California will pick up at most 1-2 inches of rain. 'The atmospheric river for the end of the week looks to be an AR1 in the central California coast and northern Washington, but strengthen as high as an AR4 in Central Oregon,' explains Anna Wilson, field operations manager for the Center for Western Weather and Water Extremes (CWWWE) at Scripps Institution of Oceanography. The latest weather stories and extreme weather videos making headlines around the globe. Atmospheric river events are characterized by a rating scale of 1-5 , with Category 1 being a low-end, primarily beneficial event, and a Category 5 being a high-end, primarily hazardous event. This scale, used by the CWWWE, takes into account both intensity and duration. According to the agency, atmospheric river events can sometimes produce 25-50% of the annual precipitation in some western US locations. They also provide much of the snowpack and water supply for California.",
+        "date": "2020-02-11 15:37:03.340737",
+        "title": "The Pineapple Express storm will bring flooding and snow to the West",
+        "url": "https://www.cnn.com/2019/12/19/weather/pineapple-express-weekend-west-storm/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.04260204081632653,
+        "subjectivity": 0.43437074829931965
+    },
+    "signature": {
+        "Atmospheric": 0.0244108919513359,
+        "Oregon": 0.014967469872862531,
+        "River": 0.0244108919513359,
+        "atmospheric": 0.0244108919513359,
+        "river": 0.0244108919513359
+    },
+    "tone": [
+        {
+            "score": 0.523466,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.684529,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.679172,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

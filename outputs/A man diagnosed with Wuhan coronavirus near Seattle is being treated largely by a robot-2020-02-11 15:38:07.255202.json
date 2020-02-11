@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "(CNN) The first person diagnosed with the Wuhan coronavirus in the United States is being treated by a few medical workers and a robot.      The robot, equipped with a stethoscope, is helping doctors take the man's vitals and communicate with him through a large screen, said Dr. George Diaz, chief of the infectious disease division at the Providence Regional Medical Center in Everett, Washington.      The man, who is in his 30s, was diagnosed with the virus on Monday . He initially went to an urgent care clinic on January 19 and told the staff that he was concerned about possibly having symptoms of the novel coronavirus because he recently traveled to Wuhan, China, Diaz said.      He arrived at Seattle-Tacoma International Airport on January 15, before any health screenings began at US airports, the US Centers for Disease Control and Prevention has said.      The Snohomish County resident was in stable condition Thursday and remains in isolation, Diaz said.      Washington state health officials confirmed Thursday that they have reached out to 43 people considered 'close contacts' of the 30-year-old man, who identified the people he had interacted with since returning from Wuhan, China. Those contacts will be called daily and actively monitored for signs of any illness.      He arrived at the hospital in a special isolated gurney called an ISOPOD and has been treated in a two-bed isolated area away from busy sections of the hospital, the doctor said.      'The nursing staff in the room move the robot around so we can see the patient in the screen, talk to him,' Diaz said, adding the use of the robot minimizes exposure of medical staff to the infected man.      It's unclear when the patient will be released because the CDC, which is set to provide the discharge details, has recommended additional testing.      'They're looking for ongoing presence of the virus,' Diaz told CNN on Thursday. 'They're looking to see when the patient is no longer contagious.'      About two weeks ago, the hospital tested its protocol for treating patients with highly contagious diseases such as MERS and Ebola. The hospital made changes after the Ebola outbreak.      'That's why we set up protocols that will allow us to treat patients with infectious diseases in a way that we can isolate them without spreading the virus to anyone,' Diaz told CNN en Espa\u00f1ol.      Washington state health officials confirmed Thursday they have been reaching out to 43 people considered to be 'close contacts' of the patient.      The department defined 'close contacts' as anyone who interacted with the patient and came within 3 to 6 feet of the infected person, for a prolonged period of time while infectious or had direct contact with his secretions.      The virus has killed at least 25 people in China, seven of whom did not have preexisting conditions before they contracted the illness, and sickened more than 800, as far afield as the US.      The true extent of the Wuhan coronavirus is unclear, however, and official figures may be an underestimation as mild symptoms and delayed onset mean cases are likely to have been undetected, a team of scientists have said.      The World Health Organization's (WHO) emergency committee has said it's too early to declare the outbreak an international public health emergency.",
+        "date": "2020-02-11 15:38:07.255202",
+        "title": "A man diagnosed with Wuhan coronavirus near Seattle is being treated largely by a robot",
+        "url": "https://www.cnn.com/2020/01/23/health/us-wuhan-coronavirus-doctor-interview/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.06835253456221199,
+        "subjectivity": 0.3944354838709678
+    },
+    "signature": {
+        "Diaz": 0.019725792321776753,
+        "Health": 0.016438160268147293,
+        "Wuhan": 0.013150528214517836,
+        "health": 0.016438160268147293,
+        "patient": 0.016438160268147293
+    },
+    "tone": [
+        {
+            "score": 0.550586,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.58475,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.558984,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

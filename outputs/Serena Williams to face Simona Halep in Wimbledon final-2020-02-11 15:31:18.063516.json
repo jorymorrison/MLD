@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "(CNN) Serena Williams remains on course for an eighth Wimbledon singles title after trouncing Czech Barbora Strycova to reach her 11th final at the All England Club.      Williams, who is chasing a 24th grand slam title to tie Margaret Court's all-time record, wrapped up a 6-1 6-2 victory in 59 minutes Thursday.      The 37-year-old will face Romania's world No.7 Simona Halep, who beat Ukraine's Elina Svitolina 6-1 6-3.      The women's singles final takes place Saturday at Wimbledon, with the men's final Sunday.      America's Williams was in unforgiving mood and forced world No.54 Strycova, a shock semifinalist, to scamper and cover every blade of grass inside the opening exchanges.      The Czech defended valiantly against Williams' blistering groundstrokes, which seemed to be tearing through Center Court with extra venom.      A missed return on a short Strycova second serve in just the fourth game caused Williams to cry out in frustration, but that frustration would soon turn to joy and a clenched fist as the American broke her opponent for the first time.      Williams quickly raced ahead and when faced three straight break points serving at 5-1, the American again upped the ante and won five points in a row -- the last a thundering ace -- to see out the set.      Strycova let out a cry and smashed her racket into her thigh, furious that she had squandered the opportunity to get back into the set.      The second set began far more evenly but Strycova was eventually broken in her third service game, dumping an awkward looking half volley into the bottom of the net.      The 33-year-old spent all of the subsequent changeover stretching out what appeared to be some discomfort in her lower back.      When the pair came out for the change of ends, Strycova was at points limping heavily and grimacing, pulling up after hitting certain shots.      Her miserable afternoon was compounded with a second break of serve, which came with an easy missed volley accompanied by a long, frustrated scream.      But Strycova's Wimbledon isn't over just yet, with the women's doubles semifinals still to look forward to Friday.      It was another stunning, dominant performance from Williams who continues to defy all expectations after coming into this tournament having played just 12 matches all season.      Hampered for much of the year with a troublesome knee, many thought the 37-year-old would be far from her best and perhaps she has even surprised herself.      'It definitely feels good to be back in the final, especially after my year,' Williams told the BBC. 'It's definitely a lot better (injury), I just needed some matches and after every match I'm improving. I just needed to feel good and now I feel good I can play tennis.'      Victory on Saturday would draw Williams level with Court's record of 24 grand slam titles and, if she were to continue this form for the remainder of the season, few would bet against her bettering it.      However, she insists it's not a milestone that has been weighing on her mind.      'I thought about it this morning and actually didn't think about it since because it's really not about 24 or 23 or 25,' she said. 'It's really just about going out there and giving my best effort no matter what. No matter what I do, I will always have a great career.'      With Strycova four years Williams' junior and already considering retirement, what is it that keeps the American motivated week in, week out?      'I love what I do,' she said. 'I wake up every morning and I get to be fit, I get to play sport, I get to play in front of crowds like at Wimbledon, not everyone gets to do that.'      She added: 'I have a great job and I'm still pretty good at what I do.      Former world No.1 Halep has been hugely impressive this year and dropped just one set en route to the final.      'Shes tough, she played unbelievable today,' Williams said of Saturday's opponent. 'We always have tough matches but I look forward to it.'      'One of best moments of my life'      After 20 grueling minutes of Thursday's first semifinal, Halep and Svitolina had already exchanged numerous lengthy rallies but registered just two games on the scoreboard.      The action and afternoon heat was too much for one spectator, who had to be helped out of Centre Court -- though the stoppage provided a welcome break for both players who were breathing deeply at the back of the court after another brutal exchange.      Svitolina blinked first, with Halep finally getting the break of serve at the third attempt, before the Ukrainian immediately broke back to love.      But from there Halep raced into the lead, wrapping up the rest of first set in the same time it took to play those first two games.      Svitolina, seeded eighth here at Wimbledon and playing in her first grand slam semifinal, put up more of a fight in the second set but was powerless against the Romanian's thundering ground strokes.      'It's an amazing feeling,' Halep told the BBC. 'I'm really excited -- and also nervous -- because of this (first Wimbledon final).      'It's one of the best moments of my life, so I'm trying just to enjoy it as much as possible and be happy that I could go through to the final.'",
+        "date": "2020-02-11 15:31:18.063516",
+        "title": "Serena Williams to face Simona Halep in Wimbledon final",
+        "url": "https://www.cnn.com/2019/07/11/tennis/wimbledon-serena-williams-barbora-strycova-elina-svitolina-simona-halep-spt-intl/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.15181075666512558,
+        "subjectivity": 0.48119509939898303
+    },
+    "signature": {
+        "A": 0.013771136037614807,
+        "Strycova": 0.01582127566647289,
+        "Williams": 0.021754254041400224,
+        "after": 0.013843616208163781,
+        "final": 0.013843616208163781
+    },
+    "tone": [
+        {
+            "score": 0.629914,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.54946,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.564346,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

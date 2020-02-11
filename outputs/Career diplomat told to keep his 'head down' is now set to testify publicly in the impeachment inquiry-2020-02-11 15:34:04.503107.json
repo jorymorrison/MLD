@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) A career diplomat who said he was told to 'keep (his) head down' after being attacked by the President's personal lawyer will become one of the first people to testify in public as part of the House impeachment inquiry.      Deputy Assistant Secretary of State for European and Eurasian Affairs George Kent is expected to appear on Wednesday in a joint hearing with Ambassador Bill Taylor , the top US diplomat in Ukraine.      Kent, who has been in the foreign service since 1992, currently oversees policy for a number of eastern European nations, including Ukraine. Before that, he was the deputy chief of mission at the US Embassy in Kiev.      Former State Department official Molly Montgomery said Kent 'is professional and one of the US government's foremost experts on Ukraine.' She described him as someone who has 'never been shy with his opinions.'      Kent testified behind closed doors last month. According to a transcript of that appearance, Kent's testimony provided House impeachment investigators with new insight into how then-US special envoy to Ukraine Kurt Volker and US Ambassador to the European Union Gordon Sondland worked with Rudy Giuliani on Ukraine, as well as the reactions inside the State Department to Giuliani's efforts that Kent and others say ran counter to US foreign policy.      Kent said he did not speak to anyone at State to express his concerns about Giuliani because he had previously been told to 'keep my head down' after Giuliani attacked him by name.      He also spoke about Giuliani's attacks on Yovanovitch -- who is scheduled to testify publicly on Friday -- as part of a 'campaign of lies' against the former ambassador to Ukraine.      Kent was among the career officials who sought to shield Yovanovitch from that campaign of false allegations against her in March 2019, according to internal emails turned over to Congress by State Department Inspector General Steve Linick in early October. Yovanovitch was removed from her post in May.      Those emails show Kent, along with Acting Assistant Secretary for European and Eurasian Affairs Phil Reeker, working to provide department counselor Ulrich Brechb\u00fchl and Undersecretary for Political Affairs David Hale with facts to counter the conspiratorial narratives being pushed about the career diplomat.      In an email from March 27, Kent flagged to his colleagues a 'totally manufactured/fake list of untouchables.' Then-Ukrainian Prosecutor General Yuriy Lutsenko had claimed Yovanovitch had given him such a 'do not prosecute' list -- the State Department denied the claim and he later walked it back. It was nonetheless seized upon by some in conservative media and compounded Giuliani's campaign against Yovanovitch.      In his email, Kent noted that 'one key sign of it being fake is that most of the names are misspelled in English.'      'This list appears to be an effort by Lutsenko to inoculate himself for why he did not pursue corrupt Poroshenko associates and political allies -- to claim that the US told him not to,' Kent wrote, referencing the former President of Ukraine Petro Poroshenko. 'Complete poppycock.'      Kent suggested taking a similar approach to the US Embassy in Moscow 'if (they) wanted to push back hard(er),' writing, 'I know US Embassy Moscow has in the past derided fake letters by circling in red all the misspellings and grammar mistakes and reposting it.'      Kent's time as the deputy chief of mission in Kiev overlapped partially with Lutsenko's tenure and fully with that of his predecessor in the Ukrainian prosecutor's office, Viktor Shokin.      Both of the former prosecutors have been in communication with Giuliani, according to documents given to Congress by the State Department inspector general.      Shokin has claimed he was ousted from the job in 2016 because he was investigating Burisma, the company whose board Hunter Biden joined in 2014.      That claim has been echoed by President Donald Trump, who said that former Vice President Joe Biden wanted Shokin 'off the case.' There is no evidence of wrongdoing by either Joe or Hunter Biden.      There was broad international support for Shokin's removal due to his inaction to combat Ukrainian corruption -- demands for his removal came from the Obama administration, the International Monetary Fund and the European Union.      This story has been updated ahead of Kent's public testimony on November 13.",
+        "date": "2020-02-11 15:34:04.503107",
+        "title": "Career diplomat told to keep his 'head down' is now set to testify publicly in the impeachment inquiry",
+        "url": "https://www.cnn.com/2019/10/15/politics/who-is-george-kent/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.032996123462225156,
+        "subjectivity": 0.27132065204099104
+    },
+    "signature": {
+        "Giuliani": 0.017690149907752306,
+        "Kent": 0.03790746408804065,
+        "State": 0.017690149907752306,
+        "US": 0.02021731418028835,
+        "Ukraine": 0.017690149907752306
+    },
+    "tone": [
+        {
+            "score": 0.531229,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.659996,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

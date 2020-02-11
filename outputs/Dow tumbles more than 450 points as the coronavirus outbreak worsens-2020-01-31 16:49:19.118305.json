@@ -1,0 +1,41 @@
+{
+    "article": {
+        "body": "New York (CNN Business) The Dow tumbled on Monday, as US stock nosedived on news of the continuing global spread of coronavirus.      It was one of the worst day in months for stocks, and thewas down 549 points at its lowest, closing 454 points, or 1.6% lower. That wiped out all this year's gains for the index and was the biggest one-day percentage drop since October..      Thefell 1.6%, which its worst performance since October. Thefinished down 1.9%, its biggest one-day loss since August.      European exchanges are also lower, while Asian markets are closed for the Lunar New Year holiday.      Stocks sold off last week amid fears of a global pandemic. The outbreak, which so far has infected thousands people and killed 80, concerns investors about the Chinese economy.      As the second-largest economy in the world, any drop off in China's growth could hurt the global economy, which has already slowed over the past year.      Although the outbreak could be short-lived, it could pose a notable threat to China's economic growth, depending on its duration and severity, noted Oxford Economics economists Tommy Wu and Priyanka Kishore in a note to clients.      'We think that consumption and travel will be the most affected, and to a lesser degree investment and industrial production. We also expect the Chinese government to roll out measures to stabilize growth, if needed,' Wu and Kishore said.      Traditional safe-haven assets rallied higher on Monday. The price for gold settled 0.4% higher at $1,576.80 per ounce, and the 10-year US Treasury bond yield slipped to 1.6%. Bond yields and prices move opposite to each other.",
+        "date": "2020-01-31 16:49:19.118305",
+        "title": "Dow tumbles more than 450 points as the coronavirus outbreak worsens",
+        "url": "https://www.cnn.com/2020/01/27/investing/dow-stock-market-today-coronavirus/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.03382903105125328,
+        "subjectivity": 0.32327908716797604
+    },
+    "signature": {
+        "1.6": 0.01998244761220879,
+        "US": 0.013321631741472526,
+        "Year": 0.01998244761220879,
+        "economy": 0.01998244761220879,
+        "since": 0.01998244761220879
+    },
+    "tone": [
+        {
+            "score": 0.650084,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.625096,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.56421,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        },
+        {
+            "score": 0.671125,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

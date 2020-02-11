@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Hong Kong (CNN Business) Hong Kong's most serious political crisis in more than 20 years is taking its toll on the economy and beginning to shake the confidence of international investors.      Paul Chan, the top finance official in Asia's premier financial hub, said Sunday that the city's mass demonstrations have hurt local merchants and 'worried all those who are in Hong Kong.'      These 'incidents have ... damaged Hong Kong's international image and business environment,' Chan wrote in a blog post 'For foreign companies and tourists, Hong Kong seems to have become turbulent and insecure, affecting their desire to travel, do business and invest in Hong Kong.'      Many retail and catering operators have said 'recent business volume has dropped significantly,' he added.      Chan's remarks came during the eighth consecutive weekend of demonstrations in the city, which is technically a part of China but operates with its own police force and legal system. Thousands of protesters defied police orders Sunday to march through the center of the city. They splintered in different directions and blocked major roads, bringing Hong Kong's central district to a standstill and prompting malls and shops to close early.      The protests were sparked by opposition to a controversial and now-shelved bill that would have allowed extradition from Hong Kong to China. But they have since evolved to include calls for greater democracy, an independent investigation into alleged police brutality and the resignation of the city's leader, Carrie Lam.      Like other Asian markets, the index was dragged down by uncertainties about trade and other economic policy news this week. But fears about how the protests could affect the economy also weighed on stocks for property developers, shopping mall owners and retailers.      Following the latest round of demonstrations, the American Chamber of Commerce in Hong Kong on Monday called for 'firm' government leadership to restore sagging business confidence. It also urged protesters to refrain from violence.      to the fact that the city has that are separate from mainland China. 'AmCham urges the government to stem any further damage and show clear leadership in meeting the expectations of Hong Kong people and in restoring the city's international reputation for effective governance under the ' one country, two systems ' framework,' AmCham President Tara Joseph said in a statement. She was referringto the fact that the city has its own police force and system of law that are separate from mainland China.      Joseph added that a 'clear majority' of AmCham's membership says the government needs to address the 'underlying causes of the protests and not simply to paper over the cracks of social instability with a short-term law-and-order fix.'      Hundreds of thousands of people have taken to the streets since the protests began two months ago and plunged the city into its most severe political turmoil since its return to China in 1997.      AmCham's members \u2014 who represent financial services, technology and other sectors \u2014 suggested that Lam's government formally and completely withdraw the bill, so as to remove any room for public doubt. The business group also proposed that convening an independent inquiry into all aspects of recent unrest over the bill could restore confidence in Hong Kong.      The city is due to report quarterly economic growth data on Wednesday. Hong Kong's economy is growing at its slowest pace since the 2009 global financial crisis, hurt by slowing retail sales, sluggish factory orders and ongoing trade tensions between the United States and China.      Economists say that the protests could compound those challenges.      The city 'has been hit hard by anti-government protests ... which could dent growth further below the 0.6% rate' from the year's first quarter, wrote ING economist Prakash Sakpal in a research note last week.      Others were less convinced of a link with the protests. Hannah Anderson, global market strategist at JP Morgan Asset Management, said the weeks of massive protests aren't likely to affect the city's economic trajectory.      'Even if all stores are closing early, or closing all day, is that shifting consumption, or altering when people go shopping?' Anderson said, adding that people haven't stopped buying groceries or other goods \u2014 they are just now buying them on different days.      The city itself has also attempted to reassure investors and tourists. Before this weekend's protests, the Secretary for Commerce and Economic Development wrote to consulates and international chambers of commerce to tout Hong Kong as 'a welcoming city for investors and visitors, and a safe city for travellers.'",
+        "date": "2020-02-11 15:31:43.094544",
+        "title": "Hong Kong's protests are starting to hurt its business",
+        "url": "https://www.cnn.com/2019/07/29/economy/hong-kong-economy-protests/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.0813184663536776,
+        "subjectivity": 0.34114129219763023
+    },
+    "signature": {
+        "Business": 0.014258032911629085,
+        "Hong": 0.030892404641863016,
+        "Kong": 0.030892404641863016,
+        "city": 0.020398636659620075,
+        "protests": 0.021387049367443626
+    },
+    "tone": [
+        {
+            "score": 0.515082,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.541276,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.709167,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

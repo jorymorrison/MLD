@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Around 10,000 acres of forest and other vegetation were affected by the blaze near Tarragona in the country's north-east, according to the Catalan regional government.      Spontaneous ignitions can occur when flammable materials, such as piles of hay, compost or manure heat up to a temperature high enough to cause combustion, according to the US National Park Service.      As of early afternoon, the fire was still not under control and 53 people have been evacuated from the area.      The Catalan fire brigade said around 350 fire crew, 12 fire engines and a number of vehicles with large water tanks were at the scene. Seven aircraft, two hydroplanes and heavy machinery were also deployed, the fire service said. Locals were advised to stay indoors and keep their windows shut to avoid inhaling smoke. Smoke billows from a forest fire raging near Flix in the northeastern region of Catalonia on June 27, 2019. The firefighters said the blaze is one of the worst in Catalonia in the last 20 years. They warned it could spread to as much as two times its current area because of the harsh weather conditions and tough local terrain, which includes steep slopes and deep ridges. The Catalan government said that while temperatures are forecast to rise again on Thursday, the strong winds that helped the fire spread quickly late on Wednesday are expected to ease. Europe has been struggling with a major heatwave this week, with temperatures expected to rise even higher on Thursday and Friday. Germany, Poland and the Czech Republic all recorded their highest-ever June temperatures on Wednesday. On Thursday, M\u00e9t\u00e9o-France, the French national weather authority, issued a 'red level' alert for four departments in the south of the country, the first time this level of alert has been used for a heatwave. Climate scientists have warned that heat waves such as this one are becoming more frequent and increasingly severe because of the climate crisis. M\u00e9t\u00e9o-France said the frequency of such events is expected to double by 2050.",
+        "date": "2020-02-11 15:30:50.871561",
+        "title": "It's so hot in Spain that manure self-ignited, sparking a 10,000-acre wildfire",
+        "url": "https://www.cnn.com/2019/06/27/world/europe-heat-wave-spain-wildfire-intl/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.029595004668534073,
+        "subjectivity": 0.4400070028011205
+    },
+    "signature": {
+        "Catalan": 0.016045607187116912,
+        "On": 0.012414576368237827,
+        "Thursday": 0.016045607187116912,
+        "fire": 0.037439750103272794,
+        "were": 0.013117758670663997
+    },
+    "tone": [
+        {
+            "score": 0.531322,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.762075,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

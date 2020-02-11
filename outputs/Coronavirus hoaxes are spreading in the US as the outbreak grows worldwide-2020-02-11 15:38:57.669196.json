@@ -1,0 +1,41 @@
+{
+    "article": {
+        "body": "Most of the false information is originating online, spreading fear about the virus that has sickened thousands worldwide.      In Los Angeles County, public health officials warned residents Thursday that a letter claiming a potential coronavirus outbreak in Carson City is fake.      The letter purports to be from the LA County Department of Public Health and features the logos of the Centers for Disease Control and Prevention, the World Health Organization and Los Angeles County.      'There is no immediate threat to the general public, no special precautions are required and people should not be excluded from activities based on their race, country of origin, or recent travel if they do not have symptoms of respiratory illness,' the health department said. In a suburb north of Los Angeles, a high school in Santa Clarita also issued a statement warning against false social media reports on the coronavirus outbreak. 'Those are just rumors. There are no confirmed cases of coronavirus in Santa Clarita. The sheriff's department is investigating those who have posted otherwise on social media,' William S. Hart Union High School District said. And in nearby Orange County, an online article purporting to be from a local newspaper claimed the coronavirus outbreak had spread into the Newport-Mesa Unified School District. The school district said it confirmed the newspaper article was fake. 'We have no reported cases that link any of our students or school community to the coronavirus,' the school district said in a statement. A San Diego County school district also warned residents about fake images of news stories claiming the coronavirus is spreading locally. So did one in Arizona -- the Mesa Public Schools, one of the largest K-12 districts in the state. It told CNN affiliate KGTV that a screenshot appearing to be from a news report alleged students in the school district were diagnosed with the virus. The screenshots were created using a fake 'breaking news' generator online, it said. 'Please be assured there are no confirmed cases of coronavirus in Mesa Public Schools,' the school district said. Some of the disinformation is spreading on social media sites such as Facebook, and the company has said it's taking steps to prevent the spread of fake news on the disease. It plans to remove content with false claims or conspiracy theories, and is urging leading global health organizations and local authorities to flag such information. 'This includes claims related to false cures or prevention methods \u2014 like drinking bleach cures the coronavirus \u2014 or claims that create confusion about health resources that are available,' Facebook said in a statement.",
+        "date": "2020-02-11 15:38:57.669196",
+        "title": "Coronavirus hoaxes are spreading in the US as the outbreak grows worldwide",
+        "url": "https://www.cnn.com/2020/01/31/health/us-coronavirus-hoaxes-trnd/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.08357142857142857,
+        "subjectivity": 0.4648544973544973
+    },
+    "signature": {
+        "School": 0.03741493091195474,
+        "coronavirus": 0.033257716366181994,
+        "district": 0.029100501820409245,
+        "health": 0.024943287274636496,
+        "school": 0.03741493091195474
+    },
+    "tone": [
+        {
+            "score": 0.616249,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.627313,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.767985,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.72336,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Davos, Switzerland (CNN Business) Greta Thunberg took the stage at the World Economic Forum Tuesday to admonish world leaders for doing 'basically nothing' to reduce carbon emissions despite evidence of a looming climate catastrophe.      Speaking just hours before President Donald Trump's appearance at the annual gathering of the world's political, business and financial elite, the teen activist said awareness of the climate crisis had shot up but in other respects, not much had changed.      'Pretty much nothing has been done since the global emissions of CO2 has not reduced,' Thunberg said. '[I]f you see it from that aspect, what has concretely been done, if you see it from a bigger perspective, basically nothing ... it will require much more than this, this is just the very beginning.'      Asked what she wanted to see in the future, Thunberg said 'that we start listening to the science and that we actually start treating this crisis as the crisis it is.'      Thunberg said she's spent a year trying to publicize the findings of a 2018 Intergovernmental Panel on Climate Change report that shows countries can only release another 420 gigatons of carbon dioxide in order to have the best chance at keeping the rise in global temperatures to under 1.5 degrees. At current levels, that amount will be emitted within roughly eight and a half years.      'I don't think I have seen one media outlet or person in power communicating this or what it means,' Thunberg said. 'I know you don't want to report on this. I know you don't want to talk about this. But I assure you I will continue to repeat these numbers until you do.'      Since appearing on the sidelines of last year's Davos meeting, Thunberg's profile has taken off and she was named Time's 'Person of the Year.' Conference participants lined up to get into the discussion Tuesday, with many holding phones aloft to take pictures as she took the stage.      Thunberg acknowledged the attention but said that wasn't nearly enough.      'I'm not the person who can complain about not being heard \u2014 I'm being heard all the time,' she said during a panel with other youth activists.      Sustainability and climate change are top issues at this year's Davos meeting. On Tuesday, Thunberg repeated her call for all companies, banks, institutions and governments to abandon the fossil fuel economy.      'Immediately end all fossil fuel subsidies and immediately and completely divest from fossil fuels. We don't want these things done by 2050, or 2030 or even 2021 \u2014 we want this done now,' she said.      In his speech, Trump announced that the United States would be joining an initiative to restoring a trillion trees by 2050, but said that 'to embrace the possibilities of tomorrow, we must reject the perennial prophets of doom and their predictions of the apocalypse.'      Speaking again shortly after Trump, Thunberg said 'planting trees is good' but nowhere near enough.      'Let's be clear: we don't need a low carbon economy; we don't need to lower emissions. Our emissions have to stop if we are to have a chance to stay below the 1.5 degree target,' she said.      'Our house is still on fire. Your inaction is fueling the flames by the hour,' Thunberg added. 'We are still telling you to panic, and to act as if you loved your children above all else.'",
+        "date": "2020-02-11 15:37:56.015681",
+        "title": "Greta Thunberg: 'Nothing has been done' to tackle the climate crisis",
+        "url": "https://www.cnn.com/2020/01/21/business/greta-thunberg-davos/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.12453703703703704,
+        "subjectivity": 0.3331018518518519
+    },
+    "signature": {
+        "Climate": 0.012464413698977774,
+        "Thunberg": 0.031161034247444434,
+        "done": 0.012464413698977774,
+        "emissions": 0.012464413698977774,
+        "she": 0.013374410470742205
+    },
+    "tone": [
+        {
+            "score": 0.582179,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.578244,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

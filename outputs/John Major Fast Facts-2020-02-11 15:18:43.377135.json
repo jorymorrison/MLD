@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "(CNN) Here's a look at the life of Sir John Major, former prime minister of the United Kingdom.      1986 - Is appointed minister of state for social security.      1987-1989 - Serves as chief secretary to the Treasury.      October 1989 - Is appointed Chancellor of the Exchequer.      November 28, 1990 - Becomes prime minister of the United Kingdom.      1990-1997 - Serves as prime minister of the United Kingdom.      June 1995 - Resigns as the head of the Conservative Party and calls for a parliamentary election to establish leadership of the party. He wins the election.      2002 - Admits to having a four-year affair with Edwina Currie, a fellow MP, during the 1980s.      2007 - Major's book, 'More Than A Game: The Story of Cricket's Early Years,' is published.      2012 - Major's book, 'My Old Man: A Personal History of Music Hall,' is published.      February 27, 2017 - During a speech at Chatham House, Major encourages the UK to avoid what he calls a 'hard Brexit' as people in the UK During a speech at Chatham House, Major encourages the UK to avoid what he calls a 'hard Brexit' as people in the UK 'have been led to expect a future that seems to be unreal and over-optimistic.'",
+        "date": "2020-02-11 15:18:43.377135",
+        "title": "John Major Fast Facts",
+        "url": "https://www.cnn.com/2013/08/05/world/europe/john-major-fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.022656249999999992,
+        "subjectivity": 0.3546875
+    },
+    "signature": {
+        "A": 0.03812309493079699,
+        "Is": 0.0358351893845611,
+        "Major": 0.044793986730701375,
+        "UK": 0.0358351893845611,
+        "minister": 0.0358351893845611
+    },
+    "tone": [
+        {
+            "score": 0.516922,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.518444,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.629823,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "'Today we proudly proclaim that in this state, we trust women,' Pritzker said at a bill signing event at the Chicago Cultural Center. 'And in Illinois we guarantee as a fundamental right a woman's right to choose.'      The bill's signage comes as part of a wave of Democratic states opting to codify abortion protections as a slew of Republican states push forward bills restricting abortion access. Lawmakers have pushed such restrictions in an effort to force a potential legal challenge of the landmark Supreme Court Roe V. Wade decision that legalized abortion nationwide in 1973.      The Illinois bill, effective immediately, protects an individual's 'fundamental right to make autonomous decisions about one's own reproductive health,' including to continue a 'pregnancy and give birth or to have an abortion.'      The bill repeals the Illinois Abortion Law of 1975, which punished doctors for abortions not deemed 'necessary,' as well as the the state's Partial-birth Abortion Ban Act. It also establishes 'that a fertilized egg, embryo, or fetus does not have independent rights under the law, of this State.'      Pritzker praised the bill as a safeguard against federal abortion restrictions and expressly welcomed women from states limiting reproductive care to seek care in Illinois. The bill 'ensures that women's rights do not hinge on Roe V. Wade or the whims of an increasingly conservative supreme court in Washington,' he said. He later urged states that have pushed forward abortion bans to 'change their minds' and 'revisit the issue.' 'But Illinois knows where we stand and we're going to be here for women if they have to be refugees from other states,' he added. State lawmakers Wednesday touted Illinois as a beacon of support for reproductive health in light of recent restrictions by nearby states such as Missouri -- and their possible future implications -- on abortion access. Democratic state Rep. Kelly Cassidy, who sponsored the bill in the House, said Wednesday that with the bill's signing, 'we are building a firewall around Illinois to protect access to reproductive healthcare for everyone.' Bill co-sponsor Democratic state Sen. Melinda Bush said that 'we want to make sure that Illinoisans can now rest assured -- regardless of what happens at the federal level, they'll have access to comprehensive' reproductive care. She also urged other states to '#belikeIllinois and trust women,' she said, adding that lawmakers would ask 'every other state legislature to take this up.' Pro-life advocates have criticized the bill. The Thomas More Society, a pro-life law firm based in Chicago, characterized the bill as 'legalizing the death penalty, with no possibility of appeal, for viable unborn preemies.' Former Illinois Representative and Thomas More Society Vice President Peter Breen slammed the measure as 'the most radical sweeping pro-abortion measure in America and makes Illinois an abortion destination for the country.' The bill passed the state Senate by a 34-20 vote last month, with Bush describing the bill as a safeguard against the 'real possibility' of an attempt to overturn Roe. Pritzker has consistently backed the bill, urging the Senate to pass it after the state House did so by a 64-50 vote and expressing anticipation to sign in. 'With reproductive healthcare under attack across the country, we must do everything in our power to protect women's rights in Illinois,' he tweeted at the time, adding , 'Today was a major step forward for every woman in this state and I look forward (to) continuing my work as an ally by signing the Reproductive Healthcare Act into law.'",
+        "date": "2020-02-11 15:30:10.212382",
+        "title": "Illinois governor signs sweeping abortion protection bill into law",
+        "url": "https://www.cnn.com/2019/06/12/politics/illinois-governor-signs-abortion-protection-law/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.17043067226890754,
+        "subjectivity": 0.4746381886087768
+    },
+    "signature": {
+        "Abortion": 0.030524011400818653,
+        "Bill": 0.04273361596114612,
+        "Illinois": 0.030524011400818653,
+        "abortion": 0.030524011400818653,
+        "bill": 0.04273361596114612
+    },
+    "tone": [
+        {
+            "score": 0.7656,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

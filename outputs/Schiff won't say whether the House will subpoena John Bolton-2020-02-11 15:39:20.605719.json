@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Washington (CNN) House Intelligence Chairman Adam Schiff declined on Sunday to say whether the House will subpoena former national security adviser John Bolton but said 'the truth will come out' in one form or another.      'I don't want to comment to this point on what our plans may or may not be with respect to John Bolton, but I will say this: whether it's before -- in testimony before the House -- or it's in his (forthcoming) book or it's in one form or another, the truth will come out (and) will continue to come out,' Schiff said in an interview with CBS when asked if the chamber would subpoena the former Trump administration official.      The comments come two days after the Senate voted to block any witnesses from being called in the trial, thwarting Democrats' efforts to include witnesses such as Bolton and acting White House chief of staff Mick Mulvaney in the proceedings. Calls to include Bolton in the trial increased last week in the wake of revelations from his draft book manuscript that alleged Trump told him US security aid to Ukraine was conditioned on investigations into Democrats.      Trump's attempts to pressure Ukraine to investigate Hunter Biden and Joe Biden, his potential 2020 general election rival, are at the center of the President's impeachment trial. Trump and his allies have repeatedly made unfounded and false claims to allege that the Bidens acted corruptly in Ukraine.      On Friday, new allegations from Bolton's manuscript that Trump directed Bolton to help his personal attorney Rudy Giuliani get in touch with the Ukrainian President in May were reported by The New York Times , and Schiff cited them during Friday's witness debate.      The California Democrat, who's serving as lead impeachment manager in the trial, also called the President's lawyers' arguments 'disingenuous' and said 'they waited until midnight so that senators voting on whether to compel these documents would not have that information.'      'That shows you the lengths to which the President's lawyers are going to cover this up,' he said, adding: 'but they're going to fail. Indeed, they've failed already.'      When asked about Republican Sen. Lisa Murkowski's statement last week that she would not vote in favor of the Senate subpoenaing witnesses and documents because the impeachment process was partisan from the beginning and the articles were rushed and flawed, Schiff turned the blame back on the senators, saying they are not 'mere spectators' and that they could have had a fair trial if they decided to include witnesses and documents.      'It is within their power to make it a fair trial with four votes, with four courageous senators saying 'no we're going to demand a fair trial no matter what this president may say,'' he said, referring to the four Republican votes Democrats needed to include witnesses in the trial. 'There would have been a fair trial. There would have been witnesses and testimony.'      Schiff also said the Republican criticism of the House for not waiting for litigation over a Bolton subpoena to play out in court before moving forward with impeachment is false, noting the House is still pursuing testimony from former White House counsel Don McGahn, and that it's unclear when their efforts will end.      'First of all, if we continue with litigation, as we are doing at this moment with Don McGahn, and we subpoenaed him nine months ago and we're still nowhere near a final resolution, it would probably be one to two years before we would have had a decision on John Bolton,' he said. 'That means the President would have been able to cheat in the next election with impunity because they could have simply delayed and played out the clock.",
+        "date": "2020-02-11 15:39:20.605719",
+        "title": "Schiff won't say whether the House will subpoena John Bolton",
+        "url": "https://www.cnn.com/2020/02/02/politics/adam-schiff-john-bolton-subpoena/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.035962566844919774,
+        "subjectivity": 0.40170295390883626
+    },
+    "signature": {
+        "Bolton": 0.022716443349959495,
+        "House": 0.019876887931214556,
+        "President": 0.01703733251246962,
+        "trial": 0.02555599876870443,
+        "witnesses": 0.01703733251246962
+    },
+    "tone": [
+        {
+            "score": 0.604809,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.655032,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.665435,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

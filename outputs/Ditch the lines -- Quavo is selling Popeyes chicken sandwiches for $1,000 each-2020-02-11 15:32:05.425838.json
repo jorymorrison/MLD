@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "But fear not. Rapper Quavo, of the group Migos , is ready to save the day and make our chicken sandwich dreams come true.      'I heard y'all boys was looking for them, they sold out everywhere,' he said in an Instagram video, while opening his trunk. 'I got them thangs going for $1,000 a chicken.'      Quavo is, of course, joking -- but he might be onto something.      Popeyes first announced their new chicken sandwich on Twitter earlier this month, and Black Twitter was all over it, with the sandwich dominating discussions. The hype spread, and soon we were dealing with an all-out brand war between Popeyes, Chick-fil-A and Wendy's -- all vying for the chicken sandwich throne . This led to even more hype, with restaurants reporting that they'd sold out of the sandwich.      The Popeyes sandwich is remarkably similar to Chick-fil-A's. It features a fried chicken fillet on a brioche bun, complemented by a few pickles and a slather of mayonnaise. Take out the mayo and substitute a white bun for brioche, and you've basically got the Chick-fil-A version. Regardless of which sandwich you think is better, one of the major drivers to the Popeyes version is that the chain doesn't have the same controversy surrounding its political leanings. Chick-fil-A has been criticized and boycotted by activists and the general public alike for its stance on same-sex marriage , and Popeyes offers an alternative to fill those fried chicken sandwich cravings. Popeyes is also open on Sundays.",
+        "date": "2020-02-11 15:32:05.425838",
+        "title": "Ditch the lines -- Quavo is selling Popeyes chicken sandwiches for $1,000 each",
+        "url": "https://www.cnn.com/2019/08/25/entertainment/quavo-migos-popeyes-chicken-sandwich-trnd/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.07574179292929294,
+        "subjectivity": 0.4942866161616161
+    },
+    "signature": {
+        "Chick-fil-A": 0.028899346277871853,
+        "Popeyes": 0.04334901941680778,
+        "Quavo": 0.014449673138935927,
+        "chicken": 0.04334901941680778,
+        "sandwich": 0.05779869255574371
+    },
+    "tone": [
+        {
+            "score": 0.63253,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

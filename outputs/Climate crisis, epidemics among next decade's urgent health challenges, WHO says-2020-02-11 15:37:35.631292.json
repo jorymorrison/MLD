@@ -1,0 +1,41 @@
+{
+    "article": {
+        "body": "(CNN) Climate change, infectious diseases, anti-vaxxers and antimicrobial resistance all made their way onto the World Health Organization's list of health challenges facing the next decade.      The list, published on Monday, was developed with input from experts around the world and presented 'urgent, global health challenges,' according to WHO, the United Nations' public health agency.      'The list reflects a deep concern that leaders are not investing enough resources in core health priorities & systems, putting lives & economies in jeopardy,' WHO Director-General Dr. Tedros Adhanom Ghebreyesus wrote in a Tweet on Monday.      'We need to realize that health is an investment in the future. Countries invest heavily in protecting their people from terrorist attacks, but not against the attack of a virus, which could be far more deadly & far more damaging economically & socially,' he wrote. 'We face shared threats & we have a shared responsibility to act.'      Last year, WHO published a list of 10 global health threats for the year 2019 , which also included climate change, antimicrobial resistance, weak primary health care and vaccine hesitancy.      WHO noted that the challenges listed for the next decade are urgent, many are interlinked and none take higher priority than another.      WHO also noted that all of the challenges demand a response from not just the health sector, but governments, communities and international agencies working together.      Here is the WHO's list of health challenges for the next decade, along with a snapshot of what each challenge involves.      Climate change also has been linked with more extreme weather events, malnutrition and the spread of infectious diseases, such as malaria.      'Leaders in both the public and private sectors must work together to clean up our air and mitigate the health impacts of climate change,' according to WHO.      Last year, WHO recorded 978 such attacks on health care in 11 countries, with 193 deaths.      When an Ebola outbreak hit the Democratic Republic of Congo in 2018, conflict between militant groups and government forces made it difficult for health workers to access some of the hardest hit areas.      'Ultimately, we need political solutions to resolve protracted conflicts, stop neglecting the weakest health systems, and protect health care workers and facilities from attacks,' according to WHO.      Making access to health care fairer for everyone      The WHO list also focused on significant health disparities, including persistent and growing gaps in who has access to quality health care based on income and other socio-economic factors.      'Low access to quality health products threatens health and lives,' according to WHO.      The organization called for all countries to allocate 1% more of their gross domestic product to primary health care, to give more people access to services they need close to home.      To stop the spread of infectious diseases, WHO said that greater political will and increased funding is needed for health services, routine immunizations, improvements in the quality and availability of data and increased efforts to mitigate the effects of drug resistance.      Separately, WHO noted that the world spends more responding to disease outbreaks, natural disasters and other health emergencies, than it does preparing for and preventing them -- and that needs to change.      WHO added to its list that 'tobacco use is declining in a few but rising in most countries, and evidence is building about the health risks of e-cigarettes.'      In general, WHO said that it has been working with countries to help reshape food systems and to build political commitment and capacity to strengthen the implementation of certain tobacco control policies.      WHO said that it has been working with countries to stimulate new investment to 'train health workers and pay them decent salaries.'      As a separate challenge, WHO pointed to a global need to invest in the safety of teens and adolescents too.      This year, WHO said that it will issue new guidance for policymakers, health practitioners and educators to help promote adolescents' mental health and prevent the use of drugs, alcohol, self-harm and interpersonal violence.      The guidance will also provide young people with information about preventing HIV and other sexually transmitted infections, as well as information about contraception use and care during pregnancy and childbirth, according to WHO.      The public's trust in doctors can influence whether they follow recommendations around vaccinations, taking medicines and even using condoms, according to WHO.      WHO has worked with social media platforms, such as Facebook and others, to help ensure that social media users receive accurate health information and not misinformation.      'Public health is compromised by the uncontrolled dissemination of misinformation in social media, as well as through an erosion of trust in public institutions,' according to WHO, which noted that the anti-vaccination movement has played a role in that.      WHO said that it has been working with countries to help enable them to plan, adopt and benefit from new technologies while also supporting better regulation for their development and use.      Antimicrobial resistance refers to the ability of bacteria, viruses and some parasites to develop ways to block medicines used to fight them, so that the medicines may no longer work.      Among myriad factors, sometimes that resistance can occur when antibiotics or other medicines are used unnecessarily, allowing for bacteria or other microorganisms to develop resistance.      In response, WHO said that it not only has been working with national and international authorities to reduce the threat of antimicrobial resistance but also has advocated for research and development into new antibiotics.      The health organization has set a global goal for all countries to have water, sanitation and hygiene services included in plans, budgets and implementation efforts by 2023, and, by 2030, all health care facilities around the world should have basic water, sanitation and hygiene services, the agency said.",
+        "date": "2020-02-11 15:37:35.631292",
+        "title": "Climate crisis, epidemics among next decade's urgent health challenges, WHO says",
+        "url": "https://www.cnn.com/2020/01/14/health/who-health-challenges-decade-climate-crisis-bn/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.0900821400821401,
+        "subjectivity": 0.37315739815739807
+    },
+    "signature": {
+        "Countries": 0.015184402281593685,
+        "Health": 0.05883955884117554,
+        "To": 0.050042720776195676,
+        "WHO": 0.047451257129980266,
+        "health": 0.05883955884117554
+    },
+    "tone": [
+        {
+            "score": 0.557338,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.561895,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.501092,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.804559,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "'The safety and well-being of our crews and passengers must always be our highest priority \u2014 first, last, and always,' APA President Capt. Eric Ferguson said in a statement. 'Numerous other major carriers that serve China, including British Airways, Air Canada, and Lufthansa, have chosen to suspend service to that country out of an abundance of caution.'      The coronavirus, a potentially fatal respiratory disease, first emerged in Wuhan, China in early December and has since spread across China and appeared in some other countries , including the United States, Japan and India. The World Health Organization has declared the coronavirus epidemic a public health emergency of international concern, after an emergency committee convened Thursday in Geneva.      The current number of coronavirus cases in China has exceeded the number of SARS infections worldwide during the 2002-2003 epidemic. As of Thursday, there are over 8,000 confirmed cases of Wuhan coronavirus in mainland China. The death toll is 171.      on Wednesday on Wednesday suspended two routes from Los Angeles to mainland China between February 9 and March 27 due to 'significant decline in demand.' The pilots' lawsuit said the airline hasn't taken any action to cancel or suspend flights before February 9 and they want immediate action taken on flights from American's larget hub, Dallas-Forth Worth. The suit also says that the average age of the Dallas-Fort Worth-based captains is 61, and that older adults are at higher risk of becoming seriously ill after contracting coronavirus. American Airlines said Thursday that it is aware of the filing. 'We are in close contact with the Centers for Disease Control and Prevention (CDC) and global public health officials to make sure we are taking all necessary precautions for our customers and team members,' the airline said in a statement to CNN Business. 'Yesterday, American announced the suspension of travel between LAX and Shanghai Pudong Airport (PVG) as well as LAX and Beijing Capital International Airport (PEK) from Feb. 9 through Mar. 27, 2020' The airline said it will 'continue to monitor the situation and make any updates as needed.' The union noted in a statement that American Airlines currently operates about 56 monthly flights between Dallas-Fort Worth International Airport and Chinese airports. Ferguson, the APA president, added that he estimated as many as 300 passengers and crew travel from China to Dallas-Forth Worth on each flight and 'to us, that level of risk is unacceptable.' Ferguson said the union was also instructing all American Airline pilots to decline any assignments to operate flights between the United States and China. The suit also asks for damages, attorney's fees and more. - A previous version of this article provided the incorrect day American Airlines suspended routes from Los Angeles to mainland China.",
+        "date": "2020-01-31 16:50:12.348797",
+        "title": "American Airlines pilots sue to halt US-China flights amid coronavirus epidemic",
+        "url": "https://www.cnn.com/2020/01/30/business/american-airlines-pilots-coronavirus/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.09005681818181818,
+        "subjectivity": 0.31489898989898985
+    },
+    "signature": {
+        "Airline": 0.015717188326561885,
+        "American": 0.023575782489842826,
+        "China": 0.03536367373476424,
+        "airline": 0.015717188326561885,
+        "coronavirus": 0.019646485408202356
+    },
+    "tone": [
+        {
+            "score": 0.538703,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

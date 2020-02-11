@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "Sony's ' Venom ' and Warner Bros.' ' A Star Is Born ' did so well they helped bring in the best weekend in October history at the box office, according to comScore.      Sony's comic book creature feature starring Tom Hardy nabbed the No. 1 spot with an estimated $80 million haul at the domestic box office. That's an October box office record, knocking off previous record-holder 'Gravity,' which brought in $55.7 million in 2013.      Coming in at No. 2 this weekend is the music-heavy drama 'A Star Is Born.'      The film, which stars Gaga in her first major feature role, brought in estimated $42.6 million for its opening in the United States this week. That also exceeded expectations that had the film bringing in around $30 million. 'A Star Is Born's' big box office is a good start for a film that will likely be a big contender during awards season this winter. The film, which is the fourth 'A Star Is Born' since 1937, has built up immense buzz for its emotional story, strong performances and solid direction from first time director and star Bradley Cooper. 'A Star Is Born' holds a 91% score on Rotten Tomatoes and rode that buzz to a very strong opening weekend for an awards film. It's also a great kickoff to the year-end movie season at the box office, which includes other potential blockbusters such as 'Aquaman' and 'Mary Poppins Returns' still on the schedule for the rest of 2018.",
+        "date": "2020-02-11 15:25:44.163553",
+        "title": "'Venom' breaks records, 'A Star Is Born' shines at the box office",
+        "url": "https://www.cnn.com/2018/10/07/media/a-star-is-born-venom-box-office/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.19130952380952382,
+        "subjectivity": 0.48071428571428565
+    },
+    "signature": {
+        "Born": 0.03597910580779227,
+        "Is": 0.057566569292467624,
+        "Star": 0.04317492696935073,
+        "box": 0.03597910580779227,
+        "star": 0.04317492696935073
+    },
+    "tone": [
+        {
+            "score": 0.716913,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

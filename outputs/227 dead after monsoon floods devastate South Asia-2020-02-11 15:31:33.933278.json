@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Flooding and landslides, triggered by torrential monsoon rains, have swept across India, Nepal, Pakistan, and Bangladesh, leaving devastation in each country.      The northeastern Indian states of Bihar and Assam were hit particularly hard. The death toll has risen to 67 in Bihar and 10 in Assam, with more than 10.3 million people affected in total, according to the states' disaster management authorities.      In Bihar, the rains have eased, allowing the full extent of the damage to become clear. As the floodwaters recede, the bodies of previously undiscovered victims are being recovered, said state officials Thursday.      The two Indian states have set up more than 900 relief camps and temporary shelters for evacuees and displaced families, who number over 265,000.      In Nepal, the death toll has reached 88, according to the Home Ministry. There, the worst of the disaster seems to have passed, say aid workers on the ground -- many people are beginning to return to their homes, and the number of people in relief camps has dropped from 17,000 to about 11,000. A family in Pakistan-controlled Kashmir outside their damaged house on July 16, 2019. In Pakistan-controlled Kashmir and the Pakistani city of Lahore, 46 people have died from the floods, according to disaster management officials. The rains represent only the beginning of the monsoon season, which stretches on until September. Though the flood waters are now subsiding, the crisis continues for many of the affected families. Hundreds of homes have been damaged or completely destroyed, and they must race to rebuild them before heavier rains come. Indian residents in Bihar state wade through a flooded village on July 17, 2019. Those unable to return to their waterlogged homes, must make do in cramped and under-resourced relief shelters. As space and clean drinking water run out, aid organizations are working overtime to prevent possible outbreaks of waterborne diseases like cholera or diarrhea, which can be deadly for children. The floods also come as nearby Thailand braces for what could be the worst drought of the decade, according to the country's Meteorological Department. The average rainfall over the last five months has fallen fall short of the average for parts of the country.",
+        "date": "2020-02-11 15:31:33.933278",
+        "title": "227 dead after monsoon floods devastate South Asia",
+        "url": "https://www.cnn.com/2019/07/18/asia/monsoon-flood-south-asia-intl-hnk/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.024621212121212113,
+        "subjectivity": 0.5276515151515152
+    },
+    "signature": {
+        "Bihar": 0.01974390599700336,
+        "Indian": 0.01480792949775252,
+        "disaster": 0.01480792949775252,
+        "rains": 0.01974390599700336,
+        "relief": 0.01480792949775252
+    },
+    "tone": [
+        {
+            "score": 0.617309,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.638061,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

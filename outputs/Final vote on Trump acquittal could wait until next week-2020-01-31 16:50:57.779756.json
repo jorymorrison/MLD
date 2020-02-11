@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "At this point, it seems unlikely that a final vote to acquit Trump will occur Friday night, but definitive details of the Senate trial's timing remain extremely fluid.      Senate Majority Leader Mitch McConnell, a Kentucky Republican, is considering offering a resolution that would structure the final stages of the trial, which could include a final vote as late as Wednesday. This could change because a source familiar says the White House is pushing for a final vote Tuesday -- the same day as Trump's State of the Union address.      Asked when the final vote would be, Senate Minority Whip Dick Durbin, the second-ranking Democrat in the chamber, said: 'Wednesday of next week. That's what McConnell is proposing.'      The resolution may set up a process that would allow senators to speak about their views on the floor in an open session. Senators who have not spoken on the floor for days are eager to get a chance to speak.",
+        "date": "2020-01-31 16:50:57.779756",
+        "title": "Final vote on Trump acquittal could wait until next week",
+        "url": "https://www.cnn.com/2020/01/31/politics/impeachment-trial-final-vote-timing/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.032692307692307694,
+        "subjectivity": 0.5634615384615385
+    },
+    "signature": {
+        "Senate": 0.033595490048026026,
+        "Trump": 0.022396993365350688,
+        "final": 0.05599248341337672,
+        "trial": 0.022396993365350688,
+        "vote": 0.044793986730701375
+    },
+    "tone": [
+        {
+            "score": 0.800593,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.653662,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

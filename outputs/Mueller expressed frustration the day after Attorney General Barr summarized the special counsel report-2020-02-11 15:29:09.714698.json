@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "Washington (CNN) Special counsel Robert Mueller criticized Attorney General William Barr for Barr's summary to Congress about Mueller's work and investigative conclusions the day after that summary was released, according to a letter from Mueller released Wednesday .      Mueller sent an initial letter to Barr on March 25, the day after Barr said that Mueller had determined there was no collusion and that there was not enough of a case for the Justice Department to bring an obstruction case against the President.      The letter's disclosure Wednesday further raises questions about Barr's approach to the release of the Mueller report and highlights the rift between the special counsel's office and the Justice Department leadership.      It also immediately led to Democrats calling for Barr to step down as attorney general.      Mueller's first letter went to Barr on March 25, the day after Barr informed Congress that Mueller had determined there was no criminal conspiracy between the Trump campaign and Russia and that Mueller had chosen not to make a decision to prosecute the President on obstruction of justice after investigating President Donald Trump's actions and motivations thoroughly. Barr said he and Deputy Attorney General Rod Rosenstein determined there was not enough of a case for the Justice Department to bring an obstruction case against the President. Yet Mueller's team had outlined in his report both steps Trump took to potentially obstruct the Russia investigation and motivations he had to interfere.      Mueller reiterated his concern for Barr's lack of nuance and context about Mueller's findings in the second letter, released Wednesday and dated March 27.      'The summary letter the Department sent to Congress and released to the public late in the afternoon of March 24 did not fully capture the context, nature, and substance of this Office's work and conclusions,' Mueller wrote on March 27. 'We communicated that concern to the Department on the morning of March 25.'      Mueller's second letter told Barr 'there is now public confusion about critical aspects of the results of our investigation.'      CNN reported previously that Mueller also followed up with Barr in a phone call after he sent the March 27 letter.      While Mueller didn't think Barr's letter was inaccurate, the special counsel believed his report was more nuanced on the obstruction of justice issue, according to Justice Department officials. Mueller was frustrated by media coverage, and wanted more of the report to come out, those officials told CNN.      The call was described to CNN as polite, but there was clear disagreement.      'This threatens to undermine a central purpose for which the Department appointed the special counsel: to assure full public confidence in the outcome of the investigations,' Mueller wrote.      Criticism was swift from congressional Democrats, who demanded to see the letter and criticized Barr's credibility.      A spokesman for the special counsel's office declined to comment.      Earlier this month, Barr held a news conference before the redacted report was released by the Justice Department where he framed Mueller's report in Trump's language. He said the report found no wrongdoing by Trump and framed the report on the premise that its findings were favorable to the President.      After the release of Mueller's redacted report and Barr's news conference, some Democrats on Capitol Hill called for Barr's removal as attorney general. Senators running for president -- including Kamala Harris of California, Elizabeth Warren of Massachusetts and Cory Booker of New Jersey -- all said Barr acted like the President's defense lawyer, not the attorney general of the United States.",
+        "date": "2020-02-11 15:29:09.714698",
+        "title": "Mueller expressed frustration the day after Attorney General Barr summarized the special counsel report",
+        "url": "https://www.cnn.com/2019/05/01/politics/mueller-barr-letter-special-counsel/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.08087810881928528,
+        "subjectivity": 0.4157032509973686
+    },
+    "signature": {
+        "Barr": 0.05384252161286309,
+        "Department": 0.02393000960571693,
+        "Justice": 0.02093875840500231,
+        "March": 0.02093875840500231,
+        "Mueller": 0.059825024014292315
+    },
+    "tone": [
+        {
+            "score": 0.75825,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

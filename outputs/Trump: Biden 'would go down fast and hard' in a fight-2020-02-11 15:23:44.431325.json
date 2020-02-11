@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "President Donald Trump is striking back at former Vice President Joe Biden, a potential 2020 election rival, for suggesting he would 'beat the hell out of' Trump if they were in high school.      'Crazy Joe Biden is trying to act like a tough guy. Actually, he is weak, both mentally and physically, and yet he threatens me, for the second time, with physical assault,' Trump tweeted Thursday morning.      'He doesn't know me, but he would go down fast and hard, crying all the way. Don't threaten people Joe!' Trump warned.      Biden suggested Tuesday that he would 'beat the hell out of' Trump if they were in high school over Trump's lewd comments about women that he made in an 'Access Hollywood' video that surfaced in 2016.      'They asked me would I like to debate this gentleman, and I said no. I said, 'If we were in high school, I'd take him behind the gym and beat the hell out of him,' Biden said in a speech at the University of Miami.",
+        "date": "2020-02-11 15:23:44.431325",
+        "title": "Trump: Biden 'would go down fast and hard' in a fight",
+        "url": "https://www.cnn.com/2018/03/22/politics/donald-trump-joe-biden/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.07269005847953217,
+        "subjectivity": 0.48392648287385126
+    },
+    "signature": {
+        "Biden": 0.040954502153784114,
+        "Joe": 0.030715876615338086,
+        "Trump": 0.06143175323067617,
+        "hell": 0.030715876615338086,
+        "school": 0.030715876615338086
+    },
+    "tone": [
+        {
+            "score": 0.652193,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.521943,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+        }
+    ]
+}

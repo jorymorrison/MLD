@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "A source close to the Duke and Duchess of Sussex has hit out at what they called the hysterical reaction to comments Prince Harry made about his brother, the Duke of Cambridge, in a recent television documentary.      In the hour-long documentary -- 'Harry & Meghan: An African Journey' for British channel ITV -- Harry acknowledged tensions with his older brother for the first time, saying they have good days and bad days.      He also added: 'But I love him dearly and you know the majority of the stuff is probably -- well, the majority of the stuff is created out of nothing. But as brothers, you have good days and you have bad days.'      Following the documentary, palace insiders on Monday reportedly told the BBC that Prince William was 'worried' about Prince Harry and his wife, Meghan. Those remarks were picked up by many of the UK's daily publications on Tuesday morning.      How the British papers are covering the ongoing fallout from Prince Harry's documentary appearance pic.twitter.com/MS8ZaMknug \u2014 Max Foster (@MaxFosterCNN) October 22, 2019 The source reacted to the many headlines, telling CNN that Prince Harry has never shied away from talking about his own mental health -- and the importance of mental fitness and well-being. The source continued that Prince Harry gave a candid and honest answer to ITV reporter Tom Bradby in the course of the documentary. They added that any sibling or person seeing that would of course be concerned, but said the tabloids and the briefings by so-called 'palace insiders and friends' are classic examples of anti-Prince Harry and Meghan hysteria. The source added that the institution around the British royal family is full of people afraid of and inexperienced at how to best help harness and deploy the value of the royal couple who, they said, have single-handedly modernized the monarchy. The couple, who married in May 2018 in a trailblazing ceremony at St. George's Chapel in Windsor, have one child Archie Harrison. This report has been updated to clarify the story's attribution.",
+        "date": "2020-02-11 15:34:53.487140",
+        "title": "Anti-Harry and Meghan hysteria driven by tabloid media and palace leaks, source claims",
+        "url": "https://www.cnn.com/2019/10/22/europe/prince-harry-prince-william-british-royals-source-gbr-intl/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.10858585858585858,
+        "subjectivity": 0.36414141414141415
+    },
+    "signature": {
+        "Harry": 0.03721755574064209,
+        "Meghan": 0.015950381031703754,
+        "Prince": 0.03190076206340751,
+        "documentary": 0.026583968386172923,
+        "source": 0.02126717470893834
+    },
+    "tone": [
+        {
+            "score": 0.576595,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

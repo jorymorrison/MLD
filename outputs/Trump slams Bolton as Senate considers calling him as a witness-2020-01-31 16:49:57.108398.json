@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "Washington (CNN) President Donald Trump on Wednesday tore into his former national security adviser John Bolton, whose explosive allegation in the Ukraine scandal has opened the door for GOP support of potential witnesses in Trump's impeachment trial .      Bolton, according to a draft manuscript first reported by The New York Times earlier this week, alleges that Trump told him over the summer that he wanted to continue holding military aid to Ukraine until the country helped with investigations into his potential political opponents.      The allegation contradicts Trump claims that his actions in Ukraine were intended to root out corruption, not produce dirt on rivals, and has forced Senate Republicans to reconsider whether to hear from witnesses, including Bolton, in the trial.      Trump attacked Bolton's reputation as a military hawk and claimed his forthcoming book is 'nasty and untrue' and outed 'classified' national security information in a pair of tweets Wednesday morning.      Bolton has long been a controversial figure in Washington. He was appointed as the US ambassador to the United Nations in 2005 during a congressional recess because GOP leaders couldn't push through his nomination over Democratic objections. As national security adviser, his comment about using the 'Libyan model' of diplomacy toward North Korea was widely viewed as being unhelpful in de-escalating tensions between Washington and Pyongyang, because after then-Libyan leader Moammar Gadhafi agreed to abandon his nuclear ambitions in exchange for sanctions relief during the Bush administration, he was overthrown and killed by rebels backed by Washington years later.      As for the book itself, a source with direct knowledge of the manuscript has told CNN the New York Times' telling of Bolton's account of the Ukraine aid hold discussion with Trump is accurate. And there's no indication Bolton is disclosing 'classified national security' in the book, which is set to be released in March.      Bolton did not immediately respond to a CNN request for comment.      Bolton's allegation this week has raised the prospect of witnesses being allowed in the impeachment trial, which Republicans have largely opposed. The administration has repeatedly cited national security concerns as the main reason they would not want Bolton and other current and former administration officials to testify in the trial.      Senate Majority Leader Mitch McConnell made clear to senators Tuesday that he doesn't currently have the votes to block witnesses, but underscored that it is still a work in progress as several GOP senators remain noncommittal on their votes, a person in the room has told CNN. The numbers currently aren't based on GOP senators who have made up their minds to support witnesses, but instead several that haven't decided on way or the other yet, the source said.      Asked about his former national security adviser at a press conference in Davos, Switzerland, last week, Trump acknowledged to reporters that he and Bolton did not leave on the 'best of terms' but added, 'that was due to me. Not due to him.'      'I've always gotten along -- I've actually gotten along with John Bolton. He didn't get along with other people -- a lot of other people. But when he knows my thoughts on certain people in other governments -- and we're talking about massive trade deals, and war and peace, and all these different things that we talk about -- that's really a very important national security problem, I think,' Trump said then.",
+        "date": "2020-01-31 16:49:57.108398",
+        "title": "Trump slams Bolton as Senate considers calling him as a witness",
+        "url": "https://www.cnn.com/2020/01/29/politics/donald-trump-john-bolton/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.029080589952682975,
+        "subjectivity": 0.3868393234672305
+    },
+    "signature": {
+        "And": 0.01705458792238881,
+        "Bolton": 0.037787545923966014,
+        "Trump": 0.025191697282644004,
+        "national": 0.022042735122313504,
+        "security": 0.022042735122313504
+    },
+    "tone": [
+        {
+            "score": 0.733456,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

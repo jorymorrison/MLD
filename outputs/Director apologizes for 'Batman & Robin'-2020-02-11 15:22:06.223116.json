@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Outspoken fans of the DC Comics franchise objected to pretty much everything in the 1997 movie -- from the casting of George Clooney as Batman to the nipples on his bat suit.      'I want to apologize to every fan that was disappointed because I think I owe them that,' he said.      Schumacher took full responsibility for the film landing with a fizzle.      'A lot of it was my choice,' he said. 'No one is responsible for my mistakes but me.' Part of the issue, the director said, was that 'Batman Forever' actor Val Kilmer quit the project to take a role in 'The Island of Dr. Moreau.' Clooney came into play due to his popularity and Bob Daly, chief executive at Warner Bros. at the time, wanted Clooney '[Clooney] was an obvious choice because he was a rising star on 'ER,'' Schumacher said. 'I had a talk with him and he was like, 'Alright, if you do it I'll do it.'' Schumacher said audiences had understandably high expectations after 'Batman Forever.' But after 'Batman & Robin' released, the reaction was swift and harsh. 'I was scum. It was like I had murdered a baby,' Schumacher recalled. As for those nipples on the bat suit? It turns out that particular costume feature was inspired by history. 'By the time 'Batman Forever' came around, rubber molding had become so much more advanced,' Schumacher explained. 'So, I said 'Let's make it anatomical' and gave photos of those Greek statues and those incredible anatomical drawings you see in medical books. He did the nipples and when I looked at them, I thought, that's cool.'",
+        "date": "2020-02-11 15:22:06.223116",
+        "title": "Director apologizes for 'Batman & Robin'",
+        "url": "https://www.cnn.com/2017/06/14/entertainment/joel-schumacher-batman-robin/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.12362745098039216,
+        "subjectivity": 0.502843137254902
+    },
+    "signature": {
+        "'Batman": 0.02644663423214841,
+        "Clooney": 0.02644663423214841,
+        "He": 0.020269599421920845,
+        "Schumacher": 0.03305829279018552,
+        "nipples": 0.01983497567411131
+    },
+    "tone": [
+        {
+            "score": 0.590849,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.570215,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.548001,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

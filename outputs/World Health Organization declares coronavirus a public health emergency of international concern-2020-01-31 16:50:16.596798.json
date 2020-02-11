@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Last week, the organization said the virus did not yet constitute the emergency declaration. But with rising numbers and evidence of person-to-person transmission in a handful of cases outside of China, WHO leadership called the committee back together over concerns of a larger outbreak down the line.      'The main reason for this declaration is not because of what is happening in China, but because of what is happening in other countries,' WHO Director-General Tedros Adhanom Ghebreyesus said on Thursday. 'Our greatest concern is the potential for the virus to spread to countries with weaker health systems, and which are ill-prepared to deal with it.'      WHO defines a public health emergency of international concern as 'an extraordinary event' that constitutes a 'public health risk to other States through the international spread of disease' and 'to potentially require a coordinated international response.' Previous emergencies have included Ebola, Zika and H1N1.      Committee chairman Dr. Didier Houssin said the decision to recommend the declaration to WHO leadership was almost unanimous -- citing a growing number of cases in China, an increase in the number of countries impacted, and that 'some countries have taken questionable measures concerning travelers.' Sign up here to get The Results Are In with Dr. Sanjay Gupta every Tuesday from the CNN Health team. Houssin said that declaring the coronavirus a public health emergency of international concern would allow WHO to better coordinate the international response and hold nations to account if they overstep the organization's standards -- which may pertain to travel, trade, quarantine or screening. Ghebreyesus commended China for its actions to limit the spread of the virus, saying that 'we would have seen many more cases outside China by now -- and probably deaths -- if it were not for the government's efforts. 'Let me be clear: This declaration is not a vote of no confidence in China,' Ghebreyesus said. 'On the contrary, WHO continues to have confidence in China's capacity to control the outbreak.'",
+        "date": "2020-01-31 16:50:16.596798",
+        "title": "World Health Organization declares coronavirus a public health emergency of international concern",
+        "url": "https://www.cnn.com/2020/01/30/health/coronavirus-who-public-health-emergency-international-concern-declaration/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.0751028806584362,
+        "subjectivity": 0.34403292181069955
+    },
+    "signature": {
+        "China": 0.03847336283618523,
+        "Health": 0.02748097345441802,
+        "WHO": 0.032977168145301626,
+        "health": 0.02748097345441802,
+        "international": 0.02748097345441802
+    },
+    "tone": [
+        {
+            "score": 0.586931,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.526337,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.870108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

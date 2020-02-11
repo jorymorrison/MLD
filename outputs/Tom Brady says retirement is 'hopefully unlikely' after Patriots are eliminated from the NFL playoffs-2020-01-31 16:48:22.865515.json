@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Patriots' quarterback Tom Brady had a very pedestrian night on the field. He threw for only 209 yards and failed to tally a touchdown pass. His final throw of the game was an interception returned for a touchdown by Titans' cornerback Logan Ryan to seal the win for Tennessee.      Titans' running back Derrick Henry, the NFL's leading rusher this season, ran for 182 yards and scored a touchdown in the game. Henry's 182 yards marked the largest total allowed by the Patriots all season.      Now all eyes turn to Tom Brady's future. Brady, who will turn 43 before the start of the 2020 season, will become a free agent at the end of the NFL league year on March 18. Few quarterbacks have played in the NFL at Brady's age and even fewer have played effectively.      After the game Tom Brady said, 'I don't know what the future looks like, and I'm not going to predict it.' When asked if there was a possibility that he would retire, Brady answered, 'I would say it's pretty unlikely, hopefully unlikely.'      When asked about bringing Brady back for another season, Patriots coach Bill Belichick deferred, saying, 'We just finished the game. We're focused on this game, okay.' Earlier in the day, the Houston Texans defeated the Buffalo Bills 22-19 in overtime in the day's other Wild Card matchup. The Tennessee Titans advance to face the Baltimore Ravens and the Houston Texans will play the Kansas City Chiefs in next week's AFC Divisional Round games.",
+        "date": "2020-01-31 16:48:22.865515",
+        "title": "Tom Brady says retirement is 'hopefully unlikely' after Patriots are eliminated from the NFL playoffs",
+        "url": "https://www.cnn.com/2020/01/05/us/titans-patriots-nfl-playoffs/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.03839285714285715,
+        "subjectivity": 0.4455357142857143
+    },
+    "signature": {
+        "Brady": 0.048054851665120246,
+        "Patriots": 0.02059493642790868,
+        "Tom": 0.02059493642790868,
+        "game": 0.021046212426592138,
+        "season": 0.027459915237211568
+    },
+    "tone": [
+        {
+            "score": 0.538243,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.546871,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

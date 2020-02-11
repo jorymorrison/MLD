@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "(CNN) The Trump administration announced Monday that it will begin formally withdrawing the US from the Paris climate accord, the first step in a year-long process to leave the landmark agreement to reduce emissions of planet-warming gases.      'Today the United States began the process to withdraw from the Paris Agreement,' Secretary of State Mike Pompeo said in a statement. 'Per the terms of the Agreement, the United States submitted formal notification of its withdrawal to the United Nations. The withdrawal will take effect one year from delivery of the notification.'      It also sends a powerful message to the rest of the world: That as the damaging impacts of climate change become more apparent, the US -- which according to a recent analysis has contributed more to global warming than any other country -- will not be a part of the international charge to solve the crisis.      Critics of the withdrawal say that the US leaving an agreement it helped negotiate will harm the country's standing internationally.      'Our credibility is really at an all-time low on this when it's most needed,' said Andrew Light, a senior fellow at the World Resources Institute and a former State Department official who helped negotiate the Paris Agreement on behalf of the Obama administration.      Ernest Moniz, the Obama administration energy secretary who worked on the agreement, called the move 'the latest step in the abandonment of American leadership to address the climate crisis.'      'While efforts to curtail emissions continue in states and cities, the world needs us to play the key role in building broad coalitions and creating actionable frameworks to transition to a low-carbon global economy,' Moniz said in a statement.      Proponents of the agreement, however, see the US withdrawal as a missed economic opportunity for American business.      Under the framework of the agreement, Monday is the earliest date that the administration can notify the United Nations that the US plans to leave.      But the process cannot be completed until exactly one year later on November 4, 2020, which happens to be one day after the 2020 presidential election.      Should Trump lose the 2020 election, a new president could rejoin the agreement, but would have to put forth new climate commitments to the UN.      The issue of addressing the climate crisis has already emerged as a top campaign issue for many 2020 Democratic presidential candidates, and the timing of the US withdrawal will likely keep the issue at the forefront.      The administration's announcement comes at a time when signals indicate Trump's climate policy is increasingly at odds with public opinion, with polls showing that a majority of Americans are concerned about global warming.      But on Monday, Pompeo said in his statement: 'In international climate discussions, we will continue to offer a realistic and pragmatic model -- backed by a record of real world results -- showing innovation and open markets lead to greater prosperity, fewer emissions, and more secure sources of energy.'",
+        "date": "2020-02-11 15:35:50.197789",
+        "title": "US begins formal withdrawal from Paris climate accord",
+        "url": "https://www.cnn.com/2019/11/04/politics/trump-formal-withdrawal-paris-climate-agreement/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.1743919457735247,
+        "subjectivity": 0.3521032695374801
+    },
+    "signature": {
+        "Agreement": 0.032977168145301626,
+        "US": 0.02564890855745682,
+        "administration": 0.018320648969612014,
+        "agreement": 0.032977168145301626,
+        "withdrawal": 0.018320648969612014
+    },
+    "tone": [
+        {
+            "score": 0.619545,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.53951,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.638453,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

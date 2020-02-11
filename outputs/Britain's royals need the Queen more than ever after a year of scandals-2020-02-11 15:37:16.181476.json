@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "London (CNN) It has been a tumultuous and unsettling year for Britain's royals. Feuds were exposed, family members withdrew from public life and the Queen was even dragged into the heart of the country's political crisis.      Taken together, the headlines paint a picture of a monarchy in crisis. So, how will this hallowed institution bounce back again in 2020? The answer is simple: As it always has done, with Elizabeth II firmly at its helm.      The first shock of the year came in January when the Duke of Edinburgh was involved in a car crash near Sandringham, the family's estate in Norfolk, eastern England. Prince Philip was unhurt when his Land Rover flipped onto its side, though a woman in the other car was injured.      But when the elderly duke -- who is rarely seen these days following his retirement in 2017 -- was spotted back behind the wheel the following day, there was a media furor. The situation was compounded when it emerged that the victim had not been immediately contacted by the duke in the days after the crash and was swiftly followed by an announcement that the then-97-year-old would give up his driving license.      'The Queen has been without her 'strength and stay' as [the duke] is based at Wood Farm on the Sandringham Estate, even though they reportedly speak every day by telephone,' explained royal commentator Richard Fitzpatrick.      Fitzpatrick added that the absence of the long-time patriarch -- who previously assumed the roles of 'modernizer' and 'pragmatist' -- had been keenly felt this year.      'I never thought that this would be easy, but I thought that it would be fair,' the duchess said of her treatment by the media. 'I've really tried to adopt this British sensibility of a stiff upper lip,' she said. 'I tried, but I think what that does internally is probably really damaging.'      Asked how she was feeling, Meghan responded, 'Thank you for asking because not many people have asked if I'm okay, but it's a very real thing to be going through behind the scenes.'      It had the opposite effect.      Epstein had allegedly trafficked Virginia Giuffre -- previously known as Virginia Roberts -- when she was 17 years old, forcing her to have sex with his friends, including the Duke of York.      In the interview, the duke denied having any sexual contact with Giuffre, insisting he had 'no recollection of ever meeting this lady.'      Days later, Andrew was left with no choice but to release a follow-up statement, in which he said: 'I continue to unequivocally regret my ill-judged association with Jeffrey Epstein. His suicide has left many unanswered questions, particularly for his victims, and I deeply sympathise with everyone who has been affected and wants some form of closure.' To halt the backlash, the duke added he was stepping back from public duties.      CNN also understands that Andrew's departure from public life may not be permanent -- though any timeline on his return will likely be defined by the American judicial system and whether Andrew is called in for questioning.      While announcing he was stepping back from his royal role, Andrew also said he was 'willing to help any appropriate law enforcement agency with their investigations, if required.' So far, no formal requests have been made by US authorities and no criminal charges have been brought against the Duke of York.      Amid all her domestic woes, the Queen was also tested professionally when Prime Minister Boris Johnson asked her to shut down Parliament for five weeks at the height of the Brexit debacle. She rubber-stamped the request in line with her duty to stay out of politics and to act only on the advice of ministers.      Throughout the visit, the American commander in chief appeared enthralled and engaged alongside the head of the Commonwealth and Defender of the Faith.      He added: 'I feel I know her so well and she certainly knows me very well right now, but we have a very good relationship also with the United Kingdom.'      In 1992, the Queen endured what she called her 'Annus Horribilis,' a year that saw three of her children endure marital strife and Windsor Castle almost burned down. Characteristically, she bounced back and steered the royal family back into the nation's hearts.      Now, almost three decades on, the monarch has seen yet another ghastly 12 months in which her ability to unify is more essential than ever.      The message from everyone around her is that she has no intention of compromising that role -- and that can only be coming from the top.",
+        "date": "2020-02-11 15:37:16.181476",
+        "title": "Britain's royals need the Queen more than ever after a year of scandals",
+        "url": "https://www.cnn.com/2019/12/26/uk/uk-royal-family-year-in-review-intl-gbr/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.0757172035480859,
+        "subjectivity": 0.33093720821662
+    },
+    "signature": {
+        "Duke": 0.018811123036515012,
+        "His": 0.018811123036515012,
+        "To": 0.015859232513581636,
+        "duke": 0.018811123036515012,
+        "her": 0.015859232513581636
+    },
+    "tone": [
+        {
+            "score": 0.566658,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.699386,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

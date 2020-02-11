@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) Republican Sen. Lamar Alexander broke his silence Thursday in the trial of President Donald Trump, asking to compare the present acrimony with the bipartisan nature of the two previous impeachment inquiries in modern history.      While the question was one of nearly 150 so far, it took on additional significance as the first from Alexander, who is considered a crucial vote on whether to allow new witnesses , along with Sens. Mitt Romney of Utah, Susan Collins of Maine and Sen. Lisa Murkowski of Alaska. Many Republican senators want to block new witnesses from testifying and move to acquit the President as early as Friday. Alexander told CNN he would announce his decision once the questioning period is over on Thursday night.      Alexander's question could be viewed as a call-back to a point Ken Starr on Trump's defense team made days earlier, that Richard Nixon's impeachment inquiry was 'powerfully bipartisan' and was thus more credible. No House Republican voted to authorize the inquiry under President Donald Trump, but 31 Democrats broke from Bill Clinton in 1998 and nearly all Republicans broke under Nixon in 1974.      But Democratic Rep. Zoe Lofgren of California, who served as a congressional staffer during the Nixon impeachment investigation , argued that even then, at first, 'The parties were as dug in as parties are today.'      Lofgren said that she 'honestly' believed that when a government whistleblower came forward with evidence of Trump's wrongdoing, the two parties would come together as they did under Nixon. 'It didn't happen, much to my disappointment,' she acknowledged.      But she said that the Senate had a 'opportunity' to do what the House did not: hear from first-hand witnesses such as former national security adviser John Bolton , who reportedly heard from Trump in August that he wanted to continue withholding nearly $400 million in aid to Ukraine until it backed a politically-damaging investigation into his 2020 rival, former Vice President Joe Biden.      Last year, the House impeachment inquiry asked Bolton to testify, but he refused. He has since said he would come forward if subpoenaed by the Senate.      'Let's see if that kind of information can help the senators come together as happened in the House Judiciary Committee so many years ago, when we dealt with the serious problem of presidential misconduct -- abuse of power to cheat an election -- when Richard Nixon shocked the nation and ultimately had to resign,' said Lofgren.      Senate Democratic Leader Chuck Schumer then jumped in to ask a question to the House managers, attempting to assuage Republicans' concerns that a fight over witnesses would consume the Senate. On Wednesday, deputy White House counsel Patrick Philbin said that the House's request for witnesses 'would be very grave' for the Senate as an institution and prevent its work for months. Alexander took copious notes while Philbin spoke.      Senate Majority Leader Mitch McConnell then inserted himself into the trial and asked a question, read aloud by Chief Justice John Roberts, asking the White House defense team to respond to Alexander's question.      Philbin noted that the House's vote to authorize the inquiry was more partisan than during the Nixon and Clinton eras. He then made the broad point to the central of their case: the House managers had not alleged a statutory crime, only abuse of power and obstruction of Congress, which he called 'infinitely malleable' and tantamount to maladministration. Later, under further questioning, Trump's personal lawyer Jay Sekulow said the witness fight as described was not fair, saying the managers want to only call the witnesses they want, while blocking the ones Trump's team would want, like the whistleblower or Biden.      'They are not irrelevant to our case,' Sekulow said.      The Senate soon took a break for dinner. Alexander privately met with Murkowski.      Afterward, Alexander told CNN that he would announce his decision on witnesses after the final question on Thursday night.      'We were just talking,' Alexander said.      This story has been updated with additional developments Thursday.",
+        "date": "2020-01-31 16:50:40.116715",
+        "title": "Lamar Alexander says he will announce decision on witnesses vote Thursday night",
+        "url": "https://www.cnn.com/2020/01/30/politics/lamar-alexander-impeachment-witness-decision/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.08411616161616163,
+        "subjectivity": 0.48918350168350166
+    },
+    "signature": {
+        "Alexander": 0.02417666450232758,
+        "House": 0.026862960558141753,
+        "Senate": 0.018804072390699228,
+        "Trump": 0.018804072390699228,
+        "witnesses": 0.018804072390699228
+    },
+    "tone": [
+        {
+            "score": 0.502955,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.778588,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

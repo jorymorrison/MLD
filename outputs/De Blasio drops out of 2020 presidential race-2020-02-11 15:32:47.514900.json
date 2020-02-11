@@ -1,0 +1,41 @@
+{
+    "article": {
+        "body": "De Blasio sought to cast himself as the most progressive candidate in the large field of Democrats vying to take on President Donald Trump, and he used his time on the national stage to attack less progressive candidates, namely former Vice President Joe Biden, for positions that he felt were out of step with the current mood of the Democratic Party.      In the end, however, de Blasio was unable to convince liberal Democrats that he was more qualified than Massachusetts Sen. Elizabeth Warren or Vermont Sen. Bernie Sanders, the two leading liberals in the 2020 race.      'I feel like I've contributed all I can to this primary election and it's clearly not my time,' de Blasio said on MSNBC's 'Morning Joe.' 'So I'm going to end my presidential campaign, continue my work as mayor of New York City, and I'm going to keep speaking up for working people and for a Democratic Party that stands for working people.'      De Blasio, 58, pledged on Friday to push for progressive ideas as the Democratic primary process continues.      Here are the 19 Democrats who are running for president 'Whoever our nominee is, let's make sure we're speaking to the hearts of working people and they know we're on their side. And if we do that, we're going to win. If we don't, this is an election that could go the other way,' he said. Unlike some of his opponents, de Blasio had been aggressive in attacking candidates who he felt were not going far enough with their presidential runs. 'Joe Biden told wealthy donors that nothing will fundamentally change if he were president,' he said at CNN's July debate in Detroit. '(California Sen.) Kamala Harris said she's not trying to restructure society, Well, I am.' De Blasio targeted Biden, the Democratic front-runner, multiple times during his run. After it was initially revealed that Biden did not support the repeal of the Hyde Amendment, which outlaws federal funds being used for abortion with the exception of rape, incest and the life of the mother at risk, de Blasio pounced and tweeted, 'if you don't support repeal, you shouldn't be the Democratic nominee.' De Blasio hoped his national recognition as the progressive mayor of the nation's largest city would help him stand out amid the two dozen Democrats hoping to take on Trump next year. But he failed to resonate in the polls and was criticized for neglecting his duties as mayor to run for president, most notably during a brief blackout in Manhattan in July which happened when he was campaigning in Iowa. De Blasio was pestered throughout the campaign with questions about why he was running in the first place. A Quinnipiac poll released shortly before he announced his run in May found 76% of New Yorkers did not think he should enter the race, contributing to questions from voters and the city's unrelenting press corps. Trump mocked de Blasio shortly after he dropped out, tweeting that New York City is 'devastated' that their mayor -- who had a meager 33% favorable rating among city voters in a recent Siena College poll -- was returning home. The New York mayor's decision to drop out now is an acknowledgment that he was not going to qualify for the October debate. After failing to qualify for the September debate, the mayor said that he likely wouldn't stay in the race if he was unable to qualify for October's contest. 'I think the logical thing to say is, you know, I'm going to go and try to get into the October debates,' de Blasio said. 'And if I can, I think that's a good reason to keep going forward and if I can't, I think it's really tough to conceive of continuing. So that's the way I'm looking at it right now.' This story has been updated.",
+        "date": "2020-02-11 15:32:47.514900",
+        "title": "De Blasio drops out of 2020 presidential race",
+        "url": "https://www.cnn.com/2019/09/20/politics/bill-de-blasio-ends-presidential-campaign/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.10828681552365764,
+        "subjectivity": 0.4551672742462217
+    },
+    "signature": {
+        "Blasio": 0.029682762291428622,
+        "De": 0.029682762291428622,
+        "President": 0.013492164677922101,
+        "de": 0.029682762291428622,
+        "mayor": 0.01619059761350652
+    },
+    "tone": [
+        {
+            "score": 0.52154,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.580857,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.513937,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.703479,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

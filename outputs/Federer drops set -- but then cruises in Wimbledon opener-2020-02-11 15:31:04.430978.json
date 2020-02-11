@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "(CNN) Roger Federer didn't suffer a shock exit at Wimbledon in his 2019 opener, but the record eight-time champion gave his millions of fans a minor scare when he lost a set against a player who grew up idolizing him -- make that another one.      In his Wimbledon debut world No. 86 Lloyd Harris nabbed the first set against the Swiss great before Federer cruised to victory 3-6 6-1 6-2 6-2 in front of Britain's Duchess of Cambridge.      But just how rare was dropping a set for Federer at the first hurdle at Wimbledon?      Since 2003, when the Swiss landed his first crown here, it was only the second time. In 2010 he came perilously close to exiting against Colombian left-hander Alejandro Falla.      However, Federer was never in such danger against the lanky 22-year-old South African, who has never won a top-tier grass court match, especially after the trainer appeared for an apparent leg injury ahead of the final set.      Yet the early blemish Tuesday might lead some to wonder whether his deep run on the clay of the French Open last month will cost the soon-to-be 38-year-old later in the fortnight.      He hadn't competed at the French Open since 2015, either through injury or to prepare for Wimbledon.      He was the one who beat Federer in the last four in hurricane like winds.      Federer and Nadal feature in the same half of the draw at Wimbledon -- they haven't met here since their marathon epic 11 years ago -- but the Spaniard will first meet Nick Kyrgios in the second round after coming from an early break down to overcome Japanese qualifier Yuichi Sugita 6-3 6-1 6-3.      There is certainly no love lost between the pair, with the Australian calling Nadal 'super salty' and a bad loser in May.      'We have a mutual respect, but that's about it I think,' Kyrgios said Tuesday.      Kyrgios defeated Nadal at Wimbledon five years ago and then in February in Acapulco after saving three match points.      And he admitted that seeing Nadal in his section of the draw at Wimbledon gave him extra motivation. Or should that be simply motivation?      He progressed in five sets earlier in the day against his sometime Davis Cup teammate Jordan Thompson despite winning a mere five points in the fourth set.      He won the key points in the first, third and fifth to prevail 7-6 (7-4) 3-6 7-6 (12-10) 0-6 6-1 in three hours, 26 minutes.      The key moment of the decider came in the opening game, when a reeling Kyrgios fended off a break chance.      Defaulted at the Rome Masters after he had received a game penalty, Kyrgios was relatively muted against Thompson though he did receive a code violation for unsportsmanlike conduct in the third set.      So did Thompson, for bouncing his racket.      Serena Williams began her quest for a 24th major by beating Italian qualifier Giulia Gatto-Monticone 6-2 7-5 -- the Italian at 31 became the oldest grand slam debutante since 1977 when she played at May's French Open -- after being pegged back at 5-3 in the second.      Defending women's champion Angelique Kerber -- a winner over Williams in the 2018 final -- and world No.1 Ashleigh Barty advanced against Tatjana Maria and Zheng Saisai 6-4 6-3 and 6-4 6-2, respectively.      For Barty, it was a 13th consecutive victory, continuing the momentum garnered by opening her grand slam account in Paris and winning in Birmingham on grass -- her favorite surface -- last month.      Petra Kvitova just returned from an arm injury of her own and the twice champion successfully navigated the challenge of Ons Jabeur 6-4 6-2.",
+        "date": "2020-02-11 15:31:04.430978",
+        "title": "Federer drops set -- but then cruises in Wimbledon opener",
+        "url": "https://www.cnn.com/2019/07/02/tennis/federer-kyrgios-nadal-wimbledon-tennis-barty-intl-spt/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.06751658374792704,
+        "subjectivity": 0.3923537076522151
+    },
+    "signature": {
+        "Federer": 0.0178284524301299,
+        "He": 0.016397198338329998,
+        "In": 0.016810327865180944,
+        "Wimbledon": 0.02079986116848488,
+        "against": 0.02079986116848488
+    },
+    "tone": [
+        {
+            "score": 0.588757,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.541627,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.583196,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

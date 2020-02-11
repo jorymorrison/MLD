@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "McCarthy served as the head coach of the Packers for 13 years, from 2006-2018.      In 13 years, McCarthy led Green Bay to the playoffs nine times, including in the 2010-2011 NFL season when the Packers won Super Bowl XLV in Cowboys Stadium.      McCarthy takes over the job from Jason Garrett, who had led the Cowboys since 2010 but wasn't re-signed to a new contract this off season by Cowboys owner Jerry Jones. Dallas missed the playoffs with an 8-8 record.      The Cowboys have not responded to CNN's request for confirmation and comment.",
+        "date": "2020-01-31 16:48:35.288034",
+        "title": "Dallas Cowboys to hire Mike McCarthy as new head coach, reports say",
+        "url": "https://www.cnn.com/2020/01/06/us/dallas-cowboys-mike-mccarthy-spt-trnd/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.08989898989898988,
+        "subjectivity": 0.47373737373737373
+    },
+    "signature": {
+        "13": 0.03812254189846925,
+        "Cowboys": 0.0762450837969385,
+        "McCarthy": 0.05718381284770388,
+        "Packers": 0.03812254189846925,
+        "playoffs": 0.03812254189846925
+    },
+    "tone": [
+        {
+            "score": 0.530786,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

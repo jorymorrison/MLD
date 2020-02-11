@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "London (CNN) Queen Elizabeth II has sent a coded message to Britain's warring politicians, urging them to set aside their differences and forge a way forward through the Brexit impasse.      In a speech to a women's group near Sandringham on Thursday, the monarch said lawmakers should respect different points of view and seek 'common ground,' in what is a most unusual intervention into the national political debate.      'As we look for new answers in the modern age, I for one prefer the tried and tested recipes, like speaking well of each other and respecting different points of view; coming together to seek out the common ground; and never losing sight of the bigger picture,' the Queen said.      As a constitutional monarch, the Queen has no political role and is expected to refrain from expressing any personal view that may be construed as party political. She's rarely faltered in that responsibility over the course of nearly seven decades on the throne, earning near universal respect.      Her subjects know almost nothing about her thoughts, apart from her passion for horses and dogs. That's why it's so extraordinary to see her wade into the biggest political debate for a generation in the United Kingdom.      CNN couldn't find anyone at Buckingham Palace who would deny that the Queen was referring to Brexit -- and this isn't the first time she's got involved.      'Even with the most deeply held differences, treating the other person with respect and as a fellow human being is always a good first step towards greater understanding,' the Queen said then.      Meanwhile, the Brexit debate has become increasingly heated as the date on which the United Kingdom is due to leave the EU -- March 29 -- gets ever closer.      The Queen's remarks came during an annual visit to members of the Women's Institute near her Sandringham estate in Norfolk. The voluntary women's organization has almost 220,000 members nationwide and is non-party political.      It's an abstract role that has grown organically over the centuries and which she has owned more than any of her predecessors. It refers to her duty to act 'as a focus for national identity, unity and pride' and to give 'a sense of stability and continuity.'      The last time she stepped in in this way on an issue seen as political was ahead of the referendum on Scottish independence in 2014, when she told a well-wisher outside a Scottish church that she hoped people would 'think very carefully about the future,' knowing that her words would be picked up by the media.      She didn't give her thoughts away on which way she thought people should vote but she did highlight the importance of the vote and made it a bigger part of the national debate.      Buckingham Palace has pushed back in the past when it felt the Queen was wrongly represented as intervening in the political debate.      With her latest remarks, the Queen has already shifted the conversation around Brexit, with politicians quickly responding to her remarks.      The Chancellor of the Exchequer, Philip Hammond, told the BBC there was 'huge wisdom' in what the Queen said.      'I don't think anybody will be at all surprised to hear the Queen advocating the view that in all things controversial we should seek compromise, we should seek common ground, we should seek a way forward,' he said.      Speaking directly about the Brexit turmoil, Hammond told BBC Radio 4 the 'problem' in parliament lay with both sides advocating for what they want, 'rather than recognizing we've all got to compromise to find some common ground and a way forward.'      Hammond also warned of the 'very significant disruption' to the British economy that a no-deal scenario would bring. He added that his responsibility was to 'manage the economy in what is in the best interests of the British people.'      With the UK parliament in deadlock and the clock ticking down toward Brexit day, the Queen appears to feel it's her duty to step in on behalf of the nation and encourage a return to a more consensual tone to British politics.",
+        "date": "2020-02-11 15:27:29.475610",
+        "title": "Queen calls for Britons to find 'common ground' amid Brexit divisions",
+        "url": "https://www.cnn.com/2019/01/25/uk/queen-brexit-speech-common-ground-gbr-intl/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.10220296182160589,
+        "subjectivity": 0.41994521486046904
+    },
+    "signature": {
+        "Brexit": 0.01553548672741088,
+        "Her": 0.01905108015031404,
+        "Queen": 0.028481725666919946,
+        "her": 0.01905108015031404,
+        "political": 0.018124734515312695
+    },
+    "tone": [
+        {
+            "score": 0.591713,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.707431,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        },
+        {
+            "score": 0.52805,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "(CNN) Here is a look at the European Union.            The European Union is an international organization made up of 28 European countries.      It governs common economic, social and security policies of its member states.      According to the EU website, the objectives of the European Union are to establish European citizenship, ensure freedom, justice and security, promote economic and social progress, and assert Europe's role in the world.      Membership is open to any country with a democratic government, a good human rights record, and sound economic policies.      The member states delegate sovereignty to the EU institutions to represent the interests of the European Union as a whole.      Decisions and procedures stem from treaties ratified by the member states.      The capital of the European Union is Brussels, Belgium.      The European Union is run by five main bodies: European Parliament, Council of the Union, European Commission, Court of Justice, and the Court of Auditors.      The United States is the European Union's main trading partner.      The Treaty of Lisbon amends the Treaty on European Union to explicitly recognize for the first time the member states' right to withdraw from the union. (Article 50, amended TEU)      - Any member state may decide to withdraw from the Union in accordance with its own constitutional requirements.      - A member state which decides to withdraw shall notify the European Council of its intention. In the light of the guidelines provided by the European Council, the Union shall negotiate and conclude an agreement with that State, setting out the arrangements for its withdrawal, taking account of the framework for its future relationship with the Union.            1957 - The European Economic Community (EEC) is created. The member countries are Belgium, France, Italy, Luxembourg, the Netherlands, and West Germany. The group aims to remove trade barriers and form a common market.      1973 - Denmark, Ireland, and the United Kingdom become member countries.      February 7, 1992 - The Treaty on the European Union is signed in Maastricht (Netherlands) by leaders of the member states.      1993 - The EEC members at the time (Belgium, France, Germany, Italy, Greece, Spain, UK, Luxembourg, the Netherlands, Denmark, Ireland, and Portugal) extend their cooperation into the areas of justice and home affairs and a common foreign and security policy.      April 30, 2004 - A ceremony is held in Dublin, Ireland, marking the expansion of the European Union from 15 to 25 members. The new members are Poland, the Czech Republic, Slovakia, Cyprus, Estonia, Hungary, Latvia, Lithuania, Malta, and Slovenia.      June 2004 - The member countries approve the text of the EU Constitution. It is signed by all the members in October 2004.      May 29, 2005 - The people of France (and its territories) vote against the EU constitution in a referendum. (No = 54.87%/Yes = 45.13%)      June 1, 2005 - The Netherlands votes against the constitution in a referendum. All 27 members of the European Union must pass the constitution for it to take effect. Either a national parliament can approve it or in some countries, the citizens vote on a referendum.      June 23, 2007 - European Union leaders in Brussels agree on an outline of a treaty that would replace the EU constitution rejected by French and Dutch voters two years ago.      November 19, 2009 - Herman Van Rompuy, the Belgian Prime Minister, becomes the first president of the European Council under the Treaty of Lisbon. Catherine Ashton of the UK will be the first foreign minister.      December 1, 2009 - The Treaty of Lisbon comes into force, having been ratified by all EU member states. It amends the Maastricht Treaty of 1992 and the Rome Treaty of 1957.      July 1, 2013 - Croatia joins the European Union as its 28th member.      March 2015 - Iceland withdraws its request to be considered as a candidate for membership.      Presidencies of the Council of the European Union until 2020:       Malta: January-June 2017       United Kingdom: July-December 2017       Estonia: January-June 2018       Bulgaria: July-December 2018       Austria: January-June 2019       Romania: July-December 2019       Finland: January-June 2020",
+        "date": "2020-02-11 15:18:10.519972",
+        "title": "European Union Fast Facts",
+        "url": "https://www.cnn.com/2013/06/06/world/europe/european-union-fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.07044155844155844,
+        "subjectivity": 0.18330519480519483
+    },
+    "signature": {
+        "European": 0.06073760912637474,
+        "Treaty": 0.022086403318681724,
+        "Union": 0.052455207881869095,
+        "member": 0.03312960497802259,
+        "union": 0.052455207881869095
+    },
+    "tone": [
+        {
+            "score": 0.722179,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

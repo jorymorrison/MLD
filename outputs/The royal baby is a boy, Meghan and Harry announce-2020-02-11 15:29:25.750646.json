@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "The first child of Meghan and Prince Harry was 'delivered safely at 5:26 am' and 'weighs 7lbs. 3oz,' it said. The palace would not confirm where the baby was delivered but said Harry was by his wife's side.      An emotional Prince Harry told reporters afterward that 'mother and baby are doing incredibly well.'      'How any woman does what they do is beyond comprehension, but we're both absolutely thrilled and so grateful for all the love and support from everybody out there,' Harry said. 'I'm so incredibly proud of my wife. As every father and parent would say, your baby is absolutely amazing. But this little thing is absolutely to die for, so I'm just over the moon.'      When it comes to the name of their son, the world will have to wait. Harry said they were 'still thinking' about it. 'The baby's a little bit overdue so we've had a little bit of time to think about it, that's the next bit. For us, we'll be seeing you guys [in] probably two days' time as planned,' he added.      The Duchess's mother, Doria Ragland, was with Meghan on Monday at her home, Frogmore Cottage, in Windsor, and was 'overjoyed by the arrival of her first grandchild,' the palace said. The boy will be the eighth great-grandchild for Queen Elizabeth II and the seventh in line to the throne behind Prince Charles, Prince William and his three children and Prince Harry. Hours after the Palace's statement, a ceremonial easel holding a framed notice of birth was placed in the forecourt of London's Buckingham Palace. 'The Queen and the Royal Family are delighted at the news that Her Royal Highness The Duchess of Sussex was safely delivered of a son,' the notice read. The display of the ceremonial easel, and framed notice of birth, is a royal tradition. The couple, who also announced the birth of their son with a post on their official Instagram page, added a second post thanking the public for its 'support and kindness.' Among Monday's well-wishers were Prime Minister Theresa May, opposition Labour Party leader Jeremy Corbyn, Meghan's 'Suits' co-stars, and Charles Spencer, who is the brother of Harry's mother, the late Princess Diana. Thomas Markle, Meghan's father, expressed his delight over the birth of his grandson to British tabloid newspaper The Sun. 'I am proud that my new grandson is born into the British royal family and I am sure that he will grow up to serve the crown and the people of Britain with grace, dignity, and honor,' said Markle, who is reported to have developed a contentious relationship with his daughter since her marriage. Harry and Meghan announced they were expecting a baby in October -- the news came as they touched down in Australia for their first overseas tour as a married couple. Harry and Meghan's new baby: What we know so far But the couple ultimately preferred to keep details of the pregnancy under wraps, in line with their repeated requests for privacy since they began dating years ago. Meghan declined to follow in the footsteps of her sister-in-law, Duchess Catherine of Cambridge, who stepped into the intense glare of the media spotlight, newborns in arm, hours after giving birth at a hospital in central London. Meghan and Harry's new baby will make history by becoming the first biracial British child in the royal family, a significant milestone both across the Commonwealth and within British society. But trailblazing is nothing new for the royal couple. The new, modern approach brought to the family by the pair was underlined by their groundbreaking wedding ceremony last May. Almost every piece of that star-studded ceremony at Windsor Castle -- broadcast to hundreds of millions around the world -- seemed to make a statement. In a striking image, the outspoken American divorc\u00e9e walked unescorted, followed by her 10 bridesmaids and page boys. Opinion: This royal baby is nothing less than a revolution Hands clasped, the couple then listened to a stirring, soulful address by Bishop Michael Curry, the first African-American head of the Episcopal Church in the United States. His impassioned speech was then followed by a performance of the Ben E. King classic 'Stand by Me' by The Kingdom Choir, a group of 20 gospel singers. The birth of Meghan and Harry's baby is certain to again capture the imagination of British society, marking the start of a new era for one the world's most famous and most loved couples. This story has been corrected to reflect that the new baby is the Queen's eighth great-grandchild.",
+        "date": "2020-02-11 15:29:25.750646",
+        "title": "The royal baby is a boy, Meghan and Harry announce",
+        "url": "https://www.cnn.com/2019/05/06/uk/meghan-markle-royal-baby-gbr-intl/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.20467416293687477,
+        "subjectivity": 0.48202301465013325
+    },
+    "signature": {
+        "Harry": 0.025365964171825746,
+        "Meghan": 0.020753970686039246,
+        "Royal": 0.016141977200252747,
+        "baby": 0.023059967428932494,
+        "royal": 0.016141977200252747
+    },
+    "tone": [
+        {
+            "score": 0.687556,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

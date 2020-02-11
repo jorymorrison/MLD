@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Hong Kong (CNN Business) The coronavirus outbreak is driving up the cost of food \u2014 and almost everything else in China \u2014 adding to the pressure on household budgets.      China's consumer price inflation hit 5.4% in January, according to the country's National Bureau of Statistics on Monday. Prices rose last month at their fastest rate since October 2011, when China was battling to control months of soaring inflation.      Food, which makes up nearly a third of spending by Chinese consumers, is spiking the most. Pork \u2014 a mainstay in the Chinese diet that is already under pressure because of a devastating pig disease \u2014 skyrocketed a staggering 116% compared to a year ago. Vegetables were 17% more expensive.      Other items saw modest price rises by comparison: Health care was 2.3% more expensive, for example, while clothing prices rose 0.6%.      The statistics bureau acknowledged the role coronavirus played in causing prices to surge. In a statement, it attributed the increase to the outbreak and to the Lunar New Year holiday, which was observed in January this year rather than February, as it was in 2019.      Economists at Citi blamed the price surge on the way the coronavirus has disrupted production and transport links.      Dozens of Chinese cities have been on lockdown to prevent the spread of the virus, which has killed more than 900 people and infected at least 40,000, mostly in mainland China. Many factories and businesses were also shut down as government officials extended the holiday.      Hoarding is also a factor, according to analysts from Capital Economics. People are rushing to buy basic necessities, fearful of how long they may be stuck in their homes, state-owned media outlet Xinhua reported last week.      Analysts at Nomura expect inflation to taper off a little in February, adding that the timing of the Lunar New Year holiday distorted the figures somewhat. But they said they expect the coronavirus outbreak to keep the consumer price index above 4% because of hoarding by households and supply shocks attributable to the lockdowns.      The government, aware of how high inflation could spark public discontent, announced Monday that it would increase imports of meat and daily necessities. A government official also told reporters that China had released over 100,000 metric tons of pork and 47,000 metric tons of vegetables from its central reserves since the coronavirus outbreak began.      Beijing has also sought to control the prices of groceries and medical supplies by encouraging companies to expand production and introducing steps to curb price gouging.      Late last month, regulators in Shanghai fined a supermarket store 2 million yuan ($290,000) after they said it deliberately hiked the cost of vegetables by as much as 692%. And in Zhengzhou, a city in central China, regulators recently fined a supermarket operator 500,000 yuan ($71,600) for charging as much as $2 a kilogram for cabbage.      China's Supreme Court said recently that price gouging could be punished with prison time.      But it appears those measures are not working as effectively as expected, the Citi economists wrote in a research note Monday.      Fallout from the coronavirus is a blow to Chinese consumers, whose budgets are already tight. Food prices in particular have been rising for the last year, mostly because of a severe pork shortage caused by the outbreak of African swine fever among China's pig population.",
+        "date": "2020-02-11 15:40:45.056247",
+        "title": "Food prices are soaring in China because of the coronavirus and swine fever",
+        "url": "https://www.cnn.com/2020/02/10/economy/china-food-prices-coronavirus-pork/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.0316891215360603,
+        "subjectivity": 0.3457216479665459
+    },
+    "signature": {
+        "A": 0.019910870536730924,
+        "China": 0.02573442684708158,
+        "Prices": 0.01608401677942599,
+        "coronavirus": 0.019300820135311186,
+        "outbreak": 0.01608401677942599
+    },
+    "tone": [
+        {
+            "score": 0.535894,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.543771,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.877333,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

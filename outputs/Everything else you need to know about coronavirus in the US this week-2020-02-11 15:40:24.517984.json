@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) Five people who recently evacuated Wuhan, China, to Travis Air Force Base in Northern California were hospitalized Friday with symptoms of coronavirus , according to a US Centers for Disease Control and Prevention spokesman.      It was determined that the five people had a fever and were taken by ambulance to an undisclosed nearby hospital where they are being isolated and tested for the virus, CDC spokesman Jason McDonald told CNN.      Four of the five patients arrived this morning on a flight at the base. An additional person arrived on Wednesday and was hospitalized after showing symptoms, according to the spokesman. Most of the evacuees who arrived at Travis AFB on Friday morning continued on to San Antonio, Texas, but 53 people remained at the Northern California base.      The evacuees are part of the close to 300 additional Americans arriving in the US Friday on two flights after evacuating the epicenter of the coronavirus outbreak in China.      One flight landed early Friday at Travis Air Force Base -- between San Francisco and Sacramento, California -- a base official told CNN. The second US-bound flight landed first at Vancouver International Airport, facility management spokesman Brock Penner said.      Everyone on the flights will be subject to a 14-day federally mandated quarantine.      A group of Colby College students returning to Maine from a trip to China are under 'self-quarantine' at a hotel in Waterville, Maine, at the request of the school, even though there are no confirmed cases of coronavirus in Maine, according to the state's Centers for Disease Control.      Here are other key developments this week:      The outbreak just keeps growing      This week saw the number of cases reported in the outbreak more than double worldwide.      At the end of last week, there had been 14,549 confirmed cases of coronavirus and 305 deaths worldwide. The US had eight cases.      Other countries have started evacuating citizens from China as well.      Two Brazilian Air Force planes also left Wuhan Friday, according to the Brazilian Air Force's official Twitter account. Aboard the plane were 34 Brazilians, four Polish citizens, one Chinese citizen and an Indian citizen. The non-Brazilian citizens will be dropped off during the flight's layover in Poland. Once in Brazil, the citizens will be quarantined for 18 days on an Air Force base.      In Canada, a flight carrying 176 passengers landed late Thursday at Vancouver International Airport, an airport official there said.      US likely not chartering any more flights out of Wuhan      As the numbers skyrocket, the US has worked to get Americans out of China.      The flights that arrived Friday in the US from Wuhan could be the final two flights chartered by the State Department.      The State Department does not anticipate chartering any planes after this week, an official said.      All the passengers will be quarantined      The health of passengers headed to the US will be monitored and checked repeatedly during their flights. After disembarking, they will be screened and placed under a 14-day federally mandated quarantine, according to the US Northern Command, a part of the Department of Defense.      Those who show symptoms upon arrival or during the quarantine period will be taken to area hospitals for isolation and treatment.      Evacuations of Americans from Wuhan started last month, with one flight carrying nearly 200 Americans landing at the March Air Reserve Base in Southern California. Those passengers were quarantined.      The 65 passengers who arrived on Friday at Miramar Friday received health screenings and remain on the base with the other evacuees who arrived Wednesday.      A total of seven people from MCAS Miramar were transported to the hospital after developing a fever or a cough that warranted further evaluation.      Quarantine covers those on regular flights from China      The federal quarantine order applies to Americans arriving on regular passenger flights, as well.      The 11 designated commercial airports are in: New York (John F. Kennedy), Los Angeles, Seattle, San Francisco, Chicago (O'Hare), Atlanta, Honolulu, Dallas, Detroit, Newark and Washington (Dulles).      The Pentagon announced that 11 additional military locations have been approved to accept people for quarantine if public health authorities believe there are coronavirus concerns. The additional military housing sites are located near the 11 airports accepting flights.      The outbreak is not just on land      Passengers are not just trapped at home and in military bases.      At least 64 people from all over the world have tested positive for coronavirus on the cruise ship docked in Japan, including 11 Americans.",
+        "date": "2020-02-11 15:40:24.517984",
+        "title": "Everything else you need to know about coronavirus in the US this week",
+        "url": "https://www.cnn.com/2020/02/07/us/coronavirus-friday/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.11308396464646463,
+        "subjectivity": 0.4488648504273504
+    },
+    "signature": {
+        "At": 0.019378507127117268,
+        "Base": 0.019449220832868982,
+        "China": 0.014586915624651735,
+        "US": 0.019449220832868982,
+        "base": 0.019449220832868982
+    },
+    "tone": [
+        {
+            "score": 0.542064,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.648773,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) Here's a look at the life of Michelle Obama, wife of 44th US President Barack Obama.      Met Barack Obama when she was assigned to be his mentor at Sidley & Austin, a Chicago law firm.      Her father suffered from and eventually died of multiple sclerosis.      1996-2002 - Associate Dean of Student Services for the University of Chicago and director of the University Community Service Center.      2002-2005 - Executive Director for Community Affairs for University of Chicago Hospitals.      2005-2007 - Member of the board of Tree House Foods, a food supplier for Walmart stores.      2005-January 2009 - Vice President of Community and External Affairs for University of Chicago Hospitals.      January 20, 2009 - Becomes the First Lady of the United States.      April 2009 - 'Michelle Obama: In Her Own Words' is published.      February 2009 - Appears on the March cover of Vogue magazine.      June 20, 2011 - Travels to Africa for a week to focus on youth leadership, education, health and wellness.      May 29, 2012 - 'American Grown: The Story of the White House Kitchen Garden and Gardens Across America' is published.      March 13, 2013 - Along with other high profile celebrities and politicians, Obama's financial information is hacked and posted online. Her student loan information and credit report are posted.      March 14, 2013 - Is on the cover of April's edition of Vogue. This is the second time she has appeared on the cover.      November 11, 2016 - Is on the cover of December's edition of Vogue. This is the third time she has appeared on the cover.      January 13, 2017 - Gives her final White House remarks thanking her supporters and saying, 'being your first lady has been the greatest honor of my life and I hope I've made you proud.'",
+        "date": "2020-02-11 15:17:19.059576",
+        "title": "Michelle Obama Fast Facts",
+        "url": "https://www.cnn.com/2012/12/26/us/michelle-obama---fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.14638888888888887,
+        "subjectivity": 0.3434259259259259
+    },
+    "signature": {
+        "2009": 0.025236048862366973,
+        "Her": 0.019341765645565313,
+        "Is": 0.0441630855091422,
+        "Obama": 0.031545061077958715,
+        "cover": 0.031545061077958715
+    },
+    "tone": [
+        {
+            "score": 0.588847,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.692113,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

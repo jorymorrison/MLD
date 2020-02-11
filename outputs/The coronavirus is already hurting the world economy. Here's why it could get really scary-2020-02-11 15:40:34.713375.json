@@ -1,0 +1,41 @@
+{
+    "article": {
+        "body": "London (CNN Business) Nearly two decades have passed since a coronavirus known as SARS emerged in China, killing hundreds of people and sparking panic that sent a chill through the global economy. The virus now rampaging across China could be much more damaging .      China has become an indispensable part of global business since the 2003 SARS outbreak. It's grown into the world's factory, churning out products such as the iPhone and driving demand for commodities like oil and copper. The country also boasts hundreds of millions of wealthy consumers who spend big on luxury products tourism and cars . China's economy accounted for roughly 4% of world GDP in 2003; it now makes up 16% of global output.      SARS sickened 8,098 people and killed 774 before it was contained. The new coronavirus, which originated in the central Chinese city of Wuhan, has already killed more than 900 people and infected over 40,000 across at least 25countries and territories. Chinese officials have locked down Wuhan and several other cities, but the virus continues to spread.      'The outbreak has the potential to cause severe economic and market dislocation. But the scale of the impact will ultimately be determined by how the virus spreads and evolves, which is almost impossible to predict, as well as how governments respond,' said Neil Shearing, group chief economist at Capital Economics.      Compounding the risk is the fact that the world outside China has also changed since 2003.      Globalization has encouraged companies to build supply chains that cut across national borders, making economies much more interconnected. The major central banks have used up much of the ammunition they would typically deploy to fight economic downturns since the 2008 financial crisis, and global debt levels have never been higher. Rising nationalism may make it harder to coordinate a worldwide response, if that's required.      The virus is snarling supply chains and disrupting companies.      Economists say the current level of disruption is manageable. If the number of new coronavirus cases begins to slow, and China's factories reopen soon, the result will be a fleeting hit to the Chinese economy in the first quarter and a dent in global growth. If the virus continues to spread, however, the economic damage will increase rapidly.      'They first paralyze the region of the virus outbreak,' he said. 'Then they gradually spread domestically, undermining internal trade, consumption, production and the movement of people. If the virus is still not contained, the process spreads further, including regionally and internationally by disrupting trade, supply chains and travel.'      Economists have a hard time working out the potential costs of epidemics because of their unique characteristics.      Yet diseases can be far more damaging than natural disasters such as hurricanes or a tsunami, or other unpredictable events known as 'black swans.' According to a study by the World Bank, a severe pandemic could cause economic losses equal to nearly 5% of global GDP, or more than $3 trillion. Losses from a weaker flu pandemic, such as the 2009 H1N1 virus, can still wipe 0.5% off global GDP.      'A severe pandemic would resemble a global war in its sudden, profound, and widespread impact,' the World Bank assessed in a report on pandemics from 2013. (The Wuhan coronavirus has not been declared a pandemic by the World Health Organization.)      The virus is not the driving factor behind those losses, however. Instead, it's the way consumers, businesses and governments respond to an outbreak that matters most.      People are more likely to stay home during an outbreak to avoid getting sick, preventing them from traveling, shopping and working. Doing so limits demand for consumer goods and energy. Decisions by companies and governments to close shops and idle factories, meanwhile, curtail production.      'This is continuing to grow in scope and magnitude. It could end being really, really big, and really, really serious. We can't project that now,' said William Reinsch, a senior adviser at the Center for Strategic and International Studies who spent 15 years as president of the National Foreign Trade Council.      According to Shearing, past epidemics show that China's economy is likely to take a significant hit in the first quarter. But that will quickly fade from memory if the virus is contained.      'As long as factory closures don't lead to job losses, by this time next year the level of GDP is unlikely to be very different from what it would have been without the virus,' he said.      What can be done?      China's government has moved quickly to counter the economic fallout from the coronavirus and the measures taken to contain it.      The People's Bank of China cut a key interest rate this week and injected huge amounts of cash into markets in order to help take the pressure off banks and borrowers. Officials have also announced new tax breaks and subsidies designed to help consumers.      Yet China is also more vulnerable to a crisis than it was 17 years ago when SARS broke out.      'It has much higher debt, trade tensions with a major trading partner and its growth has been steadily slowing down for a number of years, which gives a weak starting point to face such a crisis,' said Raphie Hayat, a senior economist at Dutch bank Rabobank.      Analysts at Capital Economics expect the government to announce additional measures in the coming days. If the virus keeps spreading, they believe that Beijing will have to abandon its long-running efforts to get its debt under control and pump money directly into the economy.      Central banks in neighboring countries including Sri Lanka, Malaysia, Thailand and the Philippines have cut interest rates in recent weeks. South Korea and Taiwan could be next.      Also critical is whether governments are able to coordinate their response to the outbreak, ideally with help from multinational institutions. This is especially true because, according to the World Bank, preparedness for a potential pandemic is low. But coordination may prove difficult in a increasingly fractured world where nationalism is often prized over cooperation.      'It's quite clear that multinational institutions are under more pressure, and have less teeth on day to day issues than 10 years ago,' Shearing said. 'But the optimist in me would like to think that in the face of a global pandemic, global institutions are still in a position to respond.'      Correction: An earlier version of this story misidentified Raphie Hayat's employer.",
+        "date": "2020-02-11 15:40:34.713375",
+        "title": "The coronavirus is already hurting the world economy. Here's why it could get really scary",
+        "url": "https://www.cnn.com/2020/02/08/business/coronavirus-global-economy/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.04421209675446963,
+        "subjectivity": 0.4205103700442684
+    },
+    "signature": {
+        "A": 0.017539806818292897,
+        "China": 0.016792497368585332,
+        "global": 0.010296272621069445,
+        "outbreak": 0.0100754984211512,
+        "virus": 0.0201509968423024
+    },
+    "tone": [
+        {
+            "score": 0.53593,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.502871,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.583046,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.816149,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

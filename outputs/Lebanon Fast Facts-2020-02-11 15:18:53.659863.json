@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) Here is a look at Lebanon, a Middle Eastern country bordering Syria , Israel and the Mediterranean Sea.            1918 - After the collapse of the Ottoman Empire, France gains control of the area that comprises modern-day Lebanon.      1948-1975 - A large number of Palestinian refugees settle in Lebanon after the creation of Israel in May 1948. The frequent clashes between Israeli forces and Palestinian fighters unsettle the country. Also at times, the Lebanese army fights battles against the Palestinians, causing further unrest.      July-October 1958 - US forces help to control civil unrest.      1976 - At the invitation of the Lebanese government, Syria sends troops, called the Arab Deterrent Force, to help end the civil war.      August 1982 - Bashir Gemayel is elected president. However, he is assassinated on September 14. His brother, Amin Gemayel, replaces him as president on September 23.      September 15-18, 1982 - Hundreds of Palestinian refugees are killed in a refugee camp in Beirut. The murders are committed by Lebanese militia members but Israel is accused of complicity.      April 18, 1983 - The US Embassy in Beirut is bombed, killing 63.      February 1984 - The Lebanese Army nearly collapses due to defections of Muslim and Druze soldiers.      1988 - Gemayel steps down as president, although he has no successor. He appoints General Michel Aoun, a Christian, interim prime minister. However, the current prime minister Salim al-Hoss, a Muslim, doesn't leave office. The government then becomes divided into Christian and Muslim factions.      November 1989 - Ren\u00e9 Moawad is elected president. Aoun rejects the election of Moawad and the Taif agreement. Moawad is assassinated in November and replaced by Elias Hrawi, who names Hoss prime minister and fires Aoun as army commander.      1991 - All militias, with the exception of Hezbollah, are disbanded.      1991 - Lebanon participates in the Madrid peace talks between Israel and its Arab neighbors.      May 2000 - Israel withdraws its forces from the south.      April 26, 2005 - Syria withdraws troops from Lebanon after 29 years of military intervention.      November 21, 2006 - Minister of Industry Pierre Gemayel, son of former President Amin Gemayel, is shot and killed while driving though Beirut.      June 13, 2007 - Anti-Syrian lawmaker Walid Eido, along with nine other people, is killed in an explosion. Eido was a vocal supporter of a UN investigation into Hariri's assassination and was a member of a political bloc led by Hariri's son, Saad Hariri.      November 24, 2007 - Before leaving office, Lahoud declares a state of emergency and hands security over to the military. The vacancy left by Lahoud will be filled by Prime Minister Fouad Siniora until a new president can be elected.      May 6, 2008 - The government announces plans to shut down Hezbollah's private telecommunications network, calling it a threat to state security.      May 25, 2008 - Army General Michel Sleiman is elected as the new president by parliament.      June 7, 2009 - Parliamentary elections are held. Lebanon's pro-Western block, the 'March 14' coalition, wins 71 seats, and the Hezbollah-dominated 'March 8' alliance wins 57 seats.      June 27, 2009 - Sleiman appoints Saad Hariri as the country's new prime minister.      November 9, 2009 - After five months of deliberations, Hariri announces the formation of a cabinet, comprised of members of Hariri's party and members of Hezbollah.      January 12, 2011 - Eleven Hezbollah members of Hariri's cabinet resign, causing his coalition government to collapse.      June 13, 2011 - Mikati announces the formation of a new government.      July 8, 2011 - Judge Daniel Fransen with the Special Tribunal issues arrest warrants for suspects in the assassination of Rafik Hariri.      November 29-30, 2011 - Rockets are fired from Lebanon into Israel for the first time in more than two years. Israel retaliates with artillery fire into Lebanon. No injuries are claimed on either side.      December 9-11, 2011 - A roadside bomb hits a UN vehicle in Lebanon wounding five French peacekeepers and a Lebanese civilian. Two days later, a rocket is fired from Lebanon aimed at Israel. The rocket falls short and wounds a Lebanese woman.      March 22, 2013 - Mikati announces the resignation of his government after disputes over parliamentary elections.      April 6, 2013 - Tammam Salam is designated to become the new prime minister.      November 3, 2016 - Aoun appoints Saad Hariri to be prime minister. Hariri previously served as prime minister from 2009 to 2011.      January 31, 2019 - Hariri announces that a new government has been formed after months of delays.      October 30, 2019 - Aoun asks Hariri to stay on in a caretaker role until a new government is formed. Aoun says the protests have paved the way for reforms and declares the country will have a 'clean government.'",
+        "date": "2020-02-11 15:18:53.659863",
+        "title": "Lebanon Fast Facts",
+        "url": "https://www.cnn.com/2013/09/03/world/meast/lebanon-fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.05630625987768845,
+        "subjectivity": 0.2877284752284752
+    },
+    "signature": {
+        "A": 0.021975604139284923,
+        "Hariri": 0.02840305631537207,
+        "Lebanon": 0.023669213596143397,
+        "Minister": 0.021302292236529054,
+        "minister": 0.021302292236529054
+    },
+    "tone": [
+        {
+            "score": 0.514407,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.500338,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+        }
+    ]
+}

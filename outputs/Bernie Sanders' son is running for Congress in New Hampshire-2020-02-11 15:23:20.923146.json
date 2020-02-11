@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "'This is a unique opportunity to listen to the hard working men and women of New Hampshire about the issues that matter to them,' he said.      The New Hampshire 1st District is one of the nation's most competitive open-seat races in 2018's midterms.      Unlike his father, who ran as an independent in Vermont, Sanders is running as a Democrat. He'll be the eighth Democratic candidate to enter the race.      Sanders lives in Claremont, New Hampshire, which is outside the 1st District. Members of the US House must live in the state they are running in, but are not required to live in the district. Sanders said in the statement he's worked in Massachusetts as a legal services analyst for 17 years. 'For 15 years, New Hampshire has been my family's home,' he said. Sanders' platform largely mirrors his father's. He's campaigning for a 'Medicare for all' single-payer health care system, free college tuition, an increased minimum wage, as well as 'sensible gun legislation' and solutions to the 'crisis level' opioid epidemic. Sanders' advisers had previously lined up behind state Rep. Mark MacKenzie. Maura Sullivan, a former Marine and Veterans Administration official, and Chris Pappas, a New Hampshire Executive Council member whose family co-owns the Puritan Backroom restaurant in Manchester, a well-known stop on the presidential campaign trail, are also running for the Democratic nomination. Levi Sanders isn't the only Sanders' family member seeking public office this year. Carina Driscoll, who is Bernie Sanders' stepdaughter, is running as an independent to be mayor of Burlington, Vermont, the first elected office her stepfather held.",
+        "date": "2020-02-11 15:23:20.923146",
+        "title": "Bernie Sanders' son is running for Congress in New Hampshire",
+        "url": "https://www.cnn.com/2018/02/27/politics/levi-sanders-bernie-son-congress-new-hampshire/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.09252262888626527,
+        "subjectivity": 0.42316509248327433
+    },
+    "signature": {
+        "Hampshire": 0.033180730911630645,
+        "He": 0.020344672012372403,
+        "New": 0.020344672012372403,
+        "Sanders": 0.05308916945860904,
+        "running": 0.02654458472930452
+    },
+    "tone": [
+        {
+            "score": 0.509891,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.558911,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

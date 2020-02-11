@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Shares of World Wrestling Entertainment plunged more than 15% after the sports entertainment company reported sales that missed forecasts and lowered its profit outlook. The company attributed the weaker forecast to its inability to sign a new TV deal in the Middle East.      That's mainly because of lingering worries about the company's international TV contracts. Several are due for renewal, including ones in the Middle East and India.      Investors are also waiting for WWE to provide guidance about two other recently signed international TV deals \u2014 a new partnership in the United Kingdom with BT Sport that begins in January 2020, and the extension of an existing deal with Fox Sports in Latin America. Terms have not yet been disclosed.      The company's inability to strike a deal in the Middle East is particularly troublesome, because WWE has made a concerted effort to boost its presence in that market.      In fact, several of its top wrestlers are currently in Riyadh for an event that includes a contest between Natalya and Lacey Evans. That's the first ever match between two women WWE wrestlers in Saudi Arabia. Two female WWE stars, Sasha Banks and Alexa Bliss, appeared in the ring together nearly two years ago for a live event in the United Arab Emirates \u2014 wearing outfits that were far more modest than the ones they usually sport. WWE is clearly willing to tailor its content to make it more acceptable to Middle East audiences. The question now is when WWE will find a TV partner to air more of the company's programming.",
+        "date": "2020-02-11 15:35:28.960010",
+        "title": "WWE rocked after Middle East TV deal concerns",
+        "url": "https://www.cnn.com/2019/10/31/investing/wwe-earnings-middle-east/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.12215256008359457,
+        "subjectivity": 0.3370950888192268
+    },
+    "signature": {
+        "East": 0.02704542595061215,
+        "Middle": 0.02704542595061215,
+        "TV": 0.02704542595061215,
+        "WWE": 0.04056813892591822,
+        "two": 0.02704542595061215
+    },
+    "tone": [
+        {
+            "score": 0.541786,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.545235,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.689182,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

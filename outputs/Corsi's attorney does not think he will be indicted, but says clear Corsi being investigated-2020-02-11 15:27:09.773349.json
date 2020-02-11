@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "The attorney, Larry Klayman, spoke at a federal courthouse in Washington after another client of his, Corsi's stepson Andrew Stettner, testified to the grand jury run by special counsel Robert Mueller.      Stettner's testimony was 'brief,' Klayman said. Stettner's questioning in front of the grand jury focused on what Corsi has previously outlined, Klayman said -- that investigators were interested in a direction Stettner received from Corsi to scrub a computer.      Klayman added that no documents had been deleted, and Corsi has maintained he wanted to recycle the computer rather than hide information.      Grand jury proceedings are secret -- closed to the public and even witnesses' attorneys. However, witnesses can speak about their testimony afterward, and on Thursday, Klayman spoke to reporters on Stettner's behalf.      The grand jury did not ask on Thursday morning about Roger Stone, Klayman said. Stone has long been considered a target of the special counsel's investigation into Russian interference in the 2016 presidential election. He spoke often with Corsi in 2016, including when he allegedly directed Corsi to reach out to Julian Assange about damaging Democratic emails stolen by Russian hackers. Corsi said he previously turned down a deal with the prosecutors in which he would have admitted to lying about his contact with Stone. Stone and Corsi have not been charged with any crimes. The grand jury working with Mueller's prosecutors gathered at the DC federal courthouse Thursday morning for a little more than two hours. Their meeting Thursday was an unusual departure from the normal day this grand jury assembles, which is almost always on Fridays.",
+        "date": "2020-02-11 15:27:09.773349",
+        "title": "Corsi's attorney does not think he will be indicted, but says clear Corsi being investigated",
+        "url": "https://www.cnn.com/2019/01/24/politics/jerome-corsi-mueller/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.14532903439153436,
+        "subjectivity": 0.5256283068783069
+    },
+    "signature": {
+        "Corsi": 0.05388750283392646,
+        "Grand": 0.040415627125444845,
+        "Klayman": 0.040415627125444845,
+        "Stettner": 0.03367968927120404,
+        "jury": 0.040415627125444845
+    },
+    "tone": [
+        {
+            "score": 0.581887,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.619299,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.604931,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

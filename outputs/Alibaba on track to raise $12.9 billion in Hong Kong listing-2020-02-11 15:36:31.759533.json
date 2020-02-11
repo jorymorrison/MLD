@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "'s closing price in New York, where its stock has traded since 2014. China's largest e-commerce company said it was issuing the new shares at 176 Hong Kong dollars ($22.50) each. That's equivalent to a discount of about 3% to's closing price in New York, where its stock has traded since 2014.      The price falls short of the 188 Hong Kong dollars Alibaba had set as a ceiling last week, but the transaction will still raise about $12.9 billion for the company, assuming its bankers exercise an option to buy some additional shares over the next month.      'Secondary listings are an art form, not an exact science,' said Jeffrey Halley, senior market analyst for Asia Pacific at Oanda.      Alibaba wants to make sure its Hong Kong listing generates a lot of interest, so 'they're pricing at a level where I'm 100% sure those shares are going to be a lot higher on the day,' he added.      Alibaba stopped taking orders from retail investors half a day earlier than planned, after seeing stronger-than-expected demand for the secondary listing. fell 4.8% last week as the city grappled with escalating levels of violence. So far this week, the index has gained around 2.2% despite a further escalation in violence centered around the siege of a university. The enthusiasm is a vote of confidence in the Asian financial hub, which has been rocked by months of civil unrest. Thefell 4.8% last week as the city grappled with escalating levels of violence. So far this week, the index has gained around 2.2% despite a further escalation in violence centered around the siege of a university. The company founded by billionaire entrepreneur Jack Ma raised $25 billion in an initial public offering on the New York Stock Exchange that shattered records as the largest IPO in history. In the secondary listing, eight Hong Kong shares will be equal to one of Alibaba's New York-listed shares, the company said in a US regulatory filing last week. roughly $5 billion IPO of its Asia business in Hong Kong earlier this year as well as $8.1 billion debut in New York. It could also cement the Hong Kong stock exchange's status as this year's largest venue for public offerings. The listing surpassesroughly $5 billion IPO of its Asia business in Hong Kong earlier this year as well as$8.1 billion debut in New York. It could also cement the Hong Kong stock exchange's status as this year's largest venue for public offerings. Saudi Arabia's partial privatization of its giant oil monopoly next month is expected to be the biggest in the world this year, and potentially of all time. Aramco is going public on the Riyadh stock exchange and the IPO could raise between $24 billion and $25.6 billion. The Alibaba offering is the latest sign that investors and companies have not been scared away by months of protests in Hong Kong, which recently sank into its first recession in a decade Alibaba is scheduled to list shares on November 26.",
+        "date": "2020-02-11 15:36:31.759533",
+        "title": "Alibaba on track to raise $12.9 billion in Hong Kong listing",
+        "url": "https://www.cnn.com/2019/11/20/investing/alibaba-hong-kong-shares/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.04864953886693016,
+        "subjectivity": 0.3704984628897673
+    },
+    "signature": {
+        "Alibaba": 0.02095625110208251,
+        "Hong": 0.03143437665312377,
+        "Kong": 0.03143437665312377,
+        "New": 0.014990810956484928,
+        "billion": 0.017132355378839916
+    },
+    "tone": [
+        {
+            "score": 0.626741,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.513954,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.545635,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

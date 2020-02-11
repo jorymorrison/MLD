@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "If you think it's hot now, you haven't seen anything yet. A new study predicts that parts of the world will 'smash' temperature records every year in the coming century due to climate change, 'pushing ecosystems and communities beyond their ability to cope.'      The scientists who authored the study , published in the journal Nature Climate Change on Monday, used 22 climate models to game out exactly how hot these summer temperatures would be. They determined that by the end of the 21st century, future temperature events 'will be so extreme that they will not have been experienced previously.'      Researchers conclude that high monthly mean temperature records will be set in 58% of the world every year. Developing countries and small islands will experience the greatest impact.      They predict 67% of the least developed countries and 68% of small island developing states will see the highest monthly mean temperature records.      The temperature increase is directly tied to rising global greenhouse gas emissions, the authors say.",
+        "date": "2020-02-11 15:30:30.961474",
+        "title": "Future summers will 'smash' temperature records every year",
+        "url": "https://www.cnn.com/2019/06/17/health/climate-change-summer-temperatures-study/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.03831890331890332,
+        "subjectivity": 0.4850577200577202
+    },
+    "signature": {
+        "Climate": 0.03238119522701304,
+        "every": 0.021587463484675364,
+        "hot": 0.021587463484675364,
+        "records": 0.03238119522701304,
+        "temperature": 0.053968658711688405
+    },
+    "tone": [
+        {
+            "score": 0.629862,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.713248,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+        },
+        {
+            "score": 0.712682,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

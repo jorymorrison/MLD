@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "New York (CNN Business) Gold was one of the few investments heading higher Monday as worries about the coronavirus outbreak led to a steep market slide.      Some experts wonder if gold could top $2,000 in the not-too-distant future. Gold last hit an all-time high of just above $1,900 in 2011 in the midst of the European debt crisis.      Gold and gold miners often do well during times when investors are afraid      Case in point: minerwas one of the few stocks in the S&P 500 that was trading higher Monday. In fact, gold stocks have been a good investment for some time. Theis up nearly 40% in the past year.      'There are a lot of things that could go wrong for the stock market and the economic impact of a China slowdown from the coronavirus could be felt globally,' said David Beahm, president and CEO of Blanchard & Company.      But gold had been doing well even before most people had ever heard of the coronavirus. Why?      Low rates have led to glittery returns for gold      Three interest rate cuts by the Federal Reserve last year helped to weaken the US dollar. That's made gold more attractive than the greenback and other paper currencies, especially since rates are negative in parts of Europe and Japan.      Gold isn't the only commodity that has benefited from worries about a slumping dollar and low interest rates. Silver, platinum and palladium prices have all soared as well in the past year.      This rally makes perfect sense given that interest rates are so low and the dollar is weakening. So how much exposure should a long-term investor have to precious metals in a retirement portfolio?      'A 5% to 10% allocation in gold and gold stocks makes sense,' says Ralph Aldis, a portfolio manager with US Global Investors. 'This is the nascent start of a gold rally.'      Aldis said gold should continue to climb -- and not just because average investors are growing nervous and seeking it out as a safe haven. Even big global central banks are starting to hoard gold as if they were Scrooge McDuck.      According to figures from the World Gold Council, central bank gold purchases rose 12% in the first three quarters of 2019 from the same period in 2018. Central banks added 547.5 metric tons of gold on a net basis.      Investors are nervous about a litany of factors beyond coronavirus fears, Aldis said. Loose monetary policy around the world is creating an unhealthy environment for stocks -- especially since corporate profits steadily dropped last year.      'The Fed and other central banks have been pouring money into the market. With money flow driving stocks instead of earnings, that makes people more jittery,' Aldis said.      Blanchard's Beahm added that worries about more tension in the Middle East haven't gone away either.      He noted that the broader stock market could become increasingly volatile this year due to jitters about the 2020 presidential election. Beahm argues that investors should have between 10% and 15% of their portfolio in metals.      'This year will be another one of double digit percentage growth for gold. It could hit new all-time highs and top $2,000 -- if not this year then sometime soon on the horizon,' Beahm said.",
+        "date": "2020-01-31 16:49:23.503220",
+        "title": "Gold heading to $2,000? Prices surge on global fear",
+        "url": "https://www.cnn.com/2020/01/27/investing/gold-prices-fear/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.09258148954870268,
+        "subjectivity": 0.379945164125492
+    },
+    "signature": {
+        "A": 0.01668687656903572,
+        "Gold": 0.06304338873209824,
+        "gold": 0.06304338873209824,
+        "investors": 0.016590365455815322,
+        "stocks": 0.016590365455815322
+    },
+    "tone": [
+        {
+            "score": 0.586152,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.580237,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        },
+        {
+            "score": 0.757284,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

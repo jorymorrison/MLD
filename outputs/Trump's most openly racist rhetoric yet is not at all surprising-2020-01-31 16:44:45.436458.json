@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Washington (CNN) The most shocking thing about Donald Trump's racist tweets is that possibly the most fundamentally un-American outburst of modern presidential rhetoric did not come remotely as a surprise.      The second most shocking aspect of an episode that would have rocked any other administration is that the President knows he can trade in such base tactics because he will pay no price in a Republican Party cowed by his fervent political base.      Many GOP voters and lawmakers are uncomfortable with Trump's conduct and sentiments. But most are sufficiently satisfied with the ideological direction of his presidency that they are willing to turn a blind eye to such behavior, making it a useful political weapon as he seeks to drive a rampant base turnout in 2020.      In an attack clearly aimed at four minority Democratic lawmakers -- the President did not name the 'progressives' in his tirade -- Trump underlined how his presidency has used bigotry as a lever of power and made it a fact of 21st century political life more than half a century after the peak of the Civil Rights era. His use of the nation's most revered office to make such unequivocally racist remarks emphasizes how a presidency stewing in rage, fear and identity politics lacks boundaries.      And Trump's xenophobia made it more obvious than ever that he plans to win reelection by carving a nativist schism between white, rural America and the increasingly diverse population being courted by Democrats. He said as much Monday morning , daring Democrats to align themselves with the 'very unpopular & unrepresentative Congresswomen,' saying 'it will be interesting to see how it plays out.'      But Trump risks opening divides that will take years to heal.      By telling the four women \u2014 three of whom were born in the US \u2014 to 'go back' to where they came from, Trump employed the most basic and crude racial taunt. He also implicitly rejected the motto emblazoned on America's Great Seal \u2014 E Pluribus Unum \u2014 from many one. He is implying that any American who is not white and native born has no place in the country.      In a less polarized time, Trump's tweets may have been disqualifying and an outrageous political twist. But Trump forged his entry into politics based on a racist slur against the nation's first black President Barack Obama and he has become ever more willing to use such tactics to save his own presidency. And he's rarely paid a price.      The silence from Republicans Sunday about Trump's tweets was near universal, emphasizing how his outlandish behavior is tolerated by lawmakers who represent half of the electorate and who won't risk their own political careers to condemn him.      His attack is a logical extension of an election strategy that is clearly designed to exploit racial and social divides.      At the White House, Vice President Mike Pence's chief of staff Marc Short struggled to come up with a credible defense of the President. He said Trump's choice of Transportation Secretary Elaine Chao, a naturalized American who was born in Taiwan, proved that he was not racist since she was 'an Asian woman of color.' He also highlighted Pence's role in presiding over a naturalization ceremony on July 4.      Trump targeted the liberal Democratic lawmakers in a flurry of Sunday morning tweets that reverberated with extremist white nationalistic sentiment.      He hit out at congresswomen who he claimed 'originally came from countries whose governments are a complete and total catastrophe, the worst, most corrupt and inept anywhere in the world ... now loudly and viciously telling the people of the United States, the greatest and most powerful Nation on earth, how our government is to be run.'      'Why don't they go back and help fix the totally broken and crime infested places from which they came. Then come back and show us how it is done.'      The reason why Trump's attack was not surprising is because it fits into a pattern of racially charged rhetoric that he has been willing to use in private life \u2014 dating back to his comments on the Central Park Five and the 'birtherism' campaign against Obama.      While it is shocking to see such open racism expressed by a President of the United States, Sunday's tweets were far from the first time that Trump has dealt in such toxicity in office.      The debate about whether Trump is a 'racist' that pops up after such comments seems increasingly academic.      'America's strength is and has always been rooted in our diversity. But President Trump continues to spew hateful rhetoric, sow division, and stoke racial tensions for his own political gain,' Democratic front runner Joe Biden tweeted.      New Jersey Sen. Cory Booker told CNN: 'This president is hurting our country and bigotry like he just spewed is something we need to end in this nation.'      The lesson of Trump's political career is that while his tweets will cause outrage \u2014 they will not measurably reshape the political environment in the short-term.      Trump's incessant catering to his base means he has little to fear politically from the modern Republican Party.      Media outrage at Trump's behavior will play into the persecution complex and hatred of political correctness that the President has made central to his appeal to his closest supporters. Trump's aides may start to deny the clear implications of his tweets and try to stir up new anti-media hatred in his base.      During Trump's campaign in 2016 and in the early months of his presidency, some Republican leaders offered token criticism when he veered into flagrant racial rhetoric.      But the political reality is that there is little to be gained -- and much to be lost from taking on the President directly for GOP lawmakers.      The President has only one hope of winning reelection -- thanks to the way that he has conducted his presidency. He must hope his fired up political base will show up to the polls in greater numbers than voters supporting Democrats that he is painting as extreme and bent on a communist takeover.      That's why Sunday's tweets are probably not a historical aberration but a taste of things to come.",
+        "date": "2020-01-31 16:44:45.436458",
+        "title": "Trump's most openly racist rhetoric yet is not at all surprising",
+        "url": "https://www.cnn.com/2019/07/14/politics/trump-racist-tweets-progressive-democratic-congresswomen-aoc/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.025900739680267244,
+        "subjectivity": 0.4584049152946791
+    },
+    "signature": {
+        "And": 0.019291044372589647,
+        "He": 0.022140938639184555,
+        "His": 0.034390776760615256,
+        "President": 0.01891492721833839,
+        "Trump": 0.034390776760615256
+    },
+    "tone": [
+        {
+            "score": 0.509676,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.514262,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.534332,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

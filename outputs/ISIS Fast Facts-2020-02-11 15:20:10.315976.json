@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "(CNN) Here's a look at Islamic State in Iraq and Syria (ISIS) .      ISIS aims to create an Islamic state called a caliphate across Iraq Syria and beyond.      The group implements Sharia Law, rooted in eighth-century Islam, to establish a society that mirrors the region's ancient past.      ISIS is known for killing dozens of people at a time and carrying out public executions, crucifixions and other acts.      Baghdadi was detained for several months in Camp Bucca, which was a US-run prison in southern Iraq. He was released in 2004.      June 7, 2006 - Zarqawi is killed in a US strike. Abu Ayyub al-Masri takes his place as leader of AQI.      October 2006 - Masri announces the creation of Islamic State of Iraq (ISI), and establishes Abu Omar al-Baghdadi as its leader.      April 2010 - Abu Bakr al-Baghdadi becomes leader of ISI after Abu Omar al-Baghdadi and Masri are killed in a joint US-Iraqi operation.      April 2013 - ISI declares its absorption of an al Qaeda-backed militant group in Syria, Jabhat al-Nusra, also known as the al-Nusra Front. Baghdadi says that his group will now be known as Islamic State in Iraq and the Levant (ISIL or ISIS).      February 3, 2014 - Al Qaeda renounces ties to ISIS after months of infighting between al-Nusra Front and ISIS.      July 1-2, 2016 - Attackers invade the Holey Artisan Bakery cafe in a diplomatic enclave of Dhaka, the capital of Bangladesh. Attackers invade the Holey Artisan Bakery cafe in a diplomatic enclave of Dhaka, the capital of Bangladesh. Gunmen kill 20 hostages and two police officers before authorities raid the restaurant and end the nearly 11-hour standoff. ISIS claims responsibility for the attack, but Bangladeshi officials say the attack was carried out by homegrown militants. US officials focus on ISIS as the perpetrator after photos purportedly showing the inside of the cafe and dead hostages are posted on an ISIS-affiliated website.      August 6, 2019 - The Pentagon issues a report saying that The Pentagon issues a report saying that ISIS is 're-surging' in Syria, less than five months after Trump declared the terror group's caliphate there had been 100% defeated. An accompanying message to the report, written by Glenn Fine, the principal deputy inspector general, notes that, 'The reduction of US forces has decreased the support available for Syrian partner forces at a time when their forces need more training and equipping to respond to the ISIS resurgence.'",
+        "date": "2020-02-11 15:20:10.315976",
+        "title": "ISIS Fast Facts",
+        "url": "https://www.cnn.com/2014/08/08/world/isis-fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.004999999999999997,
+        "subjectivity": 0.2772222222222222
+    },
+    "signature": {
+        "ISIS": 0.044906252361605385,
+        "Iraq": 0.022453126180802693,
+        "Islamic": 0.017962500944642155,
+        "State": 0.017962500944642155,
+        "Syria": 0.017962500944642155
+    },
+    "tone": [
+        {
+            "score": 0.708595,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

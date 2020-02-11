@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "After Golden Globes co-host Sandra Oh made a joke Sunday night about how 'Crazy Rich Asians' was 'the first studio film with an Asian American lead since 'Ghost in the Shell' and 'Aloha,'' the latter's star Emma Stone could be heard yelling from the audience 'I'm sorry!'      Stone had been accused of 'whitewashing' after she was cast to play Allison Ng, a character of Chinese and Hawaiian descent, in the 2015 film.      'It wasn't like I planned it, but I did say it,' Stone said.      Emma Stone yelling 'I'm sorry!!!' at that Aloha joke is the energy of all white people I would like in 2019 #GoldenGlobes #GoldenGlobes2019 \u2014 Joe Lamour \ud83e\udd42 (@lamour) January 7, 2019 Emma Stone screaming 'I'm sorry' should be my ringtone. #GoldenGlobeAwards \u2014 Akilah Hughes (@AkilahObviously) January 7, 2019 It's not the first time Stone has expressed remorse about the controversy. In 2015, she told an Australian publication she had become the butt of jokes because of it. 'I've learned on a macro level about the insane history of whitewashing in Hollywood and how prevalent the problem truly is,' Stone reportedly said. 'It's ignited a conversation that's very important.' So come on home Emma Stone, all is forgiven.",
+        "date": "2020-01-31 16:44:28.723335",
+        "title": "Emma Stone yelled 'I'm sorry' after Golden Globes whitewash joke and we are here for it",
+        "url": "https://www.cnn.com/2019/01/07/entertainment/emma-stone-golden-globes-sorry/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.12541015625,
+        "subjectivity": 0.48854166666666665
+    },
+    "signature": {
+        "2019": 0.025475253116986563,
+        "Emma": 0.03396700415598209,
+        "Stone": 0.06793400831196418,
+        "joke": 0.016983502077991045,
+        "sorry": 0.025475253116986563
+    },
+    "tone": [
+        {
+            "score": 0.553529,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.541728,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

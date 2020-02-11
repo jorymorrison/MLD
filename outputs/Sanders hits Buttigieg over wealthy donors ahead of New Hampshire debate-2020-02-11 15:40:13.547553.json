@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Manchester, New Hampshire (CNN) Bernie Sanders on Friday launched a series of attacks against Pete Buttigieg , suggesting that the former South Bend mayor could not, if elected, be trusted to pushback against the rich individuals and powerful interests that have donated to his campaign.      Four days out from the New Hampshire primary, and just hours away from a debate Friday night, the two appear to be on a collision course, with Sanders leading the Democratic Party's progressive line and Buttigieg, following his strong showing in Iowa , emerging as the primary's moderate champion.      'Buttigieg has received campaign contributions from over 40 billionaires, from the CEOs of the largest drug companies in this country, from fossil fuel (financiers), from Wall Street,' Sanders said in an interview with CNN. 'Do you think that when people receive money from powerful special interests that they're really going to stand up to those special interests and do what has to be done for the working class in this country? I don't think so. It doesn't work that way.'      Sanders' sharper tone comes as Buttigieg, following a strong performance in Iowa, hopes to ride his Hawkeye State momentum to victory in New Hampshire, a state the Vermont senator won by more than 20 points in 2016 and has led in recent polls. Earlier in the day, at a Politics and Eggs breakfast here, Sanders read out a variety of headlines that depicted Buttigieg as overly cozy with moneyed interests.      Buttigieg has also ramped up his previous round of attacks on Sanders. In a fundraising email Thursday, his campaign touted its post-Iowa haul before taking aim at progressive outside groups supporting Sanders.      'Bernie is still first in the polls in New Hampshire, and we're being massively outraised by his campaign,' the appeal read, before turning to Sanders' outside support. 'In January alone, his campaign raised more than $25 million, and they're being supported by NINE outside dark money groups, too.'      When asked to respond to Sanders' initial criticism, the Buttigieg campaign pointed to the former mayor's comments about campaign finance reform Thursday night on The Late Show with Stephen Colbert.      'I understand the frustration and I'm not a fan of the campaign finance system we have today. I'm also a fan of beating Donald Trump,' Buttigieg told Colbert. 'I will make exactly one promise to anybody, whether they're giving three bucks online or the maximum allowable by law, and the promise is I'm going to take that contribution and I'm going to use it to build the campaign that's going to defeat Donald Trump so that we can actually get the reforms that this country needs.'      Looking beyond New Hampshire, which like Iowa is overwhelmingly white, Sanders told CNN that he believed he was better positioned than Buttigieg to win in Nevada and South Carolina, the more diverse states that follow New Hampshire on the primary calendar.      'I think we have a real advantage. We have been running a campaign, which addresses many of the major crises facing the African American community, facing the Latino community,' Sanders said, pointing this performance in last week's caucuses as evidence of his growing appeal to minority voters. 'We did extraordinarily well (In Iowa with) Latino voters who understand that we are standing up and fighting for their rights.'      Sanders first took clear aim at Buttigieg earlier in the day, when he sought to frame the coming vote as an existential decision between his progressive vision and a faction in the party that welcomes and courts big dollar donors.      'This campaign is about which side are you on,' Sanders told the crowd, referencing the Woody Guthrie song. 'Are you on the side of the working class of this country, which has been battered for the last 45 years, are you willing to take on the greed and corruption of the billionaire class and the 1%, or will you continue to stand with the big money?'      'I like Pete Buttigieg, nice guy,' Sanders said after ticking through the list of headlines. 'But we are in a moment where billionaires control not only our economy but our political life.'      After the event, Sanders debuted a new hashtag on Twitter, #PetesBillionaires, which included screenshots of the headlines Sanders had read during his speech.      Sanders has accused Buttigieg of being bought and paid-for by big money before, notably during the controversy over the former mayor's decision to hold a fundraiser in a wine cave. Sanders addressed the issue directly with supporters and Sanders aides wore T-shirts reading 'PetesWineCave.com' to December's primary debate, but his comments on Friday signaled a belief that the two campaigns could be competing in a tier of their own in New Hampshire      This story has been updated with an interview with Bernie Sanders.",
+        "date": "2020-02-11 15:40:13.547553",
+        "title": "Sanders hits Buttigieg over wealthy donors ahead of New Hampshire debate",
+        "url": "https://www.cnn.com/2020/02/07/politics/bernie-sanders-pete-buttigieg-new-hampshire/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.1663192483844658,
+        "subjectivity": 0.410809962983876
+    },
+    "signature": {
+        "Buttigieg": 0.024392765051372035,
+        "Hampshire": 0.015522668669054933,
+        "New": 0.010877349392753562,
+        "Sanders": 0.04435048191158552,
+        "campaign": 0.024392765051372035
+    },
+    "tone": [
+        {
+            "score": 0.500644,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.580097,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

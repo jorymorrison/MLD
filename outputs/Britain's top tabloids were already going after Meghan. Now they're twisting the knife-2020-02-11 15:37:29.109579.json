@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "London (CNN Business) Top-selling British tabloids The Sun and The Daily Mail are focusing their fire on Meghan, Duchess of Sussex, over the extraordinary rift that has split the Royal Family and raised huge questions about the future for her and Prince Harry.      Friday's headlines fit with a pattern of negative coverage she has endured in the British press for many months for everything from her family background to alleged 'demanding' behavior.      The Sun, which has criticized Meghan over issues ranging from holding her son's baptism in private to guest editing an edition of British Vogue, has placed the spotlight largely on the Duchess since the couple stunned the world earlier this week with the announcement that they would be stepping back from their roles as senior royals.      On Thursday, as the news broke, The Sun dubbed the move in huge font 'Megxit.' On Friday, the tabloid focused on Meghan's return to Canada to reportedly rejoin their 7-month old son Archie, splashing its front page with 'Meg's Mugged Us Orf' using a British colloquialism meaning to be ripped off, and making an apparent reference to the posh accent of the nobility.      'The couple are under pressure to give up their royal titles to stop them cashing in on their status,' the Sun's royal correspondents wrote.      Inside the paper, Sun royal photographer Arthur Edwards wrote in an op-ed: 'Ever since he fell in love with Meghan, Prince Harry has gone from Superman to the Joker.'      The sub-headline read: 'She flies back to rejoin Archie... leaving Harry to face crisis talks with Queen.'      On the very next page: a glowing spread about Catherine, the Duchess of Cambridge, who was reported to have done her work 'without complaint as a key member of 'The Firm',' as the Royal Family is sometimes described.      Other newspapers focused on the Queen or the couple. The Daily Mirror splashed 'Queen fights to save monarchy' on its front page and the Times went with 'Charles threatens to halt Harry and Meghan's cash.'      Some chose to focus on Prince Harry himself. 'Harry up and go,' splashed the Metro paper next to a photo of the Queen. The Daily Star took aim with 'Petulant Prince: Naff orf Harry.'      The couple's difficult relationship with the British press has already lead to unusually emotional statements from Prince Harry and in two cases, lawsuits.      But though the couple want to step back from their royal duties, and withdraw from the press pool that provides regular access for many of these tabloids, the attention is unlikely to stop anytime soon.      In fact by taking such a drastic move, some experts say it will be open season on the couple.      David Yelland, a former editor of the Sun from 1998 to 2003 who now runs communications agency Kitchen Table Partners, said the two are a far bigger story now than they were just a week ago.      'There is a risk that this becomes a bigger magnifying glass and makes things worse,' he told CNN Business on Thursday. 'What they do from now on, how they manage themselves is the key.'",
+        "date": "2020-02-11 15:37:29.109579",
+        "title": "Britain's top tabloids were already going after Meghan. Now they're twisting the knife",
+        "url": "https://www.cnn.com/2020/01/10/media/tabloids-meghan-harry-headlines/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.024377705627705634,
+        "subjectivity": 0.36546578421578424
+    },
+    "signature": {
+        "Harry": 0.024027425832560123,
+        "On": 0.01726228610589902,
+        "Royal": 0.02059493642790868,
+        "Sun": 0.02059493642790868,
+        "royal": 0.02059493642790868
+    },
+    "tone": [
+        {
+            "score": 0.640668,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.570575,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

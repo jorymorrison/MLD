@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Confirmation of a break comes hours before an ITV documentary filmed during the couple's recent South Africa tour is broadcast in the UK. In footage released before its broadcast, Harry described the idea of relocating to Africa as 'amazing' but admitted it was unlikely.      'I don't know where we could live in Africa at the moment,' Harry told reporter Tom Bradby in the short snippet of the documentary. 'We've just come from Cape Town, that would be an amazing place for us to be able to base ourselves, of course it would.      'But with all the problems that are going on there I just don't see how we would be able to really make as much difference as we want to without the issues and the judgment of how we would be with those surroundings,' he continued.      A royal source told CNN there were no firm plans yet and so could not confirm the length of time the couple would take away from the public eye.      The pair will take some 'family time' off towards the end of the year, from around mid-November once they have completed their current run of engagements and commitments, the source said. It's likely they will divide their time between the US and the UK, the source added. The Duke and Duchess of Sussex were recently on a 10-day tour of Africa. In another clip from the documentary, Meghan talks about the issues she's grappled with as a new mother , and duchess, whose life has been judged and dissected by the media and public since she first began dating Prince Harry. Holding back tears, Meghan thanks Bradby for asking about the impact the pressure has had on her mental and physical health. 'Thank you for asking. Not many people have asked if I'm OK, but it's a very real thing to be going through behind the scenes,' she said. The couple has been under intense scrutiny of late. Meghan is suing British newspaper Mail on Sunday for publishing a selectively edited version version of a private letter Meghan sent to her father. The newspaper's publishers have said Meghan's father only wanted parts of the letter released. Separately, Harry is also suing the owners of UK tabloid newspapers the Sun and the Daily Mirror for allegedly hacking his phone. In the documentary, 'Harry & Meghan: An African Journey,' Harry also says every camera flash takes him 'straight back' to the death of his mother, Princess Diana, who died in 1997 when her car crashed as it was being chased by a paparazzo on a motorbike. When asked if he feels at peace yet about the death of Diana 22 years ago, the duke -- who was 12 years old at the time -- admitted that his grief was still a 'wound that festers.'",
+        "date": "2020-02-11 15:34:25.011431",
+        "title": "Harry and Meghan to take 'family time' off, says royal source",
+        "url": "https://www.cnn.com/2019/10/20/uk/meghan-harry-break-gbr-intl-scli/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.03331923890063427,
+        "subjectivity": 0.3599783549783549
+    },
+    "signature": {
+        "A": 0.014623358239661292,
+        "Africa": 0.015120333073654471,
+        "Harry": 0.01890041634206809,
+        "Meghan": 0.022680499610481707,
+        "documentary": 0.015120333073654471
+    },
+    "tone": [
+        {
+            "score": 0.60658,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.556719,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

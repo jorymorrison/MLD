@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Britain's Queen Elizabeth II has lost the last descendant of her original corgi after 14-year-old Willow was put down at Windsor Castle on Sunday following a battle with cancer, according to UK media reports.      Willow was the last in a long line of royal corgis owned by Britain's longest-serving monarch, reported British newspaper the Daily Mail.      Buckingham Palace declined to comment on the dog's death, telling CNN it was a private matter.      The Queen's fondness for corgis is well known, with Willow and the monarch even appearing beside James Bond actor Daniel Craig for a sketch shown during the 2012 London Olympic opening ceremony.      While the Queen still reportedly owns several other dogs, Willow was the only remaining descendant of Susan, the original corgi given to then-Princess Elizabeth on her 18th birthday in 1944.      She received Susan as a gift after becoming attached to her father King George VI's corgi called Dookie, the Daily Mail reported. Since then, she has owned dozens of the breed, known for its distinctive short legs and standing-up ears. Such was Queen Elilzabeth's attachment to Susan, she reportedly took the dog on honeymoon with Prince Philip in 1947. The royal couple have also owned 'dorgies' -- a cross between a dachshund and a corgi. Queen Elizabeth II with her corgis in 1969. More recently, Prince Harry's fianc\u00e9e Meghan Markle appeared to have won over the beloved canines. Related: Royal wedding 2018: What we know so far 'I spent the last 33 years being barked at. This one walks in and absolutely nothing, just wagging tails,' the Queen's grandson said in a BBC interview in November, gesturing to Meghan. 'They're just laying on my feet during tea,' Meghan replied, laughing with the prince.",
+        "date": "2020-02-11 15:23:59.928858",
+        "title": "Last in Queen Elizabeth II's line of corgis dies, says British press",
+        "url": "https://www.cnn.com/2018/04/18/europe/queen-last-corgi-dead-intl/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.0872863247863248,
+        "subjectivity": 0.38611111111111107
+    },
+    "signature": {
+        "Elizabeth": 0.01822128273791242,
+        "Queen": 0.03644256547582484,
+        "Willow": 0.024295043650549897,
+        "corgi": 0.024295043650549897,
+        "royal": 0.01822128273791242
+    },
+    "tone": [
+        {
+            "score": 0.631104,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.522808,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.577609,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

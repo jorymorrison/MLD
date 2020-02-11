@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "The Vermont lawmaker was nominated with actor Mark Ruffalo for their spoken word album 'Our Revolution: A Future to Believe In.' Others nominated in the category include late actress Carrie Fisher for 'The Princess Diarist;' Shelly Peiken for 'Confessions of a Serial Songwriter;' Bruce Springsteen for 'Born To Run;' and Neil Degrasse Tyson for 'Astrophysics For People In A Hurry.'      Sanders' office did not immediately respond to CNN's request for comment.      Ruffalo tweeted out congratulations to the senator. 'Honored to be a part of your wonderfully human #OurRevolution Book,' he wrote.      Congratulations @SenSanders for your #GRAMMYs nomination! Honored to be a part of your wonderfully human #OurRevolution Book. https://t.co/ERRClpO0OY \u2014 Mark Ruffalo (@MarkRuffalo) November 28, 2017 The awards show takes place on January 28. Until then, here's a look at other politicians who have scored nods and wins in this category. As CNN reported last year , Carter won his second Grammy Award in 2016 for the audio book version of his memoir, 'A Full Life: Reflections at Ninety.' Carter was previously crowned in the Best Spoken Word Album category. In 2007, his reading of 'Our Endangered Values: America's Moral Crisis' won him dual honors alongside Ossie Davis and Ruby Dee. In 2005, Clinton won his second Grammy for the audiobook for his best-selling memoir 'My Life.' The previous year, he took home the statuette in Best Spoken Word Album for Children for 'Wolf Tracks and Peter and the Wolf.' Bernie Sanders is nominated for a Grammy in the spoken word category. Some past winners: pic.twitter.com/3LYwIhguWN \u2014 Josh Billinson (@jbillinson) November 28, 2017 Obama is also a two-time winner, bringing home the award in 2005 for his book, 'Dreams From My Father,' published a decade earlier. Two years later, the former Illinois senator won for 'The Audacity Of Hope: Thoughts On Reclaiming The American Dream.' Former First Lady, Senator, Secretary of State and Democratic presidential nominee Hillary Clinton While she was First Lady, Clinton won a Grammy in 1997 for her audiobook of 'It Takes a Village.' Beau Bridges, Blair Underwood and Cynthia Nixon won in 2009 for their reading of Gore's book 'An Inconvenient Truth.' The former vice president won a Best Documentary Oscar for the documentary of the same name in 2007, which was also the year he won the Nobel Peace Prize. The Minnesota Democrat -- who has recently come under fire for sexual harassment allegations -- was honored in 2004 for his book 'Lies And The Lying Liars Who Tell Them: A Fair And Balanced Look At The Right.' The book predates Franken's time as a lawmaker. The 'Saturday Night Live' alum also took home Best Comedy Album in 1997. As Rolling Stone noted in an article about Grammy recipients in 2015 , 'nothing excites Grammy voters quite like senators talking.' The late senator, who was an Illinois Republican, won a Best Spoken Word Grammy in 1968 -- the year before he died -- for 'Gallant Men: Stories of American Adventure.' Not all politicians win, of course. Both John F. Kennedy and Richard Nixon were nominated, in 1964 and 1978, respectively, but neither won.",
+        "date": "2020-02-11 15:22:59.504746",
+        "title": "Bernie Sanders and other Grammy-nominated politicians",
+        "url": "https://www.cnn.com/2017/11/28/politics/grammys-spoken-word-bernie-sanders/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.16659361471861472,
+        "subjectivity": 0.27151785714285714
+    },
+    "signature": {
+        "A": 0.021409951523087115,
+        "Book": 0.024212965800379124,
+        "For": 0.02943868334424478,
+        "Grammy": 0.024212965800379124,
+        "Of": 0.04150794137207849
+    },
+    "tone": [
+        {
+            "score": 0.715278,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}
