@@ -25,8 +25,16 @@ for w in range(len(contents)):
             continue
         else:
             test=[]
-            for y in range(len(contents[w]['tone'])):
-                for z in range(len(contents[x]['tone'])):
-                        if contents[w]['tone'][y]['tone_id']==contents[x]['tone'][z]['tone_id']:
-                                outputs.append(chisquare([contents[w]['tone'][y]['score'], contents[x]['tone'][z]['score']]))
+            count=0
+            for c in list(contents[w][signature].keys()):
+                for d in list(contents[x][signature].keys()):
+                    if c==d:
+                        count++
+                    else:
+                        continue
+                    if count>=3:
+                        for y in range(len(contents[w]['tone'])):
+                            for z in range(len(contents[x]['tone'])):
+                                    if contents[w]['tone'][y]['tone_id']==contents[x]['tone'][z]['tone_id']:
+                                            outputs.append(chisquare([contents[w]['tone'][y]['score'], contents[x]['tone'][z]['score']]))
 print(outputs)
