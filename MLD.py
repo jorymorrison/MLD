@@ -3,7 +3,8 @@ import urllib
 from textblob import TextBlob
 from goose3 import Goose
 from goose3.configuration import Configuration
-from watson_developer_cloud import ToneAnalyzerV3, WatsonApiException
+from ibm_watson import ToneAnalyzerV3, ApiException
+from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 import nltk
 import ssl	
 
@@ -110,15 +111,13 @@ except IOError as er:
 #
 #
 #
-
-
+print(keys[1])
+authenticator = IAMAuthenticator(keys[1])
 tone_analyzer = ToneAnalyzerV3(
    version='2017-09-21',
-   url='https://gateway.watsonplatform.net/tone-analyzer/api',
-   username=keys[0],
-   password=keys[1]
+   authenticator=authenticator
 )
-
+tone_analyzer.set_service_url(keys[0])
 
 
 try:
@@ -211,10 +210,9 @@ sentiment.update({'subjectivity' : TextBlob(doc).subjectivity})
 
 
 try:
-    content_type = 'application/json'
     #logOutput = json.dumps(tone_analyzer.tone({"text": doc}, content_type, False), indent=4)[1:-2] + ",\n"
-    logOutput = tone_analyzer.tone({"text": doc}, content_type, True)['document_tone']['tones']
-except WatsonApiException as er:
+    logOutput = tone_analyzer.tone({"text": doc}).get_result()['document_tone']['tones']
+except ApiException as er:
     sys.stderr.write("\rFailed to retrieve document tone.\n Status code " + str(er.code) + ": " + er.message)
     exit()
 sys.stdout.write("\rSuccessfully retrieved document tone.\n")
