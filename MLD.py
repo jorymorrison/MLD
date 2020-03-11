@@ -30,6 +30,8 @@ def fileContents(name):
     return open(name, "r").read()
 
 def astrip(doc):
+    doc = (doc.encode('ascii', 'ignore')).decode("utf-8")
+    doc=doc.lower()
     re.sub('(\s+)(a|an|and|the|of|to|in|is|you|that|it|he|was|for|on|are|as|with|his|they|i|at|be|this|have|from|or|one|had|by|word|but|not|what|all|were|we|when|your|can|said|there|use|each|which|she|do|how|their|if)(\s+)', '\1\3', doc)
     #currently doing top 50 words used in english language according to 'https://www.empire-skola.sk/data/USR_042_IMAGES/The_100_Most_Common_Written_Words_in_English.pdf'
 def tf(word, blob):
