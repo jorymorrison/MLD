@@ -143,3 +143,8 @@ this will output into a new json in the main folder
 ]
 ```
 
+#Research: 
+###Purpose:
+This project is bieng used to conduct research using basic tone analysis techniques (lexical signature, tone, and sentiment) to find a detectable difference between two source. 
+###Methods:
+This project will crawl a site to gather a collection of pages then parse those pages for their body text and break them into core literary components of tone, lexical signature (frequency of specific words usage) , and sentiment. This information will then be compared to other sites for observing similarities between between sites to see if there is a noticable difference between sites.
