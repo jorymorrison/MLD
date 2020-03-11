@@ -4,7 +4,7 @@ from textblob import TextBlob
 from goose3 import Goose
 from goose3.configuration import Configuration
 from ibm_watson import ToneAnalyzerV3, ApiException
-from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
+from ibm_cloud_sdk_core.authenticators import BasicAuthenticator
 import nltk
 import ssl	
 
@@ -57,7 +57,8 @@ try:
     sys.stdout.flush()
     file = open ("config.conf", "r")
     keys = file.readlines()
-    keys = [keys[0][12:].split("\n")[0], keys[1][12:]]
+    keys = [keys[0][12:].split("\n")[0], keys[1][12:].split("\n")[0]]
+    print(keys)
     sys.stdout.write(bcolors.ENDC + "\rSuccessfully found configuration file 'config.conf'.\n")
     sys.stdout.flush()
 
@@ -94,7 +95,7 @@ except IOError as er:
         keys = [os.environ["WATSON_USER"], os.environ["WATSON_PASS"]]
         sys.stdout.write(bcolors.ENDC + "\rSuccessfully retrieved environmental variables.\n")
         sys.stdout.flush()
-        if keys[0] == "" or keys[1] == "":
+        if keys[0] == '' or keys[1] == '':
             sys.stderr.write(bcolors.WARNING + "WARNING: environmental variables missing values!\n")
 
     except KeyError as er:
@@ -103,7 +104,7 @@ except IOError as er:
         sys.stdout.write(bcolors.ENDC + "Generating config file 'config.conf'...")
         sys.stdout.flush()
         file = open("config.conf", "w")
-        file.write("watson_user=\nwatson_pass=")
+        file.write("watson_user=''\nwatson_pass=''")
         sys.stdout.write(bcolors.ENDC + "\rSuccessfully generated configuration file 'config.conf'.\n")
         sys.stdout.write(bcolors.FAIL + "Please access the config or evironment variables:\nWATSON_USER\nWATSON_PASS\n\nSet them using values of your Watson API username and password.\nExiting program...\n" + bcolors.ENDC)
         sys.stdout.flush()
@@ -111,13 +112,14 @@ except IOError as er:
 #
 #
 #
-print(keys[1])
-authenticator = IAMAuthenticator(keys[1])
+for key in keys:
+	#print(type(key))
+authenticator = BasicAuthenticator('apikey',keys[1])
 tone_analyzer = ToneAnalyzerV3(
    version='2017-09-21',
    authenticator=authenticator
 )
-tone_analyzer.set_service_url(keys[0])
+tone_analyzer.set_service_url('https://api.us-south.tone-analyzer.watson.cloud.ibm.com/instances/c556e4af-30a2-4acb-a342-0da1419f9b59')
 
 
 try:
@@ -211,7 +213,8 @@ sentiment.update({'subjectivity' : TextBlob(doc).subjectivity})
 
 try:
     #logOutput = json.dumps(tone_analyzer.tone({"text": doc}, content_type, False), indent=4)[1:-2] + ",\n"
-    logOutput = tone_analyzer.tone({"text": doc}).get_result()['document_tone']['tones']
+    logOutput = tone_analysis = tone_analyzer.tone({'text': doc}, content_type='text/plain').get_result()
+    #print(logOutput)
 except ApiException as er:
     sys.stderr.write("\rFailed to retrieve document tone.\n Status code " + str(er.code) + ": " + er.message)
     exit()
