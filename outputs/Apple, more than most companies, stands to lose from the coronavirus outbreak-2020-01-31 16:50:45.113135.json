@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "New York (CNN Business) Dozens of American companies are scrambling to combat the spread of coronavirus and stem losses from the outbreak.      But, perhaps, stands to lose more than others: It relies heavily on manufacturing in China and on Chinese consumers as a key revenue driver. Although many analysts think it's too early to tell just how hard Apple might be hit by the disease, any major or extended disruption could hammer its production and sales in one blow.      Apple had been looking forward to a turnaround in China. Last year, slumping demand hit sales numbers, and trade tensions caused uncertainty for its supply chain. But in the three months ending in December, sales in the region returned to growth, thanks in large part to the popularity of the iPhone 11.      Now, fears about the spread of coronavirus may dash hopes of sustained improvement in the region \u2014 at least so long as the outbreak continues \u2014 putting a damper on an otherwise successful earnings report      'The return to growth in China is very impressive,' D.A. Davidson senior analyst Tom Forte said. 'Were it not for the coronavirus, the sustainability of (the performance in China) would not be called into question ... (It) is an important risk that investors need to monitor.'      All things considered, that guidance is pretty strong, said Synovus Trust Company senior portfolio manager Dan Morgan.      'If Apple was overly concerned about it, they might have given us more of an indication in their guidance,' Morgan said.      Some retailers, including Starbucks and Pizza Hut, announced that they plan to suspend store operations even beyond the end of the holiday, and some airlines are offering refunds to people who cancel their travels.      CEO Tim Cook said on a call with Wall Street analysts Tuesday that Apple has closed one retail store and shortened hours at some of the others that remain open. He added that the company is regularly deep cleaning stores that remain open, and is conducting temperature checks on employees to avoid the spread of the virus.      'We're also working very closely with our team and our partners in the affected areas, and we have limited travel to business-critical situations as of last week,' Cook said. 'The situation is emerging and we're still gathering lots of data points and monitoring it very closely.'      Cook said that while the sales at the Wuhan area store are relatively small, store closures at other Apple retailers and a general decline in retail traffic across the country could negatively impact sales. Sales in China make up about 15% of Apple's total revenue.      Apple has some suppliers in Wuhan, which is known as a manufacturing hub, and Cook said Chinese officials have delayed the opening of factories in that area from the end of January to February 10.      The company aimed to factor the risk of lost production at those facilities into its guidance for the current quarter, and has developed a mitigation plan based on alternate sources, Cook said Tuesday. However, he said the impact of the disease on production facilities in other areas of the country is 'less clear at this time.'      Foxconn, one of Apple's main manufacturing partners in the region, especially for the iPhone, said in a statement Wednesday that it is following 'holiday schedules,' indicating it does not plan to keep factories closed beyond what is currently required by Chinese officials.      'As a matter of policy and for reasons of commercial sensitivity, we do not comment on our specific production practices but we can confirm that we have measures in place to ensure that we can continue to meet all global manufacturing obligations,' the company said. It added that having previously handled the SARS out break in the early 2000s, the company understands how to mitigate the effects of such an outbreak.      That's likely a good sign for Apple, at least for now, Synovus' Morgan said.      'With the SARS events a few years ago, everyone got all upset but it didn't really do too much,' Morgan said. 'They have a whole chip and hardware ecosystem (in the region), so if you start to see that having problems, that will be an indication that Apple could have an issue. If they do, then, yeah, maybe there's some risk going into the second quarter for Apple.'",
+        "date": "2020-01-31 16:50:45.113135",
+        "title": "Apple, more than most companies, stands to lose from the coronavirus outbreak",
+        "url": "https://www.cnn.com/2020/01/30/tech/apple-coronavirus-response/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.07404460293804557,
+        "subjectivity": 0.3796607763820879
+    },
+    "signature": {
+        "Apple": 0.027185316084839456,
+        "China": 0.012356961856745206,
+        "Company": 0.012356961856745206,
+        "Some": 0.012356961856745206,
+        "That": 0.016253106302784925
+    },
+    "tone": [
+        {
+            "score": 0.515887,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.544371,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.729983,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

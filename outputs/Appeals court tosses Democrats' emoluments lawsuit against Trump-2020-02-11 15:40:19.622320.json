@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "The ruling is a major triumph for the President, who's intensely sought to keep his business affairs in private, just days after the Republican-held Senate voted to acquit him on impeachment charges for abuse of power and obstruction of Congress. The case's dismissal effectively kneecaps one of several attempts Democrats have made to dig up more information about Trump's business holdings.      This emoluments case was one of three ongoing constitutional challenges to Trump and his business, alleging that the President is violating the anti-corruption emoluments clause. Two other emoluments cases attack Trump for his alleged competitive advantage at the Trump-branded real estate empire. Those cases are still moving through the court system.      The three-judge panel -- Judges Karen Henderson, David Tatel and Thomas Griffith -- was in unanimous agreement, saying the Democratic lawmakers lack the standing to challenge the President, the US Court of Appeals for the District of Columbia Circuit ruled.      The Democrats' 'claim is based entirely on the loss of political power,' the appellate panel wrote in the opinion. 'Our conclusion is straightforward because the Members -- 29 Senators and 186 Members of the House of Representatives -- do not constitute a majority of either body and are, therefore, powerless to approve or deny the President's acceptance of foreign emoluments.' Trump described Friday's decision 'a total win' as he spoke to reporters at the White House. 'It was another phony case and we won it 3 to nothing,' Trump added. The challenge to Trump centered around benefits that his companies appear to receive from foreign governments while he is in office -- like governments' hotel bookings and regulation approvals abroad. The Emoluments Clause of the Constitution, which has faced few judicial interpretations since it was written almost 250 years ago, says 'no person holding any office ... shall, without the consent of Congress' accept gifts or other benefits from foreign states. The Democratic subpoenas in this lawsuit sought the President's companies' tax returns and other financial information about Trump's business assets. The Democrats also requested information about three Trump buildings in New York, the Trump International Hotel in Washington, DC, a San Francisco building, and the President's Palm Beach club Mar-a-Lago. But they never obtained the information through the lawsuit, because the Circuit Court stepped in first to hear the case. The Democrats originally filed the lawsuit in 2017, before the party held power in the House of Representatives. 'The Members can, and likely will, continue to use their weighty voices to make their case to the American people, their colleagues in the Congress and the President himself, all of whom are free to engage that argument as they see fit,' the ruling states. 'But we will not -- indeed we cannot -- participate in this debate. The Constitution permits the Judiciary to speak only in the context of an Article III case or controversy and this lawsuit presents neither.' The DC Circuit's ruling could face additional appeals, including to the Supreme Court. House Judiciary Chairman Jerry Nadler says the House is still considering its options. 'It's a very unfortunate ruling,' Nadler said. 'We'll have to consider options such as whether we should appeal it or not.' Asked if the full House could vote in order to rebut the ruling that individual members don't have standing to file the suit, Nadler said, 'We'll have to consider that.' This story has been updated to include Trump's reaction and additional information.",
+        "date": "2020-02-11 15:40:19.622320",
+        "title": "Appeals court tosses Democrats' emoluments lawsuit against Trump",
+        "url": "https://www.cnn.com/2020/02/07/politics/emoluments-lawsuit-trump/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.06802398989898989,
+        "subjectivity": 0.4309132996632997
+    },
+    "signature": {
+        "House": 0.01859957926534313,
+        "President": 0.02169950914290032,
+        "Trump": 0.030999298775571886,
+        "emoluments": 0.015499649387785943,
+        "ruling": 0.015499649387785943
+    },
+    "tone": [
+        {
+            "score": 0.51035,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.583733,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.702222,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

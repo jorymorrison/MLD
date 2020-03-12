@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Uygur -- who had already backed Sanders' bid for president -- has built a following around his popular progressive talk show 'The Young Turks,' which started as radio program before becoming a well-watched YouTube channel. But Uygur's long media history comes with a significant amount of controversy, given a host of statements he has made over the years.      Sanders lauded Uygur's career as a progressive journalist and activist and argued he would help a Sanders administration pass his ambitious agenda in Congress.      'I'm endorsing Cenk because I know he will serve ordinary people, not powerful special interests. He is a voice that we desperately need in Congress and will be a great representative for CA-25 and the country,' Sanders said in a news release from Uygur's campaign.      Uygur's rise, which has turned his media outlet into a vast network of radio and television shows focused on progressive politics and causes, has not come without controversy. Dozens of problematic statements and videos have been unearthed from his past, including many unearthed by The Wrap      As he launched his bid for Congress, Uygur disavowed some of those past comments, saying his views have changed. He told CNN's Chris Cuomo last month that he had deleted past insensitive posts about women because they don't reflect who he is years later.      'I deleted it 15 years ago not because I got caught, or because I thought somebody was going to find it, I deleted it because I didn't believe it anymore. ... This is not me. I was trying to be a stupid, politically incorrect Republican. So I wrote these things I knew were offensive,' he said, adding that he had always fought for women and minorities on his show.      CNN has reached out to Uygur's campaign for comment on this story.      On Friday, Uygur said in a statement that he will no longer accept endorsements.      'I can't tell you how much I appreciate the endorsements of Bernie Sanders, Ro Khanna, Nina Turner and local progressive groups that gave me their support. Their stance took real courage in the face of the corporate media and Democratic establishment onslaught,' Uygur said.      'I want to be free of any influence other than the voters of CA-25. I will not be beholden to corporations, lobbyists, or special interest groups and I will not stand by while those groups attack my political allies. That's why I have decided that I will not be accepting any endorsements. My job is to represent the voters and the voters alone. The only endorsements I'll be accepting going forward is that of the voters of CA-25.'      Uygur was forced out from the group Justice Democrats in 2017 after old blog posts were unearthed in which he objectified women.      'Obviously, the genes of women are flawed,' Uygur wrote in a 1999 post, according to a blog found by The Wrap. 'They are poorly designed creatures who do not want to have sex nearly as often as needed for the human race to get along peaceably and fruitfully.'      The media figure's litany of controversial statements also includes a 2013 comment in which he argued bestiality should be legal in some cases.      During past episodes of his 'Young Turks' program, Uygur has also made demeaning comments about the sex lives of lesbians and invited former Ku Klux Klan leader David Duke for a segment about his anti-Semitic view of Judaism.      While Uygur has disavowed some of these remarks, Sanders' endorsement is not sitting well with some of the Vermont independent's supporters in California.      'I am a former member of the military, I am mixed-race black and brown, I am a member of the LGBTQ community and our party should never, ever, tolerate racist or homophobic comments of any kind, period,' said Will Rodriguez-Kennedy, the head of the California Young Democrats, a group that has endorsed Sanders.      Rodriguez-Kennedy's group has endorsed Assemblywoman Christy Smith, one of Uygur's opponents in the race. He said that while they are disappointed in Sanders' decision, it will not lead them to withdraw their support for his campaign, but they hope he will consider pulling the endorsement back.      The Sanders campaign chose not to comment on Uygur's past, instead referring to the prepared statement.",
+        "date": "2020-02-11 15:36:43.944635",
+        "title": "Sanders endorses controversial candidate in California congressional race",
+        "url": "https://www.cnn.com/2019/12/13/politics/bernie-sanders-endorse-cenk-uygur/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.017600373482726424,
+        "subjectivity": 0.43368347338935564
+    },
+    "signature": {
+        "He": 0.022983520683433258,
+        "I": 0.011875547099402304,
+        "Sanders": 0.022490704634661778,
+        "Uygur": 0.037484507724436296,
+        "Will": 0.022490704634661778
+    },
+    "tone": [
+        {
+            "score": 0.544157,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.681476,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        },
+        {
+            "score": 0.668196,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

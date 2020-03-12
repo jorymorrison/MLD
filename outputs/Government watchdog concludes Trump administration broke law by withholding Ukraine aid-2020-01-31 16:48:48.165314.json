@@ -1,0 +1,41 @@
+{
+    "article": {
+        "body": "(CNN) The Government Accountability Office said the Trump administration broke the law when it withheld US security aid to Ukraine last year that had been appropriated by Congress, a decision that's at the heart of the House's impeachment case against President Donald Trump.      The GAO, a nonpartisan congressional watchdog, said in a decision issued Thursday that the White House budget office violated the Impoundment Control Act, a 1974 law that limits the White House from withholding funds that Congress has appropriated.      The Office of Management and Budget told the GAO it 'withheld the funds to ensure that they were not spent 'in a manner that could conflict with the President's foreign policy,'' said Thomas Armstrong, the GAO's general counsel. But the GAO rejected that argument.      'Faithful execution of the law does not permit the President to substitute his own policy priorities for those that Congress has enacted into law,' the GAO wrote. 'OMB withheld funds for a policy reason, which is not permitted under the Impoundment Control Act. The withholding was not a programmatic delay. Therefore, we conclude that OMB violated the ICA.'      The decision will add fuel to the Democratic allegations that Trump's conduct ran afoul of the law when the his administration withheld $400 million in security aid to Ukraine while the President and his team pushed Ukraine to open an investigation into the President's political rivals.      The GAO decision comes as the President's Senate impeachment trial is set to begin on Thursday, with Senate Democrats pushing for Republicans to allow additional witnesses and documents to be considered during the trial.      'This bombshell legal opinion from the independent Government Accountability Office demonstrates, without a doubt, that the Trump Administration illegally withheld security assistance from Ukraine. The publicly available evidence also shows that the President himself ordered this illegal act,' Sen. Chris Van Hollen, a Maryland Democrat, said in a statement. 'The GAO's independent findings reinforce the need for the Senate to obtain all relevant documents and hear from key fact witnesses in order to have a fair trial.'      OMB spokeswoman Rachel Semmel said the budget office disagrees with the GAO's decision.      'OMB uses its apportionment authority to ensure taxpayer dollars are properly spent consistent with the President's priorities and with the law,' Semmel said.      But Democrats seized on the decision, arguing it was both a clear sign the President violated the law and that the Senate needed to hear new information about Trump's dealings in Ukraine.      House Speaker Nancy Pelosi said the GAO report 'confirmed that the President's actions at the center of our impeachment articles, withholding congressionally approved military aid from Ukraine, was illegal.'      'This reinforces again the need for documents and eyewitnesses in the Senate,' she said. 'You see this more and more and more in all of this, this tangled web to deceive that the administration is engaged in.'      Sen. Chris Van Hollen, the Maryland Democrat who sought the Government Accountability Office report on the White House violating the Impoundment Control Act, said he thought the GAO's decision would become a significant part of the House's impeachment case that's presented in the Senate.      During the House impeachment inquiry, the Impoundment Control Act was not a focus, and it didn't wind up in the two articles of impeachment, but Van Hollen said now that a non-partisan watchdog has weighed in, it should take on added importance.      'I think the House will now make that a big part of the argument,' he told reporters. 'I think how that we have an independent, non-partisan legal determination from GAO, it conclusively demonstrates that the administration violated the law. And we know from other evidence that they violated the law at the direct command of the President.'      Sen. Pat Leahy of Vermont, the top Senate Democratic appropriator, said the GAO decision was 'damning.'      'I've been here since the time of President Ford, I have never, ever seen a report like this objecting so strongly to actions of the President,' he said.      And House Appropriations Chair Nita Lowey of New York said that after the watchdog ruling, 'I feel even more strongly that the House has chosen the right course by impeaching President Trump.'      The hold on the aid was extended nine times until a decision on September 11 to release it, which came as Congress was ramping up investigations for the delay and after a whistleblower report had been filed alleging that the aid was being withheld by the President as he sought for Ukraine to investigate former Vice President Joe Biden and his son Hunter, even though there's no evidence that either broke the law.      The White House budget office told the GAO that the money was withheld because they were reviewing the programs, meaning the delay wasn't subject to the Impoundment Control Act. But the GAO rejected that argument.      'OMB asserts that its actions are not subject to the ICA because they constitute a programmatic delay,' GAO wrote. 'OMB further argues that because reviews for compliance with statutory conditions and congressional mandates are considered programmatic, so too should be reviews undertaken to ensure compliance with presidential policy prerogatives. OMB's assertions have no basis in law.'      The GAO said its investigation is not yet complete into the matter, as the State Department and OMB did not provide information requested related to the hold of State Department funding to Ukraine. 'We will continue to pursue this matter,' the watchdog wrote.      This story has been updated with additional information and reaction to the report.",
+        "date": "2020-01-31 16:48:48.165314",
+        "title": "Government watchdog concludes Trump administration broke law by withholding Ukraine aid",
+        "url": "https://www.cnn.com/2020/01/16/politics/gao-report-administration-violated-law-withholding-aid/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.11666887534234471,
+        "subjectivity": 0.3862885413905821
+    },
+    "signature": {
+        "GAO": 0.03072685049051327,
+        "House": 0.021124709712227872,
+        "President": 0.03072685049051327,
+        "Ukraine": 0.015363425245256634,
+        "decision": 0.017283853400913714
+    },
+    "tone": [
+        {
+            "score": 0.52635,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.509748,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+        },
+        {
+            "score": 0.599896,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+        },
+        {
+            "score": 0.790926,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

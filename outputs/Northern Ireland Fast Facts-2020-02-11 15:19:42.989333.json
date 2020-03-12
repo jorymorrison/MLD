@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) Here's a look at Northern Ireland. For many years, Northern Ireland has been split over the question of whether it should remain part of the United Kingdom or become part of Ireland.      Belfast is the capital of Northern Ireland. The nation is part of the United Kingdom, along with England, Scotland and Wales.            Northern Ireland's history has been marked by sectarian violence, although in recent years, its political parties have been working toward compromise and the two sides now make up a power-sharing government.      Marching Season, a series of Protestant celebrations, takes place during the spring and early summer.            The Democratic Unionist Party (DUP)       Formed in 1971 by Ian Paisley, a Protestant preacher. Historically, it has attracted support from working-class Protestants.      Social Democratic and Labour Party (SDLP)      The party attracts middle-class Catholic support and aims to achieve the reunification of Ireland through democratic means.      Irish Republican Army      Founded in 1919 as a paramilitary group fighting for an independent Ireland. In 1969, the IRA split into the Official IRA and the Provisional IRA (the former rejected violence while the latter favored being an armed force). In 2005, the Provisional IRA announced that its military campaign was over, and its weapons would be scrapped.            1920 - The Government of Ireland Act splits the country into two separate political units, with Belfast as the capital of the north and Dublin as the capital of the south.      January 30, 1972 - Thousands of people take part in a civil rights march in Derry. After a disturbance, the British Army fires shots into the crowd, killing 13 people (in addition, one injured man dies four months later). This day comes to be known as Bloody Sunday.      March 1972 - In the aftermath of Bloody Sunday, British Prime Minister Ted Heath suspends the Northern Ireland Parliament, imposing Direct Rule from London.      July 21, 1972 - Bloody Friday - The IRA sets off 19 bombs in Belfast, killing nine people.      1973 - A power-sharing arrangement called the Sunningdale Agreement is approved but a general strike in opposition to the agreement causes the deal to fall apart.      May 1981 - Activist and hunger striker Bobby Sands dies of starvation in prison. His death sparks riots across Northern Ireland.      April 10, 1998 - The Good Friday Agreement is signed, restoring self-government to Northern Ireland, and setting the stage to create their own power-sharing government with a 108-member Assembly.      August 15, 1998 - IRA militants bomb a market in the town of Omagh. The explosion kills 29 people. At the time, it is the single deadliest terrorist attack in the history of the conflict.      December 2, 1999 - Per the Good Friday Agreement, Britain relinquishes its rule over Northern Ireland.      June 17-18, 2013 - The G8 summit is held in Northern Ireland.      May 7, 2016 - The Northern Ireland Assembly election is held. The Democratic Unionists win 38 seats while Sinn F\u00e9in wins 28 seats in the power-sharing government.",
+        "date": "2020-02-11 15:19:42.989333",
+        "title": "Northern Ireland Fast Facts",
+        "url": "https://www.cnn.com/2013/10/30/world/europe/northern-ireland-fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.07627257799671591,
+        "subjectivity": 0.3364121510673235
+    },
+    "signature": {
+        "A": 0.01588462288783208,
+        "IRA": 0.022396993365350688,
+        "Ireland": 0.05225965118581827,
+        "Northern": 0.037328322275584476,
+        "power-sharing": 0.014931328910233792
+    },
+    "tone": [
+        {
+            "score": 0.527362,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.554585,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

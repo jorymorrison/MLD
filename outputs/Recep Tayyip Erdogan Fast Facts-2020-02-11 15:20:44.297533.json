@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "(CNN) Here's a look at the life of Recep Tayyip Erdogan , current president and former prime minister of Turkey.      Children: Two daughters and two sons            Active in Islamist circles in the 1970s and 1980s.      Before his political career, Erdogan was a semi-professional football (soccer) player.      Erdogan has also been heavily criticized for failing to protect women's and human rights, curbing freedom of speech and attempting to curb Turkey's secular identity.      Has called social media 'the worst menace to society.'            1984 - Elected as a district head of the Welfare Party.      1985 - Elected as the Istanbul Provincial Head of the Welfare Party and becomes a member of the central executive board of the party.      1998 - The Welfare Party is banned. Erdogan serves four months in prison for inciting religious hatred after reciting a controversial poem.      2002-2003 - Erdogan's AKP wins the majority of seats in parliamentary elections, and he is appointed prime minister.      June 2011 - AKP wins by a wide margin in the parliamentary elections, securing a third term for Erdogan.      December 2013 - Corruption probe begins which investigates more than 50 suspects, including members of Erdogan's inner circle. The following month, the government dismisses 350 police officers amid the investigation. Ten months later, the prosecutor drops the inquiry.      August 10, 2014 - Erdogan is elected president during the first-ever direct elections.      November 2014 - At a summit hosted by a women's group in Istanbul, Erdogan says that At a summit hosted by a women's group in Istanbul, Erdogan says that women and men are not equal 'because their nature is different.' It's not the first time the Turkish leader has made controversial comments about women: previously, he told Turkish university students that they shouldn't be 'picky' when choosing a husband and has called on all Turkish women to have three children.      April 16, 2017 - A vote is held on a constitutional amendment A vote is held on a constitutional amendment expanding Erdogan's presidential powers. Turkish state media report that about 51% of people voted yes on the referendum, which abolishes the country's parliamentary system and would potentially allow for Erdogan to remain in office until 2029. International election monitors question whether the election was free and fair, citing last-minute rule changes, the muzzling of opposition voices and the dominance of the 'yes' campaign in the media. Opposition leaders in the Republican People's Party say that they plan to challenge the election results in court.      October 12, 2017 - Erdogan accuses the United States of Erdogan accuses the United States of sacrificing its relationship with Turkey in a speech made days after the arrest of a US consular staff member and the announcement that he refuses to recognize the authority of US ambassador, John Bass . Erdogan blames Bass and other officials left over from the Obama administration for sabotaging relations between the two countries.",
+        "date": "2020-02-11 15:20:44.297533",
+        "title": "Recep Tayyip Erdogan Fast Facts",
+        "url": "https://www.cnn.com/2015/11/26/middleeast/recep-tayyip-erdogan-fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.04595238095238095,
+        "subjectivity": 0.3588095238095238
+    },
+    "signature": {
+        "A": 0.02604728444692905,
+        "Erdogan": 0.05610937795077416,
+        "Has": 0.014962500786873108,
+        "Party": 0.018703125983591386,
+        "Turkish": 0.014962500786873108
+    },
+    "tone": [
+        {
+            "score": 0.67401,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

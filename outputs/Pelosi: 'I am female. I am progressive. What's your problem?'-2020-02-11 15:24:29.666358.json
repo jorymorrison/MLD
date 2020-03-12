@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "House Minority Leader Nancy Pelosi responded to Rep. Joe Crowley's loss, telling reporters Wednesday that every district is different and that she carries the qualities her party values in order to lead the Democrats in the chamber.      'Everyone has all their analysis within hours of the election taking place,' said Pelosi, who was the first female speaker in US history and has said she'll seek the job again if Democrats retake the House in the fall . 'We have to analyze how this -- is it because of this, is it because of that. It's because of a number of things. But within 24 hours we don't have that analysis.'      Asked at a news conference on Capitol Hill if the Democratic leadership should reflect the growing representation of female, young and more progressive members, the California Democrat fired back.      'I am female. I am progressive. What's your problem?' She asked back with a smile and laugh.      On Tuesday, Alexandria Ocasio-Cortez , a 28-year-old Latina running in her first campaign, ousted Crowley in New York's 14th congressional district Democratic primary , the most shocking upset so far of the political season. Ocasio-Cortez ran defiantly to the left of Crowley -- who holds the fourth highest position in the House Democratic leadership -- and she is a member of the Democratic Socialists of America. If she were to be elected, she would likely be the youngest member in Congress come 2019. Pelosi, who is 78, has faced criticism by some members of her conference for not making enough room for younger or newer Democratic House members to be a part of leadership. House Minority Whip Steny Hoyer of Maryland is 79 and Rep. Jim Clyburn, a South Carolina Democrat also in leadership, is 77. RELATED: The Democratic Party has an age problem Pelosi told reporters Wednesday that she described the race result as one that came from a 'very progressive district.' 'They made a choice in one district,' she said. 'So, let's not get yourself carried away as an expert on demographics and this or that within the caucus or outside the caucus. ... We have an array of genders, generations, geography and the rest, opinion, in our caucus and we're very proud of that.' Pelosi said Crowley is a 'very valued' member of Congress and praised the 'dignity' of his concession. 'We will miss him,' she said, adding that she believes he might be seen in the public sector again.",
+        "date": "2020-02-11 15:24:29.666358",
+        "title": "Pelosi: 'I am female. I am progressive. What's your problem?'",
+        "url": "https://www.cnn.com/2018/06/27/politics/nancy-pelosi-crowley-loss-reaction/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.11159874608150472,
+        "subjectivity": 0.3461337513061652
+    },
+    "signature": {
+        "Democratic": 0.02622087028138617,
+        "House": 0.021850725234488475,
+        "Pelosi": 0.021850725234488475,
+        "She": 0.026795421674831947,
+        "she": 0.026795421674831947
+    },
+    "tone": [
+        {
+            "score": 0.592448,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.542599,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.796124,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

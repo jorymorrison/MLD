@@ -1,0 +1,46 @@
+{
+    "article": {
+        "body": "With the holiday season over, now comes the time for all kinds of food resolutions, mainly focused on dieting. There are many reasons to think about eating better, but they do not all have to do with weight loss . Your food choices can help reduce stress in your body by reducing the number of free radicals in your cells.      While traditional holiday meals are laden with salt, fat and sugar, many foods we eat regularly, such as sweets and sodas, can also spike blood glucose and insulin levels. They also, alas, can increase the amount of free radicals, or molecules with unattached electrons, in the body, which can do serious cellular damage.      We hear a lot about antioxidants, and we are encouraged to eat foods that are rich in them. But what exactly are they, and why do we need them? As a researcher who examines cellular damage, I will explain the oxidative process and why it's important to curb it. Free radicals - cellular bad guys - are produced during the oxidative process. Antioxidants work to prevent some of the damage.      If a substance is 'oxidized,' it has lost electrons to another substance. In contrast, we say a substance is 'reduced' when it has gained electrons from another substance. Oxidizing agents are called electron acceptors, because they remove electrons from a substance, putting them in a state of loss, or oxidized. Oxidizing agents keep electrons for themselves.      The oxidizing agents that have accepted electrons become free radicals if the unpaired electrons don't bind to other molecules. These free radicals mess with our cellular metabolism, even interfering with our DNA.      Our mitochondria, which operate like little factories in our cells, are responsible for burning fuel from food and producing energy in each of our cells via a process called oxidative phosphorylation . This metabolic pathway is a cellular chain reaction that involves a series of oxidation and reduction reactions in which atoms try to give or receive enough electrons to have a full 'shell.' Most atoms have a matching number of protons and electrons, but this leaves the various 'shells' of electrons incomplete, rendering them vulnerable to scavenge the body in search of electrons for pairing.      Normally, when an electron separates from a molecule involved in oxidation and reduction, it reattaches almost immediately to another. But when they don't, free radicals form.      Under ordinary conditions, this oxidative process creates chemically reactive molecules containing oxygen. This in turn can lead to the production of molecules of free radicals that are unstable in high concentrations.      Not all free radicals are bad. Free radical formation is crucial to the process of oxidizing nutrients from our food into chemical energy.      Free radical accumulation, however, be it atoms, ions or molecules, is harmful and can have severe consequences on our health. These unstable molecules are detrimental to the proper structure and function of cells throughout the body due to their ability to oxidize cells, known as oxidative stress.      Free radicals damage the growth, development and survival of cells in the body. Their reactive nature allows them to engage in unnecessary side reactions causing cellular impairment and eventually injury when they are present in disproportionate amounts.      They directly impair cell membranes and DNA. This leads to cell mutation and causes new cells to grow erroneously, which means free radicals are associated with both development of cancer as well as the progression of aging. Free radicals are frequently implicated with health problems that are experienced with age, such as hardened arteries, diabetes and even wrinkle formation.      Overeating further increases free radical production. As we eat more, our mitochondria release more activated oxygen than normal during energy consumption, thus generating higher levels of free radicals. And, risk of oxidative stress is greater when certain types of foods are consumed and the degree of danger can be influenced by the way in which they are prepared or cooked.      You can avoid sources of free radicals by planning ahead and incorporating healthy foods in your everyday life, not just during the holidays but year-round. Keep in mind that free radical content is high in nutrient-poor meals and those deficient of antioxidants.",
+        "date": "2020-02-11 15:21:36.132092",
+        "title": "Why -- and how -- to get more antioxidants in your diet",
+        "url": "https://www.cnn.com/2016/12/30/health/antioxidants-free-radicals-diet/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.1447887919372295,
+        "subjectivity": 0.6142860524891774
+    },
+    "signature": {
+        "And": 0.0210652544019665,
+        "Free": 0.04408091313585664,
+        "Our": 0.02074395912275606,
+        "electrons": 0.028522943793789585,
+        "radicals": 0.03370893357447861
+    },
+    "tone": [
+        {
+            "score": 0.524114,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.559527,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.56294,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.540262,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.803398,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

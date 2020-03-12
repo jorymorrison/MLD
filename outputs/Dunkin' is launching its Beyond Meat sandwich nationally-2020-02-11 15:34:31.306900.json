@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "New York (CNN Business) Dunkin' is launching its Beyond Meat breakfast sandwich nationally in November, two months ahead of schedule, after a highly successful test of the product this summer .      The buzzy new sandwich is a way for the chain to capitalize on growing consumer interest in plant-based proteins \u2014 and take up more space in the increasingly competitive breakfast segment.      Dunkin' first introduced a breakfast sandwich featuring Beyond Meat's meatless sausage in New York City this July. That test 'exceeded our expectations,' Dunkin' CEO Dave Hoffmann said in a statement Monday. The Beyond Sausage Sandwich is now the second best-selling item in Dunkin's Manhattan stores, following the company's bacon, egg and cheese bagel. Sales of the sandwich were more than twice as high as expected.      The enthusiastic customer reaction inspired' to speed up the national launch, which was previously scheduled for January. Over 9,000 Dunkin' locations will serve the sandwich starting November 6.      The speedy rollout echoes Burger King's trajectory with the Impossible Whopper. Burger King first tested out the meatless Whopper , which features a patty made by Impossible Foods, in April. Just a month later, Burger King announced that it would make the product available nationally because the test had gone 'exceedingly well.' The Impossible Whopper launched across the United States in August      For chains like Burger King, Dunkin' and others, the meat substitute protein trend could be a boon.      Barclays predicts the alternative meat sector could reach about $140 billion in sales over the next decade, capturing about 10% of the global meat industry. Jefferies predicts that by 2040, the alternative meat market could make $240 billion in annual revenue globally.      And it's unlikely that customers who eat plant-based protein for health and environmental reasons will abandon animal protein \u2014 or the fast food staples that feature real meat.      shoppers who bought Beyond Burgers in the first half of 2018 also bought meat during the same period. The Impossible Whopper is a way to 'give somebody who wants to eat a burger every day, but doesn't necessarily want to eat beef everyday, permission to come into the restaurants more frequently,' Chris Finazzo, president of Burger King North America, told CNN Business in April. Dunkin's Beyond sandwich is served with egg and cheese, animal products vegans don't eat. In its IPO paperwork, Beyond Meat reported that 93% ofshoppers who bought Beyond Burgers in the first half of 2018 also bought meat during the same period. The Impossible Whopper is a way to 'give somebody who wants to eat a burger every day, but doesn't necessarily want to eat beef everyday, permission to come into the restaurants more frequently,' Chris Finazzo, president of Burger King North America, told CNN Business in April. Dunkin's Beyond sandwich is served with egg and cheese, animal products vegans don't eat.      , the Beyond breakfast sandwich is also a way to capture sales in an expanding segment. Breakfast is one bright spot for fast food companies looking to eke out growth in a crowded space, and many chains are expanding their offerings. Notably, recently announced that it will For, the Beyond breakfast sandwich is also a way to capture sales in an expanding segment. Breakfast is one bright spot for fast food companies looking to eke out growth in a crowded space, and many chains are expanding their offerings. Notably,recently announced that it will start serving breakfast nationally , an initiative that costs $20 million and requires about 20,000 new US employees.      Dunkin', too, has been experimenting with new breakfast items like breakfast bowls and healthier sandwiches. So far, the strategy seems to be working. The chain pointed to breakfast sandwiches as one reason that sales at US stores open at least a year jumped 2.4% in the first quarter. While discussing second-quarter earnings, Hoffman noted that same-store sales of breakfast sandwiches and bagels grew 15% over a two-year period.",
+        "date": "2020-02-11 15:34:31.306900",
+        "title": "Dunkin' is launching its Beyond Meat sandwich nationally",
+        "url": "https://www.cnn.com/2019/10/21/business/dunkin-beyond-meat-sandwich/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.0808506113769272,
+        "subjectivity": 0.4636735778841043
+    },
+    "signature": {
+        "Beyond": 0.027313406543110593,
+        "Breakfast": 0.03277608785173271,
+        "Meat": 0.027313406543110593,
+        "breakfast": 0.03277608785173271,
+        "sandwich": 0.027313406543110593
+    },
+    "tone": [
+        {
+            "score": 0.631523,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.515463,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

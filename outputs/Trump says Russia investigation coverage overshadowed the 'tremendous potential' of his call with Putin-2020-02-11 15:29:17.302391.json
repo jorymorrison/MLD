@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) President Donald Trump on Saturday accused media coverage of the Russia investigation of overshadowing the 'tremendous potential' of his call with Russian President Vladimir Putin -- a shift from his own description of a call spent lamenting special counsel Robert Mueller's investigation but not warning Putin against continued Russian meddling in the 2020 election.      'Very good call yesterday with President Putin of Russia,' Trump tweeted . 'Tremendous potential for a good/great relationship with Russia, despite what you read and see in the Fake News Media. Look how they have misled you on 'Russia Collusion.' The World can be a better and safer place. Nice!'      When tweeting about the call's contents after talking with Putin Friday morning, Trump said that the two 'discussed Trade, Venezuela, Ukraine, North Korea, Nuclear Arms Control and even the 'Russian Hoax'' in a 'very productive talk.'      'As I have always said, long before the Witch Hunt started, getting along with Russia, China, and everyone is a good thing, not a bad thing,' he added      When asked on Friday about the call, Trump said he did not tell the Russian president to halt the Kremlin's efforts to interfere in American elections.      'We didn't discuss that. Really, we didn't discuss it. We discussed five or six things. We also went into great detail on various things,' Trump told reporters in the Oval Office after the phone call.      The intelligence community has long warned Trump of Russia's longstanding interference efforts that show no signs of stopping -- and that the President has shown little interest in combating.      'We assess that foreign actors will view the 2020 US elections as an opportunity to advance their interests,' Coats told the Senate Intelligence Committee at the time. 'We expect them to refine their capabilities and add new tactics as they learn from each other's experiences and efforts in previous elections.'      But the President has seemingly declined to heed his intelligence advisers' warnings.      A US government official previously told CNN that getting the White House to focus on Russian election interference was ' like pulling teeth ,' adding that 'in general, senior White House staff felt it wasn't a good idea to bring up issues related to Russia in front of the President.'",
+        "date": "2020-02-11 15:29:17.302391",
+        "title": "Trump says Russia investigation coverage overshadowed the 'tremendous potential' of his call with Putin",
+        "url": "https://www.cnn.com/2019/05/04/politics/trump-tweets-putin/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.15137055074555075,
+        "subjectivity": 0.44599927849927845
+    },
+    "signature": {
+        "President": 0.03353560503902776,
+        "Russia": 0.02874480431916666,
+        "Russian": 0.019163202879444438,
+        "Trump": 0.02874480431916666,
+        "president": 0.020562262087371035
+    },
+    "tone": [
+        {
+            "score": 0.581711,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.584592,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

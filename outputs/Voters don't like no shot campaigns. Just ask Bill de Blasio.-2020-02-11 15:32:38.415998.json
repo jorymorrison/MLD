@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "When New York City Mayor Bill de Blasio declared his presidential candidacy in May, he was derided by many in the media. Yet he was a politician who could point out that his constituents liked him even if the media didn't.      Four months later, de Blasio's presidential campaign is going nowhere. Worse, New York City voters seem to be punishing him for a campaign they didn't want him to run.      De Blasio's popularity among New York City voters is the worst it's ever been. Siena College polled New York state voters and provided a substantial crosstab of New York City voters.      According to this poll, just 33% of New York City voters say they have a favorable rating of de Blasio. His unfavorable rating has climbed to 58%. This makes for a net favorability rating of -25 points. He earned 0% of the vote among Democratic voters in a potential presidential primary.      Crosstabs, of course, have margins of error, but the trendline here is unmistakable. De Blasio's net favorability rating had never dropped below -12 points before May 2019 in any Quinnipiac University or Siena polling crosstab of New York City voters. In an average of 17 polls taken since he was first elected, de Blasio averaged a +8 point net favorability rating. He would sometimes get into the mid to high +20s or above.",
+        "date": "2020-02-11 15:32:38.415998",
+        "title": "Voters don't like no shot campaigns. Just ask Bill de Blasio.",
+        "url": "https://www.cnn.com/2019/09/17/politics/de-blasio-approval-rating/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.05975206611570247,
+        "subjectivity": 0.4070523415977961
+    },
+    "signature": {
+        "Blasio": 0.0465392069929365,
+        "City": 0.0465392069929365,
+        "De": 0.0465392069929365,
+        "de": 0.0465392069929365,
+        "voters": 0.054295741491759246
+    },
+    "tone": [
+        {
+            "score": 0.582174,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.670097,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        },
+        {
+            "score": 0.765285,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

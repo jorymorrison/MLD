@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "For those unfamiliar with the show, the program is a reality competition series that features putting drag queens through a series of challenges that culminates each week with the top two contestants lip-syncing for the power to send one of their peers home.      'Competition will be fierce as the queens shift their strategies and work extra hard to not only impress RuPaul and the judges, but to also impress each other,' VH1 said in its press release announcing the news.      The California Democrat and first female speaker of the House joins a handful of other celebrity guest judges, including actors Vanessa Hudgens, Tituss Burgess and Kristin Chenoweth.      Welcome back to the werkroom, ladies!! \ud83d\udc85            \ud83d\udc51 The Queens are ready to slay!! \ud83d\udc51#AllStars3 returns NEXT THURSDAY at 8/7c on @VH1! \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f pic.twitter.com/8bp7g3KZNH \u2014 RuPaul's Drag Race (@RuPaulsDragRace) January 18, 2018 Pelosi's office did not immediately respond to CNN's request for comment on the details on her appearance, but she tweeted Thursday about the show. 'All I can say is, you betta werk!' she wrote, quoting a famous RuPaul catch phrase. 'Had a fabulous time with @RuPaul and good luck to all the queens. #DragRaceNancy' All I can say is, you betta werk! Had a fabulous time with @RuPaul and good luck to all the queens. #DragRace https://t.co/ZrJDyDmuVh \u2014 Nancy Pelosi (@NancyPelosi) January 18, 2018 Randy Barbato, executive producer of 'Drag Race' and co-founder of production company World of Wonder, said Pelosi was a good fit for the show's theme. Pelosi is a 'fierce servant of our nation (and) 'Drag Race's' mission is to teach the children and honor those who fight on our behalf,' Barbato said in an email to CNN. The producers of 'Drag Race' reached out to Pelosi's team, who Barbato said 'were happy to participate.' Barbato wouldn't give any spoilers on Pelosi's appearance. However, he said Pelosi 'was absolutely delightful and the entire cast and crew were moved by her visit.' Season three of the drag-queen competition show kicks off January 25.",
+        "date": "2020-02-11 15:23:06.253420",
+        "title": "Nancy Pelosi to be guest judge on 'RuPaul's Drag Race All Stars'",
+        "url": "https://www.cnn.com/2018/01/18/politics/nancy-pelosi-rupaul-drag-race/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.24336419753086422,
+        "subjectivity": 0.4804012345679012
+    },
+    "signature": {
+        "Pelosi": 0.03646022175754763,
+        "Queens": 0.02604301554110545,
+        "RuPaul": 0.02604301554110545,
+        "queens": 0.02604301554110545,
+        "show": 0.02083441243288436
+    },
+    "tone": [
+        {
+            "score": 0.68636,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

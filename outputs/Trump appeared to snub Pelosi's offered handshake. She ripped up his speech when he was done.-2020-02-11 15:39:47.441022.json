@@ -1,0 +1,46 @@
+{
+    "article": {
+        "body": "Washington (CNN) President Donald Trump and House Speaker Nancy Pelosi clashed in two stunning moments at Tuesday night's State of the Union address , when Trump appeared to ignore Pelosi's attempt at a handshake and she later ripped up her copy of his speech after he concluded.      The frosty exchanges came on the eve of the Senate's expected acquittal of Trump in his impeachment trial , which was sparked by House Democrats' investigations of Trump's conduct regarding Ukraine. It's unclear whether Trump avoided Pelosi's handshake on purpose, and a source close to the House speaker told CNN's Dana Bash the decision to tear up the speech wasn't planned but was sparked by her anger at the address.      The moments were unmistakable signs of the deteriorating relationship between the two leaders, who hadn't communicated with each other in months, as well as the increasing partisan rancor in Washington following the five-month impeachment saga and the upcoming 2020 presidential election      A Trump adviser told CNN's Jim Acosta that by apparently ignoring Pelosi the President missed an opportunity to heal a divided nation.      'The country seems very, very divided but I think Trump made a mistake not shaking her hand,' the adviser said, while also faulting 'the Democrats by being so silent and not clapping on even nonpartisan lines.'      Following the speech, Pelosi tweeted, 'Democrats will never stop extending the hand of friendship to get the job done #ForThePeople. We will work to find common ground where we can, but will stand our ground where we cannot.'      Pelosi confirmed to CNN earlier Tuesday that she hasn't spoken to the President since the infamous White House Syria meeting in October, following which the White House released a picture of her standing up and pointing at him, which she immediately owned and placed prominently on her Twitter page.      'You mean where he circulated the picture of my saying 'All roads lead to Putin,' that one? Is that what we're talking about? ... We haven't spoken since then,' Pelosi said.      On Sunday, Trump said he will likely have a difficult time working with Democrats after the impeachment trial wraps.      'I'd like to, but it's pretty hard when you think about it, because it's been -- I use the word witch hunt, I use the word hoax. I see the hatred. I see the -- they don't care about fairness, they don't care about lying,' Trump told Fox News.      'You look at the lies, you look at the reports that were done that were so false. The level of hypocrisy. I'm not sure that they can do it, to be honest. I think they just want to win, and it doesn't matter how they win.'",
+        "date": "2020-02-11 15:39:47.441022",
+        "title": "Trump appeared to snub Pelosi's offered handshake. She ripped up his speech when he was done.",
+        "url": "https://www.cnn.com/2020/02/04/politics/trump-pelosi-handshake-state-of-the-union/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.02431547619047619,
+        "subjectivity": 0.5190376984126984
+    },
+    "signature": {
+        "CNN": 0.015446202320931508,
+        "House": 0.019307752901164387,
+        "Pelosi": 0.027030854061630142,
+        "Trump": 0.03475395522209589,
+        "her": 0.01183849448995808
+    },
+    "tone": [
+        {
+            "score": 0.518437,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.612606,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.6375,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+        },
+        {
+            "score": 0.523324,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.635084,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

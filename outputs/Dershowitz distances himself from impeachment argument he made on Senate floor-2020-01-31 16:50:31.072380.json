@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Washington (CNN) Alan Dershowitz, a member of President Donald Trump's impeachment defense team, on Thursday answered criticisms of an argument he had made on the Senate floor the previous day about impeachable conduct by distancing himself from the remarks.      Dershowitz argued on the Senate floor Wednesday that -- hypothetically -- a politician trying to win reelection is acting in the national interest, and therefore a quid pro quo aimed at boosting reelection chances cannot be impeachable.      After those comments, he faced considerable scrutiny from critics who said he was essentially arguing that politicians could do anything in service of reelection because they viewed their reelection as being in the national interest. However, Dershowitz said that's not what he was arguing and he 'never said' a president can do anything to get reelected.      'I have never said that a president can do anything if he believes that his election is in the public interest to get reelected,' Dershowitz told CNN's Wolf Blitzer on 'The Situation Room' Thursday night. 'That's simply false.'      The Harvard professor emeritus had instead argued that a president could not be impeached for a quid pro quo that would benefit their reelection if that president believed the reelection was in the public interest.      'Every public official that I know believes that his election is in the public interest,' Dershowitz said Wednesday. 'And mostly you're right. Your election is in the public interest.'      He added: 'And if a president did something that he believes will help him get elected, in the public interest, that cannot be the kind of quid pro quo that results in impeachment.'      Dershowitz said Thursday that those comments came after he had started his answer 'by saying I completely support the impeachment of Nixon, who everything he did, he did because he wanted to get reelected. And clearly he thought his reelection was in the public interest.'      'What I was doing was responding to an argument by the managers, which said basically that if a president has any motive -- the slightest motive -- that is not in the public interest that serves his electoral interests, that's a corrupt motive, and that can form the quid or the pro in quid pro quo,' he said, adding later that his intention was simply to 'ensure that no one can ever get in trouble for having as part of the motive their reelectability.'      The Harvard professor said he had not heard from Trump since his comments Wednesday, but that claimed a number of senators had 'came over to me afterward and thanked me for making that argument because that argument was in their interest as well.'      Earlier this month, he told CNN's Anderson Cooper that he is 'much more correct right now' in his current views on what qualifies a president for impeachment than in his nearly opposite views during the Bill Clinton impeachment.      'I didn't do research back then, I relied on what professors said ... because that issue was not presented in the Clinton impeachment,' Dershowitz said.      'When you compare that to what Trump has done with Trump University, with so many other things, I think there's no comparison between who has engaged in more corruption and who is more likely to continue that if elected president of the United States,' Dershowitz said. 'So I think what we're doing is we're comparing, we're saying, look, neither candidate is anywhere close to perfect, let's vote for the less bad candidate.'",
+        "date": "2020-01-31 16:50:31.072380",
+        "title": "Dershowitz distances himself from impeachment argument he made on Senate floor",
+        "url": "https://www.cnn.com/2020/01/30/politics/dershowitz-senate-impeachment-trial-trump-cnntv/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.09494851994851995,
+        "subjectivity": 0.35865508365508364
+    },
+    "signature": {
+        "Dershowitz": 0.024544650263398013,
+        "He": 0.031980152238626484,
+        "President": 0.027612731546322763,
+        "impeachment": 0.01840848769754851,
+        "reelection": 0.02147656898047326
+    },
+    "tone": [
+        {
+            "score": 0.591556,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.683589,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.722709,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

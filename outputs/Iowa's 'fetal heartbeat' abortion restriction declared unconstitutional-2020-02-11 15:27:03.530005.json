@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "The law, signed in May, would ban doctors from performing most abortions once a fetal heartbeat is detected. That can happen as early as six weeks into a pregnancy, before many women even know they are pregnant.      Polk County District Judge Michael Huppert wrote in his decision striking down the law that its defenders didn't identify a compelling state interest in barring most abortions after a fetus' heartbeat can be found, The Des Moines Register reported.      Some legislators who support the law said in May they hoped it would lead to a legal battle that reaches the Supreme Court. Emboldened by the court's new conservative majority , they said they think it will help overturn Roe v. Wade , the 1973 Supreme Court ruling that affirmed the right to an abortion in all 50 states.      'This bill will be the vehicle that will ultimately provide change and provide the opportunity to overturn Roe v. Wade,' state Sen. Rick Bertrand, a Republican, said during the floor debate last year. 'There's nothing hidden here about the agenda.' Abortion-rights advocates this week praised the judge's decision to strike down the law, which came 46 years to the day after the Roe v. Wade decision. 'Today's ruling is a victory for every Iowan who has ever needed or will need a safe, legal abortion,' Planned Parenthood of the Heartland's medical director, Dr. Jill Meadows, said in a statement. 'We are pleased that especially today, on the 46th anniversary of the landmark decision Roe v. Wade, abortion care was upheld as a safe and legal part of basic reproductive health care.' 'Today's victory is essential to the rights and safety of women in Iowa,' said Rita Bettis Austen, legal director for the ACLU of Iowa. 'It follows in the footsteps of the Iowa Supreme Court decision on abortion in 2018 that recognized the fundamental right to a safe and legal abortion for Iowa women, which cannot be legislated away. Today's decision upholds women's freedom and equality in Iowa.' Reynolds said she was disappointed by the decision. 'I am incredibly disappointed in today's court ruling, because I believe that if death is determined when a heart stops beating, then a beating heart indicates life,' the governor said.",
+        "date": "2020-02-11 15:27:03.530005",
+        "title": "Iowa's 'fetal heartbeat' abortion restriction declared unconstitutional",
+        "url": "https://www.cnn.com/2019/01/23/us/iowa-fetal-heartbeat-abortion-unconstitutional/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.14877825877825882,
+        "subjectivity": 0.4609583934583934
+    },
+    "signature": {
+        "Court": 0.023575782489842826,
+        "abortion": 0.023575782489842826,
+        "court": 0.023575782489842826,
+        "decision": 0.03300609548577996,
+        "legal": 0.023575782489842826
+    },
+    "tone": [
+        {
+            "score": 0.598512,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.605414,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.795857,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) The United States has its first confirmed case of a new virus that appeared in Wuhan, China, last month, the US Centers for Disease Control and Prevention announced Tuesday. The coronavirus has already sickened hundreds and killed six people in Asia.      CDC officials said the United States will be more strict about health screenings of airplane passengers arriving from Wuhan.      The patient, who is not being named, is in isolation at Providence Regional Medical Center in Everett, Washington. He is in his 30s and lives in Snohomish County, Washington, just north of Seattle. He had recently returned from Wuhan.      He arrived at Seattle-Tacoma International Airport on January 15, before any health screenings for the Wuhan coronavirus began at US airports. He sought medical care on January 19. The CDC and Washington state are now tracing the people he was in contact with to see if he might have spread the disease to someone else.      'We believe the risk to the public is low,' said John Wiesman, secretary of health for the state of Washington.      The patient became ill four days after arriving in the United States and sought care. Based on the patient's symptoms and travel history, doctors suspected the novel Wuhan coronavirus and sent specimens to the CDC in Atlanta, where tests Monday confirmed the virus.      The patient is faring well but is still being kept in isolation out of an abundance of caution, health officials said.      Health screenings at more US airports      Soon, passengers from Wuhan to the United States, whether on direct or indirect flights, will only be allowed to land at one of the five US airports doing health screenings. Screenings include a temperature check and observation for symptoms such as a cough and trouble breathing.      Last weekend, the CDC started health screenings for Wuhan passengers arriving at John F. Kennedy International Airport in New York, Los Angeles International Airport and San Francisco International Airport.      Starting this week, Wuhan passengers will also be screened at Hartsfield-Jackson Atlanta International Airport and Chicago O'Hare International Airport.      To date, the Wuhan coronavirus has infected more than 300 people and killed six in an outbreak that has struck China, Thailand, South Korea, Japan and now the US.      It's not known how many of the cases became infected from animals and how many from another person.      On Tuesday, the CDC activated its emergency response system in response to the Wuhan coronavirus. The CDC activates this system on a temporary basis to centralize how the agency monitors, prepares for and responds to public health threats.      The outbreak started in late December at an animal market in Wuhan, about 700 miles south of Beijing. The virus can jump from animals to people.      While there's much to learn about how easily the virus can be transmitted human-to-human, health officials said it appears that it's not spread as easily as some other viruses.      'This isn't anywhere near in the same category as measles or the flu,' Dr. Martin Cetron, director of CDC's division of global migration and quarantine, told CNN.",
+        "date": "2020-02-11 15:38:01.835092",
+        "title": "First US case of Wuhan coronavirus confirmed by CDC",
+        "url": "https://www.cnn.com/2020/01/21/health/wuhan-coronavirus-first-us-case-cdc-bn/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.08449741315594976,
+        "subjectivity": 0.32257945306725794
+    },
+    "signature": {
+        "CDC": 0.024496711493352315,
+        "Health": 0.0314957719200244,
+        "To": 0.02574872551565882,
+        "Wuhan": 0.03849483234669649,
+        "health": 0.0314957719200244
+    },
+    "tone": [
+        {
+            "score": 0.610465,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        },
+        {
+            "score": 0.749573,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

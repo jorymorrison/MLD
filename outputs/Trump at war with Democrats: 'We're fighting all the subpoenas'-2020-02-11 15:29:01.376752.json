@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Washington (CNN) President Donald Trump vowed on Wednesday to fight 'all the subpoenas' issued by House Democrats investigating his administration, reinforcing his administration's increasingly combative posture toward congressional oversight .      Trump lasered in on the House Judiciary Committee's subpoena of his former White House counsel Don McGahn, calling it 'ridiculous.' The White House has already instructed former White House personnel security director Carl Kline not to comply with a subpoena for his testimony and officials have said the White House may seek to exert executive privilege to block McGahn from testifying.      'The subpoena is ridiculous,' Trump said of the demand for McGahn to testify about his obstruction of justice testimony to special counsel Robert Mueller . 'I thought after two years we'd be finished with it ... I say it's enough.'      House Democrats have lambasted the White House's stonewalling of their requests.      In a statement Tuesday, House Judiciary Chairman Jerry Nadler said 'the moment for the White House to assert some privilege to prevent this testimony from being heard has long since passed.'      'I suspect that President Trump and his attorneys know this to be true as a matter of law -- and that this evening's reports, if accurate, represent one more act of obstruction by an administration desperate to prevent the public from talking about the President's behavior,' Nadler said of reports that the White House would invoke executive privilege to keep McGahn from testifying . 'The Committee's subpoena stands. I look forward to Mr. McGahn's testimony.'      While Democrats insist they are conducting legitimate oversight, Trump accused Democrats of pursuing their investigations for purely political purposes.      'These aren't, like, impartial people. The Democrats are trying to win 2020,' Trump said. 'The only way they can luck out is by constantly going after me on nonsense, but they should be really focused on legislation, not the things that have been.'      Trump insisted on Wednesday that he and his administration have been 'the most transparent ... in the history of our country' and called on Democrats to drop their investigations.      In the wake of the release of the redacted Mueller report , Trump has vacillated between claiming vindication and fuming about the report and some Democrats' calls for him to be impeached.",
+        "date": "2020-02-11 15:29:01.376752",
+        "title": "Trump at war with Democrats: 'We're fighting all the subpoenas'",
+        "url": "https://www.cnn.com/2019/04/24/politics/donald-trump-fight-subpoenas-don-mcgahn-ridiculous/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.07161904761904762,
+        "subjectivity": 0.35419047619047617
+    },
+    "signature": {
+        "Democrats": 0.03353560503902776,
+        "House": 0.0526988079184722,
+        "McGahn": 0.023954003599305548,
+        "Trump": 0.038326405758888876,
+        "White": 0.03353560503902776
+    },
+    "tone": [
+        {
+            "score": 0.50145,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.539557,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+        }
+    ]
+}

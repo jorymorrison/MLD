@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Washington (CNN) The White House has issued a formal threat to former national security adviser John Bolton to keep him from publishing his book, 'The Room Where It Happened: A White House Memoir,' sources familiar with the matter tell CNN.      The letter, which is dated January 23, said some of the information was classified at the 'top secret' level, meaning it 'reasonably could be expected to cause exceptionally grave harm to the national security.'      'The manuscript may not be published or otherwise disclosed without the deletion of this classified information,' the letter read.      The White House had no comment. Neither Bolton nor a spokesman for the publisher, Simon & Schuster, responded to a request for comment.      Later Wednesday, Bolton's attorney Charles Cooper released a follow-up letter that he sent to the National Security Council about the manuscript.      'As you are no doubt aware, the House Managers in the Senate impeachment trial have made clear their intention to seek Ambassador Bolton's testimony at trial, and although no one yet knows whether the Senate will subpoena him to testify, he is preparing for that possibility,' Cooper wrote in a Friday email to the official at the National Security Council.      'If he is called to testify, it seems certain that he will be asked questions that will elicit much of the information contained in the chapter of his manuscript dealing with his involvement in matters relating to Ukraine. We do not believe that any of that information could reasonably be considered classified, but given that Ambassador Bolton could be called to testify as early as next week, it is imperative that we have the results of your review of that chapter as soon as possible.'      In a statement accompanying the letter, Cooper added that he had 'received no response whatever to my urgent request for the NSC's immediate guidance as to any concerns it may have with respect to the chapter of the manuscript dealing with Ambassador Bolton's involvement in matters relating to Ukraine.'      Trump's tweets attacking Bolton Wednesday morning suggested he knew the contents of the manuscript.      The President's defense attorneys in his Senate impeachment trial have criticized the House impeachment managers for not producing any first-hand witnesses alleging that any quid pro quo came from the president himself.      Bolton has said he would be willing to testify in the Senate trial if subpoenaed. Trump has suggested that he might attempt to assert executive privilege and block Bolton's testimony, though legal experts say the President's tweets describing his conversations with Bolton about Ukraine might undermine any such assertion.",
+        "date": "2020-01-31 16:49:52.922037",
+        "title": "White House has issued formal threat to Bolton to keep him from publishing book",
+        "url": "https://www.cnn.com/2020/01/29/politics/donald-trump-john-bolton-white-house-book/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.12527056277056278,
+        "subjectivity": 0.38430735930735926
+    },
+    "signature": {
+        "Bolton": 0.04138012631011674,
+        "House": 0.02069006315505837,
+        "manuscript": 0.02069006315505837,
+        "national": 0.016552050524046697,
+        "security": 0.016552050524046697
+    },
+    "tone": [
+        {
+            "score": 0.835303,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.823681,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

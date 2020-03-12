@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Saudi Arabia, seeking to cushion the blow from the coronavirus , proposed further production cuts during three days of meetings in Vienna this week. But Russia is pushing back -- even though fears about the coronavirus have sent oil prices crashing into yet another bear market.      The Russians said 'they need more time' to weigh recommendations from the group's technical committee and assess the impact of the coronavirus on the market, a source close to the negotiations told CNN Business' John Defterios.      The coronavirus has clobbered oil prices because it is destroying demand in China, the world's largest oil importer and the epicenter of global oil demand growth. The crisis has killed more than 560 people, infected over 28,000 and brought large parts of the world's second-largest economy to a standstill.      The compromise proposal from Saudi Arabia was to cut oil production by 600,000 barrels per day, down from 800,000 to 1 million barrels, a senior OPEC source confirmed to CNN.      The apparent conflict between OPEC and Russia dashes hopes that the group will be able to arrest the sharp decline in prices. 'The coronavirus has completely taken the oil market hostage,' said Michael Tran, director of global energy strategy at RBC Capital Markets. 'The market is watching what OPEC does with bated breath. If OPEC is not able to stick the landing, it will have a big psychological hit to the market.' US oil prices retreated to around $50.70 a barrel on the news. Crude had climbed as high as $52.20 on Thursday on hopes of a strong OPEC response. S&P Global Platts Analytics said earlier this week it was reasonable to expect a 1 million barrel per day production cut by OPEC. Earlier this week, oil plunged into a bear market, signifying a 20% decline from previous highs. Crude closed at a 13-month low of $49.61 on Tuesday. Unlike recent oil tailspins, this one has been triggered by demand destruction, not excess supply. And demand shocks can be more challenging to stop because of the uncertainty involved. 'What we're facing now is a different beast. Demand is just in free fall,' said Tran. In a best-case scenario, oil demand will tumble by 1.5 million barrels per day in February, according to Platts. The worst-case scenario by the firm calls for demand to plunge by 4 million barrels per day. , and British Airways have Most concerning for oil bulls, the appetite for jet fuel has cratered because major airlines includingand British Airways have suspended all flights to and from mainland China. Daily flight cancellations are approaching nearly 3,000, according to RBC, which is using artificial intelligence to track real-time flight patterns. China's Sinopec has slashed its overall crude throughput by about 13% and its refineries are operating in China at minimum run rates, according to Platts. 'This is, in our opinion, the most acute threat to global demand since the financial crisis of 2008,' said Tran. Demand for oil has been relatively resilient in the years since the Great Recession, boosted by the rapid economic growth in China and India. Previous demand shocks include the Sept. 11 terror attacks and the SARS infection of 2003. It's unclear what OPEC will do next. Prince Abdulaziz bin Salman bin Abdulaziz al-Saud, the kingdom has signaled it would prefer not to act alone anymore. Saudi Arabia would prefer that other major oil players, including Russia, help shoulder the burden of production cuts. Prince Abdulaziz bin Salman bin Abdulaziz al-Saud, the kingdom has signaled it would prefer not to act alone anymore. Saudi Arabia would prefer that other major oil players, including Russia, help shoulder the burden of production cuts. Under new Saudi energy minister Prince Abdulaziz bin Salman bin Abdulaziz al-Saud, the kingdom has signaled it would prefer not to act alone anymore. Saudi Arabia would prefer that other major oil players, including Russia, help shoulder the burden of production cuts. OPEC must now decide if wishes to act alone, without the support of Russia. Such a move could jeopardize the OPEC+ alliance that has worked well in recent years to put a floor beneath weak oil prices.",
+        "date": "2020-02-11 15:39:59.180417",
+        "title": "Oil is in a tailspin over the coronavirus and OPEC might not be coming to the rescue",
+        "url": "https://www.cnn.com/2020/02/06/business/oil-prices-coronavirus-opec-russia/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.03757717871354235,
+        "subjectivity": 0.38831321876776415
+    },
+    "signature": {
+        "Demand": 0.025929948903445077,
+        "OPEC": 0.023336954013100573,
+        "Saudi": 0.015557969342067048,
+        "demand": 0.015898875378699127,
+        "oil": 0.04148791824551212
+    },
+    "tone": [
+        {
+            "score": 0.533047,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.595596,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.729194,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

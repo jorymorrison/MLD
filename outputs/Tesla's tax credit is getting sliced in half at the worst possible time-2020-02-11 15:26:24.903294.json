@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "New York (CNN Business) Tesla buyers can say goodbye to a $7,500 tax credit in the new year.      The federal government's tax credit for buying plug-in vehicles will be cut in half for Tesla buyers for the first six months of 2019.      The credit starts to phase out three months after the end of the quarter during which an automaker sells 200,000 eligible electric cars in the United States. Tesla reached that mark in July \u2014 the first automaker to do so.      For Tesla ( TSLA ), the tax credit is winding down at a terrible time. It is getting ready to offer a $35,000 version of the Model 3 in 2019, its lowest-cost model targeting budget-conscious buyers. The expiring tax credit will make the Model 3 at least $3,750 more expensive.      Tesla will also face increased competition from other automakers bringing long-range electric vehicles to market in 2019.      For the first six months of the phase-out, the credit falls by 50%, and another 50% for the six months after that.      So Tesla buyers will get a $3,750 tax credit for purchases completed in January through June 2019, and $1,875 for purchases made in July through December 2019. The tax credit for Tesla purchases ends in 2020.      Buyers who lease a Tesla rather than buy it outright don't qualify for the tax credit themselves. But in that case, Tesla gets the tax credit and will lower the lease price by the same amount.      It is difficult to walk into a Tesla store today and buy the exact model a buyer wants. Unlike traditional auto dealers, Tesla has limited inventory in its stores as it continues to ramp up production. It can take weeks or months between the time a Tesla is ordered and when it's delivered. Tesla still won't make the least expensive version of the Model 3, its lowest priced car, for another five or six months, according CEO Elon Musk in a recent interview with CBS' '60 Minutes.'      But Tesla has been doing everything it can to help American buyers complete their purchases in time to qualify for the full credit.      It is selling the demonstration models off of its stores' lots, with the anticipation of replacing them with new versions of the car in the new year. And it is also releasing cars for purchase that other buyers have ordered if the original buyers can't take delivery by today.      GM is on record saying it would like to see change in the law to end the phase-out of the tax credit, but it's not clear that such legislation could pass Congress.",
+        "date": "2020-02-11 15:26:24.903294",
+        "title": "Tesla's tax credit is getting sliced in half at the worst possible time",
+        "url": "https://www.cnn.com/2018/12/31/tech/tesla-tax-credit/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.016877298328911237,
+        "subjectivity": 0.43306218870734997
+    },
+    "signature": {
+        "Buyers": 0.032726200351197346,
+        "Tesla": 0.05727085061459536,
+        "buyers": 0.032726200351197346,
+        "credit": 0.049089300526796026,
+        "tax": 0.03681697539509702
+    },
+    "tone": [
+        {
+            "score": 0.539896,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "The Grammy-nominated singer was released from Cedars-Sinai Medical Center in Los Angeles and has entered an undisclosed rehab facility, sources close to Lovato told CNN.      'Demi is committed to focusing on her health,' one of the sources said.      Lovato's representative did not immediately respond to CNN's request for comment.      'I have always been transparent about my journey with addiction,' she wrote on her Instagram account. 'What I've learned is that this illness is not something that disappears or fades with time. It is something I must continue to overcome and have not done yet.'      It hasn't been publicly disclosed which drug or drugs may have been involved.      There had been reports Lovato overdosed on heroin, but a source close to her denied that.      Lovato's family and her former boyfriend, Wilmer Valderrama, had been by her side since her hospitalization.      Lovato has been open about her struggles with an addiction to cocaine and alcohol, as well as mental health issues and an eating disorder. She also sought professional help for substance abuse and entered rehab in 2010.      'You just have to take it one day at a time; some days are easier than others and some days you forget about drinking and using, but for me, I work on my physical health, which is important, but my mental health as well,' Lovato said during a speech last year while being honored at a drug prevention event      'I make sure I stay on my medications,' she said, adding that she was seeing a therapist twice a week. 'I go to AA meetings. I do what I can physically in the gym. I make it a priority.'      In the hours after news of Lovato's hospitalization broke, her fans took to social media with the hashtag, #HowDemiHasHelpedMe, to talk about how she and her music have helped them with their own struggles.      Lovato released a single in June called, 'Sober,' in which she revealed she had relapsed after six years of sobriety.      'I'm sorry for the fans I lost / Who watched me fall again,' Lovato sings on the track. 'I want to be a role model / But I'm only human. ... I'm sorry that I'm here again / I promise I'll get help.'",
+        "date": "2020-01-31 16:44:13.469195",
+        "title": "Demi Lovato has been released from the hospital and entered rehab",
+        "url": "https://www.cnn.com/2018/08/07/entertainment/demi-lovato-released-hospital-rehab/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.01723356009070296,
+        "subjectivity": 0.38042328042328044
+    },
+    "signature": {
+        "I": 0.01930786229086497,
+        "Lovato": 0.04266093974352512,
+        "She": 0.020344672012372403,
+        "her": 0.026157435444478804,
+        "she": 0.020344672012372403
+    },
+    "tone": [
+        {
+            "score": 0.501594,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.623798,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.571351,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

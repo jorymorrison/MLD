@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "(CNN) Here's a look at the life of George W. Bush, the 43rd president of the United States.            After John Quincy Adams, George W. Bush is the second president to be the son of a president.      1978 - Runs for an open seat in the House of Representatives and loses to his Democratic challenger, Kent Hance.      1984 - Bush Exploration merges with Spectrum 7 Energy Corp. Bush is named CEO of the new company.      1986 - Harken Energy Corporation purchases Spectrum 7 and Bush is appointed to Harken's board of directors.      1988 - Works on his father's presidential campaign.      1989 - Along with a group of partners, purchases the Texas Rangers baseball franchise.      November 3, 1998 - Is elected to second term as governor of Texas with 68.8% of the vote. He is the first governor in Texas history to be elected to consecutive four-year terms.      November 7, 2000 - The presidential election takes place, but is too close to call.      December 8, 2000 - A statewide recount is ordered by the Florida Supreme Court of thousands of questionable ballots.      December 12, 2000 - In the case, Bush v. Gore, the US Supreme Court reverses the Florida Supreme Court's ruling and suspends the state's recount. The 5-4 decision paves the way for Bush to be sworn in as president, even though he lost the popular vote.      November 27, 2003 - Bush surprises US troops in Baghdad by joining them for Thanksgiving dinner. It is the first trip to Iraq by a US president.      March 9, 2004 - Secures the GOP nomination for president after winning primaries in four states.      November 14, 2010 - A special 'State of the Union with Candy Crowley' airs featuring a joint interview with Bush and his brother, Jeb.      September 11, 2011 - Participates in a memorial at Ground Zero to mark the 10th anniversary of the 9/11 terror attacks.",
+        "date": "2020-02-11 15:18:30.207432",
+        "title": "George W. Bush Fast Facts",
+        "url": "https://www.cnn.com/2013/07/07/us/george-w-bush-fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.11759149940968122,
+        "subjectivity": 0.44933097205824474
+    },
+    "signature": {
+        "A": 0.018121494916599878,
+        "Bush": 0.0526988079184722,
+        "Is": 0.04684338481641974,
+        "November": 0.02342169240820987,
+        "president": 0.021541417424864897
+    },
+    "tone": [
+        {
+            "score": 0.526527,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

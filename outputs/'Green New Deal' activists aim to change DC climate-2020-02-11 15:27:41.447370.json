@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Washington (CNN) President Donald Trump's speech was a few minutes shy of being the longest State of the Union in history.      But not long enough to mention climate change.      In her Democratic response, Stacey Abrams said the words only once in passing.      If you didn't know better and watched the State of the Union cold, you'd have no idea that the National Climate Assessment ranks a rapidly warming planet as the biggest existential threat of the century.      The world's top scientists and strategists give the globe about a dozen years to complete a sort of green-energy Industrial Revolution, or brace for unprecedented disaster.      They call themselves the Sunrise Movement.      Much the way Parkland students took the gun control debate from their elders when the pain became personal, a group of millennials took their first-hand experience and rallied around a call for change that goes far beyond Earth Day marching and pipeline protesting.      They volunteered to help eco-conscious candidates flip districts in the midterms. Before the new members could even be sworn in, they occupied the offices of Democratic leadership with relentlessly upbeat songs and chants.      'We saw how the Democrats had actually failed to put forward any kind of coherent plan to stop the climate crisis,' said Varshini Prakash, a co-founder of the Sunrise Movement. 'Even though U.N. climate scientists were telling us we had exactly 12 years to radically transform every part of our economy and protect human civilization as we know it. So we brought 200 young people to tell Nancy Pelosi and Democratic leadership we need you to step up.'      When then-Rep.-elect Alexandria Ocasio-Cortez joined their fray, their calls for a 'Green New Deal' caught fire and have quickly become a litmus test for 2020 hopefuls.      Prakash says a Green New Deal right now is an umbrella term, with three essential elements: a complete transition to 100% renewable energy in the next 10 years, guaranteeing a job to any person who wants or needs one doing the work of averting climate crisis and ensuring racial and economic equity and justice.      'We're not waiting on them,' she said of Washington politicians. 'We are actually building a movement that is going to be powerful enough to make something like a Green New Deal a political inevitability in this country.'      Congress is taking notice. Sen. Ed Markey of Massachusetts and Ocasio-Cortez of New York are working on a resolution to clarify some of the goals of a Green New Deal.      'We're drafting something, which is going to set goals for our country to meet so that we match the magnitude of the challenge which is being presented to our planet by climate change,' Markey said.      He would not go into specifics, except to say it would build on what was learned from President Barack Obama's $90 billion commitment to green jobs and technology that were part of his administration's stimulus package to end the Great Recession.      While government-backed Solyndra went bankrupt after the price of solar panels dropped, Markey says most of the investment paid off in new tech and new jobs.      'It worked,' Markey said. 'We have seen a dramatic increase in wind and solar, battery technologies, fuel economy standards. We still have a long ways to go but we now have seven times as many jobs in wind and solar as in coal, which no one would have considered just a brief time ago.'      The wording and reaction to the Markey-Ocasio-Cortez resolution will be carefully watched by activists like Sean McElwee, who co-founded the Data for Progress group and uses analysis to push for progressive politics. Beyond hurricanes and wildfires, he blames a changing climate for childhood asthma rates in the Bronx neighborhood of New York City and believes Green New Deal programs should address them all.      The next step is to see how many Democrats in Congress line up with the aggressive position of Markey and Ocasio-Cortez, McElwee said.      'Are we talking about 10% of the caucus or are we talking about 50% of the caucus?' he asked.      'If we're talking about 50% of the caucus, we're cooking with gas,' he added, before quickly correcting himself. 'Cooking with a renewable.'      'I'd like to submit for the record NOAA's new report that 2018 is the fourth hottest year on record,' he said during the hearing.      'And I'd like to submit for the record this Dilbert cartoon,' said Rep. Bruce Westerman, Republican from Arkansas.      Later in the hearing, Texas Republican Louie Gohmert showed his disdain for the topic by asking climate scientist Judith Curry, 'Do you think we are causing the polar ice caps on Mars to melt?'      'No,' she said with a wan smile.      Given Republican resistance and bitter division, the Green New Deal is more audacious and ambitious than the original, demanding trillions in government spending and the kind of national unity not seen since the Apollo Project.      The comparison is ironic, since Cape Canaveral's moon shot launch pads are being fortified due to sea level rise caused by climate change.",
+        "date": "2020-02-11 15:27:41.447370",
+        "title": "'Green New Deal' activists aim to change DC climate",
+        "url": "https://www.cnn.com/2019/02/06/politics/green-new-deal-weir-wxc/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.09995884397292851,
+        "subjectivity": 0.4436421559660995
+    },
+    "signature": {
+        "Climate": 0.019016315121524168,
+        "Deal": 0.012677543414349447,
+        "Green": 0.012677543414349447,
+        "New": 0.015546400311341177,
+        "green": 0.012677543414349447
+    },
+    "tone": [
+        {
+            "score": 0.504038,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.572558,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.545544,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "'What a night. Because tonight, an improbable hope became an undeniable reality,' Buttigieg told his supporters Monday night in Des Moines, Iowa.      The Iowa Democratic Party announced Monday that the reporting of caucus results was delayed because of 'inconsistencies' in the reporting. The party has still not reported any results of the caucus.      'So we don't know all the results, but we know by the time, it's all said and done, Iowa you have shocked the nation. Because by all indications, we are going on to New Hampshire victorious,' Buttigieg told the crowd in comments that drew criticism online.      Asked Tuesday by CNN's John Berman how he can claim victory without results, Buttigieg cited his campaign's internal data from the Iowa caucuses.      'Like everybody else, probably more than anybody else, I'm impatient to get the official count, but we've also seen the reporting from our own precinct organization,' Buttigieg said. 'In fact, we've made it public from over 1,200 precinct locations and what we saw is extraordinary.' Asked why he didn't wait for official results from the state party, Buttigieg said his campaign's precinct information shows 'we have the momentum and stepped on that plane victorious on our way to New Hampshire.' 'For a campaign that a year ago, I think a lot of people were questioning what right we even had to do this and to make the attempt. And so it's clearly a victory for us even as we -- along with, I think, the whole country -- impatiently wait for some official results from the party,' the former mayor said.",
+        "date": "2020-02-11 15:39:42.200870",
+        "title": "Pete Buttigieg claimed victory in Iowa before any results were reported",
+        "url": "https://www.cnn.com/2020/02/04/politics/pete-buttigieg-iowa-caucus/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.07278499278499279,
+        "subjectivity": 0.49298701298701303
+    },
+    "signature": {
+        "Because": 0.01983497567411131,
+        "Buttigieg": 0.03305829279018552,
+        "Iowa": 0.02644663423214841,
+        "Party": 0.02644663423214841,
+        "results": 0.03966995134822262
+    },
+    "tone": [
+        {
+            "score": 0.537058,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.649516,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.801918,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

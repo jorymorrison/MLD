@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) Here's a look at the life of former Mexican President Enrique Pe\u00f1a Nieto .      Children: with Monica Pretelini Saenz: Paulina, Nicole, Alejandro; while still married to Saenz: one son with Maritza Diaz Hern\u00e1ndez; one son, died as infant, with woman unknown to Fast Facts researchers.            Pe\u00f1a Nieto's election marked the return to power of the Institutional Revolutionary Party (PRI). The PRI controlled the Mexican presidency for more than 70 years, until the 2000 election.      Rivera, his second wife, is an actress who starred in soap operas.      He was the fifth member of his extended family to serve as the governor of the State of Mexico. His second cousin directly preceded him as governor.            1978 - Attends school in the United States for a year to learn English.      1984 - Becomes a member of the PRI.      1999 - Begins working for his cousin, Arturo Montiel Rojas, governor of the State of Mexico.      2000-2002 - Secretary of administration for the State of Mexico.      2003-2004 - Representative of the 13th District of the State of Mexico.      2005-2011 - Governor of the State of Mexico.      January 2012 - Reveals that he fathered two children out of wedlock with two different women, while married to his first wife.      August 31, 2012 - The electoral tribunal validates election results and officially names Pe\u00f1a Nieto as president-elect.      November 9, 2014 - The Aristegui Noticias website publishes an investigative report that alleges Pe\u00f1a Nieto and his wife have been living in a $7 million mansion owned by a contractor who's won lucrative government projects. In a video, the First Lady says she has 'nothing to hide,' stating that she paid for the house with money she earned as an actress.      August 21, 2016 - In an article published by Aristegui Noticias, scholars analyze Pe\u00f1a Nieto's college thesis and conclude that passages were plagiarized. Pe\u00f1a Nieto's office responds that he inadvertently left off attribution in spots.",
+        "date": "2020-01-31 16:43:49.690988",
+        "title": "Enrique Pe\u00f1a Nieto Fast Facts",
+        "url": "https://www.cnn.com/2013/04/04/world/americas/enrique-pea-nieto-fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.1,
+        "subjectivity": 0.24814814814814812
+    },
+    "signature": {
+        "His": 0.03445691286977029,
+        "Mexico": 0.028714094058141904,
+        "Nieto": 0.03445691286977029,
+        "Pe\u00f1a": 0.03445691286977029,
+        "State": 0.028714094058141904
+    },
+    "tone": [
+        {
+            "score": 0.520712,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.652743,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "In the White House's letter to congressional Democrats, President Donald Trump's lawyers say the President and his administration won't cooperate in an ongoing impeachment inquiry, arguing the proceedings amount to an illegitimate effort to overturn the 2016 election results.",
+        "date": "2020-02-11 15:33:45.255276",
+        "title": "READ: White House letter to House Democrats",
+        "url": "https://www.cnn.com/2019/10/08/politics/wh-letter-to-pelosi/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    "signature": {
+        "Democrats": 0.04266093974352512,
+        "House": 0.04266093974352512,
+        "President": 0.08532187948705024,
+        "White": 0.04266093974352512,
+        "congressional": 0.04266093974352512
+    },
+    "tone": [
+        {
+            "score": 0.520088,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+        },
+        {
+            "score": 0.653575,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

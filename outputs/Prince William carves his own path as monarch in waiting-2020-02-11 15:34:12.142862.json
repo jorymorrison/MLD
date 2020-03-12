@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Lahore, Pakistan (CNN) Imagine writing your autobiography and publishing it in real time across all media, globally. No editing, no going back and choosing what to leave in and out. And what if this was the latest installment in a blockbuster family narrative going back more than 1,000 years that everyone is waiting to see because it's part of their story too.      Only two people can really relate to the Duke of Cambridge's position and they are his immediate predecessors, the Prince of Wales and the Queen . Those in the direct line of succession bear the responsibility of defining what it means to be head of state, and subsequently what it is to be British.      For the Queen, actions have always spoken louder than words. She associates herself with events and issues that she feels embody national values, unity and pride. Prince Charles has spoken up more, expressing himself on a wide range of big issues from climate change to religious tolerance. Prince William is now carving out his own path and we're getting a real sense of the direction he's taking.      During the duke's tour of Pakistan this week, he caught British and Pakistani media off-guard when he arrived for a red carpet event on Tuesday at the national monument in Islamabad in a rickshaw with his wife, Catherine . It wasn't their choice of transport that caught them out, but what he was wearing. Royal correspondents scrambled to think of any other royal who had ever worn a traditional sherwani.      William arrives at a special reception hosted by the British High Commissioner Thomas Drew on day two of the royal tour of Pakistan.      'The dark teal ensemble, featuring intricately embroidered color and cuffs, worn with matching trousers, was designed by Naushemian, a Karachi-based label,' wrote Britain's Daily Telegraph newspaper in the type of commentary preserved usually for female royals. Pakistani social media lit up in praise for the duke's choice.      The 'ensemble' also added a note of authenticity to the duke's speech that night, particularly when he said:      'The UK and Pakistan share unique bonds and so it will always be in our best interests for you to succeed. Not least because of the 1.5 million people living in the UK with Pakistani origin and the fact that the UK is one of the biggest investors in your economy. You can rely on us to keep playing an important role as a key partner and your friend.'      William had successfully used fashion to reinforce his message without letting it be a distraction. No mean feat as any high-profile person will attest.      He continued the theme the next day when he and the duchess donned traditional feathered Chitrali hats in the Hindu Kush to learn more about how climate change is affecting the glacial landscape.      On Thursday, they will visit a cricket academy where they will need to wear something more comfortable as they will be throwing themselves into a match. This royal couple are all about engaging in engagements, not just showing up and then leaving because they know that will leave people wondering if they really care.      It's a fresh take on soft diplomacy and Prince William is being talked about as an increasingly powerful asset in British diplomatic circles.      He's not one to avoid sensitive debate like his grandmother but has managed to adopt her ability to hide his personal thoughts. He has strong opinions but knows he will need to keep them to himself as king and anything he reveals now will be remembered.      Inevitably comparisons are being made with the Sussexes' recent tour of Africa . Harry and Meghan are more open about their emotions because they can be, knowing they are not destined for the throne and the formality that comes with that. A particularly poignant moment during the Africa visit came when the Duke of Sussex retraced his mother's footsteps through what was an Angolan minefield.      William too has committed to keeping his mother's legacy alive which is why he will visit the Shaukat Khanum Hospital in Lahore on Thursday where she was famously pictured cradling a young cancer patient. Don't expect William to re-enact Diana's moment like his brother though.      The message to take from that is that this visit isn't about Diana or, indeed, Harry. It's about William and how he wants to tell his own story.",
+        "date": "2020-02-11 15:34:12.142862",
+        "title": "Prince William carves his own path as monarch in waiting",
+        "url": "https://www.cnn.com/2019/10/17/asia/prince-william-pakistan-royal-tour-analysis-gbr-intl/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.17961846213895394,
+        "subjectivity": 0.4520316159250585
+    },
+    "signature": {
+        "A": 0.014946569931211759,
+        "And": 0.021485694276116903,
+        "Duke": 0.012073850870808997,
+        "He": 0.019247924194993837,
+        "William": 0.016903391219132594
+    },
+    "tone": [
+        {
+            "score": 0.583345,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.522425,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.684593,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

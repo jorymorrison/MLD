@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) Here is a look at the life of Hamid Karzai, the former president of Afghanistan.      A member of the Popalzai clan, part of the larger Pashtun tribe.      Karzai was educated in India and is fluent in several languages, including English, Pashto, Dari and Urdu.      His grandfather, Khair Mohammad Khan, served as deputy speaker of the Afghan Parliament.      His father held high level posts in the government of King Mohammed Zahir Shah.      1992-1993 - Serves as deputy foreign minister, in the government of Afghanistan President Burhanuddin Rabbani, after the withdrawal of the Soviet Union.      1999 - Karzai's father is murdered in Quetta, Pakistan, allegedly by the Taliban.      October 2001 - Slips into Afghanistan from Pakistan, to incite an uprising against the Taliban.      November 2001 - Is rescued by US forces during a skirmish with Taliban fighters.      December 2001 - Karzai is chosen as interim leader of Afghanistan.      December 5, 2001 - Is slightly injured by an errant US bomb.      December 22, 2001 - Is inaugurated as interim president in Kabul.      June 13, 2002 - At the Loya Jirga, Karzai is named president of Afghanistan for a two-year term.      September 5, 2002 - Survives an assassination attempt in his hometown of Kandahar.      February 26-28, 2003 - Travels to the United States to meet with President Bush and answers questions about progress in Afghanistan during a meeting with the Senate Foreign Relations Committee.      April 27, 2008 - Narrowly escapes an assassination attempt at a military parade in Kabul.      March 29, 2009 - After the date of the presidential election is moved to August 2009, the Afghan Supreme Court rules that Karzai will remain in office for three months after his official term ends in May.      August 20, 2009 - Afghanistan holds its second presidential election. Karzai wins by a landslide despite widespread allegations of low voter turnout, intimidation and fraud.      October 31, 2009 - A run-off election is canceled when Foreign Minister Abdullah Abdullah drops out, leaving Karzai as the only candidate and winner by default.      January 26, 2011 - Inaugurates the National Assembly, ending a political standoff between Karzai and the parliament. The inauguration comes four months after a nationwide election that critics said was marked by extensive fraud.",
+        "date": "2020-02-11 15:17:10.016791",
+        "title": "Hamid Karzai Fast Facts",
+        "url": "https://www.cnn.com/2012/12/17/world/asia/hamid-karzai---fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.03158333333333334,
+        "subjectivity": 0.24741666666666667
+    },
+    "signature": {
+        "2001": 0.025307337135989476,
+        "Afghanistan": 0.03543027199038527,
+        "Is": 0.05061467427197895,
+        "Karzai": 0.04555320684478106,
+        "President": 0.025307337135989476
+    },
+    "tone": [
+        {
+            "score": 0.551866,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.503586,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

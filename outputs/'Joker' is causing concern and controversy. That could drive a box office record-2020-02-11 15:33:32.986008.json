@@ -1,0 +1,41 @@
+{
+    "article": {
+        "body": "New York (CNN Business) ' Joker ' looks poised to break the record for an October release, but controversy over the villainous character's similarities to real-life mass shooters might dissuade some people from seeing it. Others may use it as a reason to check out the thriller just to see what the fuss is all about.      'The controversy surrounding 'Joker' will only help bolster the box office this weekend,' Jeff Bock, senior analyst at entertainment research firm Exhibitor Relations, told CNN Business. 'All news is good news.'      The film comes from Warner Bros.' lucrative DC Entertainment brand, which has produced hits like 'Wonder Woman' and 'Aquaman.' 'Joker' won the Venice Film Festival's top prize in August , giving it additional distinction as an award season contender.      But the only thing louder than the fanfare and buzz is the backlash over the R-rated film's depiction of violence.      The film stars Joaquin Phoenix as Joker, the infamous Batman nemesis whose evolution in the film from a troubled man into a murderous clown has put critics, activists and authorities on edge. Both the US Army and the Los Angeles Police Department will be on alert \u2014 and one theater chain has gone so far as to ban all costumes \u2014 during premier screenings of 'Joker.'      'Warner Bros. believes that one of the functions of storytelling is to provoke difficult conversations around complex issues,' the studio's statement said, adding that 'It is not the intention of the film, the filmmakers or the studio to hold this character up as a hero.'      But there is also a practical reason Warner Bros. needs to back a film like this one, which stars two bankable actors in Phoenix and Robert De Niro: the studio is in desperate need of another hit this year.      'It's a difficult film,' he told Vanity Fair. 'In some ways, it's good that people are having a strong reaction to it.'      Warner Bros. declined to comment about the heightened security.      The comic book character's nihilistic behavior \u2014 while amusing in past iterations \u2014 has taken on a new, sinister meaning with the rise of incels (involuntary celebate), men who believe they are denied sex and attention because of social and political movements. Authorities have blamed them for dozens of killings over the last few years. Those who watch the film may notice a number of similar themes.      USA Today's film critic Brian Truitt doesn't believe the controversy will hurt its box office performance since a lot of people have 'had this thing on their calendar for forever.' However, he feels that the film's dark themes may keep it from being a 'must see' on the opening weekend.      'More than every other take, the film is really effective in imagining how someone like the Joker could rise in the real world \u2014 a person who's just been beaten down so much that he gives himself completely over to the roiling madness within,' Truitt told CNN Business. 'It's not an easy watch in that sense, especially in how it nails our own divided culture.'      The film, which holds a 69% score on review site Rotten Tomatoes, is yet another cinematic incarnation of the Batman villain.      Oscar-winning actors like Jack Nicholson, Jared Leto and the late Heath Ledger have all played the character on the big screen. Ledger won a posthumous Oscar for his role in 2008's 'The Dark Knight.'      Batman has one of the deepest rogues' galleries in all of comics. So why does Hollywood keep returning to the Joker again and again?      'There's a freedom \u2014 and not always a healthy kind \u2014 in the idea of doing whatever you want to do without consequence that appeals to our lizard brain, though we're hopefully in charge of ourselves enough to know that that's fantasy,' Truitt told CNN Business. 'Joker is our id turned loose and running around Gotham City in a clown car, and Batman is the part of us that punches that part out if it gets too wild.'      Suzanne Scott, an assistant professor at the University of Texas' Moody College of Communication, who has studied comic book culture, believes that 'Joker' may bring a different selling point to audiences since it explores the origins of the character.      'The Joker is an enigmatic villain precisely because he \u2014 at least in many of his iterations \u2014 doesn't have clear origins or motives,' Scott said. 'One of the most interesting things about this most recent version is that it appears to be an origin story.'      Box office revenue is down roughly 5% compared to last year. If 'Joker' meets analysts expectations this weekend, it will give the domestic box office a much needed boost. A lot is riding on potential blockbusters still on the 2019 docket, including 'Frozen 2,' 'Jumanji: The Next Level' and 'Star Wars: The Rise of Skywalker.'",
+        "date": "2020-02-11 15:33:32.986008",
+        "title": "'Joker' is causing concern and controversy. That could drive a box office record",
+        "url": "https://www.cnn.com/2019/10/04/media/joker-box-office-analysis/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.08630297053373977,
+        "subjectivity": 0.5243246070169147
+    },
+    "signature": {
+        "'Joker": 0.013110435140693086,
+        "A": 0.017751330233852256,
+        "Film": 0.028405942804835018,
+        "film": 0.028405942804835018,
+        "\u2014": 0.019665652711039625
+    },
+    "tone": [
+        {
+            "score": 0.570779,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.531053,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.633137,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        },
+        {
+            "score": 0.701613,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

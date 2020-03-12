@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "Five months ago Meghan, the Duchess of Sussex, officially became a member of the British royal family after marrying Prince Harry at Windsor Castle.      On Monday, the couple announced they're expecting a baby , due in the spring of 2019. The boy or girl will be seventh in line to the throne, after Charles, the Prince of Wales, Prince William, the Duke of Cambridge, his three children and Harry himself.      Despite being seventh in line, the baby is not automatically a prince or princess.      In 1917, King George V limited titles within the British royal family, meaning Meghan and Harry's child -- who will be Queen Elizabeth II's great-grandchild -- will be too far down the line of succession.      However, the Queen can step in, as she has with William and Catherine's children, and overrule that decree.",
+        "date": "2020-02-11 15:25:49.416674",
+        "title": "How Meghan and Harry's baby will change the line of succession",
+        "url": "https://www.cnn.com/2018/10/15/uk/meghan-harry-royal-family-tree-intl/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.0419973544973545,
+        "subjectivity": 0.3011243386243386
+    },
+    "signature": {
+        "Harry": 0.038951292809305545,
+        "Meghan": 0.02596752853953703,
+        "Prince": 0.05193505707907406,
+        "prince": 0.05193505707907406,
+        "royal": 0.02596752853953703
+    },
+    "tone": [
+        {
+            "score": 0.713248,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

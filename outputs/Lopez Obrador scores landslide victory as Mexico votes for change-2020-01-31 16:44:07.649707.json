@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) Andres Manuel Lopez Obrador has declared victory in Mexico's presidential election, as preliminary results showed that the leftist veteran politician, who had presented himself as an agent of change, secured a landslide win.      President-elect Lopez Obrador is estimated to have received over 53% of the vote, more than double the total of his closest rival, according to the country's electoral commission.      'Today, they have recognized our victory,' Lopez Obrador, known by his initials AMLO, told a crowd of jubilant supporters at an event in Mexico City late Sunday local time.      President Enrique Pe\u00f1a Nieto called Lopez Obrador shortly beforehand to congratulate him and pledged to help him carry out an orderly transition. Lopez Obrador will formally take power on December 1.      Andres Manuel Lopez Obrador waves to his supporters after an apparent victory in Mexico's general election on July 1, 2018.      Lopez Obrador had dominated the polls in the run up to Sunday's vote, at times holding a 20-point lead over his rivals. Within two hours of polls closing, three of his main rivals had conceded defeat.      He added migration should be done by choice, not because of necessity, promising to 'strengthen the internal market to try to produce in the country what we consume and so that Mexicans can work and be happy where they were born, where their family is, where their customs and their cultures are.'      Lopez Obrador also promised to tackle violence and wipe out corruption, which he said was the 'result of a political regime in decay.'      'We are absolutely certain that this evil is the principle cause of social inequality and of economic inequality,' he said. 'Because of corruption, violence has erupted in our country.'      He added that he will pursue a peace plan with representatives of the United Nations, human rights and religious organizations, to help tackle the murder rate, which soared to an all-time high under Pe\u00f1a Nieto, whom critics accused of failing to adequately deal with crime, corruption and economic inequality.      US President Donald Trump congratulated AMLO in a tweet, saying he looked forward to working with him. 'There is much to be done that will benefit both the United States and Mexico,' Trump said.      Canadian Prime Minister Justin Trudeau also congratulated the new Mexican leader, saying the two countries 'share common goals, strong people to people ties, and a mutually beneficial trading relationship that is the envy of the world.'      'I look forward to working closely with President-elect L\u00f3pez Obrador, his administration and the Mexican Congress to build on the vibrant partnership between our two countries, create economic growth that works for everyone, and advance human rights and equality,' Trudeau said.      For many of the 89 million eligible Mexican voters, Sunday's election was a referendum on the country's political elite and its economic direction, as well as the tenure of President Enrique Pe\u00f1a Nieto, who was limited to a single six-year term.      Speaking to CNN in Mexico City, where supporters of AMLO thronged the streets into the early hours of Monday morning, voter Maria del Carmen Munoz said she supported Lopez Obrador during his previous two unsuccessful bids for the Presidency 'and the third time (was) the charm.'      'I have supported him for so long because I believe in him, because the government we have is rotten,' she said. Our youth must have a leader to believe in. I am already older, but the young must have faith and hope in a President.'      Younger Mexicans, many of whom have grown up surrounded by rampant corruption and drug violence, were expected to have played a key role in choosing the country's direction. Nearly 13 million voters between the ages of 18 and 23 were expected to vote for the first time, according to election officials.      Dario Manuel Lopez Pineda's cited AMLO's record as leader of Mexico City as the reason for supporting him.      'He was the first to give universal pension to seniors, he created 16 high schools in marginal areas,' he said. 'He created such seemingly insignificant things such as permanent driver licenses so that the government would not keep taking money from the people.'      Mexico's new leader will have to contend with Trump's threats to pull out of the North American Free Trade Agreement and his calls for the construction of a border wall between the two countries, among other divisive talking points. Lopez Obrador told voters that he is the person for the job.      Lopez Obrador pushed back against plans for a border wall in a book he wrote titled 'Oye Trump,' or 'Listen Trump.' He also pledged to propose to keep NAFTA.      He ran on a populist platform to break what he described as the grip that elites -- or 'power mafia' --- have on Mexican society. He said he would lower the salaries of top officials and give those at the bottom a pay increase. He promised to sell presidential planes and turn the presidential palace into a public park.",
+        "date": "2020-01-31 16:44:07.649707",
+        "title": "Lopez Obrador scores landslide victory as Mexico votes for change",
+        "url": "https://www.cnn.com/2018/07/01/americas/mexico-election-president-intl/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.09138043548491312,
+        "subjectivity": 0.3257611294178457
+    },
+    "signature": {
+        "He": 0.0210764947466304,
+        "Lopez": 0.02578071178745403,
+        "Mexico": 0.015038748542681515,
+        "Obrador": 0.02578071178745403,
+        "him": 0.012890355893727015
+    },
+    "tone": [
+        {
+            "score": 0.52513,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.739049,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

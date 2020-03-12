@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Martin Stolar told CNN he received a subpoena Thursday and Credico intends to comply and testify on September 7.      Credico, a comedian and radio show host, will likely meet with Mueller's team for a voluntary interview first. Credico previously declined a request from Mueller's team for a voluntary interview.      Roger Stone claimed Credico was his back channel to WikiLeaks founder Julian Assange during the 2016 campaign.      Stolar said it's unclear exactly what Mueller's team wants to question Credico about.      'My speculation is that they probably want to talk to him about Roger Stone and Julian Assange,' Stolar said. he was expecting to be subpoenaed because he had turned down the interview request. he was expecting to be subpoenaed because he had turned down the interview request. Credico had told CNN in June he was expecting to be subpoenaed because he had turned down the interview request. MSNBC reported Thursday that Mueller intended to issue the subpoena. Stone on Friday said he urges Credico to 'simply tell the truth.' 'I have testified truthfully before the House Intelligence Committee that Randy Credico was the source who confirmed Assange's June 2016 CNN interview in which the Wikileaks publisher said he had substantial information on Hillary Clinton,' Stone said in a statement. 'As I testified Credico told me this material would be released in October. I now realize that Credico's source was a Wikileaks lawyer and not Assange himself. At no time did Credico tell me what the source, content or scope of the WikiLeaks disclosures would be. I would note that Mr. Credico has avoided testifying on these matters under oath. If he is compelled to testify I would urge Mr. Credico to simply tell the truth.' Update: This story has been updated with additional context around the subpoena.",
+        "date": "2020-02-11 15:25:28.767323",
+        "title": "Mueller subpoenas Randy Credico, who Roger Stone says was his WikiLeaks back channel",
+        "url": "https://www.cnn.com/2018/08/10/politics/randy-credico-roger-stone-wikileaks/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.07435897435897436,
+        "subjectivity": 0.37930402930402923
+    },
+    "signature": {
+        "Credico": 0.07712871887405534,
+        "Mueller": 0.023731913499709337,
+        "Stone": 0.023731913499709337,
+        "interview": 0.035597870249564005,
+        "request": 0.023731913499709337
+    },
+    "tone": [
+        {
+            "score": 0.572742,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.804204,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

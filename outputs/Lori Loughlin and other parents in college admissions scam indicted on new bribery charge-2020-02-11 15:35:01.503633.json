@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "(CNN) Parents who have pleaded not guilty in the college admissions scam, including Lori Loughlin and her husband Mossimo Giannulli, now face an additional bribery charge, federal prosecutors announced Tuesday .      Eleven parents -- Gamal Abdelaziz, Diane Blake, Todd Blake, Giannulli, Elisabeth Kimmell, Loughlin, William McGlashan Jr., Marci Palatella, John Wilson, Homayoun Zadeh, and Robert Zangrillo -- were charged in a superseding indictment with conspiracy to commit federal program bribery, prosecutors said.      Loughlin and these parents already faced charges of conspiracy fraud and conspiracy to commit money laundering. The charges are all part of the sprawling scheme to use their wealth to cheat, bribe and lie in an effort to game the college admissions system.      They now face a maximum of up to 45 years in prison for the charges.      The superseding indictment does not allege any new criminal behavior and is based on the same scheme prosecutors revealed in March.      'To an extent this is window dressing,' CNN legal analyst Elie Honig said. 'They're not alleging any new conduct. They're sort of tacking on different ways of framing the same conduct that's already been charged.'      The new charge accuses the parents of bribing University of Southern California employees to get their children admitted to the school. In exchange for the bribes, USC coaches and athletics officials allegedly designated the children as recruited athletes, easing their admission, regardless of their athletic ability, prosecutors said.      Conspiracy to commit federal programs bribery is punishable by up to five years in prison. The charge of federal programs bribery is defined as a bribe of anything valued of at least $5,000 at an organization that receives more than $10,000 from the federal government, which would include USC and other universities implicated in the scam.      Loughlin and Giannulli are accused of paying $500,000 to a fake charity to get their two daughters accepted into USC by falsely designating them as crew team recruits. Their daughters, Olivia Jade Giannulli and Isabella Rose Giannulli, are not currently enrolled at USC , the university said Monday.      Several parents were also charged with additional counts in the superseding indictment.      Wilson was charged with two counts of substantive federal programs bribery for his efforts to use bribes to get his children into Harvard and Stanford, prosecutors said. And Joey Chen, McGlashan, Wilson and Zangrillo were charged with wire fraud and honest services wire fraud in the superseding indictment.      Chen's attorney Jennifer Keller told CNN he would not change from his not guilty plea.      'The new charge is evidence the government is beginning to understand the weakness of its case against Mr. Chen, and is searching for something it hopes might work. Mr. Chen is not guilty, our position is unchanged, and we look forward to his day in court,' she said.      In addition, seven college coaches, test administrators and others who have pleaded not guilty to conspiracy to commit racketeering have now been charged with conspiracy to commit fraud, prosecutors said. The coaches charged previously worked at USC, UCLA, Georgetown and Wake Forest.      Six of these defendants also face substantive wire and honest services wire fraud charges, and three of those face new charges of conspiring to commit federal programs bribery.",
+        "date": "2020-02-11 15:35:01.503633",
+        "title": "Lori Loughlin and other parents in college admissions scam indicted on new bribery charge",
+        "url": "https://www.cnn.com/2019/10/22/us/college-admissions-scam-parents/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.04793625914315568,
+        "subjectivity": 0.5194618599791013
+    },
+    "signature": {
+        "And": 0.026107238439169313,
+        "bribery": 0.02024586970879158,
+        "charged": 0.023620181326923513,
+        "federal": 0.023620181326923513,
+        "prosecutors": 0.02024586970879158
+    },
+    "tone": [
+        {
+            "score": 0.539594,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

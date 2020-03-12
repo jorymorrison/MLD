@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) Even before Meghan Markle married Prince Harry, I was an Anglophile obsessed with all things British.      I woke up extra early with my mother to watch the wedding of Harry's mom, Diana Spencer, to his father Prince Charles, when I was a child.      I kept a scrapbook (God, do they even make those anymore?) of the wedding and chronicled the royal family through both the births of Prince William and Prince Harry.      I watched 'Monty Python' films growing up, even if I didn't always get the jokes.      As an adult, I can quote from the British television show 'Absolutely Fabulous' and have gotten into more than a few arguments about why Ricky Gervais's original 'The Office' is far superior to the American version (no disrespect to Mr. Steve Carell, who I had the absolute pleasure of interviewing last year about his film, 'Welcome to Marwen').      So, I was beyond thrilled when Markle, a divorced American black woman, married into the royal family -- and, once again, I got up at the crack of dawn for a royal wedding.      'The Crown,' the hugely popular Netflix series which dramatizes the reign of the current Queen Elizabeth, is delicious viewing for Anglophiles like myself.      The new season debuted on Sunday and I was doubtful I would enjoy as much because of the new faces in the cast.      Gone are Claire Foy and Matt Smith as Queen Elizabeth and her husband, Prince Phillip replaced by Academy Award winner Olivia Colman and Tobias Menzie in those roles.      Helena Bonham Carter is the new Princess Margaret and the royal heir, Prince Charles, has now grown up and is being portrayed by Josh O'Connor.      Weirdly, the new cast didn't feel at all odd to me.      It's as if the original actors simply aged and here they are now.      Colman's queen plays into that in a scene involving a stamp with the likeness of the earlier queen (Foy).      'A great many changes. But there we are,' Colman's Queen Elizabeth says. 'Age is rarely kind to anyone. Nothing one can do about it. One just has to get on with it.'      What has not changed -- creative license not withstanding -- is that the seems to series open a window into what life inside the palace must have been like from 1964 through 1977, in which Season 3 is set.      Not to give too much away, but we see the royal children chafe at life inside their very ordered bubble and the Queen struggle with an appropriate response in the midst of one of Britain's biggest tragedies.      Class is ever so much more important in the UK, and the royal family is -- quite literally -- a class of its own.      Perhaps that's why the series is so enjoyable, at least to this American.      Because while our everyday isn't as wealthy, glamorous and high stakes as the royal family's, it sure feels less encumbered.",
+        "date": "2020-01-31 16:45:17.479526",
+        "title": "'The Crown' embodies why I love British culture",
+        "url": "https://www.cnn.com/2019/11/18/entertainment/the-crown-anglophile-analysis/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.19737190082644632,
+        "subjectivity": 0.5329770431588614
+    },
+    "signature": {
+        "Prince": 0.021850725234488475,
+        "Queen": 0.021850725234488475,
+        "family": 0.014567150156325651,
+        "queen": 0.021850725234488475,
+        "royal": 0.025492512773569887
+    },
+    "tone": [
+        {
+            "score": 0.648226,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.577808,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

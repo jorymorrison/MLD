@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "The foldable smartphone was supposed to be available for preorder on December 26 and in stores on January 9, but the launch dates have been pushed back, according to several news reports.      Motorola didn't provide an updated timeline for the $1,500 phone but reportedly said it doesn't expect a 'significant shift.' The delay was attributed to higher-than-expected demand and limited supply. Motorola didn't immediately respond to a request for comment.      The phone's relaunch has been delayed before: It was originally supposed to be available over the summer.      The Razr's $1,500 price tag is a big shift for Motorola, which has largely focused on producing inexpensive phones.      Why it's so hard to make a foldable smartphone The Razr's delay follows a similar pattern in foldable smartphone launches, which have been pushed back by other manufacturers as well. When smartphone makers needed something to shake up the market, they set their sights on foldable phones. But taking a folding screen from concept to a working device has proven to be a monumental engineering challenge. famously had a high-profile flub with its nearly $2,000 Galaxy Fold. Several reporters given early access to the device discovered defective hinges and that their screens broke after removing the Fold's protective film. Samsung responded by delaying the April launch of the device, which went on sale in famously had a high-profile flub with its nearly $2,000 Galaxy Fold. Several reporters given early access to the device discovered defective hinges and that their screens broke after removing the Fold's protective film. Samsung responded by delaying the April launch of the device, whichwent on sale in September Huawei, which had plans for a $2,600 foldable smartphone, announced earlier this month that it was delaying the launch. It released the Mate X in November. has filed numerous patents for a foldable device but has yet to announce plans for a bending device. Meanwhile,has filed numerous patents for a foldable device but has yet to announce plans for a bending device. What's unique about the Razr is that it's not trying to create a smartphone that unfolds into a larger tablet-sized device. Instead, it's focused on offering some smartphone features in a phone that folds to become smaller. The new Motorola Razr is $1,500, but OMG I must have it Motorola's device is also unique in that it's not looking to outdo the latest technological innovations being put out by competitors. The Razr's camera isn't that great compared with what Samsung and Apple devices offer and the battery life is also relatively short. Its screen is made out of plastic and its processor is slow. But what it lacks in features it makes up for in nostalgia Motorola had tremendous success with the Razr in the past. The phone debuted in 2004 and became the bestselling phone of all time in the United States until the iPhone eventually nabbed that distinction. Although Motorola's Droid Razr from 2011 failed to take off, the reintroduction of its iconic flip phone is expected to have much greater success. Correction: An earlier version of this article misstated when the Samsung Fold and Huawei Mate X went on sale.",
+        "date": "2020-02-11 15:37:10.321629",
+        "title": "You'll have to wait for the Motorola Razr foldable phone",
+        "url": "https://www.cnn.com/2019/12/20/tech/motorola-razr-flip-phone-delayed/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.1344258915687487,
+        "subjectivity": 0.4420866831581118
+    },
+    "signature": {
+        "Fold": 0.01655969934591548,
+        "Motorola": 0.023183579084281675,
+        "Razr": 0.023183579084281675,
+        "device": 0.022337772967373767,
+        "foldable": 0.023183579084281675
+    },
+    "tone": [
+        {
+            "score": 0.562974,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.723426,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

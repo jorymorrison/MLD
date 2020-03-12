@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "The menu will include several IHOP-inspired items, like pancake bowls, egg sandwiches, breakfast burritos, crispy chicken sandwiches, to-go salads and more. But unlike IHOP meals, Flip'd offerings can be eaten on the go. And unlike IHOP restaurants, Flip'd locations have limited seating.      The fast casual concept, a first for IHOP, is the brand's attempt to break open a new category: fast casual breakfast. It's also a way for IHOP to reach customers in dense urban areas, where it still has room to grow.      recently announced that it will ' has invested in new breakfast items and recently rolled out its IHOP is launching Flip'd during an increasingly competitive time for breakfast, a growing category in the fast food space.recently announced that it will start serving breakfast nationally next year.' has invested in new breakfast items and recently rolled out its Beyond Meat breakfast sandwich throughout the United States. McDonald's Panera and others have made a play for breakfast customers.      But most to-go breakfast options aren't freshly prepared, notes IHOP president Jay Johns, who told CNN Business that he sees a 'tremendous' opportunity in breakfast fast casual.      Johns, who became president of the brand in June, said that Flip'd can attract customers who find themselves picking up breakfast from coffee shops \u2014 even when they're not particularly enticed by the food options. 'The reason for the visit was the coffee, and they basically settled for whatever food they happened to have at their coffee shop,' Johns told CNN Business. 'We're flipping that on its head.' Flip'd locations are designed for people to drop in, pick up their food and go. Customers can also order online or cater meals through Flip'd. The restaurant will also sell espresso drinks and fresh-squeezed orange juice. The to-go format should work well in cities, he said. The first Flip'd location will be in Atlanta, and Johns expects to open more in cities, including New York, Washington, Denver and San Francisco. For now, Johns isn't committing to a total number of Flip'd locations, but hopes that there will one day be 'hundreds and hundreds and hundreds.' Johns noted that while there is demand for IHOP in cities, franchise operators have generally found it prohibitively expensive to open those restaurants \u2014 which are usually over 4,000 square feet \u2014 in urban areas. 'Having a smaller footprint will be a better investment for them,' he said. There are more than 1,700 IHOP locations in the United States. For IHOP, new restaurants like Flip'd are part of a three-pronged growth plan. The chain is also targeting off-premise dining and promoting its non-breakfast food items \u2014 like burgers \u2014 to draw more customers into stores.",
+        "date": "2020-02-11 15:36:38.194652",
+        "title": "IHOP is opening a fast casual restaurant called 'Flip'd'",
+        "url": "https://www.cnn.com/2019/12/11/business/ihop-flipd-fast-casual-breakfast/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.06650974025974024,
+        "subjectivity": 0.47038961038961036
+    },
+    "signature": {
+        "'d": 0.0351325386123148,
+        "Flip": 0.0351325386123148,
+        "IHOP": 0.0351325386123148,
+        "Johns": 0.02342169240820987,
+        "breakfast": 0.042939769415051426
+    },
+    "tone": [
+        {
+            "score": 0.620976,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.543682,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

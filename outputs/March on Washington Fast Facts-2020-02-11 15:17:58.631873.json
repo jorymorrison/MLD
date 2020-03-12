@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "\u2013 The Rev. Martin Luther King Jr. addresses a crowd near the Lincoln Memorial during the March on Washington for Jobs and Freedom on August 28, 1963. On the 50th anniversary of this historic civil rights event, we take a look back through rarely-seen color photographs from the day.      \u2013 Civil rights protesters clap and cheer. An estimated 250,000 people participated in the march.      \u2013 Leaders of the rally, including King in the center, interlock hands and arms as they march. The march was organized jointly by James Farmer, of the Congress of Racial Equality; Dr. King, of the Southern Christian Leadership Conference; John Lewis, of the Student Nonviolent Coordinating Committee; A. Philip Randolph, of the Brotherhood of Sleeping Car Porters; Roy Wilkins, of the National Association for the Advancement of Colored People; and Whitney Young, Jr., of the National Urban League.      \u2013 King stands with Rabbi Joachim Prinz, center, by his side.      \u2013 The crowd cheers during the event.      \u2013 Demonstrators crowd together as they listen to civil rights speakers during the rally.      \u2013 Actor Burt Lancaster speaks to protesters at the Lincoln Memorial at the event.      \u2013 Actor Sidney Poitier, left, and Singer Harry Belafonte talk with one another during the march.      \u2013 Baseball player Jackie Robinson, right, attends the rally with his son David.      \u2013 A. Philip Randolph, who helped organize the rally, stands in front of the Lincoln Memorial.      \u2013 Civil rights leaders from left, Whitney Young Jr., Martin Luther King Jr., Walter Reuther, Eugene Carson Blake, and John Lewis stand on the steps of the Lincoln Memorial during the march.",
+        "date": "2020-02-11 15:17:58.631873",
+        "title": "March on Washington Fast Facts",
+        "url": "https://www.cnn.com/2013/06/05/us/march-on-washington-fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.05612244897959184,
+        "subjectivity": 0.18112244897959182
+    },
+    "signature": {
+        "Jr": 0.02704542595061215,
+        "King": 0.03380678243826519,
+        "March": 0.04056813892591822,
+        "march": 0.04056813892591822,
+        "\u2013": 0.07437492136418342
+    },
+    "tone": [
+        {
+            "score": 0.512447,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.542948,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

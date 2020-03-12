@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "Washington (CNN) Nancy Pelosi was officially elected the new House speaker on Thursday in a majority vote by the House of Representatives on the first day of the 116th Congress.      She defeated the Republican nominee Kevin McCarthy, winning 220 votes. McCarthy becomes the House minority leader.      As House speaker, Pelosi will regularly face off against President Donald Trump and will preside over an emboldened and energized Democratic majority that is poised to launch aggressive oversight of the President and his administration.      One of the most immediate challenges confronting Pelosi as leader of the new House Democratic majority will be the fight over the President's long-promised border wall that triggered a standoff between congressional Democrats and the President and resulted in a partial government shutdown, which is now in its second week.      Pelosi also makes history as she reclaims a title she previously held when she served as the first and so far only female House speaker from 2007 to 2011.      'We enter this new Congress with a sense of great hope and confidence for the future and deep humility,' Pelosi said in remarks shortly after being elected to the speakership.      'Our nation is at a historic moment,' she continued. 'Two months ago, the American people spoke and demanded a new dawn.'      A small, but vocal, faction of Democrats initially worked to derail Pelosi's bid to become the next speaker following the 2018 midterm elections, but no challenger against her ever emerged and she ultimately succeed in winning over many of her critics.      Twelve Democrats voted for others besides Pelosi, including former Vice President Joe Biden, Sen. Tammy Duckworth of Illinois, Rep. Cheri Bustos of Illinois, Rep. Stephanie Murphy of Florida, Rep. John Lewis of Georgia, Rep. Joe Kennedy of Massachusetts, Rep. Marcia Fudge of Ohio, and Stacey Abrams, who unsuccessfully ran for governor of Georgia. Three Democrats voted present.      Pelosi has already outlined a plan for Democrats to pass a legislative package later in the day on Thursday to re-open shuttered parts of the government. Contrary to the President's demands for $5 billion for a border wall, however, the legislation does not provide any new wall funding, setting up an early confrontation between the new Democratic majority and the administration.      Pelosi spoke about other priorities on the Democratic agenda after her election on Thursday -- describing climate change as well as income inequality as pressing problems that need to be addressed.      'We will call upon bold thinking to address the disparity of income in America, which is at the root of the crisis of confidence felt by so many Americans,' Pelosi said.      'We must also face the existential threat of our time: the climate crisis,' she added.      In a nod to the historic nature of her election, Pelosi said she felt 'particularly proud' to serve as 'the woman speaker of the House of this Congress which marks the 100th year of women having the right to vote.'      She added that it is a 'privilege to serve with over 100 women members of Congress, the largest number in history.'      Pelosi always projected confidence that she would reclaim the Speaker's gavel, but faced criticism and pushback along the way.      At the end of November, she secured the nomination to become speaker by winning support from a majority of House Democrats -- a total of 203 votes in closed-door leadership elections. But she came up slightly short of the total 218 votes typically needed to win the speakership in the final January vote.      To become Speaker requires the support of a majority of all members of the House who are present and voting, a threshold that could be as high as 218 votes. It would be possible for Pelosi to win with fewer votes, as several previous House speakers have, if some members vote present or decline to participate.      Ahead of the final vote, Pelosi deployed her deal-making abilities to win over detractors, and by mid-December, she appeared to have secured the votes necessary to prevail after negotiating an agreement with some of the Democrats who had been lobbying to block her from the speakership. As part of the agreement, Pelosi backed a proposal to enact term limits for the party's top three leaders.      This story has been updated with additional developments from Thursday.",
+        "date": "2020-02-11 15:26:30.897007",
+        "title": "Pelosi elected House speaker to lead Democratic majority",
+        "url": "https://www.cnn.com/2019/01/03/politics/nancy-pelosi-house-speaker-vote-new-congress/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.15210740409016268,
+        "subjectivity": 0.42264212798695555
+    },
+    "signature": {
+        "House": 0.025094670437367718,
+        "Pelosi": 0.03764200565605158,
+        "Speaker": 0.020075736349894173,
+        "To": 0.03692814415691125,
+        "speaker": 0.020075736349894173
+    },
+    "tone": [
+        {
+            "score": 0.563723,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

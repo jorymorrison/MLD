@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) Beth Chapman, who with her husband Duane 'Dog' Chapman starred in the popular reality series 'Dog the Bounty Hunter,' died Wednesday morning in a Honolulu hospital, a spokesperson for the family confirmed to CNN.      Gillian Sheldon told CNN that Chapman was surrounded by her family.      She was recently placed in a medically induced coma as she battled cancer.      Chapman and her husband were the stars of the hit reality show, which chronicled the adventures of their family-owned bounty hunting business and aired from 2004 to 2012.      Duane Chapman shared the news of her passing on social media.      'It's 5:32 in Hawaii, this is the time she would wake up to go hike Koko Head mountain,' he tweeted. 'Only today, she hiked the stairway to heaven. We all love you, Beth. See you on the other side.'      Born in Denver, Beth Chapman was the youngest woman to ever to receive a bail license in her home state, a record that was later broken by her daughter, Baby Lyssa.      Chapman was devoted to the bail bond business in which she worked for more than 30 years.      But it was the love story between the Chapmans, as much as their adventures hunting fugitives, that enthralled viewers.      The couple raised 12 children together and split their time between homes in Hawaii and Colorado.      The pair and their son Leland starred in CMT's reality series, 'Dog and Beth: On the Hunt,' for three seasons from 2013 to 2015.      In September 2017, the couple used the official Facebook account to confirm a report that she had been diagnosed with Stage 2 throat cancer.      They later revealed during the A&E special, 'Dog & Beth: Fight of Their Lives,' that the cancer had been removed and she was cancer-free.      But the disease returned last year and Chapman began keeping supporters updated on her cancer battle via social media.      Her husband told Us Weekly in December that his wife was exploring alternative treatments and fighting to gain back her health.      'Beth will not take anything the doctors want to give her. Even the doctor told me he doesn't want her to have seizures if the pain is that bad, but she won't do it,' he said. 'She takes over-the-counter pain meds. She will not take anything prescription.'      'I'm a fighter, I'm a strong fighter -- big-time survivor -- and I'm gonna fight this as vigorously as it's fighting me,' she said.      In April, her husband released a statement stating she had been admitted to the hospital and later released.      WGN America had been slated to debut a new series featuring the couple, 'Dog's Most Wanted,' next year.      The network released a statement to CNN regarding Chapman's passing.      'We are deeply saddened by the tragic news that Beth Chapman lost her battle with cancer today,' the statement read. 'She was an exceptional woman, fiercely loyal and passionate about her family and she was a true joy to work with. All of us at WGN America will miss her tremendously. Our thoughts and prayers are with Duane, her family, loved ones and millions of fans.'",
+        "date": "2020-01-31 16:44:41.785136",
+        "title": "Beth Chapman, 'Dog the Bounty Hunter' star, has died",
+        "url": "https://www.cnn.com/2019/06/26/entertainment/beth-chapman-obit/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.14727332852332853,
+        "subjectivity": 0.4481752044252045
+    },
+    "signature": {
+        "Chapman": 0.0341938830005354,
+        "Her": 0.0335454133944461,
+        "She": 0.025159060045834576,
+        "her": 0.0335454133944461,
+        "she": 0.025159060045834576
+    },
+    "tone": [
+        {
+            "score": 0.584631,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.661293,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

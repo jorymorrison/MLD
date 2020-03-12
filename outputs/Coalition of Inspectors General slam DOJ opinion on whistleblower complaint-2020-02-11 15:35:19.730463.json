@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Washington (CNN) A coalition of Inspectors General is urging the Justice Department's Office of Legal Counsel to withdraw or modify its opinion that the whistleblower complaint regarding President Donald Trump's communications with Ukraine was not of 'urgent concern,' a determination that initially blocked the allegations from reaching Congress.      In a new letter sent to Assistant Attorney General Steven Engel this week, the Council of the Inspectors General on Integrity and Efficiency, which is composed of federal government inspectors general, slammed an OLC memo that 'effectively overruled the determination by the ICIG regarding an 'urgent concern' complaint' that the ICIG concluded was 'credible and therefore needed to be transmitted to Congress.'      'This letter from the Council of the Inspectors General on Integrity and Efficiency, on behalf of the undersigned federal Inspectors General (IG), expresses our support for the position advanced by the ICIG and our concern that the OLC opinion, if not withdrawn or modified, could seriously undermine the critical role whistleblowers play in coming forward to report waste, fraud, abuse, and misconduct across the federal government,' it states.      The letter, which was posted publicly and distributed to the media by DOJ OIG, amounts to a sharp rebuke of the OLC opinion and sign of solidarity from the officials who act as independent watchdogs of government agencies. CIGIE chairman, Michael Horowitz, is also the DOJ IG.      In strong language, the inspectors general elevated a disagreement over an interpretation of federal whistleblower law that was at the center of the early moments of the scandal around the President's call with the leader of Ukraine, which is now the subject of an impeachment inquiry in the House of Representatives.      The memo from the OLC -- a division of the Justice Department responsible for providing legal advice to the White House and agencies -- effectively blocked the inspector general for the intelligence community from taking the whistleblower complaint to Congress.      Attorneys in the office who examined the complaint disputed the conclusion of the ICIG that the memo posed an 'urgent concern' to matters in the Director of National Intelligence's purview.      'The alleged misconduct is not an 'urgent concern' within the meaning of the statute because it does not concern 'the funding, administration, or operation of an intelligence activity' under the authority of the DNI,' OLC wrote in the memo.      OLC also wrote that the President is not a member of the intelligence community, and the allegations at the center of the complaint, about the phone call with the leader of Ukraine, did not constitute an intelligence operation, therefore diminishing the ability of the ICIG to handle the complaint.      A finding of 'urgent concern' would have obligated the DNI to report the content of the complaint to the congressional intelligence committees.      Instead, the complaint was withheld from Capitol Hill for days, prompting fury from House Intelligence Chairman Adam Schiff.      'In one memo, the Department of Justice has sought to undermine federal law and reverse decades of work of what effectively encompasses the mechanisms for robust oversight of the federal government,' said Andrew P. Bakaj, the lead lawyer for the whistleblower.      Office of Legal Counsel chief Steven Engel responded to the letter from the group of IGs Friday making clear he stood by the original opinion.      In a letter of his own, Engel reiterated the legal reasoning his office had relied on in the memo and refuted a number of 'misconceptions' that he said the IGs had.      Engel defended his office from the sharpest criticism by the IGs, who had written that the memo could have diminished protections for government whistleblowers.      Engel wrote that there are other protections built into federal statute to protect employees from retaliation.      'The scope of the urgent concern statute, as interpreted by our opinion, in no way diminishes the robust protections that these employees would enjoy under these more general provisions,' Engel wrote.      'The letter strongly repudiates the Executive Branch's assertion that they can control the findings of independent watchdogs, and recognizes the Intelligence Community Inspector General's far-reaching authority to investigate intelligence misconduct,' according to Irvin McCullough, a national security analyst at the Government Accountability Project.      'The OLC opinion issued in response to the whistleblower's claim and the ICIG's credibility finding had a disastrous effect on watchdog independence -- and civil society's excited that the IG community's responding so forcefully. If OLC doesn't withdraw their opinion, then they're saying that agencies can overrule their watchdogs without consequence. That assertion would declaw the entire accountability community,' he told CNN.      While it is not rare for agencies to consult with OLC on sensitive matters, the move was criticized by some on the left as another example of the Justice Department providing political cover for the Trump administration.      But while the CIGIE letter sends a clear message of dissent from the nation's Inspector Generals, it does not explicitly reflect a consensus among oversight institutions, according to Dan Meyer, managing partner at Tully Rinckey PLLC and former IC Whistleblowing czar.      'The missing letter is one from the IC Inspectors General Forum, which is by statute the voice of Intelligence Community accountability. The fact that CIGIE had to step in tells me that the institutions of oversight are struggling with consensus,' he said.",
+        "date": "2020-02-11 15:35:19.730463",
+        "title": "Coalition of Inspectors General slam DOJ opinion on whistleblower complaint",
+        "url": "https://www.cnn.com/2019/10/25/politics/inspectors-general-olc-letter-whistleblower-opinion/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.050048875855327454,
+        "subjectivity": 0.41217008797653953
+    },
+    "signature": {
+        "Inspectors": 0.01430138686955118,
+        "Intelligence": 0.0204305526707874,
+        "OLC": 0.01838749740370866,
+        "complaint": 0.01634444213662992,
+        "concern": 0.01634444213662992
+    },
+    "tone": [
+        {
+            "score": 0.538528,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.538016,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+        },
+        {
+            "score": 0.803196,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

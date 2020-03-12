@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "In a letter addressed to Warner Bros. CEO Ann Sarnoff and obtained by CNN, five family members and friends of victims of the movie theater shooting in Aurora, Colorado ask the studio to 'use your massive platform and influence to join us in our fight to build safer communities with fewer guns.' (Warner Bros., like CNN, is owned by WarnerMedia.)      'Over the last several weeks, large American employers from Walmart to CVS have announced that they are going to lean into gun safety. We are calling on you to be a part of the growing chorus of corporate leaders who understand that they have a social responsibility to keep us all safe,' the letter states.      Specifically, the letter calls on the studio to end political contributions to candidates who take money from the NRA and vote against gun reform, actively lobby for gun reform and make contributions to groups that support survivors and aim to reduce gun violence.      In a statement, Warner Bros. studio acknowledged that gun violence is 'a critical issue' and said the company 'has a long history of donating to victims of violence, including Aurora, and in recent weeks, our parent company joined other business leaders to call on policymakers to enact bi-partisan legislation to address this epidemic.'      'At the same time, Warner Bros. believes that one of the functions of storytelling is to provoke difficult conversations around complex issues,' the statement continued. 'Make no mistake: neither the fictional character Joker, nor the film, is an endorsement of real-world violence of any kind. It is not the intention of the film, the filmmakers or the studio to hold this character up as a hero.' Igor Volsky, from gun control advocacy group Guns Down America, helped draft the letter on behalf of Sandy Phillips, Lonnie Phillips, Tiina Coon, Theresa Hoover and Heather Dearman. Sandy Phillips and Lonnie Phillips founded the organization Survivors Empowered after their daughter, Jessica Redfield Ghawi, was killed in 2012 when a gunman opened fire at the midnight showing of the Batman movie 'The Dark Knight Rises.' Shooter James Holmes is currently serving multiple life sentences for the shooting, which killed 12 and injured 70. 'Warner Bros. -- and artists in general -- certainly have a right to make the kind of art they want to make, but the argument that we make is that with that right comes a great deal of responsibility,' Volsky, who has not seen the film, told CNN. He added: 'It's really based on this notion that at a period of time when the federal government is not representing its constituents on the gun issue, we have to organize powerful voices around the country to help us build safer communities with fewer guns.' Legislative efforts to address the country's mass shootings by way of expanded background checks and firearm regulation continue to be stalled on Capitol Hill. Since its premiere on the film festival circuit, 'Joker' has found itself on the defense against those who criticize its violent imagery and the movie's potential to fuel violent behavior. In a recent interview with IGN , star Joaquin Phoenix admitted it was 'uncomfortable' to think about, but, 'I think we all are aware of these issues and we're concerned, and I think that's why we talk about it. I don't think that we can be afraid to talk about it.' (Phoenix later walked out of another interview when confronted by a similar question, according to a journalist from the Telegraph .) Director Todd Phillips has also said that the film is, in his view, 'about a lack of love, childhood trauma, lack of compassion in the world,' according to IGN. 'Joker' will be released wide on October 4.",
+        "date": "2020-02-11 15:32:54.248255",
+        "title": "Families of Aurora theater shooting victims ask movie studio to take action ahead of 'Joker' release",
+        "url": "https://www.cnn.com/2019/09/24/entertainment/joker-aurora-warner-bros/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.004987373737373734,
+        "subjectivity": 0.4578102453102453
+    },
+    "signature": {
+        "Bros": 0.014496435835178437,
+        "Phillips": 0.014496435835178437,
+        "Warner": 0.011597148668142751,
+        "film": 0.014496435835178437,
+        "gun": 0.020295010169249814
+    },
+    "tone": [
+        {
+            "score": 0.502492,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.793443,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

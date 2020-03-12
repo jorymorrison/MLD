@@ -1,0 +1,41 @@
+{
+    "article": {
+        "body": "Washington (CNN) The Justice Department has begun vetting information from Ukraine obtained by President Donald Trump's personal lawyer Rudy Giuliani regarding former Vice President Joe Biden and his son , Sen. Lindsey Graham said Sunday.      Appearing on CBS' 'Face the Nation,' Graham said Attorney General William Barr told him earlier Sunday that the Justice Department has 'created a process that Rudy could give information and they would see if it's verified.'      The Justice Department declined to comment on Graham's statement Sunday.      Trump's attempts to pressure Ukraine to investigate Hunter Biden and Joe Biden, his potential political rival, were at the center of the impeachment investigation which ended with the President's acquittal last week.      The President has repeatedly made unfounded and false claims to allege that the Bidens acted improperly in Ukraine. There is no evidence of wrongdoing by either Joe or Hunter Biden.      Graham, the chairman of the Senate Judiciary Committee, on Sunday stressed a heightened caution around the information Giuliani could be collecting, stating that 'anybody that has any information coming from Ukraine' should turn it over to the US intelligence committees.      'Any documents coming out of Ukraine against any American -- Republican or Democrat -- need to be looked at by the intelligence services who has expertise I don't because Russia is playing us all like a fiddle.'      When pressed if he thought Giuliani was being used by Russia, Graham said 'I don't know.'      'Rudy Giuliani is a well known man. He's a crime-fighter. He's loyal to the President. He's a good lawyer,' Graham said. 'But what I'm trying to say to the President and anybody else that the Russians are still up to it. Deterrence is not working.'      The former New York City mayor met with multiple current and former Ukrainian officials and businessmen in an effort to dig up dirt on Hunter Biden. And he played a key role in the effort to pressure the Ukrainian government to publicly announce an investigation into the former vice president.      Gordon Sondland, the US ambassador to the European Union, testified that Trump directed him to work with Giuliani as he worked to pressure Ukraine to open the investigation into Biden.",
+        "date": "2020-02-11 15:40:39.934148",
+        "title": "Justice Department vetting information on the Bidens from Giuliani, Graham says",
+        "url": "https://www.cnn.com/2020/02/09/politics/lindsey-graham-rudy-giuliani-ukraine-documents/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.03271349862258953,
+        "subjectivity": 0.31914600550964184
+    },
+    "signature": {
+        "Biden": 0.029134300312651303,
+        "Giuliani": 0.024278583593876087,
+        "Graham": 0.029134300312651303,
+        "President": 0.03399001703142652,
+        "Ukraine": 0.029134300312651303
+    },
+    "tone": [
+        {
+            "score": 0.529059,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.556215,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.782926,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.536361,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

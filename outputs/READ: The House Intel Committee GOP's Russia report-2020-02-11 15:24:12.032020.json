@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "The House Intelligence Committee on Friday released a redacted version of the Republican report on the Russia investigation that finds no evidence of collusion, along with a Democratic dissent disputing the Republican conclusions.      Lawmakers in both parties said the report was overly redacted during the declassification process, and they are likely to push for more of the document to be declassified.      Read the redacted report and the Democratic dissent:",
+        "date": "2020-02-11 15:24:12.032020",
+        "title": "READ: The House Intel Committee GOP's Russia report",
+        "url": "https://www.cnn.com/2018/04/27/politics/read-redacted-house-intel-russia-report/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.25,
+        "subjectivity": 0.75
+    },
+    "signature": {
+        "Democratic": 0.05193505707907406,
+        "Republican": 0.05193505707907406,
+        "dissent": 0.05193505707907406,
+        "redacted": 0.07790258561861109,
+        "report": 0.047765751681222164
+    },
+    "tone": [
+        {
+            "score": 0.729444,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+        },
+        {
+            "score": 0.596122,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "article": {
+        "body": "(CNN) About half of Americans say the Senate should vote to convict President Donald Trump and remove him from office in the upcoming impeachment trial (51%), according to a new CNN poll conducted by SSRS, while 45% say the Senate should vote against conviction and removal.      Nearly seven in 10 (69%) say that upcoming trial should feature testimony from new witnesses who did not testify in the House impeachment inquiry. And as Democrats in the Senate seek to persuade at least four Republican senators to join them on votes over allowing witnesses in the trial, the Republican rank and file are divided on the question: 48% say they want new witnesses, while 44% say they do not.      The poll is the first major national telephone poll since the articles of impeachment were sent to the Senate, formally launching Trump's trial there. They are also the first such poll results since Soviet-born businessman Lev Parnas , an associate of Trump's attorney Rudy Giuliani, publicly implicated the President in the Ukrainian pressure campaign during a series of television interviews.      The new poll also finds majorities of Americans view each of the charges on which Trump will face trial as true: 58% say Trump abused the power of the presidency to obtain an improper personal political benefit and 57% say it is true that he obstructed the House of Representatives in its impeachment inquiry.      Massive partisan gaps continue to dominate views on Trump and his impeachment trial. Overall, 89% of Democrats say he should be removed from office, while just 8% of Republicans feel the same way. Among independents, it's nearly dead even: 48% say the Senate should vote to remove him, while 46% say that they should not. Views on whether Trump should be impeached and removed are also evenly split across battleground states, 49% are on each side across the 15 states decided by 8 points or less in 2016. Those states are Arizona, Colorado, Florida, Georgia, Maine, Michigan, Minnesota, Nevada, New Hampshire, North Carolina, New Mexico, Ohio, Pennsylvania, Virginia and Wisconsin.      Beyond partisanship, there are wide divisions in the poll by gender, race, education and age. Nearly six in 10 women (59%) say the Senate should remove Trump from office; 42% of men agree. Among African Americans, 86% say Trump should be removed. That drops to 65% among Hispanics and 42% among whites.      Combining race and gender, about eight in 10 women of color (79%) say he should be removed. That dips to 59% among non-white men, 49% among white women and 33% among white men. For whites, education adds another degree of division: 59% of white women with college degrees say the Senate should remove Trump, compared with 43% among white women without degrees, 44% among white men with degrees and 27% among white men without college degrees. A majority (56%) of those under age 45 say the President should be removed, while older Americans are more evenly split (47% in favor among those age 45 and over, 50% opposed).      As the focus of the impeachment process has moved to the Republican-controlled Senate, 54% say they disapprove of the way Republicans in Congress are handling the impeachment proceedings, 39% approve. Democrats in Congress also receive more disapproval (50%) than approval (46%) for their handling of impeachment. Democrats, however, are a bit more likely to approve of their own party's handling of impeachment (83% of Democrats approve of how Democrats in Congress are handling it) than are Republicans (78% of Republicans approve of congressional Republicans on the topic). Nearly six in 10 Americans disapprove of Trump's handling of impeachment (57%).      Still, a majority (53%) say it is likely the Republicans in the Senate will conduct a fair trial for the President. Half say the Democratic push for new witnesses is mostly to ensure a fair trial (50%), 39% say that effort is mostly to hurt the GOP in the 2020 elections.      The poll finds a decline in the share who say the ongoing impeachment proceedings will help Trump's chances in his coming reelection bid (from 32% saying so in December to 28% now). That change comes largely from Republicans shifting to say impeachment won't make a difference for Trump's chances. In December, 54% of Republicans thought it would help him, now that figure is 46%, and the share who say it won't matter has risen to 45% from 32%.      But as the impeachment trial looms, Trump's approval rating overall holds in exactly the same place as December: 43% approve, while 53% disapprove.      Trump's ratings for handling the situation with Iran are higher now than they were in June, when the topic was last included in a CNN poll. Overall, 42% approve and 53% disapprove, up from a 37% approve to 51% disapprove divide last summer.      The President's approval ratings for handling terrorism have also climbed, 49% approve now compared with 42% in late 2017, and his disapproval ratings have dropped for his handling of the role of commander-in-chief (from 57% disapprove in October to 53% now).      Perceptions of Iran as a threat have spiked since last spring, according to the poll, returning to about where they were in spring of 2018. Overall, 43% call Iran a very serious threat, up from 28% in May 2019. Much of that change comes among Democrats. In May of last year, 22% of Democrats called Iran a very serious threat; now, 50% say the same. Among independents and Republicans, those numbers have climbed 8 points, but stand well below 50%, with 40% of independents and 39% of Republicans saying they consider Iran that serious a threat.      That pattern appears to hold for both Russia and North Korea as well. Even though overall perceptions of the threat posed by those two countries have softened a bit, Democratic concern has held steady or climbed as Republican worries drop.      The CNN Poll was conducted by SSRS January 16 through 19 among a random national sample of 1,156 adults reached on landlines or cellphones by a live interviewer. Results for the full sample have a margin of sampling error of plus or minus 3.4 percentage points.",
+        "date": "2020-01-31 16:48:54.977217",
+        "title": "poll: 51% say Senate should remove Trump from office",
+        "url": "https://www.cnn.com/2020/01/20/politics/cnn-poll-trump-impeachment/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.062157544836116276,
+        "subjectivity": 0.37931508967223254
+    },
+    "signature": {
+        "Among": 0.024377679853442923,
+        "Trump": 0.026118942700117418,
+        "among": 0.024377679853442923,
+        "impeachment": 0.02263641700676843,
+        "poll": 0.017412628466744948
+    },
+    "tone": [
+        {
+            "score": 0.541054,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.544127,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.519059,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        },
+        {
+            "score": 0.513608,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

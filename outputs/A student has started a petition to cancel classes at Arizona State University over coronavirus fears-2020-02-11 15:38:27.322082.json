@@ -1,0 +1,41 @@
+{
+    "article": {
+        "body": "(CNN) A student at Arizona State University has started a petition to cancel classes after someone from the university was confirmed to be infected with the coronavirus .      ASU freshman Taskina Bhuiyan, who is majoring in microbiology, started the petition on Change.org , and it had more than 21,000 signatures as of Wednesday evening.      It is unclear whether the infected person is a student or staff member. The Arizona Department of Health Services (ADHS) identified the person only as a 'member of the Arizona State University community who does not live in university housing.'      The person recently returned from Wuhan, China, where the virus is believed to have originated.      'As part of our case investigation, individuals who may have been exposed to the patient will be notified by public health and provided with proper follow-up,' ADHS communications director Chris Minnick told CNN.      The ADHS said the patient is not severely ill. The patient is being kept in isolation to prevent the illness from spreading, according to the health department.      'ASU is monitoring the coronavirus situation daily and working closely with federal, state and county health authorities,' a spokesman for the university told CNN. 'We are following the health protocols prescribed by the Centers for Disease Control and Prevention and reinforced by state and county health officials. Because the immediate risk to the general public from coronavirus at this time is believed to be low, classes are in session and the university is open for business.'      Bhuiyan said she and her friends created the petition because they believe ASU is not being transparent with its students, and they would like ASU to take the right steps to disinfect areas that could be at risk and to set up sanitizing stations around campus.      Students have a right to know where the infected individual visited, she said, so they can choose to avoid those areas.      'In the email, ASU said that they are following CDC protocols and advised students to wear a mask, keep their hands clean, not to touch our face, etc.,' Bhuiyan told CNN.      'However, ASU is not implementing those protocols,' she said. 'The majority of the people are still walking around with no masks. Stores near the campus are all sold out of masks and hand sanitizers, which is also making it hard for the students and staff to follow CDC protocols.'      Another spokesman for the university, Jerry Gonzalez, said the school has not directed students to wear masks. He said ASU has made masks available to students who have flu-like symptoms as a precaution and to protect others.      'It appears that what she (Bhuiyan) is talking about came from hoax screenshots of supposed emails from university leaders that were going around,' the spokesman said. 'Those were fake.'      Bhuiyan said attendance is mandatory at ASU and students risk failing classes if they skip them. As a science major, Bhuiyan said she has labs she cannot miss, and she wants ASU to be more lenient with its attendance policy.      'I do not think that we should have to choose between failing a class or compromising our health and wellbeing, but ASU is not giving us any other options at the moment,' Bhuiyan said.      'Students are nervous,' Bhuiyan said. 'We are even more nervous since ASU is not providing us with anymore updates. I understand that they do not want to cause a panic amongst the students and faculty. However, they need to let us know the severity of the situation because most students are still not taking this matter as seriously as they should be.'",
+        "date": "2020-02-11 15:38:27.322082",
+        "title": "A student has started a petition to cancel classes at Arizona State University over coronavirus fears",
+        "url": "https://www.cnn.com/2020/01/29/health/asu-coronavirus-petition-trnd/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.09136817483591678,
+        "subjectivity": 0.4689708141321044
+    },
+    "signature": {
+        "ASU": 0.030215168115144263,
+        "Bhuiyan": 0.024172134492115412,
+        "Students": 0.02719365130362984,
+        "students": 0.02719365130362984,
+        "university": 0.024172134492115412
+    },
+    "tone": [
+        {
+            "score": 0.604356,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.531802,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.566909,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        },
+        {
+            "score": 0.683491,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

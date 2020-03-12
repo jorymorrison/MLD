@@ -1,0 +1,41 @@
+{
+    "article": {
+        "body": "In a Joint Intelligence Bulletin shared with police this week and obtained by CNN, federal authorities write that the FBI has no information leading to 'specific or credible threats to particular locations or venues,' but note that the FBI has received tips of threats posted on social media since at least May.      Twelve people were killed and 70 wounded in that attack, at a midnight showing of 'The Dark Knight Rises.'      Concern from law enforcement has been growing in recent weeks ahead of the movie's premiere. The Army said over the weekend it had warned soldiers at at least one base, in Fort Sill, Oklahoma, about the threats, and the Los Angeles Police Department has said it will have 'high visibility' at theaters showing the movie.      even banned costumes at the 'Joker' premiere. even banned costumes at the 'Joker' premiere. One theater chain even banned costumes at the 'Joker' premiere. Authorities report in the intelligence bulletin that some of the recent threats surrounding 'Joker' referenced the Aurora shooting and say they are concerned potential shooters could use that shooting as inspiration. 'The FBI, DHS, and (National Counterterrorism Center) remain concerned that the volume of threatening language may lead to lone offender violence,' the bulletin says. Families of Aurora theater shooting victims ask movie studio to take action ahead of 'Joker' release The bulletin also notes that some of the threats related to the movie contain references to the involuntary celibate, or incel, community, as well as a subset of that community that refer to themselves as 'clowncels.' Incels believe they are denied sexual attention as a result of social and political movements and frequently commiserate on online message boards. Incels are responsible for killing at least 27 people since 2014 in the United States and Canada, the FBI said in the bulletin. 'Joker' is being released by Warner Bros., which is a unit of WarnerMedia, as is CNN.",
+        "date": "2020-02-11 15:33:23.257896",
+        "title": "Feds issue bulletin about threats ahead of 'Joker' opening weekend",
+        "url": "https://www.cnn.com/2019/10/03/us/joker-movie-security-threat/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.020757575757575752,
+        "subjectivity": 0.3779545454545454
+    },
+    "signature": {
+        "'Joker": 0.033700805063850564,
+        "Bulletin": 0.028084004219875468,
+        "FBI": 0.022467203375900375,
+        "bulletin": 0.028084004219875468,
+        "threats": 0.028084004219875468
+    },
+    "tone": [
+        {
+            "score": 0.569277,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.525106,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.828138,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.663547,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

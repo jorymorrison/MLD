@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Manafort, appearing in public for the first time since October, used a cane and sat slouched forward at the defense table. His hair is now virtually white. He was allowed to wear a suit rather than his dark green inmate uniform.      District Judge Amy Berman Jackson said she will determine whether Manafort lied when he was cooperating with Mueller -- something that could impact a future prison sentence.      Berman Jackson asked special counsel prosecutor Andrew Weissmann to address if he plans to charge Manafort with additional charges related to his alleged breach of plea.      'We don't currently intend to do that,' Weissmann said. But he did not rule out the possibility in the future.      'There are a lot of promises we have made absent being a breach,' Weissmann said. Now that they believe there's a breach, and if the judge confirms it, 'I can think of a situation -- a hypothetical situation -- that that could be something the government wants to do.' Berman Jackson has set a sealed hearing for February 4 at 10 a.m. ET to hear arguments on whether Manafort breached his plea agreement. Friday's hearing comes as Mueller unveiled an indictment against longtime Trump associate Roger Stone. The hearing is for Berman Jackson to weigh prosecutors' accusations that the former Trump campaign chairman lied about five topics, including his contacts with his longtime Russian co-conspirator Konstantin Kilimnik and with Trump administration officials. The lying allegedly happened last fall during Manafort's nine interviews at the special counsel's office and before two federal grand jury sessions following his guilty plea for conspiracy and witness tampering. Manafort's attorneys have said they disagree with the accusation -- that instead, Manafort misremembered details when he spoke to investigators and did not intend to lie. He has been jailed since June because of the witness tampering charges. His lawyers say he has been kept in solitary confinement at the Alexandria, Virginia, detention center for his own safety for months, and he has physically and mentally deteriorated. Mueller indicts Roger Stone, says he was coordinating with Trump officials about WikiLeaks' stolen emails Kilimnik, his co-defendant in the witness tampering case, has not appeared in US court because he lives in Russia. Kilimnik hasn't been charged with additional crimes, though Mueller's team has made clear in recent court filings they are still interested in the Russian intelligence-linked operative's dealings with Manafort during the 2016 presidential election. In particular, Mueller's team asked Manafort about his communication with Kilimnik about a Ukraine peace plan and about 2016 presidential election polling. While he worked on the campaign, Manafort sought to pass the polling information through Kilimnik to two Ukrainian oligarchs who owed him money, according to past CNN reporting.",
+        "date": "2020-02-11 15:27:16.693818",
+        "title": "Mueller's office has no current plans for new charges against Manafort",
+        "url": "https://www.cnn.com/2019/01/25/politics/paul-manafort-court-hearing-mueller-russia-investigation/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.0426984126984127,
+        "subjectivity": 0.2973015873015873
+    },
+    "signature": {
+        "He": 0.026385884662334515,
+        "His": 0.04303352437010612,
+        "Kilimnik": 0.019560692895502784,
+        "Manafort": 0.03912138579100557,
+        "Mueller": 0.019560692895502784
+    },
+    "tone": [
+        {
+            "score": 0.506842,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.695982,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.759701,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

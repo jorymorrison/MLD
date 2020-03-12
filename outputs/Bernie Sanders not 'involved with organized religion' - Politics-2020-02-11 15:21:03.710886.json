@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "The man who has the potential to become the nation's first Jewish president has generally shied away from talk of his upbringing and his faith, but in an interview with The Washington Post published Wednesday , Sanders said he was not 'actively involved with organized religion.'      'I think everyone believes in God in their own ways,' he told Post. 'To me, it means that all of us are connected, all of life is connected, and that we are all tied together.'      Sanders has often limited talk of his upbringing to a single line in his stump speech about his father emigrating from Poland and raising his family in a rent-controlled apartment in Brooklyn.      But the decision to open up comes just a few days before Iowa Democrats head to caucuses throughout the state. And with polls showing him running just slightly ahead of Hillary Clinton, Sanders and his campaign have been slowly introducing more about the man better known for railing against Wall Street and unfettered campaign donations.      Sanders' older brother, Larry Sanders, who lives in Oxford, England, told CNN's Hala Gorani that he was confident Sanders would beat Donald Trump in the general election. He also said that Sanders and Trump excel at talking to similar crowds, but in very different ways. 'Bernard's great strength is that he talks directly to people and he isn't put off (by) the fact that they've got particular opinions that are different from his,' Larry Sanders said. 'The Trumps do get strength from the people feeling that they get ripped off. Bernard agrees with that. But instead of saying the thing to do is to hate Mexicans and to hate Muslims, the thing to do is to create a better society.' Larry Sanders described to the Post how the two were raised by their parents -- their father moved from Poland in 1921 and their mother was the daughter of Polish immigrants. Bernie Sanders did many of the things that other Jewish children did growing up, learning Hebrew, and traveling to Israel to spend time on a kibbutz -- a Jewish communal settlement. 'He could read a prayer in Hebrew,' Larry Sanders told the paper. 'But not with a great deal of understanding.' But the Judaism and faith were not common topics for the family, with the exception of when a Red Cross worker alerted the family that an uncle in Poland was shot by the Nazis, Larry Sanders said. 'It wasn't a question of, 'Are we Jewish?'' Larry Sanders told the Post. 'It was just as uncontested as saying you're an American.'",
+        "date": "2020-02-11 15:21:03.710886",
+        "title": "Bernie Sanders not 'involved with organized religion' - Politics",
+        "url": "https://www.cnn.com/2016/01/27/politics/bernie-sanders-organized-religion/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.08792989417989419,
+        "subjectivity": 0.4253373015873016
+    },
+    "signature": {
+        "And": 0.01916535983115056,
+        "He": 0.015188188322600597,
+        "Jewish": 0.016513912158783915,
+        "Larry": 0.015188188322600597,
+        "Sanders": 0.053670214516047726
+    },
+    "tone": [
+        {
+            "score": 0.566718,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.567046,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

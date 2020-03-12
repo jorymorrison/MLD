@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "New York (CNN Business) Wendy's will start serving breakfast across the United States next year.      It's a big undertaking for the fast food company. Wendy's plans to hire about 20,000 US employees for the initiative, the company said Monday.      Currently, Wendy's offers breakfast, including a bacon sandwich and a honey butter chicken biscuit, at about 300 locations. The nationwide launch 'provides incredible growth opportunities,' said Todd Penegor, the company's president and CEO, in a statement.      Menu innovations have helped boost Wendy's sales . A number of new menu items \u2014 including a new $5 Giant Junior Bacon Cheeseburger, a new line of chicken sandwiches and a $5 meal deal called the Biggie Bag \u2014 helped boost first-quarter sales at North American stores open at least a year.      Breakfast may help drive growth, but it's a costly endeavor. The company expects to spend about $20 million to serve breakfast throughout the country, and is lowering its 2019 financial outlook. Shares fell 8% in premarket trading Tuesday.      is not the only fast food chain focusing on breakfast. has experimented with ' has tried out breakfast bowls and sandwiches, and is testing a breakfast sandwich featuring a plant-based sausage in its New York City stores. is not the only fast food chain focusing on breakfast. Panera started rolling out improvements to its breakfast offerings in the spring.has experimented with indulgent breakfast items like donut sticks ' has tried out breakfast bowls and sandwiches, and is testing a breakfast sandwich featuring a plant-based sausage in its New York City stores.      , as well as strong demand for its breakfast sandwich value deals. For Dunkin', the efforts are paying off. The chain's sales at US stores open at least a year jumped 2.4% in the first quarter , thanks to higher-priced espressos and frozen drinksas well as strong demand for its breakfast sandwich value deals.      \u2014 CNN Business' Jordan Valinsky and David Goldman contributed to this report.",
+        "date": "2020-02-11 15:32:22.266126",
+        "title": "Wendy's will introduce breakfast across the United States next year",
+        "url": "https://www.cnn.com/2019/09/09/business/wendys-breakfast-united-states/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.0667189132706374,
+        "subjectivity": 0.5043887147335423
+    },
+    "signature": {
+        "A": 0.03199140833353594,
+        "Breakfast": 0.07718348482828544,
+        "Wendy": 0.022052424236652983,
+        "breakfast": 0.07718348482828544,
+        "sandwich": 0.02756553029581623
+    },
+    "tone": [
+        {
+            "score": 0.666866,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

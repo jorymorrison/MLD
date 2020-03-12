@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "(CNN) Here's a look at the process of impeachment, a misconduct charge that leads to a trial to determine whether a public official is guilty of abuse of power or other offenses. A conviction leads to removal from office.      Offenses that could prompt impeachment are treason, bribery or 'other high crimes and misdemeanors.'      The inclusion of 'other high crimes and misdemeanors' gives the legislative branch flexibility to investigate an array of allegations.      One article of impeachment is drafted for each alleged offense.      The Founding Fathers modeled the impeachment clause after a system in Britain which gives Parliament the authority to investigate royal advisers and other higher officials.      Countries around the globe have different processes for ousting a leader, often involving courts and/or legislative bodies.      Both Johnson and Clinton were acquitted, so they stayed in office.      February 21, 1868 - Johnson dismisses Secretary of War Edwin Stanton, who backed the 'Radical Republicans' campaign for Reconstruction.      March 5-May 26, 1868 - Trial in the Senate. Johnson is acquitted with a vote of 35-19, one vote shy of the two thirds majority needed to remove the president. Johnson serves out the rest of his term (until March 4, 1869), but he doesn't run for reelection. Democrats opt to nominate Horatio Seymour over Johnson during the prelude to the 1868 election.      1926 - The Supreme Court strikes down the Tenure of Office Act, the basis for Johnson's impeachment.      The president repeatedly denied that they had had an affair but eventually said that their relationship was inappropriate. The Clinton investigation was overseen by a special prosecutor, Kenneth Starr, who was originally appointed to look into possible financial crimes involving an Arkansas land deal and a development firm called Whitewater. In 1998, after a four-year investigation, Starr produced a 445-page report detailing Clinton's relationship with Lewinsky. The report listed acts that could be grounds for impeachment.      While presidential impeachments are rare in the United States, it is not unusual for members of Congress to introduce resolutions seeking to oust the commander in chief. Every president since Ronald Reagan has been threatened with impeachment by members of the House.      September 2, 2015 - The attorney general issues an arrest warrant for P\u00e9rez Molina.      June 17, 2016 - In a separate case, P\u00e9rez Molina is charged with embezzlement and money laundering.",
+        "date": "2020-02-11 15:22:32.639423",
+        "title": "Impeachment Fast Facts",
+        "url": "https://www.cnn.com/2017/08/29/world/impeachment-fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.020609668109668102,
+        "subjectivity": 0.48895382395382386
+    },
+    "signature": {
+        "A": 0.02358877839601908,
+        "Clinton": 0.014071409444199384,
+        "Johnson": 0.028142818888398768,
+        "crimes": 0.014071409444199384,
+        "impeachment": 0.032833288703131895
+    },
+    "tone": [
+        {
+            "score": 0.627605,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

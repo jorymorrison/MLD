@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) She's 37 and a mom, but Serena Williams says she is inspired by other veteran sports stars such as Roger Federer and Tiger Woods as she chases a record-equaling 24th grand slam title .      Williams takes on Romania's former world No.1 Simon Halep in Saturday's Wimbledon final, aiming to avenge last year's final defeat by Angelique Kerber and add an eighth crown on the grass of the All England Club.      The American, who won her first Wimbledon title in 2002, credits improvements in sports science for her longevity as she seeks to match Margaret Court's all-time grand slam mark.      'I think technology has really changed. That's the only reason I'm able to compete,' Williams told reporters after her semifinal win against unseeded Barbora Strycova.      'I feel like if we had this technology 20 years ago, maybe Michael Jordan would still be playing basketball. I just feel like we know so much more about our bodies.      'It's lengthening my career. It's not just me, it's Roger [Federer], Tom Brady, Peyton [Manning] played forever. Those athletes, Tiger obviously, what he did at the Masters, was on top of my mind. Those athletes are incredibly inspiring. That's one thing that keeps me moving forward.'      Williams won her last grand slam in Australia in 2017 while pregnant, and after maternity leave she reached the final at Wimbledon and the US Open last year, losing to Naomi Osaka in New York.      'Looking back, to even be in those two finals last year was unbelievable,' she said. 'Now I'm in a different place. Like I just am more calm. Instead of having nothing to lose, I feel like I have things to lose, but I also have nothing to lose. It's like I'm in the middle.'      Williams has struggled with a knee injury this season, but after seeing a specialist in France last month says she is fit again.      She also revealed she has been trying to get into the mindset that has made her the most dominant player of her generation.      'I was actually thinking this morning [Thursday], when I won my first Wimbledon. I think it was against Venus. I was trying to tap into those emotions. I was really calm,' she said.      'I definitely feel like I play better when I'm calm. But it's definitely an effort. Not getting over-pumped, but at the same time not getting under-wound. I have to be in that right space.'      She added: 'Just trying to tap into that younger Serena, trying to tap into how to win, basically.'      Williams has beaten Halep nine times in their 10 meetings, including most recently at the Australian Open, but says she is not underestimating the 2018 French Open champion, who only lost her world No.1 crown to Osaka in January.      'There's so many impressive things about her,' Williams said of Halep. 'I think obviously her tenacity. I think her ability to improve every time, just to keep improving. Her ability to find power. Can't underestimate her. She's like a little powerhouse.'      Halep's first appearance in the Wimbledon final means she has reached the final in three of the four grand slams -- with just the US Open missing from her resume.      The 27-year-old Romanian says she is undeterred by her win-loss record against Williams and believes she can draw on past experiences against the American.      'I played many matches against her. Many of them were very close,' she said. 'I have learned that I have the chance. Now, if I face her, I will believe that I have my chance to win against her. Of course, I respect a lot what she has done and what she's doing.      'But now I feel stronger mentally facing her. We will see what is going to happen. It's just a big challenge for me.'      Halep is well aware Williams will be chasing history on Centre Court Saturday, but insists she will be trying to create a legacy of her own.      'I'm desperate to win Wimbledon more than to stop her,' she said. 'I will focus on myself. I'm not thinking about her record. Of course, is huge. Her records are huge already.      'It's just a tennis match, big challenge, a great match. So I will try just to give my best.      'I think it's a great feeling to face Serena in a Grand Slam final. If you are able to win, makes it sweeter. If you lose, then you have to look forward for the next one.      'I'm in a good position, honestly. I have no pressure on myself, just positive one. I have expectations for myself that I can do a great job on court Saturday. Still I'm chill, so ...'",
+        "date": "2020-02-11 15:31:25.971557",
+        "title": "Chasing 24th grand slam title, Serena targets 'calm' space",
+        "url": "https://www.cnn.com/2019/07/12/sport/serena-williams-simona-halep-wimbledon-final-preview-spt-intl/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.23989330415960858,
+        "subjectivity": 0.500207039337474
+    },
+    "signature": {
+        "Her": 0.03002418677105393,
+        "Of": 0.022257881605317453,
+        "She": 0.028659451008733298,
+        "her": 0.03002418677105393,
+        "she": 0.028659451008733298
+    },
+    "tone": [
+        {
+            "score": 0.653468,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.538016,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

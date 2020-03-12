@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) France recorded its highest-ever temperature on Friday as continental Europe continues to struggle with an intense heat wave .      The mercury reached 45.9 degrees Celsius (114.6 Fahrenheit) in Gallargues-le-Montueux in the Gard department in southern France, according to the French national weather service M\u00e9t\u00e9o-France.      This is 1.8 degrees higher than the previous record from 2003.      Around 4,000 French schools were closed on Friday and the opening hours of parks and public swimming pools were extended.      French authorities have taken a number of radical steps this week to prevent a repeat of the tragic consequences of the 2003 heat wave that left around 14,000 people dead.      Paris activated its heat emergency plan last weekend, put together in the aftermath of the 2003 heat wave. Cooling rooms were opened in some municipal buildings and mist showers were installed in the streets.      Climate scientists have warned that heat waves such as this one are becoming more frequent and increasingly severe because of the climate crisis. M\u00e9t\u00e9o-France said the frequency of such events is expected to double by 2050.      Europe has been battling the heat all week, with Germany, Poland and the Czech Republic each recording their highest-ever June temperatures on Wednesday.      The German Weather Service said temperature of 38.6 degrees Celsius (101.5 Fahrenheit) was recorded at 2:50 p.m. local time on Wednesday in Coschen, on the country's border with Poland.      The previous record stood at 38.5 Celsius (101.3 Fahrenheit), which was measured in 1947 in B\u00fchlertal, which lies close to France.      In Spain, firefighters have been battling a 15,000-acre wildfire near Tarragona in the country's northeast since late on Wednesday. According to the Catalan Fire Brigade, the fire likely started after an improperly stored pile of manure spontaneously combusted , causing sparks. The firefighters said the blaze was one of the worst in Catalonia in the last 20 years.      Many European cities are not designed to deal with such temperatures. Air conditioning is less common and public transportation systems often struggle.      While temperatures around 100 degrees Fahrenheit may not seem too high, they are way above seasonal averages for the region, and episodes of intensely hot weather are more common during July and August.      The heat wave is also unusual because of its timing. Such episodes of intensely hot weather are more common during July and August.      On Friday, French Prime Minister Edouard Philippe said, 'Beyond this extreme episode and with climate change, there is one observation: these episodes are getting closer, the abnormal becomes the normal'.      'We must prevent the fact that it will be even worse in the coming years,' he added.      Earlier this week, M\u00e9t\u00e9o-France linked the country's increasingly frequent heatwaves with greenhouse gas emissions, warning that without significant cuts to carbon emissions, heat waves could be stronger and last longer than in the past.      'With these temperatures going higher, our entire society must think about adapting to climate change. It's the problem,' said French Health Minister Agn\u00e8s Buzyn.      Mounting heatwaves are exactly what climate scientists predicted because of rising global temperatures caused by increases in greenhouse gas emissions from burning coal, oil and gas, according to Stefan Rahmstorf, co-chairman of Earth system analysis at the Potsdam Institute for Climate Impact Research and professor at Potsdam University in Germany.      'Heat waves are on the rise,' Rahmstorf said in a statement earlier this week, comparing recent extreme heat with 500 years of records. 'The hottest summers in Europe since the year 1500 AD all occurred since the last turn of the century: 2018, 2010, 2003, 2016, 2002.'",
+        "date": "2020-02-11 15:30:56.488180",
+        "title": "France endures its hottest day ever as Europe swelters in heat wave",
+        "url": "https://www.cnn.com/2019/06/28/europe/france-record-temperature-heatwave-intl/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.014841269841269843,
+        "subjectivity": 0.39904761904761904
+    },
+    "signature": {
+        "Climate": 0.018252218701813806,
+        "French": 0.015210182251511504,
+        "In": 0.013079519616392398,
+        "heat": 0.027378328052720703,
+        "wave": 0.012168145801209201
+    },
+    "tone": [
+        {
+            "score": 0.558118,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.747018,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

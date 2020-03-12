@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Prince Louis (pronounced Loo-ee) is fifth in line to the British throne, after grandfather Prince Charles, father Prince William and his two older siblings.      'The Duke and Duchess of Cambridge are delighted to announce that they have named their son Louis Arthur Charles,' Kensington Palace said in a statement. 'The baby will be known as His Royal Highness Prince Louis of Cambridge.      The name does not have a strong British royal pedigree, being more commonly associated with kings of France. But there is a significant family connection -- and one that is tinged with tragedy.      Louis was the name of Earl Mountbatten of Burma, the uncle of Queen Elizabeth's husband, the Duke of Edinburgh. After serving with distinction in World War II, Louis Mountbatten became the last Viceroy of India, the head of the British colonial administration in India. He was killed by a bomb placed in his fishing boat by the Irish Republican Army in 1979.      The newest arrival to the royal family was born on Monday and weighed eight pounds and seven ounces (3.8 kilograms). Britain's Prince William and Catherine, Duchess of Cambridge, with their newborn baby son . Louis is a younger brother to Prince George, 4, and Princess Charlotte, 2, and is Queen Elizabeth II's sixth great-grandchild. His birth was also a significant moment for Charlotte, the first princess who will not be overtaken in the line of succession by her younger brother. Before the 2013 Succession to the Crown Act, the newborn prince would have jumped above his older sister in the line for the throne. But the act means that a female's claim to the royal throne can no longer be diminished by a younger brother.",
+        "date": "2020-02-11 15:24:06.129751",
+        "title": "Royal baby name revealed",
+        "url": "https://www.cnn.com/2018/04/27/europe/royal-baby-name-intl/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.12333333333333332,
+        "subjectivity": 0.2758333333333333
+    },
+    "signature": {
+        "His": 0.031545061077958715,
+        "Louis": 0.03785407329355046,
+        "Prince": 0.0441630855091422,
+        "Royal": 0.025236048862366973,
+        "prince": 0.0441630855091422
+    },
+    "tone": [
+        {
+            "score": 0.586749,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.641305,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        }
+    ]
+}

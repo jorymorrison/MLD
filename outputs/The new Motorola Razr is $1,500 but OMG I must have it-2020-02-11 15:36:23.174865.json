@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "New York (CNN Business) It's a flip phone in an age when no one makes calls anymore. The camera isn't great. The battery life stinks. The screen is plastic. The processor is slow. It's superdupercrazy expensive (think an iPhone 11, then double that). But ... I kinda want the new Motorola Razr .      Motorola has brought back the Razr , the legendary flip phone from 2004 that became the bestselling phone of all time (before the iPhone stole that title several years later). The old Razr was impossibly thin \u2014 still, even by today's standards \u2014 and had that stunning blue-backlit metal keypad. We overuse the word 'iconic,' but the original Motorla Razr was one iconic piece of technology      That's why Motorola has been trying to replicate its Razr success for the past decade. It brought the brand back in 2011 with the Droid Razr, a super-thin smartphone that Motorola hoped would vault it back into relevance afterand Samsung had leapfrogged it . The Droid Razr failed to capture any significant attention.      The new Motorola Razr isn't going to be ignored. It can't be. It's a stunning achievement: a modern smartphone (well, mostly \u2014 we'll get to that), that folds into something that very closely resembles the original Razr phone. It looks so cool, and the folding mechanism is a piece of engineering genius that could solve a smartphone problem that no one else is trying to solve. I'm not sure Motorola was trying to do that, but it solves it nonetheless.      Motorola, by contrast, is using its hinge to make a 6.2-inch smartphone-sized phone ... smaller. I'm fairly certain Motorola's primary rationale for the hinge was a nostalgia play: to replicate its famous flip phone. But whether intended or not, the Razr is perhaps the most pocketable smartphone on the market. Women of the world rejoice! Men, too! A smartphone that will fit in your pocket.      Motorola achieved this ultimate pocketability with an ingeniously well-engineered hinge. Unlike the Samsung Galaxy Fold , the Razr is perfectly flat when folded: it has no gap. The Razr has two pieces of metal that snap up against the screen to hold it firmly in place when it's opened. Everyone who played around with the phone during its unveiling event Wednesday night said opening and closing the phone was among the most satisfying features of the Razr. Hanging up a phone call with flip is a bygone of the last decade that I miss.      Another byproduct of a flip phone is a second screen. When closed, the Razr's front screen displays the time, lets you quickly respond to texts and you can take selfies (the phone has just one camera, which faces front when flipped closed). The second screen offers some helpful tricks, but it's only helpful because you can't access most of the phone's features when it's closed. It's a convenience built in to overcome a built-in inconvenience that other smartphones don't possess.      But the Motorola Razr isn't about engineering marvels, pocketability, tricks or convenience. It's about making a smartphone look like the 2004 Razr. It's about buying something that makes your friends jealous. It's about taking us back to those fond memories of our first cell phone. It achieves that.      That's why, for some people, it won't matter that the phone is using yesterday's technology. It runs Android 9 a month after Android 10 hit the market. It has a Qualcomm Snapdragon 710 processor, which is decidedly mid-range. It has a 2510 milliampere hour battery, which is seriously puny. Its screen is plastic and not nearly as sharp as its competitors. And the camera is good on paper, but Motorola has never been known for top-notch camera software.      For all that, it costs $1,500. And you can only get it on Verizon.      I don't care. I've convinced myself. I want it.",
+        "date": "2020-02-11 15:36:23.174865",
+        "title": "The new Motorola Razr is $1,500 but OMG I must have it",
+        "url": "https://www.cnn.com/2019/11/14/tech/motorola-razr-review/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.16298568235043645,
+        "subjectivity": 0.47402656542000815
+    },
+    "signature": {
+        "A": 0.019863946350888326,
+        "Motorola": 0.02972753267195868,
+        "Razr": 0.04324004752284899,
+        "That": 0.021954888072034464,
+        "screen": 0.01621501782106837
+    },
+    "tone": [
+        {
+            "score": 0.57886,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.584107,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.677071,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

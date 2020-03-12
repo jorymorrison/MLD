@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Hong Kong (CNN) The United States has become the latest country to issue a travel warning over Hong Kong's ongoing protests , which have at times turned violent and seen parts of the city brought to a standstill.      The Department of State's Bureau of Consular Affairs issued a travel advisory Wednesday, urging travelers to exercise increased caution over the protests.      'Most have been peaceful, but some have turned confrontational or resulted in violent clashes,' the advisory said. 'These demonstrations, which can take place with little or no notice, are likely to continue.'      The advisory warned those visiting Hong Kong to avoid demonstrations, keep a low profile and exercise caution if unexpectedly in the vicinity of large gatherings or protests.      Similar warnings have been issued by other countries including Australia Japan and Singapore . Although the warnings recommend travelers exercise a high degree of caution, countries are not yet advising visitors to avoid Hong Kong altogether.      For the past nine weeks, Hong Kong has been rocked by large-scale and sometimes violent protests that were sparked by a now-shelved bill that would have allowed people in the city to be extradited to China. The demonstrations -- which have shown no sign of abating -- have evolved to include a range of demands, including greater democracy and an inquiry into alleged police brutality.      Although the protests initially followed planned routes in central Hong Kong, a range of areas around the city are now being impacted -- including places where protesters have not gained permission to demonstrate.      There have also been instances of people being attacked by mobs. Last month , a group wielding iron bars and bamboo sticks attacked people at a Hong Kong metro station. Police reportedly took almost an hour to arrive, and at least 45 people were injured, some seriously.      In a statement Thursday, the Hong Kong government said that although recent incidents may have caused inconvenience to travelers, many of city's travel agents, hotels, and business organizations were making arrangements to minimize future disruption to visitors.      'Hong Kong remains a welcoming city for tourists and travelers from around the world,' a government spokesman said. 'The impact of these illegal confrontations is confined to a limited area near the procession routes, and is not widespread.'      Before the protests kicked off, the city had been enjoying a 6.6% rise in flight bookings in the first six months of 2019, compared to the same period of 2018.      However, in the past few weeks bookings had picked up slightly, the research firm found. Tourists have posted pictures on social media of themselves in front of the countless Lennon Walls that have sprung up around the city, where protesters display art and Post-it notes with inspirational messages.      And despite the warnings, the Hong Kong Tourism Commission said the city is still open to travelers. The 'vast majority of people taking part in processions do so in a peaceful and orderly manner,' Jeanne Tam, from the Tourism Commission, said in a statement. 'Processions only affect certain parts of the city for a defined period of time ... (and) are publicized well in advance,' Tam added.",
+        "date": "2020-02-11 15:31:50.241487",
+        "title": "United States issues travel advisory over Hong Kong protests",
+        "url": "https://www.cnn.com/2019/08/08/asia/us-travel-advisory-hong-kong-intl-hnk/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.011907530454042073,
+        "subjectivity": 0.481578073089701
+    },
+    "signature": {
+        "And": 0.018806318852401617,
+        "Hong": 0.03125161864932654,
+        "Kong": 0.03472402072147393,
+        "city": 0.019161842244211216,
+        "protests": 0.02083441243288436
+    },
+    "tone": [
+        {
+            "score": 0.601046,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.777527,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

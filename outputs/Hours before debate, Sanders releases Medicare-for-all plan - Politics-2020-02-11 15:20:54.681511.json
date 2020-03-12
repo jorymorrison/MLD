@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "The Vermont senator's plan would funnel all Americans into a government-run health insurance program similar to the Medicare program that already covers senior citizens.      'Universal health care is an idea that has been supported in the United States by Democratic presidents going back to Franklin Roosevelt and Harry Truman,' Sanders said in a statement. 'It is time for our country to join every other major industrialized nation on earth and guarantee health care to all citizens as a right, not a privilege.'      The plan comes with a hefty price tag: $1.38 trillion per year, according to calculations released by the Sanders campaign. It would provide comprehensive care to all Americans, covering doctors' visits, hospital stays, long-term and hospice care, vision, dental, mental health and prescription drugs.      To pay for it, Sanders is calling for a new 2.2% income tax on all Americans and a 6.2% levy on employers. But he would also hike taxes on the wealthy.      However, Sanders' campaign argues that average Americans and businesses would save money by scrapping their private insurance premiums, which now cost families an average of $4,955 and employers nearly $12,600 a year per employee. Instead, a family of four making $50,000 would pay $466 in new taxes, while employers would pay $3,100, Sanders' campaign said. Also, Americans would no longer have co-pays or deductibles under the Medicare-for-all plan. Individuals now pay an average of $1,312 a year in deductibles, while families must shell out $2,012. The wealthy, meanwhile, would see their income tax rates raised and their deductions limited. Income above $250,000 would be taxed at rates starting at 37% and topping out at 52% for earnings above $10 million. Long-term capital gains and dividends would be taxed at income rates, instead of the current maximum of 23.8%. The plan would also hike estate taxes on inheritances greater than $3.5 million. The current exemption is $5.45 million. Sanders contends that his plan would also reduce overall health care costs. The nation currently spends $3 trillion a year on health care. Sanders' health plan has been in the spotlight in recent days, with rival Hillary Clinton demanding that he reveal how he'd pay for it. She argued that Sanders would raise taxes on the middle class. Sanders had previously pledged that his plan to provide 12 weeks of paid family leave would be the only campaign platform that would raise taxes on the middle class. The move to release his plan just two hours before debating Clinton and former Maryland Gov. Martin O'Malley in Charleston. Clinton has defended President Barack Obama's health care law, arguing that it accomplished the Democratic goal of extending universal coverage and hitting Sanders on the cost of his program. Her campaign quickly charged Sanders with flip-flopping soon after he released the plan, though it didn't attack the substance of his proposal. 'Senator Sanders has been changing a lot of positions in the last 24 hours, because when his plans and record come under scrutiny, their very real flaws get exposed,' Clinton spokesman Brian Fallon said in a statement. 'After digging in his heels for weeks, he backpedaled on his vote to give sweeping immunity to gun manufacturers and dealers. And after weeks of denying the legitimacy of the questions Hillary Clinton raised about flaws in the health care legislation he's introduced nine times over 20 years, he proposed a new plan two hours before the debate.' Fallon added: 'When you're running for President and you're serious about getting results for the American people, details matter -- and Senator Sanders is making them up as he goes along.'",
+        "date": "2020-02-11 15:20:54.681511",
+        "title": "Hours before debate, Sanders releases Medicare-for-all plan - Politics",
+        "url": "https://www.cnn.com/2016/01/17/politics/bernie-sanders-medicare-plan/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.048825896325896324,
+        "subjectivity": 0.3341591741591742
+    },
+    "signature": {
+        "And": 0.01950910938662098,
+        "Sanders": 0.03856435943702767,
+        "To": 0.020007839694286766,
+        "care": 0.023731913499709337,
+        "health": 0.026698402687173006
+    },
+    "tone": [
+        {
+            "score": 0.538249,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "article": {
+        "body": "Hong Kong (CNN Business) China may have to cut taxes, boost spending and slash interest rates to prevent the coronavirus outbreak wreaking havoc on an already fragile economy .      The economic impact of the virus is still impossible to determine, but one state media outlet and some economists have said that China's growth rate could drop two percentage points this quarter because of the outbreak, which has brought large parts of the country to a standstill. A decline on that scale could mean $62 billion in lost growth.      China can ill afford that kind of hit. Growth last year was already the country's weakest in nearly three decades, as China contended with rising debt and the fallout from its trade war with the United States.      The coronavirus, which first appeared in the central city of Wuhan, has already killed more than 200 people and infected more people than the SARS outbreak in 2003. A disease of this magnitude wasn't even on China's radar. Before the outbreak, the government was more worried that social unrest could be its 'black swan' problem \u2014 an improbable but chaotic event officials feared could be spurred by rising unemployment.      Now Beijing is scrambling to stop the virus from cratering its economy. The ruling Communist Party recently put Premier Li Keqiang in charge of virus control. The decision was a clear signal that stopping the virus is 'the priority among priorities' for the government right now, the official People's Daily newspaper wrote in a recent commentary.      So far, policymakers have taken some steps to help the businesses that are most affected by the rapid spread of the disease.      Central and local governments have allocated $12.6 billion so far to spend on medical treatment and equipment.      Major banks have cut interest rates for small businesses and individuals in the worst-hit areas. And the Bank of China said it would allow people in Wuhan and the rest of Hubei province to delay their loan payments for several months if they lose their source of income because of the disruption.      The government will likely have to be even more aggressive in the coming months to avert a more serious slowdown, according to Chinese economist Zhang Ming.      Zhang, who works at the Chinese Academy of Social Sciences, wrote this week that he expects economic growth to slump by a percentage point to 5% in the first quarter, assuming the epidemic lasts until the end of March. He described that as his most optimistic scenario, but didn't give a specific forecast should the outbreak last even longer.      The government could cut taxes and boost spending on public healthcare and employment training, Zhang said. He also expects local governments to spend more on infrastructure. By boosting economic activity and creating jobs, he added, cities can offset any weakness in private investment in real estate and manufacturing.      The central bank is also likely to deliver more interest rate cuts to stabilize the economy, Zhang said. Altogether, he said such measures could help growth rebound next quarter and push annual GDP growth to around 5.7%. While that's lower than last year's 6.1% growth, it would be in line with many analyst expectations.      Others take a more pessimistic view.      Analysts at Nomura believe growth could drop by two percentage points or more in the first quarter. The Global Times, a state-run tabloid, wrote Friday that the outbreak could shave two percentage points off GDP growth this quarter, citing industry insiders. Government's efforts to contain the virus by extending Lunar New Year holidays and forcing factories to shut down could 'take a piece out of the nation's manufacturing industry and disrupt the global supply chain.'      Other sectors might have more to lose right now. Tourism \u2014 a multibillion-dollar industry during the Lunar New Year \u2014 has been decimated as the government quarantines major population centers and people avoid traveling for fear of becoming infected. Major travel companies, hotels and airlines have offered refunds through most of February, while some airlines have suspended services to and from China.      Zhang and other analysts suggested that the fallout could even be more serious than after SARS, the respiratory disease that caused China's economic growth to briefly plunge before rebounding nearly two decades ago.      The spread of the coronavirus threatens to cause job losses and push consumer prices higher, compounding economic woes that already exist.      The employment market is already under stress this year. Industries that traditionally create a lot of jobs, like the technology sector, have been hurt by the economic slowdown. The coronavirus outbreak will make things worse, according to Zhang.      China's 290 million migrant workers are among those most exposed to a slump. Many of them travel from rural areas to the cities to take on construction and manufacturing jobs or perform low paying but vital work, such as waiting tables in restaurants, delivering packages or acting as janitors.      But because many factories and businesses remain shut down, millions of those workers might find it hard to land a job after the extended Lunar New Year holiday ends. More than 10 million migrant workers from Hubei province alone might also face discrimination from employers fearful that they may spread the virus.      Zhang warned that China's unemployment rate \u2014 already a concern for officials \u2014 could reach a record high in the coming months. The rate traditionally has hovered around 4% or 5%.      Dealing with the disease will make some of China's other problems that much tougher to solve \u2014 including its tricky trade relationship with the United States.      Even so, at least one analyst finds it unlikely that the trade war will escalate just because China is 'temporarily' unable to honor its trade commitments. The United States is in an election year, and such an action could jeopardize President Donald Trump's campaign, said Ken Cheung, chief Asian foreign exchange strategist at Mizuho Bank.",
+        "date": "2020-01-31 16:50:53.932359",
+        "title": "The coronavirus could cost China's economy $60 billion this quarter. Beijing will have to act fast to avert a bigger hit",
+        "url": "https://www.cnn.com/2020/01/31/economy/china-economy-coronavirus/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.08484617060088753,
+        "subjectivity": 0.3919237183152276
+    },
+    "signature": {
+        "And": 0.01680356801357443,
+        "China": 0.021718296596703695,
+        "Growth": 0.018098580497253082,
+        "More": 0.021718296596703695,
+        "outbreak": 0.012669006348077157
+    },
+    "tone": [
+        {
+            "score": 0.600384,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.618087,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.840996,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.719429,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

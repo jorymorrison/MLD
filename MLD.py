@@ -1,9 +1,10 @@
-import json, sys, math, glob, os, datetime, platform, argparse
+import json, sys, math, glob, os, datetime, platform, argparse, re
 import urllib
 from textblob import TextBlob
 from goose3 import Goose
 from goose3.configuration import Configuration
-from watson_developer_cloud import ToneAnalyzerV3, WatsonApiException
+from ibm_watson import ToneAnalyzerV3, ApiException
+from ibm_cloud_sdk_core.authenticators import BasicAuthenticator
 import nltk
 import ssl	
 
@@ -28,6 +29,15 @@ class bcolors:
 def fileContents(name):
     return open(name, "r").read()
 
+def astrip(doc):
+    doc = (doc.encode('ascii', 'ignore')).decode("utf-8")
+    #print(doc)
+    doc=doc.lower()
+    #print(doc)
+    re.sub('(\s+)(a|an|and|the|of|to|in|is|you|that|it|he|was|for|on|are|as|with|his|they|i|at|be|this|have|from|or|one|had|by|word|but|not|what|all|were|we|when|your|can|said|there|use|each|which|she|do|how|their|if)(\s+)', '\1\3', doc)
+    #print(doc)
+    return(doc)
+    #currently doing top 50 words used in english language according to 'https://www.empire-skola.sk/data/USR_042_IMAGES/The_100_Most_Common_Written_Words_in_English.pdf'
 def tf(word, blob):
     return blob.words.count(word) / len(blob.words)
 
@@ -53,7 +63,8 @@ try:
     sys.stdout.flush()
     file = open ("config.conf", "r")
     keys = file.readlines()
-    keys = [keys[0][12:].split("\n")[0], keys[1][12:]]
+    keys = [keys[0][12:].split("\n")[0], keys[1][12:].split("\n")[0]]
+    print(keys)
     sys.stdout.write(bcolors.ENDC + "\rSuccessfully found configuration file 'config.conf'.\n")
     sys.stdout.flush()
 
@@ -90,7 +101,7 @@ except IOError as er:
         keys = [os.environ["WATSON_USER"], os.environ["WATSON_PASS"]]
         sys.stdout.write(bcolors.ENDC + "\rSuccessfully retrieved environmental variables.\n")
         sys.stdout.flush()
-        if keys[0] == "" or keys[1] == "":
+        if keys[0] == '' or keys[1] == '':
             sys.stderr.write(bcolors.WARNING + "WARNING: environmental variables missing values!\n")
 
     except KeyError as er:
@@ -99,7 +110,7 @@ except IOError as er:
         sys.stdout.write(bcolors.ENDC + "Generating config file 'config.conf'...")
         sys.stdout.flush()
         file = open("config.conf", "w")
-        file.write("watson_user=\nwatson_pass=")
+        file.write("watson_user=''\nwatson_pass=''")
         sys.stdout.write(bcolors.ENDC + "\rSuccessfully generated configuration file 'config.conf'.\n")
         sys.stdout.write(bcolors.FAIL + "Please access the config or evironment variables:\nWATSON_USER\nWATSON_PASS\n\nSet them using values of your Watson API username and password.\nExiting program...\n" + bcolors.ENDC)
         sys.stdout.flush()
@@ -107,22 +118,22 @@ except IOError as er:
 #
 #
 #
-
-
+#for key in keys:
+	#print(type(key))
+authenticator = BasicAuthenticator('apikey',keys[1])
 tone_analyzer = ToneAnalyzerV3(
    version='2017-09-21',
-   url='https://gateway.watsonplatform.net/tone-analyzer/api',
-   username=keys[0],
-   password=keys[1]
+   authenticator=authenticator
 )
+tone_analyzer.set_service_url('https://api.us-south.tone-analyzer.watson.cloud.ibm.com/instances/c556e4af-30a2-4acb-a342-0da1419f9b59')
 
-url = args.url
-#url = input('Enter the URL of a news article:')
-url = url.replace(' ','')
 
 try:
-     sys.stdout.write("Retrieving satus code...")
-     page = urllib.request.urlopen(url, data=None)
+    url = args.url
+    #url = input('Enter the URL of a news article:')
+    url = url.replace(' ','')
+    sys.stdout.write("Retrieving satus code...")
+    page = urllib.request.urlopen(url, data=None)
 
 # error thrown if the status code is bad
 except urllib.error.HTTPError as e:
@@ -132,8 +143,13 @@ except urllib.error.HTTPError as e:
 
 # error thrown if the URL is bad
 except (urllib.error.URLError, ValueError):
-     sys.stdout.write(bcolors.FAIL + '\rFailed to retrieve status code.\nExiting program...\n' + bcolors.txt)
+     sys.stdout.write(bcolors.FAIL + '\rFailed to retrieve status code.\nExiting program...\n')
      exit()
+
+except ():
+    sys.stdout.write('Unkown Error.\nExiting program...\n')
+    exit()
+
 
 scode = str(page.getcode())
 
@@ -202,10 +218,10 @@ sentiment.update({'subjectivity' : TextBlob(doc).subjectivity})
 
 
 try:
-    content_type = 'application/json'
     #logOutput = json.dumps(tone_analyzer.tone({"text": doc}, content_type, False), indent=4)[1:-2] + ",\n"
-    logOutput = tone_analyzer.tone({"text": doc}, content_type, True)['document_tone']['tones']
-except WatsonApiException as er:
+    logOutput = tone_analysis = tone_analyzer.tone({'text': doc}, content_type='text/plain').get_result()
+    #print(logOutput)
+except ApiException as er:
     sys.stderr.write("\rFailed to retrieve document tone.\n Status code " + str(er.code) + ": " + er.message)
     exit()
 sys.stdout.write("\rSuccessfully retrieved document tone.\n")
@@ -237,12 +253,18 @@ sys.stdout.write("\rSuccessfully accessed corpus with {} invalid documents.\n".f
 percent = 0
 sys.stdout.write("Calculating lexical signature... %d%%" % percent)
 sys.stdout.flush()
-doc = TextBlob(doc)
+doc2 =doc.lower()
+#print(doc2)
+doc2 = astrip(doc2)
+#print(doc2)
+doc2=TextBlob(doc2)
+doc= TextBlob(doc)
+#print(doc)
 percent += 12.5
 sys.stdout.write("\rCalculating lexical signature... %d%%" % percent)
 sys.stdout.flush()
 #output += '\n\t"lexical_signature": {\n\t\t"tf-idf": [\n\t\t\t{'
-scores = {word: tfidf(word, doc, corpus) for word in doc.words}
+scores = {word: tfidf(word, doc, corpus) for word in doc2.words}
 percent += 12.5
 sys.stdout.write("\rCalculating lexical signature... %d%%" % percent)
 sys.stdout.flush()

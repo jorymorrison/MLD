@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Trump's current 49% approval puts him ahead of where his predecessor -- Barack Obama -- was at this same time in his first term. (Obama was at 46% approval.) Which is absolutely remarkable, given the first 3+ years of Trump's presidency and the fact that he became just the third president in American history to be impeached by the House last month.      The Democratic-led impeachment effort likely contributed to Trump's strengthening numbers. You see it most clearly in the fact that 94% of self-identified Republicans in the poll said they approve of the job Trump is doing -- up 6 points from those who said the same thing in Gallup's poll last month. And that 94% approval is Trump's highest rating -- by 3 points -- ever among Republicans.      It's hard not to see the impeachment investigation in the House and subsequent trial in the Senate as the prime driver of the near-total fealty that Republicans are now exhibiting toward Trump. Trump, as well as his allies in the House and Senate, from the start have portrayed the impeachment proceedings as a purely partisan effort led by Democrats who just can't accept that Trump beat Hillary Clinton in 2016.      Tribalism was already at work in our politics -- you can trace its current nasty iteration back 20 years to the impeachment trial of Bill Clinton -- but what Trump has done is supercharge it. And if possible, the attempt to impeach him has amped up the tribalism even more. The best evidence? While 94% of Republicans approve of the job Trump is doing, just 7% of Democrats feel the same; that 87-point gap is the largest ever measured in Gallup polling. Ever. But it's not just among Republicans where Trump's numbers have improved. His approval among independents in this latest Gallup poll is 42% -- up 5 points from where he was among this group in January and tied for his highest mark ever among unaffiliateds. Those gains likely have less to do with impeachment -- although it's worth noting that 52% of all respondents in Gallup think Trump should be acquitted in the Senate trial -- than they do with the continued strength of the economy. More than 6 in 10 people now approve of the job Trump is doing with the economy, which is both the best Trump has ever done on that question and the highest mark for any president on it since George W. Bush in the immediate aftermath of the September 11, 2001 terrorist attacks. (Bush overall approval numbers shot to 90% following the attacks.) Combine Republicans rallying even more closely to Trump during impeachment and independents started to come around on Trump due to the perceived strength of the economy and you see how Trump has reached new polling heights. And while these numbers obviously don't factor in the utter mess of the Iowa caucuses that played out on national TV Monday night, it's hard not see how that chaos doesn't help Trump too. 'The Democrat Caucus is an unmitigated disaster,' the President tweeted Tuesday morning. 'Nothing works, just like they ran the Country. Remember the 5 Billion Dollar Obamacare Website, that should have cost 2% of that. The only person that can claim a very big victory in Iowa last night is 'Trump.'' In short: it's been a very good 24 hours for Trump. And the next 24 look pretty good too, as he is all-but-certain to be acquitted by the Senate on the articles of impeachment.",
+        "date": "2020-02-11 15:39:28.287532",
+        "title": "Donald Trump just got the best polling news of his presidency",
+        "url": "https://www.cnn.com/2020/02/04/politics/donald-trump-gallup-poll/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.1371880293619424,
+        "subjectivity": 0.4106422924901187
+    },
+    "signature": {
+        "Republicans": 0.01828325989008219,
+        "Trump": 0.057896989651926946,
+        "among": 0.01523604990840183,
+        "approval": 0.01523604990840183,
+        "impeachment": 0.02133046987176256
+    },
+    "tone": [
+        {
+            "score": 0.526757,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.55811,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.582079,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

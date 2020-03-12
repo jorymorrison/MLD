@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Houston police say a group of customers walked into a Popeyes Chicken restaurant Monday night and asked for some sandwiches. But the restaurant chain is all sold out -- news the foursome didn't want to hear.      The group -- two men and two women -- grew angry, and that's when one man pulled out a gun, police said.      The employees ran to the back of the restaurant and the group, who police estimated range in age from 17 to 20 years old, ran out of the restaurant. They jumped into an older model SUV with a woman in the driver seat.      But they weren't finished -- the group pulled through the drive-through lane and threw an empty can through its window.      The Houston Police Department said they are looking for any usable surveillance video in hopes of making an arrest. There have been no charges so far. Popeyes announced in early August that it would begin selling chicken sandwiches, sparking a nationwide craze. They sold out in just two weeks The chicken franchise blamed 'extraordinary demand' for the sandwiches after initially projecting its inventory would last until the end of September. They promised they'll be back soon.",
+        "date": "2020-02-11 15:32:15.424357",
+        "title": "Popeyes customer pulls a gun after being told there were no more chicken sandwiches",
+        "url": "https://www.cnn.com/2019/09/03/us/popeyes-chicken-houston-trnd/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.11000000000000001,
+        "subjectivity": 0.48333333333333334
+    },
+    "signature": {
+        "Chicken": 0.02728567719636632,
+        "Police": 0.036380902928488425,
+        "They": 0.03346027275131299,
+        "group": 0.036380902928488425,
+        "sandwiches": 0.02728567719636632
+    },
+    "tone": [
+        {
+            "score": 0.574547,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+        },
+        {
+            "score": 0.594668,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

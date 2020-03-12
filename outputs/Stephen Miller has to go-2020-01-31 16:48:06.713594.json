@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Raul A. Reyes is an attorney and a member of the USA Today board of contributors. Follow him on Twitter @RaulAReyes . The opinions expressed in this commentary are solely those of the author. View more opinions on CNN.      Drawing upon more than 900 emails that Miller sent to the website Breitbart News when he was an aide to Senator Jeff Sessions, the report exposes Miller's naked extremism      In the emails, Miller promotes a notoriously racist French novel that paints a dystopian picture of immigrants as subhuman hordes. He encourages a Breitbart reporter to emphasize stories about crime by immigrants and non-whites. He expresses dismay that Amazon had stopped selling Confederate flags after the 2015 Charleston church shooting.      The SPLC says it could not find one email in which Miller wrote sympathetically or even neutrally about any person who was non-white or foreign born.      Such extreme views would ordinarily disqualify anyone from public service. But Miller is no ordinary public servant. He is President Donald Trump's most influential advisor on immigration , responsible for policies that have harmed legal and undocumented immigrants, asylum-seekers and refugees.      Miller is unique because, as officials have come and gone through the revolving door of the Trump administration, he has remained. That must end, now that we know the motivation behind his heartless and often ineffective policies. Consider that the emails analyzed by the SPLC were not from long ago; they were sent between 2015 and 2016. Nor has Miller denied their authenticity.      The Trump administration response to the SPLC report has been telling. One White House official told an Axios reporter that 'This is clearly a form of anti-Semitism to levy these attacks against a Jewish staffer.' Under this flawed line of defense, any criticism of a Jewish public figure would be off limits.      Not only is this illogical, it is insulting to the genuine victims of anti-Semitism. White House press secretary Stephanie Grisham told the Washington Post via email that she had not seen the report, but called the SPLC 'an utterly-discredited, long-debunked far-left smear organization.' What's notable is that no one has denied that Miller is a racist, or suggested that his views had evolved over the last several years.      Since the SPLC report was released, there have been growing calls for Miller to step down. Rep. Alexandria Ocasio-Cortez (D-NY) has called for his resignation , as have members of the Congressional Hispanic Caucus and the Congressional Black Caucus . In fact, in the wake of the revelations about Miller's affinity for white nationalism, more than 80 members of Congress want him to resign right now.      These calls are a welcome start, yet it is time to hear from GOP lawmakers. Every Republican member of Congress should be asked on the record whether they believe Miller should stay or go.      Congressional Republicans have precedent for dealing with such indefensible comments. In January, House Republicans finally punished Rep. Steve King (R-Iowa) for his remarks on white nationalism. He was removed from his committee assignments and the House voted to condemn his racist statements. He was denounced by GOP leaders, including Senate majority leader Mitch McConnell, who suggested King find 'another line of work,' and Sen. Mitt Romney (R-Utah), who said he should quit. So where do McConnell and Romney stand on Stephen Miller's future in the Trump administration?      True, the President can choose whomever he likes to work in his White House, and Trump himself has a history of bigoted remarks. That doesn't make Miller's white nationalism acceptable. Those who favor conservative immigration policies ought to realize that Miller is likely to become an increasing liability and distraction for the administration.      It's not only Democrats who find his views offensive, either. BuzzFeed News reports that unnamed officials at the Department of Homeland Security and Department of Justice called Miller's emails 'sickening' and 'proof' that immigration policy is being driven by racism.      Miller's continued presence in the White House is an insult to our fundamental values of decency, especially at a time when the US is holding a record number (more than 69,000) of migrant children in custody.      Hate is not partisan. Hate is not political. Hate is hate -- and does not belong in the White House. Stephen Miller must step down.",
+        "date": "2020-01-31 16:48:06.713594",
+        "title": "Stephen Miller has to go",
+        "url": "https://www.cnn.com/2019/11/18/opinions/stephen-miller-has-to-go-reyes/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.02128684807256236,
+        "subjectivity": 0.4454790249433106
+    },
+    "signature": {
+        "House": 0.0175662693061574,
+        "Miller": 0.04266093974352512,
+        "That": 0.015532709928514181,
+        "White": 0.020075736349894173,
+        "white": 0.020075736349894173
+    },
+    "tone": [
+        {
+            "score": 0.623876,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+        },
+        {
+            "score": 0.620184,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

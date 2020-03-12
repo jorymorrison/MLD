@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Harry Styles has a lot to be thankful for this holiday season.      The former 'One Direction' star's sophomore album, 'Fine Line,' hit number one on the Billboard 200 chart this week. According to Billboard , 'it marks the biggest week for a pop album by a male artist in over four years.'      Styles also landed number one on the Rolling Stone Top 200 Albums Chart . It's the second highest debut in the chart's history, beating Post Malone's 'Hollywood's Bleeding.'      The chart is based on album units sold both digitally and physical album sales, song sales and audio streams.      The album, which released December 13, has several fan favorites including 'Lights Up' and 'Watermelon Sugar.'      Styles released his first solo album in 2017 titled 'Harry Styles,' and had similar success with the album skyrocketing to number one on iTunes.",
+        "date": "2020-01-31 16:48:18.095327",
+        "title": "Harry Styles' 'Fine Line' album hits number one",
+        "url": "https://www.cnn.com/2019/12/23/entertainment/harry-styles-fine-line-number-one-trnd/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.13333333333333333,
+        "subjectivity": 0.17965367965367965
+    },
+    "signature": {
+        "Billboard": 0.025236048862366973,
+        "Chart": 0.05047209772473395,
+        "Styles": 0.05047209772473395,
+        "album": 0.0883261710182844,
+        "chart": 0.05047209772473395
+    },
+    "tone": [
+        {
+            "score": 0.816164,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.545474,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

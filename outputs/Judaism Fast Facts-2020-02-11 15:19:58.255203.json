@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "(CNN) Here's a look at Judaism, the monotheistic (belief in one God) religion of the Jewish people.      Jewish law is rooted in the Torah, the first five books of the Bible: Genesis, Exodus, Leviticus, Numbers and Deuteronomy.      According to the Torah, Abraham is the father of Judaism. He was born about 4,000 years ago, during an era when many gods were worshiped, but he believed there was only one God.      Judaism grew out of a covenant between God, Abraham, Abraham's children and their descendants. Moses, likely born during the late 14th century BC, led the Hebrew slaves out of Egypt, received the Torah from God and taught the people God's laws.      The main denominations of Judaism are Orthodox, Conservative and Reform.      Jewish people worship at synagogues, and any educated member of the congregation can lead a service. However, a rabbi or cantor usually leads services.      Rabbis are Jewish spiritual authorities, educated at yeshivas, religious seminaries. Rabbis interpret the Bible and present the meaning of Jewish law.      When Jewish children turn 12 or 13, they stand before the congregation and read a section of the Torah in a ceremony called a bar mitzvah (for boys) or bat mitzvah (for girls). This celebration commemorates a passage into Jewish adulthood, meaning that the young men and women can now participate fully in traditions like fasting on Yom Kippur.      Observant Jews keep kosher, following dietary laws that prohibit the eating of certain foods including shellfish and pork, as well as meals that contain a mix of meat and dairy.      A yarmulke or kippa is a cap worn by Jewish men as well as secular men at religious ceremonies. The custom isn't rooted in the Bible but evolved out of the belief that God is watching from above.      Kabbalah is a mystical type of Torah study centered on spiritual enlightenment and personal growth.      Shabbat, the Sabbath or day of rest, begins Friday night and lasts until sundown Saturday.            Judaism was established circa 2000 BC as part of a covenant between God and Abraham. Uprisings against the Romans during the first and second centuries AD led to the beginning of the Jewish diaspora, the movement of Jews into other parts of the world. Those practicing Judaism were kept marginalized from society and persecuted in many countries. The creation of a Jewish state was discussed at the first Zionist Congress in Switzerland in 1897. In 1948, the state of Judaism was established circa 2000 BC as part of a covenant between God and Abraham. Uprisings against the Romans during the first and second centuries AD led to the beginning of the Jewish diaspora, the movement of Jews into other parts of the world. Those practicing Judaism were kept marginalized from society and persecuted in many countries. The creation of a Jewish state was discussed at the first Zionist Congress in Switzerland in 1897. In 1948, the state of Israel was formed, after World War II and the genocide of over six million Jews.            'The core Jewish population includes people who identify as Jews by religion, as well as others who do not identify by religion but see themselves as Jews by ethnicity or other cultural criteria,' according to the American Jewish Yearbook 2018. 'The core Jewish population includes people who identify as Jews by religion, as well as others who do not identify by religion but see themselves as Jews by ethnicity or other cultural criteria,' according to the American Jewish Yearbook 2018.      The numbers below reflect the world population of Jews, divided by country.       World - 14,606,000 (2018)",
+        "date": "2020-02-11 15:19:58.255203",
+        "title": "Judaism Fast Facts",
+        "url": "https://www.cnn.com/2013/11/12/world/judaism-fast-facts/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.04361904761904763,
+        "subjectivity": 0.21776190476190474
+    },
+    "signature": {
+        "A": 0.018639251914217017,
+        "Jewish": 0.04818176723974602,
+        "Jews": 0.027102244072357135,
+        "Judaism": 0.02409088361987301,
+        "religion": 0.01505680226242063
+    },
+    "tone": [
+        {
+            "score": 0.562399,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.591858,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.756377,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

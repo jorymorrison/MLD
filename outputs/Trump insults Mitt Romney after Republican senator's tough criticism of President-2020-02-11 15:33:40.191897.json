@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "In a crude attack against a sitting senator from his own party, Trump tweeted, 'Mitt Romney never knew how to win. He is a pompous 'ass' who has been fighting me from the beginning, except when he begged me for my endorsement for his Senate run (I gave it to him), and when he begged me to be Secretary of State (I didn't give it to him). He is so bad for R's!'      Trump's attack comes as he faces a widening impeachment inquiry in the House of Representatives. Most congressional Republicans have remained silent and declined to speak out in opposition to the President's comments on Thursday that he wants both Ukraine and China to investigate Joe Biden and his son, Hunter. But Romney criticized the President in a statement Friday, saying, 'By all appearances, the President's brazen and unprecedented appeal to China and to Ukraine to investigate Joe Biden is wrong and appalling.'      There is no evidence of wrongdoing by either Joe or Hunter Biden.      Romney also said, 'When the only American citizen President Trump singles out for China's investigation is his political opponent in the midst of the Democratic nomination process, it strains credulity to suggest that it is anything other than politically motivated.' CNN has reached out to Romney's office for response to the President's tweet.      Trump on Saturday did not take aim at Republican Sen. Ben Sasse of Nebraska, who also pushed back on the China comments and has been an occasional critic of the President. In a statement to the Omaha World-Herald , Sasse said, 'Hold up: Americans don't look to Chinese commies for the truth,' adding, 'If the Biden kid broke laws by selling his name to Beijing, that's a matter for American courts, not communist tyrants running torture camps.' Sasse also criticized House Intelligence Committee Chairman Adam Schiff, a Democrat from California, saying, 'Congressman Schiff is running a partisan clown show in the House \u2014 that's his right because the Constitution doesn't prohibit clown shows, but fortunately, in the Senate, we're working to follow the facts one step at a time.' Republican Rep. Will Hurd of Texas, a member of the House Intelligence Committee, also reacted critically to Trump's call for China to investigate the Bidens. 'I think it's terrible. It's something that I wouldn't have done,' Hurd told CNN's Alisyn Camerota on 'New Day' on Friday. 'China is an adversary .... We are in a tight and complex trade negotiation with China now, and so you are potentially giving them something to hold over your head ... So, I think that is something that a President of the United States shouldn't be doing.' The President's suggestion was met with fierce criticism from congressional Democrats as they forge ahead with a House impeachment inquiry against the President, which was triggered by a whistleblower complaint alleging that the President pressured Ukraine to solicit interference in the upcoming 2020 presidential election. While Democrats investigate the complaint, a number of congressional Republicans have sought to undermine the credibility of the whistleblower by arguing that the complaint amounts to 'hearsay.' This story has been updated with additional developments Saturday.",
+        "date": "2020-02-11 15:33:40.191897",
+        "title": "Trump insults Mitt Romney after Republican senator's tough criticism of President",
+        "url": "https://www.cnn.com/2019/10/04/politics/romney-trump-china-ukraine-rebuke/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.04688311688311687,
+        "subjectivity": 0.4647546897546898
+    },
+    "signature": {
+        "China": 0.01994537442554421,
+        "House": 0.016621145354620177,
+        "President": 0.033242290709240355,
+        "Romney": 0.01329691628369614,
+        "Trump": 0.016621145354620177
+    },
+    "tone": [
+        {
+            "score": 0.553218,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "article": {
+        "body": "And now, some are considering whether to oust her.      Ten incoming freshmen \u2014 all from competitive districts \u2014 pledged during their campaigns to oppose Pelosi for speaker of the House. Their calls came as Republicans dropped millions in purple and red districts to tie Democrats to the longtime San Francisco liberal, a woman depicted as the face of the resistance in ads splashed across TV screens all over America.      The candidates faced immense pressure to distance themselves from her. Abigail Spanberger, who beat incumbent Republican David Brat in Virginia, was crystal clear. 'I won't vote for her under any circumstances,' Spanberger told Roll Call, and she told CNN on Monday that she wants a leader who would 'heal some of the divisions in our communities.'      In South Carolina, Joe Cunningham, who defeated Republican Katie Arrington, announced his position early on Twitter.      'The Democratic Party needs new leadership now. If elected, I will not vote for Nancy Pelosi for speaker. Time to move forward and win again,' he tweeted, telling CNN on Monday that on the speaker issue, 'My position has been the same since day one, and that has not changed.'      And in Michigan, Elissa Slotkin, who defeated incumbent Republican Mike Bishop, told her local station prior to being elected, 'I have made very clear, publicly that I would not support Nancy Pelosi as our next speaker.'      But as the freshmen come to Washington this week, they are also under growing pressure from their caucus to avoid a messy floor fight and to back Pelosi after she's expected to win the Democratic nomination for speaker later this month. If they don't, they risk provoking chaos in their new majority -- while alienating themselves with their new colleagues and party leaders who could help them ascend in their caucus and land plum committee spots.      The midterms are over, and as those elected candidates head to Washington and with no challenger willing to step forward to run against her, they'll continue to face pressure to either carry through with their campaign promise to oppose Pelosi, or unite with the rest of the caucus and support her in the end. Neither Cunningham nor Spanberger would name an alternative candidate to Pelosi whom they would support.      'I don't know who may step forward, but I really do think that it's incredibly important that if we are going to change the conversation in Washington we need to change the people having it and directing it,' Spanberger told CNN. 'It's not in any way a negative assessment that the job that anybody is doing but at times cyclical change, I believe, is a good thing.'      Cunningham is going to wait and meet fellow members in DC soon, saying he can 'name on one hand' the number of Congressmen and women that he has met before.      Technically, they could do both. The freshmen could oppose Pelosi in the initial caucus vote for speaker nominee on November 28. Pelosi only needs support from the majority of the caucus to clinch the nomination, so she can afford to lose these members in that first round of voting.      Some incoming freshmen have already been clear they will not support Pelosi under any scenario -- 'I am not going to vote for her. No ifs, ands or buts, under any circumstances,' Max Rose of New York said Monday on Fox -- while others haven't been as specific.      Many of the incoming freshmen are already getting calls from both sides, offering them encouragement and support as they navigate their new environment.      'We will need to do what's best for our districts, no matter who's calling us,' Slotkin told CNN on Monday.      CNN projects Democrats so far have a 225-seat majority, so Pelosi would need to shore up support from over 90% of her caucus to reach that 218 threshold on the floor.      One Democratic strategist and former top official at the DCCC -- who asked not to be named due to their work with 2018 races -- said new members will still be able to say they opposed Pelosi in the caucus vote, but opposing her on the floor could help Republicans.      'Voting against her in caucus is what they promised to do - to try to get someone else,' the strategist said. 'Voting against her on the floor is a vote for Trump and (House Republican Leader Kevin) McCarthy, and that's not what they told voters. In fact, it would effectively overturn the election result.'      Democrats who oppose Pelosi don't have to vote for the Republican nominee on the floor -- they can voice any name they like. But if enough Democrats don't vote for the Democratic nominee, then it could ultimately help tip the scales for the Republican choice.      But Pelosi may not necessarily need 218 votes after all. Due to procedural rules, if some members vote 'present,' that could lower the threshold and she could win with fewer than 218 votes.      Pelosi detractors argue that urging these freshmen to support Pelosi on the floor could be politically damaging for them, given that it's their first vote as members of Congress.      'Leadership asking new members to make a choice: break campaign promise on your 1st vote, or stand up to a status quo that will punish you,' Rep. Seth Moulton posted Friday on Twitter. 'We've been fielding lots of calls from incumbents. We're the voices of a silent majority who want new leadership & to protect new members.'      The caucus is expected to debate a proposal this week that would change the caucus rules and make it more difficult for anyone to secure the speaker nomination, including Pelosi. Incoming freshmen, in town for orientation this week, will get a first-hand look at the party's internal dispute over its leadership on Capitol Hill -- a split that many want to avoid fresh after a major victory.      A day after winning back the House last week, Pelosi was boasting about the unprecedented number of women who were elected to the House. A reporter pointed out that some of those women say they won't support her.      'What I say to those women: Congratulations on your election,' she said. 'Welcome.'",
+        "date": "2020-02-11 15:25:57.890637",
+        "title": "Incoming freshmen face pressure over Pelosi promise",
+        "url": "https://www.cnn.com/2018/11/13/politics/freshmen-pelosi-vote/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.1664756722151089,
+        "subjectivity": 0.41170294494238147
+    },
+    "signature": {
+        "Pelosi": 0.029429865678141966,
+        "Their": 0.017311685693024683,
+        "caucus": 0.017311685693024683,
+        "support": 0.015580517123722217,
+        "vote": 0.019042854262327154
+    },
+    "tone": [
+        {
+            "score": 0.513789,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.555894,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.712166,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        },
+        {
+            "score": 0.623111,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

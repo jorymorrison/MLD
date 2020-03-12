@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Hailing the US-Mexico-Canada Agreement as 'a colossal victory for our farmers, ranchers, energy workers, factory workers and American workers in all 50 states,' Trump used an event on the White House South Lawn to demonstrate his successes even amid an impeachment trial.      'The USMCA is the largest, fairest, most balanced and modern trade agreement ever achieved. There's never been anything like it,' Trump said.      But in a sign of festering resentment over the attempt to remove him from office, Trump only invited Republicans to attend the ceremony, along with farmers and workers the White House says will benefit from the renegotiated pact.      Trump gave shout outs to a long list of Republican senators -- and current jurors in the impeachment trial -- in the audience for Wednesday's signing.      'Maybe I'm just being nice to them because I want their vote. I don't want to leave anybody out,' Trump said before listing several GOP senators. It was a day long anticipated by the trade-minded Trump, who earlier this month signed the first phase of a deal with China that aims to ease global trade tensions. 'This is something we really put our heart into. It's probably the No. 1 reason that I decided to lead this crazy life that I'm leading right now as opposed to that beautiful, simple life of luxury that I lived before this happened,' Trump said during the ceremony. As the impeachment saga charges forward, Trump is hoping to highlight a strong American economy -- bolstered, he says, by trade deals that better serve US workers -- as a way to rebut accusations he abused his office. The US-Mexico-Canada agreement replaces the North American Free Trade Agreement , which Trump railed against during the 2016 campaign. The new deal will undoubtedly feature heavily in his re-election pitch this year. The plan enshrines new auto manufacturing requirements and tougher labor protections but largely leaves the trillions of dollars in trade flow between the three countries unchanged. Democrats largely voted for the trade agreement alongside their Republican colleagues when it came to the floor for a vote in December. House Speaker Nancy Pelosi has said negotiations between Democrats and the Trump administration yielded a better deal -- one she said little resembles the one Trump originally sent to Capitol Hill. 'I want to say that the bill, what the President will be signing, is quite different from what the President sent us,' Pelosi said on Wednesday. 'I hope he understands what he is signing today.' She was not invited to the signing ceremony, a spokesperson for her office told CNN. Nor was Ways and Means Committee Chair Richard Neal, a Massachusetts Democrat who shepherded the rebranded US-Mexico-Canada agreement to passage. Mexico has ratified the agreement, but Canada must still sign off before it takes full effect. This story has been updated to reflect additional developments.",
+        "date": "2020-01-31 16:50:02.569309",
+        "title": "Trump highlights trade win amid impeachment",
+        "url": "https://www.cnn.com/2020/01/29/politics/donald-trump-usmca-trade-deal/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.15308132343846625,
+        "subjectivity": 0.4521645021645022
+    },
+    "signature": {
+        "Agreement": 0.0263494039592361,
+        "Trade": 0.022585203393630945,
+        "Trump": 0.041406206221656736,
+        "agreement": 0.0263494039592361,
+        "trade": 0.022585203393630945
+    },
+    "tone": [
+        {
+            "score": 0.574718,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.671686,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

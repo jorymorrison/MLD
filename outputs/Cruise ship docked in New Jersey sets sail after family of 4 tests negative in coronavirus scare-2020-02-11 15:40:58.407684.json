@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "(CNN) A cruise ship finally set sail Monday from Bayonne, New Jersey, after a coronavirus scare had kept it docked -- and its passengers waiting -- for days.      The ship was supposed to leave for a Caribbean voyage Saturday night, but was delayed after passengers still aboard the ship from a previous became ill when it returned Friday.      The Anthem of the Seas, a Royal Caribbean cruise ship, left port at 3 p.m. Monday, and headed for Bermuda, according to a revised itinerary from the cruise line      The four passengers evaluated for coronavirus all tested negative and were discharged from the hospital, according to a statement from New Jersey Governor Phil Murphy.      Royal Caribbean offered Anthem of the Seas guests half off the price of a future cruise.      The World Health Organization and the United States have declared the outbreak of the virus with an epicenter in Hubei Province, China a public health emergency.      New Jersey has no confirmed cases of the virus, Murphy said, and the risk to residents remains low.      The Anthem of the Seas returned from a trip to the Caribbean Friday and docked in Bayonne, New Jersey.      The Centers for Disease Control began assessing passengers after two members of a family of four became ill on the ship, a CDC official said.      The family had a history of travel to mainland China, but not to Hubei Province.      Twenty-three passengers on the returning voyage who recently traveled to China were evaluated and cleared at the port, but the four family members were sent to an area hospital and tested for novel coronavirus.      They all tested negative, Murphy said. The CDC allowed the family to be discharged from the hospital.      Travelers aboard the Anthem of the Seas were among thousands of other cruise ship passengers affected by attempts to contain the virus that now has more than 40,000 confirmed cases worldwide.      More than 7,300 people are quarantined on two cruise ships docked in Hong Kong and Japan over concerns they were inadvertently exposed to the coronavirus by infected passengers.      At least 135 people from all over the world have tested positive for coronavirus on the cruise ship docked in Japan.",
+        "date": "2020-02-11 15:40:58.407684",
+        "title": "Cruise ship docked in New Jersey sets sail after family of 4 tests negative in coronavirus scare",
+        "url": "https://www.cnn.com/2020/02/10/us/coronavirus-cruise-ship-set-sail-new-jersey/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.016765480895915685,
+        "subjectivity": 0.47885375494071136
+    },
+    "signature": {
+        "A": 0.025030314853553576,
+        "coronavirus": 0.024885548183722985,
+        "cruise": 0.03483976745721218,
+        "passengers": 0.03483976745721218,
+        "ship": 0.03483976745721218
+    },
+    "tone": [
+        {
+            "score": 0.543854,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.575274,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.590986,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

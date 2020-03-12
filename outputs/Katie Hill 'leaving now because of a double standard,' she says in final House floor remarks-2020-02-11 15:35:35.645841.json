@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "Washington (CNN) Democratic Rep. Katie Hill of California, who announced her plans to resign from her congressional seat earlier this week, gave her final speech on the floor of the House of Representatives on Thursday, where she apologized to her supporters but said the forces that led her to leave Congress are larger than she is.      'I will never shirk my responsibility for this sudden ending to my time here,' Hill said, 'but I have to say more because this is bigger than me.'      She went on to say, 'I am leaving now because of a double standard. I am leaving because I no longer want to be used as a bargaining chip. I am leaving because I didn't want to be peddled by papers and blogs and websites, used by shameless operatives for the dirtiest gutter politics that I've ever seen.'      Earlier this month, a conservative blog released intimate photos of Hill alleging she and her husband had a separate relationship with an unnamed female campaign staffer. That report included three photos of the congresswoman, including an explicit photo.      'I am leaving because of a misogynistic culture that gleefully consumed my naked pictures,' Hill said Thursday, additionally calling out President Donald Trump for his treatment of women with no apparent consequence for his alleged actions.      'The forces of revenge by a bitter jealous man, cyber exploitation and sexual shaming that target our gender and a large segment of society that fears and hates powerful women have combined to push a young woman out of power and say that she doesn't belong here,' Hill said.      She continued, 'yet a man who brags about his sexual predation, who has had dozens of women come forward to accuse him of sexual assault, who pushes policies that are uniquely harmful to women and who fills the courts with judges who proudly rule to deprive women of the most fundamental right to control of their own bodies, sits in the highest office of the land.'      He apologized and dismissed his remarks on the 'Access Hollywood' video as nothing more than 'locker room' talk. Trump also vehemently denied all of the women's allegations made against him.      'Today as my final act, I voted to move forward with the impeachment of Donald Trump on behalf of the women of the United States of America,' Hill said.      An apology to her supporters      As she's done in her previous statements, Hill also acknowledged 'the mistakes I made' and said the coverage of the photos pushed her 'to the darkest places a mind can go and I've shed more tears that I thought were possible.'      ''I've hidden from the world because I'm terrified of facing the people that I let down, but I made it through because the people who love me most dragged me back into the light,' Hill said.      Hill said she came to Washington to 'give a voice to the unheard in the halls of power' and she apologized for where she fell short.      'I wanted to show young people, queer people, working people, imperfect people that they belong here because this is the people's House. I fell short of that and I'm sorry. To every young person who saw themselves and their dreams reflected in me, I'm sorry.'      She continued, 'To those who felt like I gave them hope in one of the darkest times in our nation's history, I'm sorry. To my family, my friends, my staff, my colleagues, my mentors, to everyone who has supported and believed in me, I'm sorry.'      Once a rising star in the Democratic Party, Hill announced she would be resigning from Congress amid an ethics probe into allegations that she engaged in an improper relationship with a congressional staffer. Relationships between members and their staff are barred under House rules. Hill has denied having a relationship with her congressional staffer and there is no evidence of that alleged relationship.      Hill has claimed that her husband of nine years -- Kenny Heslep, with whom she is currently in divorce proceedings -- worked with right-wing media to publish intimate photographs of her to humiliate her. CNN has reached out to Hill's husband for comment but has not heard back, and Hill has offered no evidence linking her husband to the distribution of the photos.      House Speaker Nancy Pelosi said Thursday that she's 'sad' Hill is leaving and praised her as an 'outstanding, young public servant.'      'Regardless of any errors in judgment that anyone may have made, it's shameful that she's been exposed to public humiliation by cyber exploitation,' Pelosi said Thursday in a news conference before Hill's remarks, adding, 'countless women across Americans have been subjected to this type of harassment and abuse, which is a profound violation of those women's rights.'      This story has been updated with additional developments Thursday.",
+        "date": "2020-02-11 15:35:35.645841",
+        "title": "Katie Hill 'leaving now because of a double standard,' she says in final House floor remarks",
+        "url": "https://www.cnn.com/2019/10/31/politics/katie-hill-final-speech-resignation/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.09900793650793648,
+        "subjectivity": 0.5442531179138321
+    },
+    "signature": {
+        "Hill": 0.035003847994687275,
+        "She": 0.021462511133931328,
+        "To": 0.037559394484379824,
+        "her": 0.02012110418806062,
+        "she": 0.021462511133931328
+    },
+    "tone": [
+        {
+            "score": 0.601398,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.606417,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

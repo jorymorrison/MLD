@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "'To this day I regret I couldn't come up with a way to get her the kind of hearing she deserved, given the courage she showed by reaching out to us,' Biden said at an event in New York.      Biden said the hearing Hill deserved 'was a hearing where she was respected, where the tone of the questioning was not hostile and insulting.' Instead, he said, 'she paid a terrible price -- she was abused through the hearing, she was taken advantage of, her reputation was attacked.'      The expression of regret comes as Biden is nearing a decision about a presidential run in 2020. He has long faced criticism for his handling of the hearings nearly three decades ago, and his involvement in them could undergo fresh scrutiny should he mount a presidential bid.      As the Senate Judiciary Committee chairman at that time, Biden presided over Thomas' confirmation hearings, where Hill alleged she had faced sexual harassment by Thomas.      'I wish I could've done something,' Biden said, noting he had voted against Thomas' nomination to the high court. Biden called Hill a 'brave lawyer' and a 'notable woman,' and said she had 'showed the courage of a lifetime talking about her experience being harassed by Clarence Thomas.' 'We knew a lot less about the extent of harassment back then, over 30 years ago,' Biden said. The former vice president said there was a 'real and perceived problem the committee faced: There were a bunch of white guys' on the Senate Judiciary Committee hearing Hill's testimony in 1991. He said that as a result, when Hill came to testify, 'she faced a committee that didn't fully understand what the hell it was all about.' 'A mistake we made early on, we thought that we should conduct a hearing of harassment for a Supreme Court justice, everybody thought we should conduct it like we'd hear it in a courtroom. Guess what? It's a job interview. No one's entitled to be on the Supreme Court,' Biden said. 'The presumption should be if the woman comes forward, she's likely telling the truth, as a presumption that the man is telling the truth. But it's an equal presumption.' Biden also discussed the confirmation hearings of Supreme Court Justice Brett Kavanaugh, who faced allegations he physically and sexually assaulted Professor Christine Blasey Ford at a party during their high school years. 'Nearly 30 years later, I publicly apologized to Anita because she didn't get the hearing she deserved, and the Senate Judiciary Committee has the power and obligation to set a standard for the nation. It should not be one of the most difficult places for a woman to lay out a story of abuse and harassment. And yet last fall you saw it all over again in the Kavanaugh hearing,' he said. 'In almost 30 years, the institutional culture has not changed. And that diminishes the likelihood that other women will come forward, knowing what they're going to face.' Biden has previously said he owes Hill, now a professor at Brandeis University, an apology, but it's unclear if he has spoken to Hill directly. 'He owes all of us an apology,' Hill told The Boston Globe last fall. 'He owes the country an apology because the affront was not just to me. It was really a disservice to every one of us -- not just on behalf of sexual harassment victims but also on behalf of those people who believe in the integrity of the court and that it should be protected by the Senate, whose role is to advise on judicial nominations.' During an interview with NBC last fall, Biden argued he has always understood the gravity of women coming forward with allegations of sexual harassment or assault. 'It seems like you get it now, versus in '91,' NBC's Craig Melvin said to Biden. 'Well, I think I got it in '91,' Biden responded, noting he had drafted the Violence Against Women Act. 'People have their own opinion.' Biden's comments Tuesday night came as the Biden Foundation and It's On Us, an Obama administration-era initiative aiming to end sexual assaults on college campuses, presented the Biden Courage Awards to students working to stop sexual assault.",
+        "date": "2020-02-11 15:28:04.300096",
+        "title": "Biden regrets that Anita Hill 'paid a terrible price': 'I wish I could have done something'",
+        "url": "https://www.cnn.com/2019/03/26/politics/biden-anita-hill-terrible-price-done-something/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.10848854397634886,
+        "subjectivity": 0.45615616091225836
+    },
+    "signature": {
+        "A": 0.025240653633835545,
+        "Biden": 0.040151472699788346,
+        "He": 0.016925399405250993,
+        "Hill": 0.020075736349894173,
+        "hearing": 0.020075736349894173
+    },
+    "tone": [
+        {
+            "score": 0.574284,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.612367,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

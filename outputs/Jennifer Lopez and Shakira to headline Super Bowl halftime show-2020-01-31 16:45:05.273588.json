@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "The singers on Thursday announced on social media that they will be headlining the Super Bowl LIV halftime show.      'It doesn't get any bigger than this! So excited about getting on that #SuperBowlLIV #PepsiHalftime stage!' Shakira wrote.      In a press release, Lopez added: 'Ever since I saw Diana Ross fly off into the sky at the Halftime Show, I dreamed of performing at the Super Bowl. And now it's made even more special not only because it's the NFL's 100th anniversary, but also because I am performing with a fellow Latina. I can't wait to show what us girls can do on the world's biggest stage.'      The Super Bowl will take place February 2, 2020 at Hard Rock Stadium in Miami Gardens, Florida.      Lopez, a Grammy-award winning singer, actress and producer, has sold over 75 million records and is currently generating award show buzz for her role in female-powered 'Hustlers.' Shakira, also a Grammy winner, has sold over 75 million records worldwide and wrapped up her El Dorado World Tour in November 2018. 'I'm so honored to be taking on one of the world's biggest stages in the company of a fellow female artist to represent Latinos and Latinas from the U.S. and all over the world -- and to top it off, on my birthday!' said Shakira, who will be turning 43 next February. 'This is a true American dream and we are going to bring the show of a lifetime!' The two artists are expected to be interviewed during halftime on NFL Thursday Night Football's game between the Philadelphia Eagles and the Green Bay Packers.",
+        "date": "2020-01-31 16:45:05.273588",
+        "title": "Jennifer Lopez and Shakira to headline Super Bowl halftime show",
+        "url": "https://www.cnn.com/2019/09/26/entertainment/jennifer-lopez-shakira-trnd/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.17345521541950118,
+        "subjectivity": 0.4950680272108845
+    },
+    "signature": {
+        "And": 0.022684816818325484,
+        "Bowl": 0.019546466937033328,
+        "Show": 0.03257744489505554,
+        "Super": 0.019546466937033328,
+        "show": 0.03257744489505554
+    },
+    "tone": [
+        {
+            "score": 0.762459,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        }
+    ]
+}

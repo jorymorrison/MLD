@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "The full menu consists of nine sandwiches. Three are on croissants, including two options with eggs (sausage, egg and Swiss cheese or a bacon, egg and Swiss cheese) and and a maple bacon chicken croissant.      Similar egg sandwiches will also be sold on biscuits and classic buns. The menu is rounded out with a honey butter chicken biscuit and the Breakfast Baconator.      For sides, it's adding fruit, seasoned potato wedges and sausage gravy. Wendy's is also rolling out a brand new blend of coffee next year.      Prices will vary depending on the region. Wendy's is optimistic that this entry into breakfast will be better received than last tried it several years ago. For starters, Wendy's worked closely with franchises this time around and created a menu that doesn't require new equipment. Franchises had to spend upwards of $10,000 on equipment the last time it offered breakfast. Breakfast was also previously only offered in parts of the United States, but now Wendy's is planning a full nationwide roll out with a major advertising campaign. Only three employees are needed to work the shift, which is one fewer employee than last time. Wendy's plans to hire about 20,000 US employees and spend $20 million on the initiative. The company said it has a 'big opportunity' to enter the space because it's one of the few growth markets for the industry, according to food industry group NDP. Late night is also growing, but not as fast. If all goes well, Wendy's forecast breakfast sales to encompass 10% of its daily sales. But it doesn't expect breakfast to be profitable until 2021. Analysts have been skeptical of Wendy's breakfast ambitions because of the costs. 'We are cautious on the prospects given the required upfront investment but uncertain payoff, additional labor needs at a time of already low availability, necessity to take market share from established competitors like McDonald's and general difficulty of daypart expansion in the industry,' BTIG analysts said in a note released in September. shares rallied nearly 6% in early Friday trading. The stock was partly bolstered by the breakfast announcement and revealing that sales at stores opened for more than a year rose 4.4% in the third quarter. shares rallied nearly 6% in early Friday trading. The stock was partly bolstered by the breakfast announcement and revealing that sales at stores opened for more than a year rose 4.4% in the third quarter. Its full earnings report will be released on November 6. The stock is up more than 35% for the year.",
+        "date": "2020-02-11 15:33:59.012864",
+        "title": "Wendy's unveils its full breakfast menu",
+        "url": "https://www.cnn.com/2019/10/11/business/wendys-stock-full-breakfast-menu/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.0903303872053872,
+        "subjectivity": 0.4215488215488215
+    },
+    "signature": {
+        "Breakfast": 0.03715630235726381,
+        "Wendy": 0.028899346277871853,
+        "breakfast": 0.03715630235726381,
+        "full": 0.012385434119087938,
+        "menu": 0.012385434119087938
+    },
+    "tone": [
+        {
+            "score": 0.580278,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.532157,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.591744,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

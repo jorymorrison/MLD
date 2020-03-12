@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "(CNN) Australia experienced its hottest average day across the country Tuesday, with the national temperature soaring as devastating wildfires continued to burn across New South Wales (NSW) state.      The average maximum temperature across the country on Tuesday was 40.9 degrees Celsius (105.6 Fahrenheit), according to the Australian Bureau of Meteorology -- beating the previous 2013 record of 40.3 Celsius (104.5 Fahrenheit).      That's just the average nationwide figure -- the heat has spiked even higher in some places, like the town of Ceduna in South Australia, which hit 45.5 degrees Celsius (nearly 114 Fahrenheit).      Burnt trees after a bushfire in the Blue Mountains, some 120 kilometres northwest of Sydney on December 18.      The heat wave comes as deadly bush fires continue to ravage NSW, exacerbated by the heat, wind, and the worst drought in decades. According to the state's Rural Fire Service , 100 active fires are still burning across the state, of which 54 are not yet contained. A total fire ban remains in place statewide until midnight on Saturday.      As records fall and blazes continue, Prime Minister Scott Morrison has been heavily criticized for taking a pre-Christmas holiday, believed to be in Hawaii.      Newspaper cartoonists depicted the leader lounging on a beach, while smoke from the Australian bush fires blighted his view.      The hashtag #WhereTheBloodyHellAreYou emerged online in response to the PM's absence. It was tweeted by the model Lara Worthington (previously Lara Bingle) who rose to fame in a 2006 Tourism Australia advertisement featuring the now-famous slogan: 'So where the bloody hell are you?'      Australia is heavily reliant on coal-fired power, and Morrison has repeatedly come under fire from activists for his government's climate policies.      'More country has been burned, more homes lost, three times more homes lost than our worst previous fire season in history and the fires are still burning,' said Greg Mullins, former NSW Fire and Rescue commissioner, on Tuesday.      'The driving force behind this is climate change,' he added. 'In our decades of service, we've seen Australia become drier, hotter and extreme weather conditions far more severe.'      The summit included almost 200 countries, and was supposed to agree the rules of the 2015 Paris climate accord. Australia in particular was accused of seeking loopholes by recycling old carbon credits, in order to meet their commitments under the accord.      Earlier this week, the city of Perth in Western Australia experienced three consecutive days above 40 Celsius (104 Fahrenheit) -- which had never before happened in December, according to CNN meteorologists.      The drought and the fires are the most urgent symptoms of Australia's climate crisis . Disasters like the fires and floods have devastated the livelihoods of farmers and wrought millions of dollars' worth of damage. As the heat and drought ramp up, water may be running out -- the city of Sydney, home to more than 5 million people, could see its dams run dry by 2022.",
+        "date": "2020-02-11 15:36:51.216630",
+        "title": "Australia swelters on its hottest day nationwide as wildfires rage",
+        "url": "https://www.cnn.com/2019/12/18/australia/australia-hottest-day-record-intl-hnk-scli/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.006175123326286138,
+        "subjectivity": 0.46715997181113456
+    },
+    "signature": {
+        "Australia": 0.029738746377229126,
+        "Celsius": 0.014869373188614563,
+        "Fire": 0.018586716485768203,
+        "fire": 0.018586716485768203,
+        "fires": 0.022304059782921843
+    },
+    "tone": [
+        {
+            "score": 0.576087,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.530436,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        },
+        {
+            "score": 0.644642,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "article": {
+        "body": "(CNN) The National Institutes of Health is working on a vaccine against the new virus that has infected hundreds and killed four in Asia.      'The NIH is in the process of taking the first steps towards the development of a vaccine,' said Dr. Anthony Fauc i, director of the National Institutes of Allergy and Infectious Diseases.      Fauci said it would take a few months until the first phase of the clinical trials get underway and more than a year until a vaccine might be available.      The virus, which was first reported at the end of December, has infected more than 200 people, according to a Chinese government-appointed expert. The bulk of the cases have been in China, but there have been four cases in Thailand, South Korea and Japan.      The virus originated in animals and can be spread from person to person. While most of the patients visited an animal and seafood market in Wuhan, a city about 700 miles south of Beijing, some did not.      A team of scientists in Texas, New York and China are also at work on a vaccine, according to Dr. Peter Hotez, a vaccine scientist at Baylor College of Medicine in Houston.      'The lesson we've learned is coronavirus infections are serious and one of the newest and biggest global health threats,' Hotez said.      He added that it's less challenging to develop a vaccine for coronaviruses than for other viruses such as HIV or influenza.      'Every virus has its challenges, but coronaviruses can be a relatively straightforward vaccine target,' Hotez said.      If a vaccine is developed, he said, health care workers might be among the first to receive it because they're exposed to infected patients.      It is 'remarkable' that scientists are able to start developing a vaccine for a virus that was identified less than a month ago, he said.      He credited Chinese researchers, who quickly sequenced and published the virus's genome.      'With SARS, it took almost a year to be able to identify and map the full genetic code,' he said. 'Now we're doing this in just a few weeks.'      Fauci emphasized there are still many questions about this new virus.      'This is an evolving situation, and it's tough to predict ultimately where it will go,' he said. 'But we have to take it very seriously.'      A few things are clear. One, the virus jumped from animals to humans, just like SARS did nearly two decades ago.      He added it's unclear whether just one type of animal is transmitting the virus to humans, or more than one type.      He also said while it's clear this new virus can be spread from person to person, it's unclear how easily that spread can happen.      'Is it a continual spread? Is it sustained? We're not quite sure yet,' he said.      Michael Osterholm, director of the Center for Infectious Disease Research and Policy at the University of Minnesota, agreed there are many questions.      'This is one of those inflection moments in outbreak history where we have enough information to be very concerned, but not enough information to say this is going to be an international crisis,' he said.",
+        "date": "2020-02-11 15:37:49.484560",
+        "title": "Vaccine for new Chinese coronavirus in the works",
+        "url": "https://www.cnn.com/2020/01/20/health/coronavirus-nih-vaccine-development/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.16396948205458842,
+        "subjectivity": 0.41220717816462504
+    },
+    "signature": {
+        "A": 0.026156497379620575,
+        "He": 0.0207285337484549,
+        "Is": 0.03380678243826519,
+        "vaccine": 0.03042610419443867,
+        "virus": 0.03380678243826519
+    },
+    "tone": [
+        {
+            "score": 0.546413,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.514796,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.560408,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+        },
+        {
+            "score": 0.523745,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

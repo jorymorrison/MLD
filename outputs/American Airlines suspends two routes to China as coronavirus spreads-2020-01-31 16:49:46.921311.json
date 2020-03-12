@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "American Airlines is the second US carrier to suspend some of its flights to China as the deadly coronavirus continues to spread and shrinks demand.      The airline is canceling two routes between February 9 and March 27 because of 'significant decline in demand.' The canceled flights include those between Los Angeles and Shanghai (PVG) and Los Angeles and Bejing (PEK).      Passengers on the affected flights will be notified by the airline for rebooking options.      announced Tuesday is was suspending some flights between three Chinese cities and its US hubs. The announced Tuesday is was suspending some flights between three Chinese cities and its US hubs. The airline said in a statement that the cancellations are because of a 'significant decline in demand.' Some United flights between February 1 and February 8 have been canceled.      In total, United canceled 24 round trip routes. They are between Hong Kong to San Francisco and Newark; Beijing (PEK) to Washington Dulles, Chicago O'Hare and Newark; and Shanghai (PVG) to San Francisco, Newark and Chicago O'Hare. , Air Asia, Air India and Finland's Finnair have all suspended some flights between China and their respective countries. Global airlines are also adjusting their schedules . British Airways,, Air Asia, Air India and Finland's Finnair have all suspended some flights between China and their respective countries. Qatar Airways and Malaysia Airlines have not suspended flights, but passengers and crew traveling from China will be subjected to additional screening at airports. , Virgin Atlantic, Lufthansa, , and Austrian Airlines said they are monitoring developments but continue to fly to China. , Virgin Atlantic, Lufthansa,, and Austrian Airlines said they are monitoring developments but continue to fly to China. As of Wednesday, there were 6,061 confirmed cases of the virus in mainland China, including 132 deaths, according to Chinese officials. The number of cases grew by around 1,500 from Tuesday, a more than 30% increase. The figures do not include Hong Kong and Macau, both of which have reported a small number of cases. There have also been at least 91 cases of the virus reported outside mainland China.",
+        "date": "2020-01-31 16:49:46.921311",
+        "title": "American Airlines suspends two routes to China as coronavirus spreads",
+        "url": "https://www.cnn.com/2020/01/29/business/american-airlines-suspends-china-flights-coronavirus/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.10952380952380954,
+        "subjectivity": 0.3642857142857143
+    },
+    "signature": {
+        "Airlines": 0.025892477879018133,
+        "China": 0.041427964606429016,
+        "Some": 0.03107097345482176,
+        "airlines": 0.025892477879018133,
+        "flights": 0.028576620225471066
+    },
+    "tone": [
+        {
+            "score": 0.546295,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.557764,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

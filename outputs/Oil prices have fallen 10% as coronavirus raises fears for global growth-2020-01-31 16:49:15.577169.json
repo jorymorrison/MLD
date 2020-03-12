@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Brent crude futures traded around 3% lower on Monday at $58.88 a barrel, their lowest level since October. US crude futures were down roughly 3%.      The price of Brent, the global benchmark, has tumbled by about 10% since January 17, when Chinese authorities confirmed the death of a second person infected with the virus. It has spread rapidly since then, leading the Chinese government to impose restrictions on transportation. Full, or partial lockdowns, are in effect in 15 Chinese cities, covering 60 million people.      The death toll now stands at 80, with nearly 3,000 confirmed cases in mainland China and more than 50 in other places including the United States.      'As the human cost continues to rise, investors have become increasingly concerned about the potential economic consequences of the disease,' analysts at Rabobank said in a research note.      'Prices of copper, iron ore and oil have slumped as investors anticipate supply chain disruptions across several industries and a broad slowdown in economic activity,' they added. , the world's second biggest, which had already slumped to its slowest pace of growth in nearly three decades in 2019. The virus could further weaken the Chinese economy , the world's second biggest, which had already slumped to its slowest pace of growth in nearly three decades in 2019. Ratings agency S&P Global said last week that China's economic growth could contract by as much as 1.2 percentage points this year if spending on services such as transport and entertainment fall by 10%. There are big implications for energy markets. China is the world's second-largest consumer of oil, according to the International Energy Agency, and reduced economic activity means less demand. Stephen Innes, chief market strategist at AxiCorp, said in a research note that travel restrictions would crimp demand for products made from crude oil, such as jet fuel. Other economies are unlikely to pick up the slack. The International Monetary Fund last week downgraded its growth forecast for the global economy in 2020 to a tepid 3.3%. The coronavirus outbreak comes at a particularly bad time for oil prices, which were already under pressure from a global supply glut. 'The virus is fueling fears of cooling of oil demand, which would mean that the global oil market would be oversupplied to an even greater extent,' analysts at Commerzbank said in a research note. How the coronavirus is already hurting global business Saudi Arabia's energy minister, Prince Abdulaziz bin Salman, tried to calm investor nerves, telling Reuters that the virus will have a 'very limited impact on global oil demand.' He said that OPEC, of which Saudi Arabia is the biggest producer, is ready to act to ensure the stability of the market, an indication that further production cuts could be on the cards. In December, OPEC and allied producers, including Russia, agreed to deepen production cuts in an attempt to prop up prices. In a sign of how bearish the oil market is, Innes said that 'traders hardly blinked' at news over the weekend of a rocket attack on the US embassy in Baghdad, Iraq. Shares in state oil giant Saudi Aramco were trading slightly weaker on Monday, taking the stock's losses so far this year to about 3%.",
+        "date": "2020-01-31 16:49:15.577169",
+        "title": "Oil prices have fallen 10% as coronavirus raises fears for global growth",
+        "url": "https://www.cnn.com/2020/01/27/business/oil-prices-coronavirus/index.html"
+    },
+    "sentiment": {
+        "polarity": -0.013956147430723697,
+        "subjectivity": 0.3423661555017487
+    },
+    "signature": {
+        "Chinese": 0.013247759476732384,
+        "Global": 0.023183579084281675,
+        "In": 0.013490521157018407,
+        "global": 0.014214946433783307,
+        "oil": 0.02980745882264786
+    },
+    "tone": [
+        {
+            "score": 0.585574,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+        },
+        {
+            "score": 0.803417,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        },
+        {
+            "score": 0.706892,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

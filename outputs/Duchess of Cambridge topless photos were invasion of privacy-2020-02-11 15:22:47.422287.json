@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "The court in Nanterre, in the western suburbs of Paris, awarded 100,000 euros in damages to the duchess and her husband, Prince William. It also slapped both the editor of Closer magazine and the chief executive of the publishing group that owns it with the maximum fine possible under French law (45,000 euros or about $53,500).      The couple had asked for 1.5 million euros (nearly $1.8 million) in damages after the magazine and regional newspaper La Provence published grainy photos that showed the duchess sunbathing topless while on holiday in the south of France.      The photos were taken with long lenses as the duke and duchess stayed at a private chateau owned by Viscount Linley, a nephew of Queen Elizabeth.      Paul-Albert Inweis, the main lawyer for Closer, called the fines 'somewhat exaggerated' after the ruling.",
+        "date": "2020-02-11 15:22:47.422287",
+        "title": "Duchess of Cambridge topless photos were invasion of privacy",
+        "url": "https://www.cnn.com/2017/09/05/europe/uk-royals-photo-controversy/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.014814814814814824,
+        "subjectivity": 0.4453703703703703
+    },
+    "signature": {
+        "Closer": 0.02654458472930452,
+        "damages": 0.02654458472930452,
+        "duchess": 0.03981687709395678,
+        "euros": 0.03981687709395678,
+        "magazine": 0.02654458472930452
+    },
+    "tone": [
+        {
+            "score": 0.658666,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "The commission, tasked with regulating privately owned public utilities in the state, claims Pacific Gas & Electric Co. violated California law by failing to locate and mark their natural gas pipelines in a timely manner.      The commission's safety and enforcement division found PG&E pressured supervisors and other workers to falsify data so that the locating and marking work would not appear as late. The investigation also found the company did not have enough employees to regularly locate and mark natural gas pipelines.      'Excavators, including construction crews, rely on PG&E to inform them exactly where PG&E underground natural gas infrastructure is located,' CPUC stated. 'If PG&E fails to meet its legally imposed responsibilities to locate and mark the required deadline of the excavating contractor's request, a contractor may simply commence digging despite the danger.'      And while there may not always be immediate consequences to hitting a pipe, damage can sometimes take years to manifest itself, the report said.      'Utility falsification of safety-related records is a serious violation of law and diminishes our trust in the utility's reports on their progress,' CPUC President Michael Picker said in a statement. 'These findings are another example of why we are investigating.' Friday, the CPUC launched a proceeding, similar to a court case, to consider penalties the utility company may have to face for the false records and safety violations that began in 2012, two years after a company pipeline exploded, killing eight people and damaging dozens of homes in San Bruno, California. At the time, the utility company said it was working to improve the safety of its pipeline operations. The lessons of the San Bruno tragedy will not be forgotten. We have more to do and we are committed to doing it right http://t.co/DftilZEQTo \u2014 PG&E (@PGE4Me) April 9, 2015 Following the explosion, PG&E was placed on probation and fined $1.6 billion by the commission for unsafe operation of its gas transmission system. Last year, the company was sentenced to another five years of probation and fined $3 million. In a statement, PG&E said it agreed with the findings in the new investigation and will be working with the commission. 'We're committed to accurate and thorough reporting and record-keeping, and we didn't live up to that commitment in this case,' PG&E spokesman Matt Nauman said. 'Once that became apparent, we took and continue to take additional actions to meet the regulatory standards related to our locate and mark record-keeping.' Those actions, Nauman said, include updating the company's ticket tracking system, reviewing audit protocol, hiring more employees and training them better. 'We are aware of and cooperating with the CPUC's investigation,' Nauman said. 'We are fully committed to keeping our customers, communities and coworkers safe every single day.' PG&E has more than 20,000 employees and delivers natural gas and electric power to 16 million California residents. Earlier this year, a federal judge asked the company to detail any role it may have played in causing the Camp Fire, which killed more than 80 people. Company employees reported power outages and flaming poles near the starting location of the fire. Thursday, the utility company submitted a revenue increase proposal to the CPUC which would, among other things , fund wildfire precaution measures.",
+        "date": "2020-02-11 15:26:16.753444",
+        "title": "California commission finds PG&E falsified records for years",
+        "url": "https://www.cnn.com/2018/12/15/us/pge-falsifying-records/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.08299156983367509,
+        "subjectivity": 0.3749195979459137
+    },
+    "signature": {
+        "And": 0.031392535351446794,
+        "Company": 0.029213469606979157,
+        "E": 0.029213469606979157,
+        "Gas": 0.019475646404652772,
+        "PG": 0.029213469606979157
+    },
+    "tone": [
+        {
+            "score": 0.755226,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

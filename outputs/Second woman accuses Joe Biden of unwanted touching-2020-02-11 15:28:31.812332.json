@@ -1,0 +1,26 @@
+{
+    "article": {
+        "body": "(CNN) A second woman has come forward in an interview with a Connecticut newspaper to allege that former Vice President Joe Biden touched her inappropriately.      Amy Lappos told the Hartford Courant on Monday that Biden pulled her in to rub noses with her at a 2009 fundraiser in Greenwich, Connecticut. Biden was vice president at the time.      'It wasn't sexual, but he did grab me by the head,' Lappos, who was then an aide to US Rep. Jim Himes, told The Courant. 'He put his hand around my neck and pulled me in to rub noses with me. When he was pulling me in, I thought he was going to kiss me on the mouth.'      Lappos added her voice to that of Lucy Flores, a former Democratic politician in Nevada, in saying is she felt Biden touched her in an inappropriate manner. Flores said on Friday that Biden made her feel 'uneasy, gross, and confused' in 2014 when, at a campaign rally, she said he kissed her on the back of the head.      Biden now faces those two accusations as he considers a bid for president in 2020. He is expected to announce his decision as soon as this month.      A source familiar with Biden's thinking told CNN the allegations against the former vice president won't dissuade him from running in 2020, but notes the final decision has not been made.      'In my many years on the campaign trail and in public life, I have offered countless handshakes, hugs, expressions of affection, support and comfort,' Biden said in a statement. 'And not once -- never -- did I believe I acted inappropriately. If it is suggested I did so, I will listen respectfully. But it was never my intention.'      Lappos later said in a statement that she decided to speak out due to her disappointment over Biden's response to Flores' accusation.      'Referring to this type of behavior as 'simply affection' or 'grandpa-like' or 'friendly' is ridiculously dismissive and part of the problem. Saying 'but Trump ...' is dangerous and sets the bar for Democratic men far below where it should be,' Lappos said.      She added she thinks all the men who have thrown their hat in the ring to be the Democratic nominee for president ought to step aside in favor of the female candidates in the race.      'If Biden truly supports women and gender equality he would step aside and support one of the many talented and qualified women running,' Lappos said. 'The same goes for the other men who have thrown their hat in the ring. Women are 52% of the population. We are not a minority, we are the majority. It is time we are represented as such. After 45 male presidents it is time we elect a woman.'      In her interview with the Courant, Lappos said she didn't file a complaint because he was the vice president.      'There's absolutely a line of decency. There's a line of respect. Crossing that line is not grandfatherly. It's not cultural. It's not affection. It's sexism or misogyny,' she said.      A longtime Biden ally told CNN's Jeff Zeleny on Sunday there were no signs the former vice president was reassessing his 2020 plans in the wake of the allegations, but cautioned Biden had still not made a final decision.      After Flores went public, some of Biden's potential 2020 competitors addressed the allegations, with many of them expressing that they believed Flores.      'I think what this speaks to is the need to fundamentally change the culture of this country and to create environments where women feel comfortable and feel safe and that's something we have got to do,' Sen. Bernie Sanders said Sunday on CBS' 'Face the Nation.'      Also over the weekend, former Biden staffers came to his defense in response to Flores' essay.      Kendra Barkoff Lamy, who worked for the former vice president, tweeted, 'As a former staffer for @JoeBiden and also someone who works on women's issues, I can say unequivocally that I was never uncomfortable with how he treated me or other women. He dedicated his career to women's empowerment, safety & equality. That's one reason why I worked for him.'      Late Monday night, Meghan McCain -- the co-host of 'The View' and the daughter of the late Republican Sen. John McCain of Arizona, who was close with Biden -- also defended the former Delaware senator.      'Joe Biden is one of the truly decent and compassionate men in all of American politics,' the conservative commentator and co-host of ABC's 'The View' said. 'He has helped me through my fathers diagnosis, treatment and ultimate passing more than anyone of my fathers friends combined. I wish there was more empathy from our politicians not less.'",
+        "date": "2020-02-11 15:28:31.812332",
+        "title": "Second woman accuses Joe Biden of unwanted touching",
+        "url": "https://www.cnn.com/2019/04/01/politics/biden-second-accusation/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.07439393939393937,
+        "subjectivity": 0.4304329004329005
+    },
+    "signature": {
+        "Biden": 0.036015265713126736,
+        "Lappos": 0.015756678749492947,
+        "President": 0.018007632856563368,
+        "Women": 0.015756678749492947,
+        "former": 0.018007632856563368
+    },
+    "tone": [
+        {
+            "score": 0.553378,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

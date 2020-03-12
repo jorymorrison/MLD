@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "'Their royal Highnesses The Duke and Duchess of Cambridge are very pleased to announce that The Duchess of Cambridge is expecting their third child,' the palace statement read.      'The Queen and members of both families are delighted with the news,' it added.      The illness has forced Kate, 35, to cancel a planned engagement at the Hornsey Road Children's Centre in London, which had been due to take place on Monday morning. She is being cared for at Kensington Palace, the statement said.",
+        "date": "2020-02-11 15:22:39.293015",
+        "title": "Britain's Duchess of Cambridge pregnant with third child",
+        "url": "https://www.cnn.com/2017/09/04/europe/royal-baby/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.185,
+        "subjectivity": 0.45499999999999996
+    },
+    "signature": {
+        "Cambridge": 0.04317492696935073,
+        "Duchess": 0.04317492696935073,
+        "Palace": 0.04317492696935073,
+        "palace": 0.04317492696935073,
+        "statement": 0.04317492696935073
+    },
+    "tone": [
+        {
+            "score": 0.652364,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+        },
+        {
+            "score": 0.728066,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

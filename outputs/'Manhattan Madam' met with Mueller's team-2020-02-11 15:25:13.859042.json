@@ -1,0 +1,36 @@
+{
+    "article": {
+        "body": "Investigators appear to be interested in her ties to longtime Donald Trump adviser Roger Stone, whom she has known for a decade. Sources said investigators expressed interest in having Davis testify before a grand jury -- the latest indication that prosecutors are still aiming to build a case against Stone.      A lawyer for Davis declined to comment. A spokesperson for the special counsel also declined to comment.      Prior to publication of this story, Stone and his lawyer declined to comment. After publication, Stone told CNN in a statement, 'Kristin Davis is a long time friend and associate of mine. I am the Godfather to her 2 year-old son. She knows nothing about Russian Collusion, WikiLeaks collaboration or any other impropriety related to the 2016 election which I thought was the subject of this probe. I understand she appeared voluntarily. I am highly confident she will testify truthfully if called upon to do so.'      Davis worked with Stone on and off over the years and the two have a close personal relationship.      Davis once ran a high-end prostitution ring and went to jail as part of the scandal surrounding then-Democratic New York Gov. Eliot Spitzer. Davis was not involved in the specific prostitution service Spitzer used that led to his resignation in 2008. Stone acted as Davis' campaign strategist in 2010 when she ran for New York governor on a platform that included legalizing marijuana and prostitution. Andrew Miller, another former Stone associate who has been subpoenaed to appear before the Mueller grand jury, served as Davis' campaign manager in her unsuccessful bid. In late 2016, Davis joined Stone's payroll to assist in email blasts, media bookings and other clerical matters, according to a source familiar with the situation. Trump and his administration clash over Russia It's not clear what the focus of Davis' voluntary interview was or how she may fit into the broader Mueller investigation about Russian interference in the 2016 election and potential collusion between Trump associates and Russians. Mueller's team has been looking into possible contact between Stone and WikiLeaks founder Julian Assange during the 2016 campaign, as well as Stone's finances Prosecutors appear to be delving into Stone's personal life as well. At least two witnesses were asked whether Stone was the father of Davis' son, according to people familiar with the questioning. The questions appear to have irked Stone, at least on Instagram. of Davis and her child with the caption, 'Why do FBI agents dispatched by Robert Mueller keep asking a number of my current and former associates if I am this baby's father ? What does this have to do with Russian Collusion and the 2016 election #witchhunt #thugtactic#mueller #gestapo #partisan.' of Davis and her child with the caption, 'Why do FBI agents dispatched by Robert Mueller keep asking a number of my current and former associates if I am this baby's father ? What does this have to do with Russian Collusion and the 2016 election #witchhunt #thugtactic#mueller #gestapo #partisan.' He posted a photo earlier this week of Davis and her child with the caption, 'Why do FBI agents dispatched by Robert Mueller keep asking a number of my current and former associates if I am this baby's father ? What does this have to do with Russian Collusion and the 2016 election #witchhunt #thugtactic#mueller #gestapo #partisan.'",
+        "date": "2020-02-11 15:25:13.859042",
+        "title": "'Manhattan Madam' met with Mueller's team",
+        "url": "https://www.cnn.com/2018/08/03/politics/mueller-davis-stone-russia-investigation/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.07349276739520642,
+        "subjectivity": 0.3830614507443776
+    },
+    "signature": {
+        "A": 0.018500369587898895,
+        "Davis": 0.044634577525254036,
+        "Mueller": 0.028693656980520454,
+        "Stone": 0.04144639341630732,
+        "mueller": 0.028693656980520454
+    },
+    "tone": [
+        {
+            "score": 0.506467,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.527743,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+        },
+        {
+            "score": 0.679694,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

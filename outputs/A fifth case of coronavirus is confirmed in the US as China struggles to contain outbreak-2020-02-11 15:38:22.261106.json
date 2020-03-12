@@ -1,0 +1,31 @@
+{
+    "article": {
+        "body": "(CNN) Another case of coronavirus has been confirmed, in Arizona, the Centers for Disease Control and Prevention said on Sunday, bringing the total to five cases in the United States.      The increase came as a top Chinese health official delivered some worrisome news about efforts to contain the fast-moving virus.      Several people have been infected with the Wuhan coronavirus in the US -- including a man in his 30s in Washington state; a Chicago woman in her 60s; a man in his 50s in Orange County, California, a patient in Los Angeles County; and a fifth in Arizona. All had recently traveled to Wuhan, the epicenter of the outbreak.      'As with other respiratory illnesses, there are steps that everyone can take to reduce the risk of getting sick from circulating viruses, including coronavirus. This includes remaining home when ill, washing hands with soap and water frequently, and getting vaccinated against flu,' said Los Angeles County Department of Public Health Director Barbara Ferrer.      The Orange County victim is in isolation and in 'good condition' at a local hospital, the county's Health Care Agency said in a statement. The Los Angeles County patient was being treated at a hospital as well, officials said.      State and federal officials are following up with anyone who may have had close contact with the person and is at risk of infection.      News of the latest American case comes as Chinese Health Minister Ma Xiaowei delivered the revelation that people can spread the virus before they have symptoms -- which a veteran US health adviser called a 'game changer' -- but not in a good way.      It calls into question current US practices to contain the virus, longtime CDC adviser Dr. William Schaffner said.      'When I heard this, I thought, 'Oh dear, this is worse than we anticipated.' It means the infection is much more contagious than we originally thought,' said Schaffner, an infectious disease expert at Vanderbilt University Medical Center.      If Ma is correct -- and information about the virus is constantly evolving -- people can go two weeks without realizing they're sick, during which time they can spread the virus.      Dr. Nancy Messonnier, director of the CDC's National Center for Immunization and Respiratory Diseases, questioned Ma's statement.      'We at CDC don't have clear evidence that patients are infectious before symptom onset,' Messonnier said, 'but we are actively investigating that possibility.'      The risk for the American public contracting the virus continues to be low, Messonnier said. 'We need to be preparing as if this is a pandemic,' she said, 'but I continue to hope that it is not.'      At least 56 dead in China      The CDC said it's taking aggressive measures to stop the spread of the virus in the United States, but while it considers it a serious public health threat, the immediate risk to Americans is low.      The stateside cases prompted Sen. Chuck Schumer to urge the US Department of Health and Human Services to declare an emergency to free up $85 million for the CDC.      The money is already appropriated and sitting in the Infectious Disease Rapid Response Reserve Fund, he said, and the CDC will have full discretion to use the money for epidemiological endeavors, screening, public awareness, staffing and educating local and state officials.      'We want to make sure (the CDC) can sustain this pace and have all the dollars they need should the outbreak get worse,' the senator said. 'Use the key now and unlock the money.'      Authorities have imposed indefinite restrictions on public transport and travel, with motor vehicles banned in Wuhan's city center starting Sunday to control the flow of people. Only vehicles with special permits, free shuttles and government vehicles will be allowed to move around.      Amid the lockdown, countries like the US and France have been trying to evacuate their citizens from the central Chinese city. Outside of China, more than 40 confirmed cases have been identified in about a dozen countries.      Coronaviruses are transmitted by animals and people, and the Wuhan strain has been linked to a market in the city that was selling seafood and live animals, including wild species. The Chinese government announced that it's banning all sales of wild animals      Beijing will deploy an additional 1,600 medical professionals to Wuhan to help the city cope with the growing number of coronavirus patients, health officials said.      Correction: This story has been updated to correctly attribute a quote to Dr. Allison Arwady.",
+        "date": "2020-02-11 15:38:22.261106",
+        "title": "A fifth case of coronavirus is confirmed in the US as China struggles to contain outbreak",
+        "url": "https://www.cnn.com/2020/01/26/us/coronavirus-orange-county/index.html"
+    },
+    "sentiment": {
+        "polarity": 0.03942606872294372,
+        "subjectivity": 0.37994171626984136
+    },
+    "signature": {
+        "CDC": 0.016926202813220492,
+        "Health": 0.019344231786537703,
+        "county": 0.01450817383990328,
+        "health": 0.019344231786537703,
+        "virus": 0.016926202813220492
+    },
+    "tone": [
+        {
+            "score": 0.521549,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+        },
+        {
+            "score": 0.559766,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+        }
+    ]
+}

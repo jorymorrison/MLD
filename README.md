@@ -108,3 +108,43 @@ For in depth documentation on the IBM Watson Tonal Analyzer go to: https://conso
 Lexical signature is represented by the top 5 words in a document according to Term Frequency / Inverse Document Frequency (TF-IDF). 
 For in depth documentation of how TF-IDF is calculated go to: https://http//www.tfidf.com
 Output is formatted in key-value pairs of a word and its TF-IDF score.
+
+# Analyzing:
+to analyze the current collection of json files in the output folder use the command
+```
+python3 analyze.py
+```
+this will output into a new json in the main folder
+### Output json:
+
+```
+[
+    {
+        "comparison": [
+            <file one>,
+            <file two>
+        ],
+        "results": [
+            <chi square value>,
+            <p-value>
+        ]
+    },
+    {
+        "comparison": [
+            <file one>,
+            <file two>
+        ],
+        "results": [
+            <chi square value>,
+            <p-value>
+        ]
+    },
+    ...
+]
+```
+
+#Research: 
+###Purpose:
+This project is bieng used to conduct research using basic tone analysis techniques (lexical signature, tone, and sentiment) to find a detectable difference between two source. 
+###Methods:
+This project will crawl a site to gather a collection of pages then parse those pages for their body text and break them into core literary components of tone, lexical signature (frequency of specific words usage) , and sentiment. This information will then be compared to other sites for observing similarities between between sites to see if there is a noticable difference between sites.
